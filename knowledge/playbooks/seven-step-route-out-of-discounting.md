@@ -53,7 +53,7 @@ This playbook defines an ordered process for seven-step route out of discounting
 
 ## Inputs and preconditions
 
-Explicit: being in the 'Toilet of discounting' state (a self-reinforcing discount spiral, Framework, 01:15:28-01:20:21).
+Explicit: being in a self-reinforcing discount-spiral state (Framework, 01:15:28-01:20:21).
 
 ## Ordered steps
 

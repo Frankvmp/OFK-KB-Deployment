@@ -199,7 +199,7 @@ This ordered process is embedded here because it is self-contained within the or
    **Step type:** Constraint check — ~10% of revenue is the stated default, an override rather than a free choice.
 2. **Stage two: split into long/short buckets -- Binet & Field.** let's take that 10% and let's split it into long and short buckets... So 6% of the 10% goes into long and 4% goes into short-term. [^triple-cooked-budgeting-2]
    **Step type:** Constraint check — the 60/40 split is a stated default, not a universal rule (see Budget balance above).
-3. **Stage three: measure each bucket differently -- 'Ritson Deep Fat Fryer'.** For the 6%... use brand tracking... for the short investments, absolutely use ROI metrics. [^triple-cooked-budgeting-3]
+3. **Stage three: measure each bucket differently -- 'Deep Fat Fryer'.** For the 6%... use brand tracking... for the short investments, absolutely use ROI metrics. [^triple-cooked-budgeting-3]
    **Step type:** Constraint check — each bucket must use its own matching measure, not one measure for both.
    **Invokes:** [Brand tracking](brand-tracking.md) (Framework).
 

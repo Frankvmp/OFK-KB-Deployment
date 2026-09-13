@@ -83,7 +83,7 @@ you must remove, destroy, take out the barriers that are in between you and your
 
 ## Boundaries and failure modes
 
-Note on provenance: the separately-tagged 'Verify instincts with the marketplace' item overlapping this range is very likely a Steve Jobs archival-interview quote (traced by content, transcript has no speaker labels), not a Ritson-authored course step -- excluded from this playbook rather than included as a step.
+Note on provenance: the separately-tagged 'Verify instincts with the marketplace' item overlapping this range is very likely a Steve Jobs archival-interview quote (traced by content, transcript has no speaker labels), not a course-authored step -- excluded from this playbook rather than included as a step.
 
 - Preserve the registered order, including nested sequences.
 - Do not convert this process into a set of interchangeable steps.

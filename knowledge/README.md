@@ -1,6 +1,6 @@
 ---
 title: "Knowledge"
-description: "The verified marketing knowledge base — Principles, Frameworks, Playbooks, and Schemas, drafted bottom-up from the Ritson transcripts."
+description: "The verified marketing knowledge base — Principles, Frameworks, Playbooks, and Schemas, drafted bottom-up from the source course transcripts."
 type: Process Plan
 status: stable
 tags:
@@ -23,6 +23,8 @@ Each subfolder has an OKF folder template under `.ok/templates/` baking in the a
 
 ## Changes
 
+- 2026-09-13: removed the course instructor's personal name from every file in this folder (five mentions, four files) -- coined terms and other researchers' own attributions (e.g. "Kite Boil", "Binet & Field") were left untouched. Full reasoning: [project-context/structural-decisions.md](../project-context/structural-decisions.md).
+- 2026-09-13: added [Marketing Plan Structure](schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md), the first Schema built as an assembly of already-cited concepts rather than extracted from a new transcript passage — design record: [project-context/marketing-plan-artifact-design.md](../project-context/marketing-plan-artifact-design.md). Also added the missing `schemas/README.md`, a pre-existing gap.
 - 2026-09-04: tagged all 138 knowledge-base files with exactly one stage (`diagnosis`, `strategy`, `tactics`, or `cross-cutting`) and one or more subject areas. The closed vocabulary is `market-orientation`, `research`, `segmentation`, `targeting`, `positioning`, `brand`, `objectives`, `funnel`, `product`, `pricing`, `communications`, `distribution`, `touchpoints`, `profitability`, `customer-understanding`, and `competition`; folder README files additionally use `knowledge-base`. Coverage: 44 diagnosis, 34 strategy, 43 tactics, and 17 cross-cutting. No file required an exception.
 
 - 2026-09-03: added seven stable Module 10 Principles and their substantive bidirectional Framework/Playbook relationships.
