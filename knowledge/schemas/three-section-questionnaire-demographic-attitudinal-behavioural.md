@@ -27,7 +27,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this when designing or structuring the results of a quantitative survey — it's the shape any such questionnaire in this course takes, invoked from [Three-Section Questionnaire Build Order](../playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md) and the [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md).
+*(Process framing — not a sourced claim; no footnote.)* Reach for this when designing or structuring the results of a quantitative survey — it's the shape any such questionnaire takes, invoked from [Three-Section Questionnaire Build Order](../playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md) and the [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md).
 
 ## Purpose
 

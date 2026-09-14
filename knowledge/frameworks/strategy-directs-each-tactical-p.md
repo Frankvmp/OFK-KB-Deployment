@@ -29,7 +29,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever a tactical choice (which campaign, which distributor, which flavour) is being made and the temptation is to judge it on its own creative or commercial merits — use it to force the question back to target, position, and objective instead.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever a tactical choice (which campaign, which distributor, which flavour) is being made and the temptation is to judge it on its own creative or commercial merits — use it to force the question back to target, position, and objective instead.
 
 ## Purpose
 
@@ -55,7 +55,7 @@ communications, and distribution decisions. [^tactical-choice]
 
 ## How this executes
 
-This framework does not itself state a specific numbered decision procedure — an earlier draft of this section presented a 6-step "Decision model" in that shape, but no footnote supports that specific breakdown (see Citation status below). What the transcript actually gives is a mantra — target, position, objective — to repeat before any tactical choice, plus three reasons for the discipline: strategy already has the tactical answer, the tactical space is distracting, and the consumer only ever experiences tactics, never the strategy document itself.
+This framework does not itself state a specific numbered decision procedure — an earlier draft of this section presented a 6-step "Decision model" in that shape, but no footnote supports that specific breakdown (see Citation status below). What's actually given is a mantra — target, position, objective — to repeat before any tactical choice, plus three reasons for the discipline: strategy already has the tactical answer, the tactical space is distracting, and the consumer only ever experiences tactics, never the strategy document itself.
 
 **Step type:** Constraint check — every tactical choice must be tested against target, position, and objective before being made.
 

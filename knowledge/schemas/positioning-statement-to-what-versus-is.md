@@ -23,7 +23,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this to record the output of the [Positioning Statement Build Order](../playbooks/positioning-statement-build-order-to-what-versus-is.md) — whenever a position needs to be expressed as a concrete, checkable record rather than a vague statement or slogan.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this to record the output of the [Positioning Statement Build Order](../playbooks/positioning-statement-build-order-to-what-versus-is.md) — whenever a position needs to be expressed as a concrete, checkable record rather than a vague statement or slogan.
 
 ## Purpose
 
@@ -44,9 +44,9 @@ competitive context. [^structure]
 
 ## Grounded good example
 
-The worked example positions the Mini MBA for marketers without proper training,
-against continuing a marketing career without that training, around an MBA-level,
-applied, and confident association. [^example]
+The worked example positions a training product for marketers without proper training,
+against continuing a marketing career without that training, around an applied,
+confident, professional-level association. [^example]
 
 ## Grounded bad or failure example
 

@@ -24,7 +24,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this when designing the online quantitative survey referenced across the Market Research Method Sequence — it's the standard three-part shape that survey should take, not a one-off design decision per project.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this when designing the online quantitative survey referenced across the Market Research Method Sequence — it's the standard three-part shape that survey should take, not a one-off design decision per project.
 
 ## Purpose
 

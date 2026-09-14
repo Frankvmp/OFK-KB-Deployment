@@ -27,7 +27,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever a communications plan or budget is being built — to check that both future-demand and immediate-response work are represented and coordinated, rather than one crowding out the other or the two being merged into a single execution that does neither well.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever a communications plan or budget is being built — to check that both future-demand and immediate-response work are represented and coordinated, rather than one crowding out the other or the two being merged into a single execution that does neither well.
 
 ## Purpose
 
@@ -68,7 +68,7 @@ long-term brand building or short-term activation depending on the execution.
 
 ## How this executes
 
-This framework does not itself state a specific numbered procedure for building a plan — an earlier draft of this section presented a 6-step "Operating model" in that shape, but no footnote supports that specific breakdown (see Citation status below). What the transcript actually gives, with real citations, is a set of concrete embedded Playbooks below — Zero-Based Budgeting, Triple Cooked Budgeting, the Media S-Curve, the Effectiveness Measurement Escalation Ladder, and the Campaignability sequence — each covering one piece of the long/short planning-and-measurement problem.
+This framework does not itself state a specific numbered procedure for building a plan — an earlier draft of this section presented a 6-step "Operating model" in that shape, but no footnote supports that specific breakdown (see Citation status below). What's actually given, with real citations, is a set of concrete embedded Playbooks below — Zero-Based Budgeting, Triple Cooked Budgeting, the Media S-Curve, the Effectiveness Measurement Escalation Ladder, and the Campaignability sequence — each covering one piece of the long/short planning-and-measurement problem.
 
 Long and short activity should work together. The long creates the opportunity;
 the short converts it. Separating their roles does not mean operating them as
@@ -165,7 +165,7 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Steps:**
 
-1. **Develop SMART objectives.** I'm going to develop those smart objectives we talked about earlier in the mini MBA. [^zero-based-budgeting-process-1]
+1. **Develop SMART objectives.** I'm going to develop those smart objectives... [^zero-based-budgeting-process-1]
    **Step type:** Data-gathering — reuses the real objectives already set, never invented here.
    **Invokes:** [Stated Objective Structure](../schemas/stated-objective-structure.md) (Schema).
 2. **Calculate incremental value.** I'm going to calculate their incremental value. How much money will they make if I make them come true? [^zero-based-budgeting-process-2]

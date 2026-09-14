@@ -39,13 +39,13 @@ Entering employment with the producer changes the marketer's perspective, even i
 
 Market orientation begins with the recognition that the marketer is not the consumer. The discipline is to remove the marketer's own tastes, perceptions, and experiences from the centre of the decision rather than presenting them as market knowledge. [^personal-perspective]
 
-The course frames this as creating a vacuum that can later be filled with research data. The vacuum is a discipline for listening; it is not permission to proceed without evidence. [^create-vacuum]
+This is framed as creating a vacuum that can later be filled with research data. The vacuum is a discipline for listening; it is not permission to proceed without evidence. [^create-vacuum]
 
 ## Related distinctions
 
 This Principle is the personal discipline that supports [Market orientation](../frameworks/market-orientation.md); it is not a replacement for the Framework's organisational definition and operating material.
 
-It does not mean inventing a fictional persona and guessing how that person would feel. The transcript warns that this can also ignore the presence of multiple market segments. [^personal-perspective]
+It does not mean inventing a fictional persona and guessing how that person would feel. This also warns against ignoring the presence of multiple market segments. [^personal-perspective]
 
 ## Invokes
 

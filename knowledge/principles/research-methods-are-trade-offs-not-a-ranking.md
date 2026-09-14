@@ -41,7 +41,7 @@ The practical response is to combine methods where their strengths complement on
 
 This Principle governs method choice. The [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) provides the source-supported ordering between selected methods.
 
-The transcript begins to name “research architecture” at 00:59:31, but the preserved source ends mid-definition. This Principle therefore does not invent a complete research-architecture model.
+The source material begins to name “research architecture,” but ends before the definition is completed. This Principle therefore does not invent a complete research-architecture model.
 
 ## Invokes
 

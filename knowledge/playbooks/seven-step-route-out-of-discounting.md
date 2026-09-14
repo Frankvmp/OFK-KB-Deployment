@@ -36,7 +36,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once a brand is already trapped in a self-reinforcing discount spiral (the "toilet of discounting") — it's the recovery path back to profit-focused pricing, not a general pricing strategy.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once a brand is already trapped in a self-reinforcing discount spiral (the "toilet of discounting") — it's the recovery path back to profit-focused pricing, not a general pricing strategy.
 
 ## Purpose
 

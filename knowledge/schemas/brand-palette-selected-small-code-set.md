@@ -23,7 +23,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once the [Distinctive asset assessment](../frameworks/positioning-and-brand-codes.md#distinctive-asset-assessment) has scored candidate codes — it's the record of which small set was actually selected, consumed downstream by communications execution.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once the [Distinctive asset assessment](../frameworks/positioning-and-brand-codes.md#distinctive-asset-assessment) has scored candidate codes — it's the record of which small set was actually selected, consumed downstream by communications execution.
 
 ## Purpose
 

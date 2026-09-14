@@ -30,7 +30,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* This is the Playbook other concepts invoke whenever they need the agent to gather real evidence rather than assert a claim without support — see the `Data-gathering` step type in [CONTEXT.md](../../CONTEXT.md). Run it whenever a diagnosis, a funnel population, or a strategic decision needs grounding in real research and no research has been gathered yet.
+*(Process framing — not a sourced claim; no footnote.)* This is the Playbook other concepts invoke whenever they need the agent to gather real evidence rather than assert a claim without support — see the `Data-gathering` step type in [CONTEXT.md](../../CONTEXT.md). Run it whenever a diagnosis, a funnel population, or a strategic decision needs grounding in real research and no research has been gathered yet.
 
 ## Purpose
 
@@ -92,7 +92,7 @@ Think about the moment before you go too far down that path where you have tenta
 
 ## Output
 
-Named end-state: 'Research architecture' -- 'how do you pick and blend your methods together' -- but the transcript is cut off before this is explained (00:59:04-00:59:31, file's last line).
+Named end-state: 'Research architecture' -- 'how do you pick and blend your methods together' -- but the source material is cut off before this is explained (00:59:04-00:59:31, file's last line).
 
 ## Explicit consumers
 
@@ -100,7 +100,7 @@ No explicit cross-module consumer is recorded in the register.
 
 ## Boundaries and failure modes
 
-IMPORTANT TENSION, not resolved by the transcript: the module TEACHES methods in the order secondary -> survey -> focus groups -> ethnography -> conjoint (stated explicitly at 00:03:03), but separately states the RECOMMENDED EXECUTION order is secondary -> qualitative exploration -> quantitative survey (stated at 00:27:05, illustrated by the Sweet Baby Ray's/Weatherchem focus-group case at 00:28:54). Do not collapse these into one clean sequence; record both.
+IMPORTANT TENSION, not resolved by the source material: this teaches methods in the order secondary -> survey -> focus groups -> ethnography -> conjoint (stated explicitly at 00:03:03), but separately states the RECOMMENDED EXECUTION order is secondary -> qualitative exploration -> quantitative survey (stated at 00:27:05, illustrated by the Sweet Baby Ray's/Weatherchem focus-group case at 00:28:54). Do not collapse these into one clean sequence; record both.
 
 - Preserve the registered order, including nested sequences.
 - Do not convert this process into a set of interchangeable steps.

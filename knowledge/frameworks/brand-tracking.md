@@ -36,7 +36,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever a communications investment needs to be evaluated — first to check whether it's long-term brand-building (use this) or short-term activation (use return-on-investment measures instead), then to actually run the measurement.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever a communications investment needs to be evaluated — first to check whether it's long-term brand-building (use this) or short-term activation (use return-on-investment measures instead), then to actually run the measurement.
 
 ## Purpose
 

@@ -39,7 +39,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once [Segmentation Process](segmentation-process-top-level-5-step-sequence.md) has produced a validated market map and one or more candidate segments need to be chosen and described — before writing a positioning statement.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once [Segmentation Process](segmentation-process-top-level-5-step-sequence.md) has produced a validated market map and one or more candidate segments need to be chosen and described — before writing a positioning statement.
 
 ## Purpose
 
@@ -78,7 +78,7 @@ First, before we even get to targeting, remember to think strategically. [^step-
 
 ### 2. Choose a targeting philosophy (sophisticated mass marketing / STP / two-speed)
 
-**Step type:** Decision (criteria-guided) — the course names the philosophies and the considerations for choosing between them, but not a formula. The agent presents the options against those considerations; it does not choose alone.
+**Step type:** Decision (criteria-guided) — this names the philosophies and the considerations for choosing between them, but not a formula. The agent presents the options against those considerations; it does not choose alone.
 
 you face a double choice with targeting... first of all, you have to decide what kind of targeting strategy do you subscribe to. [^step-2]
 

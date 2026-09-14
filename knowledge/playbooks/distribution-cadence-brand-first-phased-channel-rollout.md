@@ -30,7 +30,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this when launching or growing distribution for a brand — to sequence channels brand-first (protecting positioning early) rather than defaulting to whichever channel offers the fastest volume.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this when launching or growing distribution for a brand — to sequence channels brand-first (protecting positioning early) rather than defaulting to whichever channel offers the fastest volume.
 
 ## Purpose
 

@@ -32,7 +32,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever the question is about the ongoing experience a person has with a brand — not the sequential path to purchase (that's the [Funnel](funnel.md)) — and especially when deciding where limited improvement effort should go.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever the question is about the ongoing experience a person has with a brand — not the sequential path to purchase (that's the [Funnel](funnel.md)) — and especially when deciding where limited improvement effort should go.
 
 ## Purpose
 
@@ -62,7 +62,7 @@ experience improvement. [^definition]
 ## Operating procedure
 
 1. List the significant interactions in the customer experience. [^definition]
-   **Step type:** Evidence-and-judgement — support here is softer than the other steps below; the transcript frames this as the general discipline of not underestimating the journey's width, not a discrete first sub-step of the measurement procedure (see Citation status).
+   **Step type:** Evidence-and-judgement — support here is softer than the other steps below; this is framed as the general discipline of not underestimating the journey's width, not a discrete first sub-step of the measurement procedure (see Citation status).
 2. Ask customers to identify and describe the experiences they have had. [^operating-2]
    **Step type:** Data-gathering — real customer-described experiences, never invented.
 3. Rate each experience. [^operating-2]

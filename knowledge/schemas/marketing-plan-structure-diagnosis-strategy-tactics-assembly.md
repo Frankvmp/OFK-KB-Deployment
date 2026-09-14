@@ -14,11 +14,11 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once a Diagnosis → Strategy → Tactics engagement has actually produced real work in at least one phase, and that work needs to be assembled into a single, presentable document a client can share within their own organisation — not while any individual piece (a segmentation, a positioning statement) is still being worked out on its own.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once a Diagnosis → Strategy → Tactics engagement has actually produced real work in at least one phase, and that work needs to be assembled into a single, presentable document a client can share within their own organisation — not while any individual piece (a segmentation, a positioning statement) is still being worked out on its own.
 
 ## Purpose
 
-This schema defines the *shape* of a marketing plan as an ordered assembly of Schemas this knowledge base already defines — it is not a new concept taught directly in the course. It exists because the [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) framework already sequences the course's own work, and every piece of data that sequence produces already has real, existing content in this knowledge base to draw from — a dedicated Schema for some pieces (segments, the target portrait, the positioning statement, the objective), and the [Four Ps](../frameworks/four-ps.md) framework's own per-P sections, embedded playbooks, and Principles for the four tactical areas, which have no single dedicated Schema of their own. This file's job is to name the assembly order once, so it isn't reinvented informally by every consuming agent that builds this artifact. See [Citation status](#citation-status) for how this file's grounding works — it differs from every other Schema in this knowledge base, deliberately and openly.
+This schema defines the *shape* of a marketing plan as an ordered assembly of Schemas this knowledge base already defines — rather than a concept extracted from a single source. It exists because the [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) framework already sequences this domain's own work, and every piece of data that sequence produces already has real, existing content in this knowledge base to draw from — a dedicated Schema for some pieces (segments, the target portrait, the positioning statement, the objective), and the [Four Ps](../frameworks/four-ps.md) framework's own per-P sections, embedded playbooks, and Principles for the four tactical areas, which have no single dedicated Schema of their own. This file's job is to name the assembly order once, so it isn't reinvented informally by every consuming agent that builds this artifact. See [Citation status](#citation-status) for how this file's grounding works — it differs from every other Schema in this knowledge base, deliberately and openly.
 
 ## Shape
 
@@ -38,11 +38,11 @@ This is a categorical-template shape, not a fixed-field one: the section list ab
 
 ## Grounded good example
 
-NOT FOUND as a transcript-grounded example — this shape has not yet been used to produce a real plan for a real client. Do not invent one; see [Citation status](#citation-status).
+NOT FOUND as a source-grounded example — this shape has not yet been used to produce a real plan for a real client. Do not invent one; see [Citation status](#citation-status).
 
 ## Grounded bad or failure example
 
-Also not transcript-grounded, since this isn't a transcript concept — but the failure modes below were reasoned through directly with the project owner and are worth stating rather than left implicit: a plan section built from an unconfirmed client claim and presented with the same confidence as a section built from real evidence; a section that exists for a phase no real work has actually happened in yet, dressed up to look further along than it is; a plan that goes stale once an underlying fact changes because nothing re-checked what had already been built on top of it.
+Also not independently sourced, since this isn't an extracted concept — but the failure modes below were reasoned through directly with the project owner and are worth stating rather than left implicit: a plan section built from an unconfirmed client claim and presented with the same confidence as a section built from real evidence; a section that exists for a phase no real work has actually happened in yet, dressed up to look further along than it is; a plan that goes stale once an underlying fact changes because nothing re-checked what had already been built on top of it.
 
 ## Consumers
 
@@ -57,7 +57,7 @@ No consuming skill or agent implementation exists yet. Full design record — in
 
 ## Citation status
 
-This file is a deliberate, openly-stated exception to how every other Schema in this knowledge base is built: it introduces no new transcript claim of its own, so it carries no footnotes and no populated `sources` entries. Its real grounding is the union of what it links to — the [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) framework (which does carry real, independently verified transcript citations for the sequencing itself) and the component Schemas named above (each independently cited on its own page). The *assembly* — the decision to combine these specific pieces into one deliverable, in this order, for this purpose — is this project's own synthesis, worked out directly with the project owner on 2026-09-13, not a named concept taught in the course. `generated.by` reflects that honestly (`claude/sonnet-5`, not `process:extraction`). Treat this file the way the grounded-reasoning skill already asks a consuming agent to treat a Boundary note: real and useful, but not the same kind of claim as a directly source-backed concept.
+This file is a deliberate, openly-stated exception to how every other Schema in this knowledge base is built: it introduces no new sourced claim of its own, so it carries no footnotes and no populated `sources` entries. Its real grounding is the union of what it links to — the [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) framework (which does carry real, independently verified citations for the sequencing itself) and the component Schemas named above (each independently cited on its own page). The *assembly* — the decision to combine these specific pieces into one deliverable, in this order, for this purpose — is this project's own synthesis, worked out directly with the project owner on 2026-09-13, not a named concept taught elsewhere in this knowledge base. `generated.by` reflects that honestly (`claude/sonnet-5`, not `process:extraction`). Treat this file the way the grounded-reasoning skill already asks a consuming agent to treat a Boundary note: real and useful, but not the same kind of claim as a directly source-backed concept.
 
 ## Sources
 

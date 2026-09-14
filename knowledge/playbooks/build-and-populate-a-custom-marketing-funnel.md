@@ -26,7 +26,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once the total market or target segment is known and a generic imported funnel isn't good enough — building a category-specific funnel is what makes objective-setting meaningful for this business, not a borrowed one.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once the total market or target segment is known and a generic imported funnel isn't good enough — building a category-specific funnel is what makes objective-setting meaningful for this business, not a borrowed one.
 
 ## Purpose
 
@@ -76,7 +76,7 @@ What we therefore need to do is to rely upon our quantitative online market rese
 
 ## Output
 
-A fully populated, percentage-filled custom funnel. "12% of them... are aware of Mini MBA. 7% then consider..." (00:41:01)
+A fully populated, percentage-filled custom funnel. "12% of them... are aware of [the offering]. 7% then consider..." (00:41:01)
 
 ## Explicit consumers
 

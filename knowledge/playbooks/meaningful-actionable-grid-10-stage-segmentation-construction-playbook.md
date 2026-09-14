@@ -71,7 +71,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* This is the concrete method [Segmentation Process](segmentation-process-top-level-5-step-sequence.md) step 3 invokes to actually carve the mass market into segments — reach for it once the mass market is defined and a segmentation method needs to be chosen and executed, not merely named.
+*(Process framing — not a sourced claim; no footnote.)* This is the concrete method [Segmentation Process](segmentation-process-top-level-5-step-sequence.md) step 3 invokes to actually carve the mass market into segments — reach for it once the mass market is defined and a segmentation method needs to be chosen and executed, not merely named.
 
 ## Purpose
 

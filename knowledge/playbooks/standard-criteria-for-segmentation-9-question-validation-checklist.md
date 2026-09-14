@@ -32,7 +32,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Run this once a segmentation is fully populated and triangulated, before treating it as final — it's the gate between the diagnosis phase and targeting, and every question must pass before moving on.
+*(Process framing — not a sourced claim; no footnote.)* Run this once a segmentation is fully populated and triangulated, before treating it as final — it's the gate between the diagnosis phase and targeting, and every question must pass before moving on.
 
 ## Purpose
 
@@ -106,7 +106,7 @@ Have you annually updated your numbers?... have you not gone and changed everyth
 
 ### 9. Strategic usefulness ("speaks to you")
 
-**Step type:** Evidence-and-judgement — the transcript itself frames this as a subjective, experience-based check, not a rule.
+**Step type:** Evidence-and-judgement — this is framed as a subjective, experience-based check, not a rule.
 
 when you've finished your segmentation, is it speaking to you? [^step-9]
 

@@ -23,7 +23,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever a research finding (a survey result, a focus-group quote, an ethnographic observation) is about to be treated as if it were itself the strategic answer — who to target, what to charge, what to say. Use it to keep the boundary clear: research is an input to a strategic choice, never a substitute for making one.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever a research finding (a survey result, a focus-group quote, an ethnographic observation) is about to be treated as if it were itself the strategic answer — who to target, what to charge, what to say. Use it to keep the boundary clear: research is an input to a strategic choice, never a substitute for making one.
 
 ## Purpose
 
@@ -43,7 +43,7 @@ itself. [^origin]
 
 ## How this executes
 
-This framework does not itself state a specific numbered procedure for moving from question to strategy — an earlier draft of this section presented a 5-step "Operating logic" in that shape, but no footnote in the transcript actually supports that specific step breakdown, so it has been removed rather than re-cited on a guess (see Citation status below). The two concrete, cited procedures below — the [Sample Size Calculator Procedure](#sample-size-calculator-procedure) and the [Ethnographic Research Procedure](#ethnographic-research-procedure) — are what the transcript actually gives as ordered sequences; both are research-execution Playbooks, invoked from the [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) when quantitative or ethnographic evidence is needed.
+This framework does not itself state a specific numbered procedure for moving from question to strategy — an earlier draft of this section presented a 5-step "Operating logic" in that shape, but no footnote actually supports that specific step breakdown, so it has been removed rather than re-cited on a guess (see Citation status below). The two concrete, cited procedures below — the [Sample Size Calculator Procedure](#sample-size-calculator-procedure) and the [Ethnographic Research Procedure](#ethnographic-research-procedure) — are what the source material actually gives as ordered sequences; both are research-execution Playbooks, invoked from the [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) when quantitative or ethnographic evidence is needed.
 
 The research output is understanding; the strategic output is a choice. Mixing
 these outputs makes descriptive evidence appear to be a recommendation.

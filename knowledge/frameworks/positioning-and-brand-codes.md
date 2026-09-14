@@ -33,7 +33,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once a position exists and needs to be made recognisable and consistent — selecting and applying the visual/sensory codes that carry that position across every touchpoint, or checking a proposed position with the Three Cs test before it directs execution.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once a position exists and needs to be made recognisable and consistent — selecting and applying the visual/sensory codes that carry that position across every touchpoint, or checking a proposed position with the Three Cs test before it directs execution.
 
 ## Purpose
 
@@ -75,7 +75,7 @@ meaningfully different without being recognisable. [^distinction]
 
 ## How this executes
 
-This framework does not itself state a specific numbered procedure covering position-to-palette — an earlier draft of this section presented a 5-step "Brand-code system" in that shape, but no footnote supports that specific breakdown, and step 1 ("identify the position") isn't part of the codes discussion at all — positioning is its own prior activity, covered above and in the [Three Cs](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) / [Positioning Statement Build Order](../playbooks/positioning-statement-build-order-to-what-versus-is.md) playbooks. What the transcript actually gives, with real citations, is the **Distinctive asset assessment** method below (fame + brand-specific association) and the “logo plus three” discipline for selecting a small, disciplined brand palette — [^codes] — then applying it consistently, covered in **Supporting Principle: codification** below.
+This framework does not itself state a specific numbered procedure covering position-to-palette — an earlier draft of this section presented a 5-step "Brand-code system" in that shape, but no footnote supports that specific breakdown, and step 1 ("identify the position") isn't part of the codes discussion at all — positioning is its own prior activity, covered above and in the [Three Cs](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) / [Positioning Statement Build Order](../playbooks/positioning-statement-build-order-to-what-versus-is.md) playbooks. What's actually given, with real citations, is the **Distinctive asset assessment** method below (fame + brand-specific association) and the “logo plus three” discipline for selecting a small, disciplined brand palette — [^codes] — then applying it consistently, covered in **Supporting Principle: codification** below.
 
 **Step type (Distinctive asset assessment):** Data-gathering — real fame and brand-specific-association percentages, never invented.
 **Step type ("logo plus three" selection):** Decision (criteria-guided) — select a small set once the assessment exists.

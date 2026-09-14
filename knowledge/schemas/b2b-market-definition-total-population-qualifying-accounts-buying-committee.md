@@ -23,7 +23,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever the market being segmented or targeted is B2B — it's the variant of mass-market definition that adds the qualifying-account filter and buying-committee breakdown a B2C market doesn't need.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever the market being segmented or targeted is B2B — it's the variant of mass-market definition that adds the qualifying-account filter and buying-committee breakdown a B2C market doesn't need.
 
 ## Purpose
 

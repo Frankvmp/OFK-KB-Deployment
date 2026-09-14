@@ -26,7 +26,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once a target segment and its portrait exist and the Three Cs test has identified what to position on — it's the build order that turns that analysis into a filled-in positioning statement.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once a target segment and its portrait exist and the Three Cs test has identified what to position on — it's the build order that turns that analysis into a filled-in positioning statement.
 
 ## Purpose
 
@@ -74,7 +74,7 @@ what am I trying to say... Is it a category entry point? Is it a particular feat
 
 ## Output
 
-A completed Positioning Statement (Schema). Worked example: Mini MBA statement (01:26:31-01:28:08).
+A completed Positioning Statement (Schema). Worked example: a completed positioning statement (01:26:31-01:28:08).
 
 ## Explicit consumers
 

@@ -30,7 +30,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this when stated preference (asking consumers what they want) isn't reliable enough — when you need to derive what actually drives choice, and the trade-off between price and other attributes, from revealed behaviour rather than spoken explanation.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this when stated preference (asking consumers what they want) isn't reliable enough — when you need to derive what actually drives choice, and the trade-off between price and other attributes, from revealed behaviour rather than spoken explanation.
 
 ## Purpose
 

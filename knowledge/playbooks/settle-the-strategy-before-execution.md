@@ -25,7 +25,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once targeting, positioning, and objectives are all drafted, right before tactical execution begins — it's the last checkpoint while the strategy can still change cheaply.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once targeting, positioning, and objectives are all drafted, right before tactical execution begins — it's the last checkpoint while the strategy can still change cheaply.
 
 ## Purpose
 

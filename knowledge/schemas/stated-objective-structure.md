@@ -23,7 +23,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once a funnel stage or measure has been chosen as the focus — whenever a marketing objective needs to be recorded as something checkable, not a vague aspiration or a revenue number.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once a funnel stage or measure has been chosen as the focus — whenever a marketing objective needs to be recorded as something checkable, not a vague aspiration or a revenue number.
 
 ## Purpose
 
@@ -46,8 +46,8 @@ describe the objective’s structure; the values are business-specific.
 
 ## Grounded good example
 
-“Increase the proportion of UK marketers who are aware of the Mini MBA in
-Marketing as a development option from 12% to 25% by the end of the year.”
+“Increase the proportion of UK marketers who are aware of [a professional development offering]
+as a development option from 12% to 25% by the end of the year.”
 This supplies the target market, benchmark, goal, and delivery period.
 [^example]
 

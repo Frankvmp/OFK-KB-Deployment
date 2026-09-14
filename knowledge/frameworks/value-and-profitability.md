@@ -28,7 +28,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever a pricing or tactical decision risks favouring one side of the value exchange over the other — giving too much value away, or extracting too much — and before treating revenue growth as proof of a good decision.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever a pricing or tactical decision risks favouring one side of the value exchange over the other — giving too much value away, or extracting too much — and before treating revenue growth as proof of a good decision.
 
 ## Invokes
 
@@ -59,7 +59,7 @@ organisation’s return. [^value]
 
 ## How this executes
 
-This framework does not itself state a specific numbered procedure for balancing value — an earlier draft of this section presented a 4-step "Value model" in that shape, but no footnote supports that specific breakdown (see Citation status below). What the transcript actually gives is the "V" image: value flows toward the company on one side and toward the consumer on the other, and both prongs must stay aligned — too much extraction fails the consumer, too much giveaway fails the company.
+This framework does not itself state a specific numbered procedure for balancing value — an earlier draft of this section presented a 4-step "Value model" in that shape, but no footnote supports that specific breakdown (see Citation status below). What's actually given is the "V" image: value flows toward the company on one side and toward the consumer on the other, and both prongs must stay aligned — too much extraction fails the consumer, too much giveaway fails the company.
 
 **Step type:** Constraint check — both sides of the value exchange (consumer and company) must stay aligned; neither can be sacrificed to the other.
 
@@ -131,7 +131,7 @@ This ordered process is embedded here because it is self-contained within the or
 5. **Select the price.** we can put it as far across as we can to get the best value for money, which in our case was £1,500. [^van-westendorp-price-setting-procedure-5]
    **Step type:** Evidence-and-judgement — selecting a specific point within the identified zone.
 
-**Output:** A specific selected price point (worked example: £1,500 for the Mini MBA).
+**Output:** A specific selected price point (worked example: a selected price of £1,500).
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 

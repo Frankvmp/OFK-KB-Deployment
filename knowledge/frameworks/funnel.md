@@ -29,7 +29,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever demand needs to be made visible as a sequence — before setting an objective, before diagnosing where a business is losing customers, or before choosing where to focus effort. It's the diagnostic layer between [Diagnosis → Strategy → Tactics](diagnosis-strategy-tactics.md)'s evidence-gathering and a stated objective.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever demand needs to be made visible as a sequence — before setting an objective, before diagnosing where a business is losing customers, or before choosing where to focus effort. It's the diagnostic layer between [Diagnosis → Strategy → Tactics](diagnosis-strategy-tactics.md)'s evidence-gathering and a stated objective.
 
 ## Purpose
 
@@ -166,7 +166,7 @@ This ordered process is embedded here because it is self-contained within the or
 2. **Measurable.** we need to have... a benchmark. In this case, 70%... the objective level you're going to achieve. In this case, 80%. [^write-a-smart-objective-dare-walkthrough-2]
    **Step type:** Data-gathering — the benchmark must be a real measured value, never invented.
 3. **Ambitious/Realistic -- calibrate the target number.** there's a tension between the A and the R in SMART that an experienced manager understands and somehow manages to navigate. [^write-a-smart-objective-dare-walkthrough-3]
-   **Step type:** Evidence-and-judgement — the transcript itself frames this as a judgement call, not a formula.
+   **Step type:** Evidence-and-judgement — this is framed as a judgement call, not a formula.
 4. **Time-bound.** we also have to have timing as well. And here it is... by the end of 2016. [^write-a-smart-objective-dare-walkthrough-4]
    **Step type:** Constraint check — an objective without a date is not SMART.
 

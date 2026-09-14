@@ -26,7 +26,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once the mass market is understood and a business needs to move from raw market understanding to a validated set of describable, valuable segments — the bridge between diagnosis and the targeting decision that follows it.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once the mass market is understood and a business needs to move from raw market understanding to a validated set of describable, valuable segments — the bridge between diagnosis and the targeting decision that follows it.
 
 ## Purpose
 

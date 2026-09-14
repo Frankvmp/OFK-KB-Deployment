@@ -24,7 +24,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this when structuring a choice task inside the [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) — it's the shape each trade-off presented to a consumer must take.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this when structuring a choice task inside the [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) — it's the shape each trade-off presented to a consumer must take.
 
 ## Purpose
 

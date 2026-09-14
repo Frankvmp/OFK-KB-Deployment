@@ -29,7 +29,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this before accepting any strategic or tactical input at face value — whenever a claim about "what the customer wants" or "what will work" is grounded only in internal opinion, a founder's instinct, or an untested assumption, rather than real customer or competitor evidence. It is also the diagnostic lens for explaining why a business's marketing isn't landing: a market-orientation gap is a common root cause.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this before accepting any strategic or tactical input at face value — whenever a claim about "what the customer wants" or "what will work" is grounded only in internal opinion, a founder's instinct, or an untested assumption, rather than real customer or competitor evidence. It is also the diagnostic lens for explaining why a business's marketing isn't landing: a market-orientation gap is a common root cause.
 
 ## Purpose
 
@@ -68,7 +68,7 @@ organisation should act on it. [^intelligence]
 
 ## How this executes
 
-This framework does not itself state one single ordered procedure covering identification, evidence-gathering, sharing, deciding, and measuring as discrete numbered steps — an earlier draft of this section presented a 6-step "Operating procedure" in that shape, but no footnote in the transcript actually supports that specific step breakdown, so it has been removed rather than re-cited on a guess (see Citation status below). What the transcript does give, with real citations, are the two concrete sequences below: the [Producer-Consumer Development Wheel](#producer-consumer-development-wheel) (how a product/market loop should run) and the [Organizational Market-Orientation Intelligence Chain](#organizational-market-orientation-intelligence-chain-generate---irrigate---respond) (generate → irrigate → respond, itself flagged `CONTESTED / lower confidence`). Measurement (the MORTN scale, Capgemini benchmark) is covered in **Measurement and diagnosis** and **Supporting Metrics** below.
+This framework does not itself state one single ordered procedure covering identification, evidence-gathering, sharing, deciding, and measuring as discrete numbered steps — an earlier draft of this section presented a 6-step "Operating procedure" in that shape, but no footnote actually supports that specific step breakdown, so it has been removed rather than re-cited on a guess (see Citation status below). What's actually given, with real citations, are the two concrete sequences below: the [Producer-Consumer Development Wheel](#producer-consumer-development-wheel) (how a product/market loop should run) and the [Organizational Market-Orientation Intelligence Chain](#organizational-market-orientation-intelligence-chain-generate---irrigate---respond) (generate → irrigate → respond, itself flagged `CONTESTED / lower confidence`). Measurement (the MORTN scale, Capgemini benchmark) is covered in **Measurement and diagnosis** and **Supporting Metrics** below.
 
 ## Measurement and diagnosis
 

@@ -26,7 +26,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Run this before any diagnosis or strategy work starts — it's the individual-level precondition for [Market orientation](../frameworks/market-orientation.md) and for [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md)'s first phase. If the agent (or the human it's working with) is about to substitute personal opinion, an untested assumption, or a fictional persona for real customer evidence, this is the checkpoint that catches it before diagnosis begins.
+*(Process framing — not a sourced claim; no footnote.)* Run this before any diagnosis or strategy work starts — it's the individual-level precondition for [Market orientation](../frameworks/market-orientation.md) and for [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md)'s first phase. If the agent (or the human it's working with) is about to substitute personal opinion, an untested assumption, or a fictional persona for real customer evidence, this is the checkpoint that catches it before diagnosis begins.
 
 ## Purpose
 

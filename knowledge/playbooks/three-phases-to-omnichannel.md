@@ -27,7 +27,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this when assessing or planning a retailer's or brand's channel maturity — diagnosing which phase it's actually in, rather than assuming full integration exists just because multiple channels are live.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this when assessing or planning a retailer's or brand's channel maturity — diagnosing which phase it's actually in, rather than assuming full integration exists just because multiple channels are live.
 
 ## Purpose
 

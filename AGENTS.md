@@ -1,9 +1,9 @@
 # Using this knowledge base
 
 This repository holds a marketing knowledge base -- verified, source-backed
-frameworks, principles, playbooks, and schemas from Mark Ritson's Mini MBA in
-Marketing. If you are an AI agent with read access to this repository, this
-file is your operating instructions for using it.
+frameworks, principles, playbooks, and schemas for real marketing work. If
+you are an AI agent with read access to this repository, this file is your
+operating instructions for using it.
 
 There is no live search or query tool here -- this is a plain file
 repository. Use whatever file-reading or repository-browsing capability you

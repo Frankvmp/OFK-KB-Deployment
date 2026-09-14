@@ -24,7 +24,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this during [Meaningful Actionable Grid](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) step 9, or when a targeting decision needs to weigh a segment's influence on other segments — never assert a spillover relationship without a real, specific rationale.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this during [Meaningful Actionable Grid](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) step 9, or when a targeting decision needs to weigh a segment's influence on other segments — never assert a spillover relationship without a real, specific rationale.
 
 ## Purpose
 

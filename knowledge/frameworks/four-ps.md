@@ -41,7 +41,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this once target, position, and objective are settled — it's the checklist for translating strategy into coordinated product, pricing, communications, and distribution choices, and for catching when one of those areas contradicts the others.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this once target, position, and objective are settled — it's the checklist for translating strategy into coordinated product, pricing, communications, and distribution choices, and for catching when one of those areas contradicts the others.
 
 ## Purpose
 

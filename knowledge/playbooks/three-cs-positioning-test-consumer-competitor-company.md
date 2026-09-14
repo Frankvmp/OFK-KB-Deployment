@@ -26,7 +26,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this both as a build order (constructing a new position, Consumer → Competitor → Company) and as a diagnostic test (checking whether an existing position actually holds up) — use it before finalising any positioning statement.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this both as a build order (constructing a new position, Consumer → Competitor → Company) and as a diagnostic test (checking whether an existing position actually holds up) — use it before finalising any positioning statement.
 
 ## Purpose
 

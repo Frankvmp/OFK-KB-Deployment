@@ -31,9 +31,9 @@ Reach for this Principle when a user equates marketing with making advertisement
 
 ## Principle
 
-Marketing is not limited to advertising. The Module 1 discussion places product, price, distribution or footprint, and promotion within the discipline, rather than treating promotion as its entire scope. [^marketing-mix-scope]
+Marketing is not limited to advertising. This places product, price, distribution or footprint, and promotion within the discipline, rather than treating promotion as its entire scope. [^marketing-mix-scope]
 
-The course presents “marketing” as a contronym: in one sense it can mean advertising, communication, and persuasion; in another it can mean listening, understanding, and orienting to the market. Advertising-oriented companies can focus on the first sense while missing the second. [^contronym]
+“Marketing” is presented as a contronym: in one sense it can mean advertising, communication, and persuasion; in another it can mean listening, understanding, and orienting to the market. Advertising-oriented companies can focus on the first sense while missing the second. [^contronym]
 
 ## Why it matters
 
@@ -43,9 +43,9 @@ The Principle prevents a broad marketing question from being answered with commu
 
 ## Related distinctions
 
-This Principle does not say that advertising or sales are outside marketing practice. It says that neither should be treated as the complete meaning of marketing in the Module 1 framing. [^contronym] [^sales-orientation]
+This Principle does not say that advertising or sales are outside marketing practice. It says that neither should be treated as the complete meaning of marketing. [^contronym] [^sales-orientation]
 
-The operational mix route is [The four Ps](../frameworks/four-ps.md). The customer-understanding route is [Market orientation](../frameworks/market-orientation.md). The Principle links to both because the transcript distinguishes scope from any one tactic or organisational orientation.
+The operational mix route is [The four Ps](../frameworks/four-ps.md). The customer-understanding route is [Market orientation](../frameworks/market-orientation.md). The Principle links to both because scope is distinguished from any one tactic or organisational orientation.
 
 ## Invokes
 

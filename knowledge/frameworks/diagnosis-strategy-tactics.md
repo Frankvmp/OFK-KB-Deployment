@@ -23,7 +23,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this first, at the start of any engagement — it's the top-level lens for deciding whether the open question is a **Diagnosis** question (evidence-gathering), a **Strategy** question (who to target, what position, what objective), or a **Tactics** question (product/pricing/comms/distribution choices), and for keeping later work honest about which phase it belongs to.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this first, at the start of any engagement — it's the top-level lens for deciding whether the open question is a **Diagnosis** question (evidence-gathering), a **Strategy** question (who to target, what position, what objective), or a **Tactics** question (product/pricing/comms/distribution choices), and for keeping later work honest about which phase it belongs to.
 
 ## Purpose
 

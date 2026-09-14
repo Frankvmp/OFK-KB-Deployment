@@ -35,7 +35,7 @@ A response to market intelligence is a judgement about how the organisation shou
 
 ## Why it matters
 
-A marketing team cannot represent the market effectively if the rest of the organisation remains disconnected from the intelligence it generates. The transcript describes “irrigating” information as pumping it around the company so there is a company-wide focus on customer needs. [^organisational-orientation]
+A marketing team cannot represent the market effectively if the rest of the organisation remains disconnected from the intelligence it generates. This is described as “irrigating” information — pumping it around the company so there is a company-wide focus on customer needs. [^organisational-orientation]
 
 This Principle protects the difference between listening and automatic compliance. It allows an organisation to acknowledge an insight, assess it, and choose an appropriate response rather than treating every request as an instruction. [^response-judgement]
 

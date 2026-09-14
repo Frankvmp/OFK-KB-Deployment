@@ -24,7 +24,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever a segment produced by the [Meaningful Actionable Grid](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) needs to be recorded as a discrete, comparable record — or when a downstream step (targeting, funnel population, objective-setting) needs a segment's real name, size, value, or share.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever a segment produced by the [Meaningful Actionable Grid](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) needs to be recorded as a discrete, comparable record — or when a downstream step (targeting, funnel population, objective-setting) needs a segment's real name, size, value, or share.
 
 ## Purpose
 

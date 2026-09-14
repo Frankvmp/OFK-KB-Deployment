@@ -36,7 +36,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a transcript claim; no footnote.)* Reach for this whenever touchpoints need to be measured rather than assumed — identifying the weakest one to fix, and checking that positioning is actually being expressed consistently across all of them.
+*(Process framing — not a sourced claim; no footnote.)* Reach for this whenever touchpoints need to be measured rather than assumed — identifying the weakest one to fix, and checking that positioning is actually being expressed consistently across all of them.
 
 ## Purpose
 
