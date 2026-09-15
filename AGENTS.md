@@ -45,6 +45,18 @@ like "contested," "lower confidence," or "illustrated only by one case." If
 your answer leans on content like that, say so plainly in the answer rather
 than stating it as settled fact.
 
+## Navigation layer
+
+This repository also includes a generated navigation map under `kb/`:
+
+- `kb/kb-agent-guide.md` — how agents should use the navigation layer.
+- `kb/kb-entrypoints.md` — recommended starting files for common marketing tasks.
+- `kb/kb-manifest.json` — catalogue of knowledge files, frontmatter, tags, headings, and outgoing links.
+- `kb/kb-graph.json` — link graph and backlinks.
+- `kb/kb-validation-report.md` — generated health check for broken links and missing metadata.
+
+Use these files as a map, not as the source of truth. Before relying on a concept, open and read the actual Markdown file in `knowledge/`. If the map and a concept file disagree, trust the concept file and report the map issue.
+
 ## Keep your own working out of the answer
 
 It's fine, and often useful, to privately break a question into its parts
