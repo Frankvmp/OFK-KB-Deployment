@@ -1,0 +1,4638 @@
+{
+  "generated_at": "2026-09-15T14:13:09.345Z",
+  "source_commit": "991a2afd2417ab4113c1e3d422fbaf7daf2274ca",
+  "file_count": 140,
+  "files": [
+    {
+      "id": "knowledge/README.md",
+      "path": "knowledge/README.md",
+      "title": "Knowledge",
+      "type": "Process Plan",
+      "status": "stable",
+      "description": "The verified marketing knowledge base — Principles, Frameworks, Playbooks, and Schemas, drafted bottom-up from the source course transcripts.",
+      "tags": [
+        "cross-cutting",
+        "knowledge-base"
+      ],
+      "folder": "knowledge",
+      "headings": [
+        "Knowledge",
+        "Structure",
+        "Changes"
+      ],
+      "outgoing_links": [
+        "index.md",
+        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
+        "project-context/agent-execution-retrofit.md",
+        "project-context/marketing-plan-artifact-design.md",
+        "project-context/structural-decisions.md"
+      ],
+      "source_count": 0
+    },
+    {
+      "id": "knowledge/frameworks/README.md",
+      "path": "knowledge/frameworks/README.md",
+      "title": "Frameworks",
+      "type": "Knowledge Base Folder",
+      "status": "stable",
+      "description": "Named models and methods in the verified marketing knowledge base.",
+      "tags": [
+        "cross-cutting",
+        "knowledge-base"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Frameworks",
+        "Changes"
+      ],
+      "outgoing_links": [
+        "index.md"
+      ],
+      "source_count": 0
+    },
+    {
+      "id": "knowledge/frameworks/brand-tracking.md",
+      "path": "knowledge/frameworks/brand-tracking.md",
+      "title": "Brand tracking",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "brand",
+        "research"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Brand tracking",
+        "When to use this",
+        "Purpose",
+        "Definition",
+        "Invokes",
+        "Measurement model",
+        "Operating procedure",
+        "1. Identify the intended effect",
+        "2. Define the measurement frame",
+        "3. Select the brand measures",
+        "4. Measure the later result",
+        "5. Compare with the benchmark",
+        "6. Set realistic expectations",
+        "Interpreting performance",
+        "Related measurement methods",
+        "Brand-lift study",
+        "Media mix modelling",
+        "Worked example",
+        "Boundaries and failure modes",
+        "Supporting concepts",
+        "Principle: Long versus short measurement",
+        "Principle: Campaign metrics versus company results",
+        "Case Study: McDonald’s long-term brand-building example",
+        "Metrics",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
+        "knowledge/principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md",
+        "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
+        "knowledge/schemas/stated-objective-structure.md"
+      ],
+      "source_count": 7
+    },
+    {
+      "id": "knowledge/frameworks/diagnosis-strategy-tactics.md",
+      "path": "knowledge/frameworks/diagnosis-strategy-tactics.md",
+      "title": "Diagnosis → Strategy → Tactics",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Diagnosis → Strategy → Tactics",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Diagnosis",
+        "Strategy",
+        "Strategy-to-tactics",
+        "The three phases",
+        "Diagnosis",
+        "Strategy",
+        "Tactics",
+        "Operating sequence",
+        "Boundaries",
+        "Supporting concepts",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/target-position-objective.md",
+        "knowledge/playbooks/conjoint-analysis-procedure.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
+        "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
+        "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
+        "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
+        "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
+        "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
+        "knowledge/principles/settle-strategy-before-selecting-tactics.md",
+        "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
+        "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
+        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/frameworks/four-ps.md",
+      "path": "knowledge/frameworks/four-ps.md",
+      "title": "Four Ps",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "tactics",
+        "product",
+        "pricing",
+        "communications",
+        "distribution"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Four Ps",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Definition",
+        "Role in the marketing decision sequence",
+        "The four tactical areas",
+        "Product",
+        "Pricing",
+        "Marketing communications",
+        "Distribution",
+        "Operating procedure",
+        "1. Confirm the strategy",
+        "2. Translate the strategy into requirements",
+        "3. Review each P",
+        "4. Check cross-P alignment",
+        "5. Confirm influence and input",
+        "6. Execute with tactical agility",
+        "Supporting Principle: Four Ps as a tactical checklist",
+        "Supporting Principle: Marketer input across the four Ps",
+        "Supporting Principle: Product quality drives success",
+        "Supporting Case Study: Shania Twain’s *Come On Over*",
+        "Metrics",
+        "Boundaries and failure modes",
+        "Sources",
+        "Embedded Playbooks",
+        "New Product Development Sequence",
+        "Product Rationalisation Path (temporary revenue reduction to focus)",
+        "NPS Exit-Survey Reading Workflow"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/frameworks/target-position-objective.md",
+        "knowledge/principles/co-branding-works-through-complementary-association-transfer.md",
+        "knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md",
+        "knowledge/principles/direct-channel-control-does-not-guarantee-scale-or-profitability.md",
+        "knowledge/principles/evidence-backed-value-supports-holding-the-price-line.md",
+        "knowledge/principles/existing-products-should-be-continuously-improved.md",
+        "knowledge/principles/marketing-influence-does-not-require-control-of-every-p.md",
+        "knowledge/principles/marketing-is-broader-than-advertising-and-sales.md",
+        "knowledge/principles/marketing-must-create-value-for-both-customers-and-the-organisation.md",
+        "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md",
+        "knowledge/principles/price-increases-should-be-communicated-candidly-and-with-value-context.md",
+        "knowledge/principles/price-presentation-shapes-perceived-value-and-demand.md",
+        "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
+        "knowledge/principles/pricing-is-the-revenue-producing-element-of-the-marketing-mix.md",
+        "knowledge/principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md",
+        "knowledge/principles/product-expansion-must-be-balanced-with-rationalisation.md",
+        "knowledge/principles/product-success-requires-quality-and-market-preparation.md",
+        "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
+        "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md"
+      ],
+      "source_count": 8
+    },
+    {
+      "id": "knowledge/frameworks/funnel.md",
+      "path": "knowledge/frameworks/funnel.md",
+      "title": "Funnel",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "funnel"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Funnel",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Funnel design",
+        "Operating procedure",
+        "Interpretation",
+        "Supporting Principle: funnels are not touchpoint maps",
+        "Supporting Metrics",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources",
+        "Embedded Playbooks",
+        "Interpret the Populated Funnel to Choose a Focus",
+        "Write a SMART Objective (DARE walkthrough)"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/principles/funnel-base-must-match-the-selected-target.md",
+        "knowledge/principles/funnel-performance-needs-conversion-and-competitive-context.md",
+        "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
+        "knowledge/principles/objective-count-is-a-team-level-limit.md",
+        "knowledge/principles/objective-targets-must-balance-ambition-and-realism.md",
+        "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
+        "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
+        "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md"
+      ],
+      "source_count": 5
+    },
+    {
+      "id": "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
+      "path": "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
+      "title": "Long-term brand building and short-term activation",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "tactics",
+        "brand",
+        "communications"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Long-term brand building and short-term activation",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "The two roles",
+        "Long-term brand building",
+        "Short-term activation",
+        "How this executes",
+        "Budget balance",
+        "Supporting Case Study: McDonald’s",
+        "Supporting Metrics",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Embedded Playbooks",
+        "IMC Plumber Diagnostic Sequence",
+        "Codify Every Pixel",
+        "Zero-Based Budgeting Process",
+        "Triple Cooked Budgeting",
+        "Media S-Curve Apex-Hopping Sequence",
+        "Effectiveness Measurement Escalation Ladder",
+        "Campaignability / No-Wearout Budget Reallocation Sequence",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/brand-tracking.md",
+        "knowledge/principles/brand-building-and-activation-should-work-together-without-forcing-both-into-one-execution.md",
+        "knowledge/principles/channel-breadth-must-not-outrun-viable-investment.md",
+        "knowledge/principles/communications-effectiveness-comes-from-an-interacting-system-not-one-lever.md",
+        "knowledge/principles/complementary-approaches-can-outperform-either-or-choices.md",
+        "knowledge/principles/complementary-channels-can-create-more-than-additive-effects.md",
+        "knowledge/principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md",
+        "knowledge/principles/long-and-short-budget-allocation-must-fit-the-context.md",
+        "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
+        "knowledge/principles/media-roles-are-determined-by-use-not-channel-label.md",
+        "knowledge/schemas/brand-palette-selected-small-code-set.md",
+        "knowledge/schemas/stated-objective-structure.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/frameworks/market-orientation.md",
+      "path": "knowledge/frameworks/market-orientation.md",
+      "title": "Market orientation",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "market-orientation"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Market orientation",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Organisational model",
+        "How this executes",
+        "Measurement and diagnosis",
+        "Supporting Case Study: Think TV",
+        "Supporting Metrics",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources",
+        "Embedded Playbooks",
+        "Producer-Consumer Development Wheel",
+        "Organizational Market-Orientation Intelligence Chain (generate -> irrigate -> respond)"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
+        "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
+        "knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md",
+        "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
+        "knowledge/principles/market-orientation-must-precede-market-research.md",
+        "knowledge/principles/marketers-are-not-the-consumer.md",
+        "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
+        "knowledge/principles/product-success-requires-quality-and-market-preparation.md"
+      ],
+      "source_count": 5
+    },
+    {
+      "id": "knowledge/frameworks/positioning-and-brand-codes.md",
+      "path": "knowledge/frameworks/positioning-and-brand-codes.md",
+      "title": "Positioning and brand codes",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "positioning",
+        "brand"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Positioning and brand codes",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Two dimensions",
+        "How this executes",
+        "Distinctive asset assessment",
+        "Positioning test",
+        "Supporting Principle: positioning drives touchpoints",
+        "Supporting Principle: codification",
+        "Supporting Case Studies",
+        "KitKat",
+        "Sephora",
+        "Supporting Metrics",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
+        "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
+        "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
+        "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
+        "knowledge/principles/complementary-approaches-can-outperform-either-or-choices.md",
+        "knowledge/principles/complex-thinking-should-produce-simple-strategy.md",
+        "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
+        "knowledge/principles/differentiation-seeks-relative-advantage-not-uniqueness.md",
+        "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md",
+        "knowledge/principles/emotional-communication-can-outperform-rational-persuasion.md",
+        "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
+        "knowledge/principles/media-delivery-cannot-compensate-for-weak-creative.md",
+        "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
+        "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
+        "knowledge/principles/positioning-promises-must-be-deliverable.md",
+        "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
+        "knowledge/schemas/brand-palette-selected-small-code-set.md"
+      ],
+      "source_count": 6
+    },
+    {
+      "id": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "path": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "title": "Research informs understanding, not strategy",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "research"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Research informs understanding, not strategy",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "How this executes",
+        "Application boundaries",
+        "Supporting Principles",
+        "Challenge assumptions with data",
+        "Research has different roles",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources",
+        "Embedded Playbooks",
+        "Sample Size Calculator Procedure",
+        "Ethnographic Research Procedure"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
+        "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+        "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
+        "knowledge/principles/research-methods-are-trade-offs-not-a-ranking.md",
+        "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
+        "knowledge/principles/understand-customers-in-their-real-context.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+      "path": "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+      "title": "Strategy directs each tactical P",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "product",
+        "pricing",
+        "communications",
+        "distribution"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Strategy directs each tactical P",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "How this executes",
+        "Application to the four Ps",
+        "Supporting Principle: strategy before tactics",
+        "Supporting Principle: strategy is choice and sacrifice",
+        "Supporting Case Study: Apple focus",
+        "Metrics",
+        "Boundaries and failure modes",
+        "Embedded Playbooks",
+        "Channel-Conflict Response Sequence (horizontal -> vertical)",
+        "Dom Perignon's Two-Step Response to Uncontrollable Discounting",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
+        "knowledge/principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md",
+        "knowledge/principles/communications-effectiveness-comes-from-an-interacting-system-not-one-lever.md",
+        "knowledge/principles/complementary-channels-can-create-more-than-additive-effects.md",
+        "knowledge/principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md",
+        "knowledge/principles/early-distribution-should-establish-the-brand-before-maximising-availability.md",
+        "knowledge/principles/media-delivery-cannot-compensate-for-weak-creative.md",
+        "knowledge/principles/media-roles-are-determined-by-use-not-channel-label.md",
+        "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
+        "knowledge/principles/resellers-must-retain-independent-price-setting.md",
+        "knowledge/principles/settle-strategy-before-selecting-tactics.md",
+        "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
+        "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/frameworks/target-position-objective.md",
+      "path": "knowledge/frameworks/target-position-objective.md",
+      "title": "Target → position → objective",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "targeting",
+        "positioning",
+        "objectives"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Target → position → objective",
+        "Purpose",
+        "Invokes",
+        "The three decisions",
+        "Target",
+        "Position",
+        "Objective",
+        "Decision procedure",
+        "Supporting Principle: strategy directs tactics",
+        "Boundaries and failure modes",
+        "Sources",
+        "Embedded Playbooks",
+        "Staged Mass-Market Expansion (resource-constrained path to full reach)"
+      ],
+      "outgoing_links": [
+        "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
+        "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
+        "knowledge/principles/emotional-communication-can-outperform-rational-persuasion.md",
+        "knowledge/principles/objective-changes-can-require-new-tactics.md",
+        "knowledge/principles/objective-count-is-a-team-level-limit.md",
+        "knowledge/principles/objective-targets-must-balance-ambition-and-realism.md",
+        "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
+        "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
+        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/frameworks/touchpoints.md",
+      "path": "knowledge/frameworks/touchpoints.md",
+      "title": "Touchpoints",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "tactics",
+        "touchpoints"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Touchpoints",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Touchpoints and funnels",
+        "Operating procedure",
+        "Positioning alignment",
+        "Supporting Case Studies",
+        "Signup touchpoint",
+        "Apple stores",
+        "Supporting Metric: Net Promoter Score",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/funnel.md",
+        "knowledge/principles/existing-products-should-be-continuously-improved.md",
+        "knowledge/principles/nps-is-a-contextual-learning-measure-not-a-growth-predictor.md",
+        "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
+        "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
+        "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md"
+      ],
+      "source_count": 6
+    },
+    {
+      "id": "knowledge/frameworks/value-and-profitability.md",
+      "path": "knowledge/frameworks/value-and-profitability.md",
+      "title": "Value and profitability",
+      "type": "Framework",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "tactics",
+        "profitability",
+        "product",
+        "pricing"
+      ],
+      "folder": "knowledge/frameworks",
+      "headings": [
+        "Value and profitability",
+        "When to use this",
+        "Invokes",
+        "Purpose",
+        "How this executes",
+        "Profitability",
+        "Distribution and value",
+        "Supporting Principles",
+        "Value is marketing’s dual obligation",
+        "Pricing is the revenue-producing P",
+        "Profit over revenue",
+        "Boundaries and failure modes",
+        "Embedded Playbooks",
+        "Van Westendorp Price-Setting Procedure",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
+        "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
+        "knowledge/principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md",
+        "knowledge/principles/direct-channel-control-does-not-guarantee-scale-or-profitability.md",
+        "knowledge/principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md",
+        "knowledge/principles/evidence-backed-value-supports-holding-the-price-line.md",
+        "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md",
+        "knowledge/principles/marketing-must-create-value-for-both-customers-and-the-organisation.md",
+        "knowledge/principles/price-increases-should-be-communicated-candidly-and-with-value-context.md",
+        "knowledge/principles/price-presentation-shapes-perceived-value-and-demand.md",
+        "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
+        "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
+        "knowledge/principles/pricing-is-the-revenue-producing-element-of-the-marketing-mix.md",
+        "knowledge/principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md",
+        "knowledge/principles/profit-not-revenue-is-the-primary-commercial-test.md",
+        "knowledge/principles/resellers-must-retain-independent-price-setting.md",
+        "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/playbooks/README.md",
+      "path": "knowledge/playbooks/README.md",
+      "title": "Playbooks",
+      "type": "Knowledge Base Folder",
+      "status": "stable",
+      "description": "Ordered, source-backed processes in the verified marketing knowledge base.",
+      "tags": [
+        "cross-cutting",
+        "knowledge-base"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Playbooks",
+        "Changes"
+      ],
+      "outgoing_links": [
+        "index.md"
+      ],
+      "source_count": 0
+    },
+    {
+      "id": "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
+      "path": "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
+      "title": "Build and Populate a Custom Marketing Funnel",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "funnel"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Build and Populate a Custom Marketing Funnel",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Identify the total potential market (the funnel's 100% base)",
+        "2. Identify the main funnel stages via qualitative interviews",
+        "3. Populate the funnel via quantitative research",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
+        "knowledge/principles/funnel-base-must-match-the-selected-target.md",
+        "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
+        "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "path": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "title": "Conjoint Analysis Procedure",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "research",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Conjoint Analysis Procedure",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Recruit a representative sample",
+        "2. Present a choice task built from options/alternatives/attributes",
+        "3. Record choice; generate a new trade-off with altered variables",
+        "4. Repeat 12-15 times",
+        "5. Derive attribute importance and option utility",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
+        "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
+        "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
+        "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
+        "knowledge/principles/revealed-choices-can-be-more-informative-than-stated-explanations.md",
+        "knowledge/schemas/conjoint-choice-structure-options-alternatives-attributes.md"
+      ],
+      "source_count": 5
+    },
+    {
+      "id": "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
+      "path": "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
+      "title": "Distribution Cadence (brand-first, phased channel rollout)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "tactics",
+        "distribution",
+        "touchpoints"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Distribution Cadence (brand-first, phased channel rollout)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Confirm fit to positioning, targeting, and objective",
+        "2. Launch on-premise / brand-building channel first",
+        "3. Let cadence pull the brand into adjacent, then mainstream retail",
+        "4. Recognize the three distinct roles distribution plays over time",
+        "5. Do it gradually, not all at once",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/target-position-objective.md",
+        "knowledge/principles/early-distribution-should-establish-the-brand-before-maximising-availability.md",
+        "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md"
+      ],
+      "source_count": 5
+    },
+    {
+      "id": "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
+      "path": "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
+      "title": "Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Accept you are not the consumer (humility)",
+        "2. Create a vacuum (empty yourself of assumptions before research)",
+        "3. Recognize the barriers to market orientation",
+        "4. Remove the barriers to gain line of sight to the customer",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/principles/market-orientation-must-precede-market-research.md",
+        "knowledge/principles/marketers-are-not-the-consumer.md",
+        "knowledge/principles/understand-customers-in-their-real-context.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "path": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "title": "Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "research",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Start with secondary data",
+        "2. Do qualitative exploration before designing the quantitative survey",
+        "3. Run the quantitative survey (implicit -- not separately narrated as a step transition)",
+        "4. Use focus groups again, mid-stage, once tentative strategic decisions exist",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "CONTEXT.md",
+        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+        "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
+        "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
+        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
+        "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
+        "knowledge/principles/market-orientation-must-precede-market-research.md",
+        "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
+        "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+        "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
+        "knowledge/principles/research-methods-are-trade-offs-not-a-ranking.md",
+        "knowledge/principles/research-reveals-complexity-segmentation-organises-it.md",
+        "knowledge/principles/revealed-choices-can-be-more-informative-than-stated-explanations.md",
+        "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
+        "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
+        "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
+        "knowledge/principles/understand-customers-in-their-real-context.md",
+        "knowledge/schemas/target-customer-portrait.md",
+        "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
+      ],
+      "source_count": 5
+    },
+    {
+      "id": "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
+      "path": "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
+      "title": "Meaningful Actionable Grid (10-stage segmentation-construction playbook)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Meaningful Actionable Grid (10-stage segmentation-construction playbook)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Generate variables (shopping list of 10+)",
+        "2. Score meaningfulness (1-10)",
+        "3. Score actionability (1-10)",
+        "4. Multiply meaningful x actionable",
+        "5. Select high-scoring variables",
+        "6. Build axes (2x2 or more)",
+        "7. Collapse cells into a manageable number of segments",
+        "8. Populate each segment (name / population / value / market share)",
+        "9. Spillover (inter-segment influence)",
+        "10. Triangulate",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
+        "knowledge/principles/a-segmentation-is-a-map-not-the-market.md",
+        "knowledge/principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md",
+        "knowledge/principles/segment-boundaries-must-preserve-meaningful-differences.md",
+        "knowledge/principles/segment-names-should-carry-insight-not-priority.md",
+        "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md",
+        "knowledge/schemas/segment-profile-name-population-value-market-share.md",
+        "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md",
+        "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
+      ],
+      "source_count": 19
+    },
+    {
+      "id": "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+      "path": "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+      "title": "Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "targeting",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Think strategically before targeting",
+        "2. Choose a targeting philosophy (sophisticated mass marketing / STP / two-speed)",
+        "3. Apply the standard targeting checklist (parallel filters, not sequential)",
+        "4. Build the target customer portrait",
+        "5. Ensure clarity and simplicity",
+        "Output",
+        "Explicit consumers",
+        "Citation status",
+        "Boundaries and failure modes",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/conjoint-analysis-procedure.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
+        "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
+        "knowledge/principles/complementary-approaches-can-outperform-either-or-choices.md",
+        "knowledge/principles/complex-thinking-should-produce-simple-strategy.md",
+        "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
+        "knowledge/principles/focused-entry-can-support-mass-market-growth-under-constraints.md",
+        "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
+        "knowledge/principles/non-targeting-is-temporary-non-investment-not-exclusion.md",
+        "knowledge/principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md",
+        "knowledge/principles/segment-b2b-markets-at-the-account-level.md",
+        "knowledge/principles/settle-strategy-before-selecting-tactics.md",
+        "knowledge/principles/strategic-thinking-requires-protected-time.md",
+        "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
+        "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
+        "knowledge/principles/targeting-breadth-must-balance-reach-cost-and-message-advantage.md",
+        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md",
+        "knowledge/principles/targeting-requires-a-clear-yes-or-no-choice.md",
+        "knowledge/schemas/target-customer-portrait.md"
+      ],
+      "source_count": 8
+    },
+    {
+      "id": "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
+      "path": "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
+      "title": "Positioning Statement Build Order (to -> what -> versus -> is)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "positioning"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Positioning Statement Build Order (to -> what -> versus -> is)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. \"To\" -- who we are positioning to",
+        "2. \"What\" -- the thing being positioned",
+        "3. \"Versus\" -- the alternative(s)",
+        "4. \"Is\" -- the actual positioning claim",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
+        "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
+        "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
+        "knowledge/schemas/target-customer-portrait.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
+      "path": "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
+      "title": "Segmentation Process (top-level 5-step sequence)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Segmentation Process (top-level 5-step sequence)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Define the mass market",
+        "2. Select a segmentation method",
+        "3. Segment (separate customers into segments)",
+        "4. Populate each segment with data",
+        "5. Triangulate",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
+        "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
+        "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
+        "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
+        "knowledge/principles/do-not-combine-markets-when-aggregation-erases-differences.md",
+        "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
+        "knowledge/principles/research-reveals-complexity-segmentation-organises-it.md",
+        "knowledge/principles/segment-b2b-markets-at-the-account-level.md",
+        "knowledge/principles/segmentation-is-an-option-not-a-default.md",
+        "knowledge/schemas/b2b-market-definition-total-population-qualifying-accounts-buying-committee.md",
+        "knowledge/schemas/segment-profile-name-population-value-market-share.md",
+        "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/playbooks/settle-the-strategy-before-execution.md",
+      "path": "knowledge/playbooks/settle-the-strategy-before-execution.md",
+      "title": "Settle the Strategy Before Execution",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "targeting",
+        "positioning",
+        "objectives"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Settle the Strategy Before Execution",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Give it time -- let the strategy settle mentally",
+        "2. Get external, adversarial review",
+        "3. Identify flaws and gaps",
+        "4. Trim/adjust",
+        "5. Check against Lafley's six strategy traps",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md",
+        "knowledge/principles/complex-thinking-should-produce-simple-strategy.md",
+        "knowledge/principles/objective-changes-can-require-new-tactics.md",
+        "knowledge/principles/objective-count-is-a-team-level-limit.md",
+        "knowledge/principles/settle-strategy-before-selecting-tactics.md",
+        "knowledge/principles/strategic-thinking-requires-protected-time.md",
+        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/playbooks/seven-step-route-out-of-discounting.md",
+      "path": "knowledge/playbooks/seven-step-route-out-of-discounting.md",
+      "title": "Seven-Step Route Out of Discounting",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "tactics",
+        "pricing",
+        "profitability"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Seven-Step Route Out of Discounting",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Focus on profit, not the sales line",
+        "2. Get the price right first (research)",
+        "3. Manage senior expectations",
+        "4. Focus on differentiation",
+        "5. Use brand tracking",
+        "6. Shift spend from discounting to advertising",
+        "7. Keep the focus on profit",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/brand-tracking.md",
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/frameworks/value-and-profitability.md",
+        "knowledge/principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md",
+        "knowledge/principles/evidence-backed-value-supports-holding-the-price-line.md",
+        "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
+        "knowledge/principles/profit-not-revenue-is-the-primary-commercial-test.md",
+        "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
+        "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md"
+      ],
+      "source_count": 7
+    },
+    {
+      "id": "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
+      "path": "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
+      "title": "Standard Criteria for Segmentation (9-question validation checklist)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Standard Criteria for Segmentation (9-question validation checklist)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Whole-market capture",
+        "2. One map for the whole market",
+        "3. Similar within / different without",
+        "4. Mutual exclusivity",
+        "5. Plausible population totals",
+        "6. Uneven value distribution",
+        "7. Segment dynamics captured",
+        "8. Annual updates without wholesale redesign",
+        "9. Strategic usefulness (\"speaks to you\")",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
+        "knowledge/principles/a-segmentation-is-a-map-not-the-market.md",
+        "knowledge/principles/do-not-combine-markets-when-aggregation-erases-differences.md",
+        "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
+        "knowledge/principles/segment-boundaries-must-preserve-meaningful-differences.md",
+        "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md",
+        "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md"
+      ],
+      "source_count": 6
+    },
+    {
+      "id": "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
+      "path": "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
+      "title": "Three Cs (positioning test: Consumer -> Competitor -> Company)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "positioning"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Three Cs (positioning test: Consumer -> Competitor -> Company)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Consumer C -- what does the consumer want",
+        "2. Competitor C -- find true alternatives, can we be relatively better",
+        "3. Company C -- can you actually deliver",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/principles/differentiation-seeks-relative-advantage-not-uniqueness.md",
+        "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
+        "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
+        "knowledge/principles/positioning-promises-must-be-deliverable.md",
+        "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
+        "knowledge/schemas/target-customer-portrait.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/playbooks/three-phases-to-omnichannel.md",
+      "path": "knowledge/playbooks/three-phases-to-omnichannel.md",
+      "title": "Three Phases to Omnichannel",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "tactics",
+        "distribution",
+        "touchpoints"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Three Phases to Omnichannel",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Phase 1: single-channel competence",
+        "2. Phase 2: embrace other channels without integration",
+        "3. Phase 3: full seamless integration",
+        "4. Focus on two or three main channels (McKinsey advice)",
+        "5. Deliver the omnichannel capability set",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md",
+      "path": "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md",
+      "title": "Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "research",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Demographic section",
+        "2. Attitudinal section",
+        "3. Behavioural section",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
+        "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
+        "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md",
+      "path": "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md",
+      "title": "Touch-Point Measurement and Prioritisation Process",
+      "type": "Playbook",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "touchpoints",
+        "research"
+      ],
+      "folder": "knowledge/playbooks",
+      "headings": [
+        "Touch-Point Measurement and Prioritisation Process",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Inputs and preconditions",
+        "Ordered steps",
+        "1. Add touch-point questions to the existing Module 2 questionnaire",
+        "2. Ask for up to 10 open-ended brand experiences",
+        "3. Rate each experience 1-10",
+        "4. Code into common categories",
+        "5. Compute average, standard deviation, and frequency",
+        "6. Job 1: fix the weakest sub-average touch point",
+        "7. Job 2: embed positioning into every touch point",
+        "8. Re-measure to verify improvement",
+        "Output",
+        "Explicit consumers",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/principles/existing-products-should-be-continuously-improved.md",
+        "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
+        "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
+      ],
+      "source_count": 7
+    },
+    {
+      "id": "knowledge/principles/README.md",
+      "path": "knowledge/principles/README.md",
+      "title": "Principles",
+      "type": "Knowledge Base Folder",
+      "status": "stable",
+      "description": "Source-backed reasoning rules extracted from Modules 1–10 of the marketing course.",
+      "tags": [
+        "cross-cutting",
+        "knowledge-base"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Principles",
+        "Concepts",
+        "Changes"
+      ],
+      "outgoing_links": [
+        "docs/adr/0010-principle-reasoning-layer-and-module-1-pilot.md",
+        "knowledge/principles/a-segmentation-is-a-map-not-the-market.md",
+        "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
+        "knowledge/principles/brand-building-and-activation-should-work-together-without-forcing-both-into-one-execution.md",
+        "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
+        "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
+        "knowledge/principles/channel-breadth-must-not-outrun-viable-investment.md",
+        "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
+        "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
+        "knowledge/principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md",
+        "knowledge/principles/co-branding-works-through-complementary-association-transfer.md",
+        "knowledge/principles/communications-effectiveness-comes-from-an-interacting-system-not-one-lever.md",
+        "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
+        "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
+        "knowledge/principles/complementary-approaches-can-outperform-either-or-choices.md",
+        "knowledge/principles/complementary-channels-can-create-more-than-additive-effects.md",
+        "knowledge/principles/complex-thinking-should-produce-simple-strategy.md",
+        "knowledge/principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md",
+        "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
+        "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
+        "knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md",
+        "knowledge/principles/differentiation-seeks-relative-advantage-not-uniqueness.md",
+        "knowledge/principles/direct-channel-control-does-not-guarantee-scale-or-profitability.md",
+        "knowledge/principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md",
+        "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
+        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
+        "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md",
+        "knowledge/principles/do-not-combine-markets-when-aggregation-erases-differences.md",
+        "knowledge/principles/early-distribution-should-establish-the-brand-before-maximising-availability.md",
+        "knowledge/principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md",
+        "knowledge/principles/emotional-communication-can-outperform-rational-persuasion.md",
+        "knowledge/principles/evidence-backed-value-supports-holding-the-price-line.md",
+        "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
+        "knowledge/principles/existing-products-should-be-continuously-improved.md",
+        "knowledge/principles/focused-entry-can-support-mass-market-growth-under-constraints.md",
+        "knowledge/principles/funnel-base-must-match-the-selected-target.md",
+        "knowledge/principles/funnel-performance-needs-conversion-and-competitive-context.md",
+        "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
+        "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md",
+        "knowledge/principles/long-and-short-budget-allocation-must-fit-the-context.md",
+        "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
+        "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
+        "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
+        "knowledge/principles/market-orientation-must-precede-market-research.md",
+        "knowledge/principles/marketers-are-not-the-consumer.md",
+        "knowledge/principles/marketing-influence-does-not-require-control-of-every-p.md",
+        "knowledge/principles/marketing-is-broader-than-advertising-and-sales.md",
+        "knowledge/principles/marketing-must-create-value-for-both-customers-and-the-organisation.md",
+        "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
+        "knowledge/principles/media-delivery-cannot-compensate-for-weak-creative.md",
+        "knowledge/principles/media-roles-are-determined-by-use-not-channel-label.md",
+        "knowledge/principles/non-targeting-is-temporary-non-investment-not-exclusion.md",
+        "knowledge/principles/nps-is-a-contextual-learning-measure-not-a-growth-predictor.md",
+        "knowledge/principles/objective-changes-can-require-new-tactics.md",
+        "knowledge/principles/objective-count-is-a-team-level-limit.md",
+        "knowledge/principles/objective-targets-must-balance-ambition-and-realism.md",
+        "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
+        "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md",
+        "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
+        "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
+        "knowledge/principles/positioning-promises-must-be-deliverable.md",
+        "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
+        "knowledge/principles/price-increases-should-be-communicated-candidly-and-with-value-context.md",
+        "knowledge/principles/price-presentation-shapes-perceived-value-and-demand.md",
+        "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
+        "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
+        "knowledge/principles/pricing-is-the-revenue-producing-element-of-the-marketing-mix.md",
+        "knowledge/principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md",
+        "knowledge/principles/product-expansion-must-be-balanced-with-rationalisation.md",
+        "knowledge/principles/product-success-requires-quality-and-market-preparation.md",
+        "knowledge/principles/profit-not-revenue-is-the-primary-commercial-test.md",
+        "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+        "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
+        "knowledge/principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md",
+        "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
+        "knowledge/principles/research-methods-are-trade-offs-not-a-ranking.md",
+        "knowledge/principles/research-reveals-complexity-segmentation-organises-it.md",
+        "knowledge/principles/resellers-must-retain-independent-price-setting.md",
+        "knowledge/principles/revealed-choices-can-be-more-informative-than-stated-explanations.md",
+        "knowledge/principles/segment-b2b-markets-at-the-account-level.md",
+        "knowledge/principles/segment-boundaries-must-preserve-meaningful-differences.md",
+        "knowledge/principles/segment-names-should-carry-insight-not-priority.md",
+        "knowledge/principles/segmentation-is-an-option-not-a-default.md",
+        "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md",
+        "knowledge/principles/settle-strategy-before-selecting-tactics.md",
+        "knowledge/principles/strategic-thinking-requires-protected-time.md",
+        "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
+        "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
+        "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
+        "knowledge/principles/targeting-breadth-must-balance-reach-cost-and-message-advantage.md",
+        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md",
+        "knowledge/principles/targeting-requires-a-clear-yes-or-no-choice.md",
+        "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
+        "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
+        "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md",
+        "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
+        "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md",
+        "knowledge/principles/understand-customers-in-their-real-context.md"
+      ],
+      "source_count": 0
+    },
+    {
+      "id": "knowledge/principles/a-segmentation-is-a-map-not-the-market.md",
+      "path": "knowledge/principles/a-segmentation-is-a-map-not-the-market.md",
+      "title": "A segmentation is a map, not the market",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Segment populations and values are evidence-based approximations that should be directionally sound, updated regularly, and not presented with false precision.",
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "A segmentation is a map, not the market",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
+      "path": "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
+      "title": "Align marketing and sales targeting choices",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Marketing and sales should compare their target choices and agree how their activities support one another.",
+      "tags": [
+        "strategy",
+        "targeting"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Align marketing and sales targeting choices",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/brand-building-and-activation-should-work-together-without-forcing-both-into-one-execution.md",
+      "path": "knowledge/principles/brand-building-and-activation-should-work-together-without-forcing-both-into-one-execution.md",
+      "title": "Brand building and activation should work together without forcing both into one execution",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Long-term brand building creates future demand for activation to harvest, but separate executions usually preserve each job more effectively than a double-duty advertisement.",
+      "tags": [
+        "tactics",
+        "brand"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Brand building and activation should work together without forcing both into one execution",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
+      "path": "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
+      "title": "Brand codes should be few, stable, and consistently applied",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A small selected palette becomes distinctive through long-term, consistent use across relevant customer touchpoints.",
+      "tags": [
+        "tactics",
+        "brand"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Brand codes should be few, stable, and consistently applied",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
+      "path": "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
+      "title": "Brand-specific code evidence can override category averages",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Average performance by code type should not displace evidence that a particular code is strongly associated with a specific brand.",
+      "tags": [
+        "tactics",
+        "brand"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Brand-specific code evidence can override category averages",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/channel-breadth-must-not-outrun-viable-investment.md",
+      "path": "knowledge/principles/channel-breadth-must-not-outrun-viable-investment.md",
+      "title": "Channel breadth must not outrun viable investment",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Adding channels can improve effectiveness only when the budget can fund each selected medium at a useful level.",
+      "tags": [
+        "tactics",
+        "distribution",
+        "profitability"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Channel breadth must not outrun viable investment",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
+      "path": "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
+      "title": "Channel management depends on interdependent partners",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Distribution performance depends on firms recognising their mutual dependence and sustaining workable roles and returns across the channel.",
+      "tags": [
+        "tactics",
+        "distribution"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Channel management depends on interdependent partners",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
+      "path": "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
+      "title": "Choose positioning associations by fit, not hierarchy",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Features, benefits, category entry points, emotional associations, and purpose are options to combine by fit rather than a universal ranking.",
+      "tags": [
+        "strategy",
+        "positioning"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Choose positioning associations by fit, not hierarchy",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md",
+      "path": "knowledge/principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md",
+      "title": "Clients should provide strategy and preserve agency creative autonomy",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Clients should define the strategic platform and constraints while leaving creative approaches and tactical ideas to the agency.",
+      "tags": [
+        "tactics",
+        "communications"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Clients should provide strategy and preserve agency creative autonomy",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/co-branding-works-through-complementary-association-transfer.md",
+      "path": "knowledge/principles/co-branding-works-through-complementary-association-transfer.md",
+      "title": "Co-branding works through complementary association transfer",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A strong co-brand combines complementary capabilities and associations that customers can credibly attribute to the joint offer.",
+      "tags": [
+        "tactics",
+        "brand"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Co-branding works through complementary association transfer",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/communications-effectiveness-comes-from-an-interacting-system-not-one-lever.md",
+      "path": "knowledge/principles/communications-effectiveness-comes-from-an-interacting-system-not-one-lever.md",
+      "title": "Communications effectiveness comes from an interacting system, not one lever",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Briefing, budget, long- and short-term roles, media, integration, codes, creative, emotion, testing, longevity, and measurement reinforce one another.",
+      "tags": [
+        "tactics",
+        "communications"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Communications effectiveness comes from an interacting system, not one lever",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
+      "path": "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
+      "title": "Communications investment and expected return must move together",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A reduced communications investment requires a revised return expectation rather than preserving the original forecast.",
+      "tags": [
+        "tactics",
+        "communications",
+        "profitability"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Communications investment and expected return must move together",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/target-position-objective.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
+      "path": "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
+      "title": "Communications should be measured at campaign level and used to improve",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Campaign performance should be judged against its own objectives and evidence, then used to refine creative and media choices.",
+      "tags": [
+        "tactics",
+        "communications"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Communications should be measured at campaign level and used to improve",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/brand-tracking.md",
+        "knowledge/frameworks/target-position-objective.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/complementary-approaches-can-outperform-either-or-choices.md",
+      "path": "knowledge/principles/complementary-approaches-can-outperform-either-or-choices.md",
+      "title": "Complementary approaches can outperform either-or choices",
+      "type": "Principle",
+      "status": "stable",
+      "description": "When two approaches perform different useful jobs, a deliberate combination may be stronger than treating them as mutually exclusive.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Complementary approaches can outperform either-or choices",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/complementary-channels-can-create-more-than-additive-effects.md",
+      "path": "knowledge/principles/complementary-channels-can-create-more-than-additive-effects.md",
+      "title": "Complementary channels can create more-than-additive effects",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A deliberate mix of channels can combine distinct strengths and amplify a campaign beyond concentrating the same investment in one channel.",
+      "tags": [
+        "tactics",
+        "distribution"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Complementary channels can create more-than-additive effects",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/complex-thinking-should-produce-simple-strategy.md",
+      "path": "knowledge/principles/complex-thinking-should-produce-simple-strategy.md",
+      "title": "Complex thinking should produce simple strategy",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Deep analysis should resolve into a clear strategic direction that people can understand and execute.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Complex thinking should produce simple strategy",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md",
+      "path": "knowledge/principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md",
+      "title": "Consolidated retail power must be managed, not assumed controllable",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Brands should manage the effects of powerful retailers rather than assume there is a lawful tactic that restores supplier control.",
+      "tags": [
+        "tactics",
+        "distribution"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Consolidated retail power must be managed, not assumed controllable",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
+      "path": "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
+      "title": "Customer alternatives define segment-relative competition",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Competition is defined by the alternatives customers consider and can change across customer segments.",
+      "tags": [
+        "diagnosis",
+        "segmentation",
+        "customer-understanding",
+        "competition"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Customer alternatives define segment-relative competition",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
+      "path": "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
+      "title": "Customer scope extends beyond the immediate buyer",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Market understanding must include the relevant parties between the producer and the person who ultimately consumes or uses the product.",
+      "tags": [
+        "diagnosis",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Customer scope extends beyond the immediate buyer",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md",
+      "path": "knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md",
+      "title": "Customers buy solutions to jobs, not products as defined internally",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Product decisions should begin with the customer's underlying job or need rather than the organisation's category and product definition.",
+      "tags": [
+        "tactics",
+        "product",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Customers buy solutions to jobs, not products as defined internally",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/market-orientation.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/differentiation-seeks-relative-advantage-not-uniqueness.md",
+      "path": "knowledge/principles/differentiation-seeks-relative-advantage-not-uniqueness.md",
+      "title": "Differentiation seeks relative advantage, not uniqueness",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A brand can differentiate by being perceived as stronger on a few important attributes without uniquely owning them.",
+      "tags": [
+        "strategy",
+        "positioning"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Differentiation seeks relative advantage, not uniqueness",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/direct-channel-control-does-not-guarantee-scale-or-profitability.md",
+      "path": "knowledge/principles/direct-channel-control-does-not-guarantee-scale-or-profitability.md",
+      "title": "Direct-channel control does not guarantee scale or profitability",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Direct distribution can improve control, data, and proximity, but those advantages do not prove that a direct-only model can achieve profitable scale.",
+      "tags": [
+        "tactics",
+        "distribution",
+        "profitability"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Direct-channel control does not guarantee scale or profitability",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md",
+      "path": "knowledge/principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md",
+      "title": "Discount effects must be judged by profit and source of sales",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A promotional sales uplift should be evaluated through its margin effect and the origin of the additional sales, not treated as wholly incremental demand.",
+      "tags": [
+        "tactics",
+        "pricing",
+        "profitability"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Discount effects must be judged by profit and source of sales",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/value-and-profitability.md",
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
+      "path": "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
+      "title": "Discover behavioural groups before using demographics as identifiers",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Form segments from observed attitudes and behaviours first, then test demographic variables as identifiers rather than assuming needs from demographics.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Discover behavioural groups before using demographics as identifiers",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
+      "path": "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
+      "title": "Discover options qualitatively before measuring them",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Quantitative precision cannot repair an incomplete or incorrect set of options; qualitative exploration must establish what should be measured first.",
+      "tags": [
+        "diagnosis",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Discover options qualitatively before measuring them",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/conjoint-analysis-procedure.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md",
+      "path": "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md",
+      "title": "Distinctiveness is recognition, not competitive superiority",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Distinctiveness concerns whether people can identify a brand as itself; it is separate from relative preference over alternatives.",
+      "tags": [
+        "tactics",
+        "brand",
+        "competition"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Distinctiveness is recognition, not competitive superiority",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/do-not-combine-markets-when-aggregation-erases-differences.md",
+      "path": "knowledge/principles/do-not-combine-markets-when-aggregation-erases-differences.md",
+      "title": "Do not combine markets when aggregation erases differences",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Use one segmentation across markets only when aggregation preserves useful similarities and does not conceal material country or category differences.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Do not combine markets when aggregation erases differences",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/early-distribution-should-establish-the-brand-before-maximising-availability.md",
+      "path": "knowledge/principles/early-distribution-should-establish-the-brand-before-maximising-availability.md",
+      "title": "Early distribution should establish the brand before maximising availability",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A new brand should use its earliest channel choices to establish its intended positioning before pursuing broad physical availability.",
+      "tags": [
+        "tactics",
+        "distribution",
+        "brand"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Early distribution should establish the brand before maximising availability",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+        "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md",
+      "path": "knowledge/principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md",
+      "title": "Effective campaign platforms should be renewed, not routinely replaced",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Campaign age alone is not evidence of declining effectiveness; proven ideas can be refreshed through new executions and sustained over many years.",
+      "tags": [
+        "tactics",
+        "communications"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Effective campaign platforms should be renewed, not routinely replaced",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/brand-tracking.md",
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/emotional-communication-can-outperform-rational-persuasion.md",
+      "path": "knowledge/principles/emotional-communication-can-outperform-rational-persuasion.md",
+      "title": "Emotional communication can outperform rational persuasion",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Communications should consider the emotional response they seek rather than defaulting to rational explanation as the strongest route to effectiveness.",
+      "tags": [
+        "tactics",
+        "communications"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Emotional communication can outperform rational persuasion",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/frameworks/target-position-objective.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/evidence-backed-value-supports-holding-the-price-line.md",
+      "path": "knowledge/principles/evidence-backed-value-supports-holding-the-price-line.md",
+      "title": "Evidence-backed value supports holding the price line",
+      "type": "Principle",
+      "status": "stable",
+      "description": "When customer research, strategy, positioning, and product quality support the price, marketers should resist routine discount pressure and preserve the value already created.",
+      "tags": [
+        "tactics",
+        "pricing"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Evidence-backed value supports holding the price line",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md",
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
+      "path": "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
+      "title": "Existing-customer evidence can refine positioning",
+      "type": "Principle",
+      "status": "stable",
+      "description": "For an existing offer, loyal customers can reveal true alternatives, strengths, and reasons for preference that improve its position.",
+      "tags": [
+        "strategy",
+        "positioning",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Existing-customer evidence can refine positioning",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/existing-products-should-be-continuously-improved.md",
+      "path": "knowledge/principles/existing-products-should-be-continuously-improved.md",
+      "title": "Existing products should be continuously improved",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Product work should include systematic improvement of in-market offers, not only the creation of new products.",
+      "tags": [
+        "tactics",
+        "product"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Existing products should be continuously improved",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/touchpoints.md",
+        "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/focused-entry-can-support-mass-market-growth-under-constraints.md",
+      "path": "knowledge/principles/focused-entry-can-support-mass-market-growth-under-constraints.md",
+      "title": "Focused entry can support mass-market growth under constraints",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A resource-constrained organisation can begin with a geographic, subcategory, or segment focus while retaining a broader long-term market ambition.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Focused entry can support mass-market growth under constraints",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/funnel-base-must-match-the-selected-target.md",
+      "path": "knowledge/principles/funnel-base-must-match-the-selected-target.md",
+      "title": "The funnel base must match the selected target",
+      "type": "Principle",
+      "status": "stable",
+      "description": "The 100 percent population at the top of a funnel must represent the market or segment the strategy actually targets.",
+      "tags": [
+        "strategy",
+        "funnel",
+        "targeting"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "The funnel base must match the selected target",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/funnel.md",
+        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/funnel-performance-needs-conversion-and-competitive-context.md",
+      "path": "knowledge/principles/funnel-performance-needs-conversion-and-competitive-context.md",
+      "title": "Funnel performance needs conversion and competitive context",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Funnel stages should be interpreted through stage-to-stage conversion and relevant competitor comparisons, not isolated percentages.",
+      "tags": [
+        "diagnosis",
+        "funnel",
+        "competition"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Funnel performance needs conversion and competitive context",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/funnel.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
+      "path": "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
+      "title": "Funnels must fit the market and buying process",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A useful funnel is designed for the actual market, offer, and customer decision process rather than copied from a generic model.",
+      "tags": [
+        "diagnosis",
+        "funnel"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Funnels must fit the market and buying process",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/funnel.md",
+        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md",
+      "path": "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md",
+      "title": "Grey-market leakage can become self-reinforcing",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Legal but unauthorised channel leakage can erode distribution discipline and become increasingly difficult to control once products circulate through parallel routes.",
+      "tags": [
+        "tactics",
+        "distribution"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Grey-market leakage can become self-reinforcing",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/value-and-profitability.md",
+        "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/long-and-short-budget-allocation-must-fit-the-context.md",
+      "path": "knowledge/principles/long-and-short-budget-allocation-must-fit-the-context.md",
+      "title": "Long-and-short budget allocation must fit the context",
+      "type": "Principle",
+      "status": "stable",
+      "description": "The balance between brand building and activation should reflect the company, category, situation, and current evidence rather than treating 60/40 as a fixed rule.",
+      "tags": [
+        "tactics",
+        "profitability"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Long-and-short budget allocation must fit the context",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
+      "path": "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
+      "title": "Long-term brand building and short-term activation require different measures",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Brand-building investment should be assessed through brand outcomes, while activation can be assessed through immediate response and return.",
+      "tags": [
+        "tactics",
+        "brand"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Long-term brand building and short-term activation require different measures",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/brand-tracking.md",
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
+      "path": "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
+      "title": "Map the whole market before choosing targets",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Segmentation is diagnosis: it describes every part of the defined market before targeting chooses which segments to pursue or reject.",
+      "tags": [
+        "strategy",
+        "targeting"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Map the whole market before choosing targets",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
+      "path": "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
+      "title": "Market intelligence must circulate, and response is judgement",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Market orientation requires organisation-wide circulation of customer and competitor intelligence, followed by an appropriate response rather than automatic compliance.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Market intelligence must circulate, and response is judgement",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/market-orientation-must-precede-market-research.md",
+      "path": "knowledge/principles/market-orientation-must-precede-market-research.md",
+      "title": "Market orientation must precede market research",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Research is most useful when the marketer is oriented to seek, accept, and act on market evidence.",
+      "tags": [
+        "diagnosis",
+        "market-orientation",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Market orientation must precede market research",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/principles/marketers-are-not-the-consumer.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/marketers-are-not-the-consumer.md",
+      "path": "knowledge/principles/marketers-are-not-the-consumer.md",
+      "title": "Marketers are not the consumer",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A marketer must remove personal and producer-side assumptions before interpreting the market.",
+      "tags": [
+        "diagnosis",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Marketers are not the consumer",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/marketing-influence-does-not-require-control-of-every-p.md",
+      "path": "knowledge/principles/marketing-influence-does-not-require-control-of-every-p.md",
+      "title": "Marketing influence does not require control of every P",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Marketers should contribute to product, pricing, communications, and distribution decisions even when other functions retain formal control.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Marketing influence does not require control of every P",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/marketing-is-broader-than-advertising-and-sales.md",
+      "path": "knowledge/principles/marketing-is-broader-than-advertising-and-sales.md",
+      "title": "Marketing is broader than advertising and sales",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Marketing can refer to narrow communication and persuasion or to the broader work of listening, understanding, orienting, and shaping the marketing mix.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Marketing is broader than advertising and sales",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/market-orientation.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/marketing-must-create-value-for-both-customers-and-the-organisation.md",
+      "path": "knowledge/principles/marketing-must-create-value-for-both-customers-and-the-organisation.md",
+      "title": "Marketing must create value for both customers and the organisation",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Marketing must align value delivered to customers with value retained by the organisation rather than sacrificing either side of the exchange.",
+      "tags": [
+        "cross-cutting",
+        "customer-understanding",
+        "profitability"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Marketing must create value for both customers and the organisation",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
+      "path": "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
+      "title": "Marketing's prime directive is to represent the customer",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Marketing's distinctive organisational responsibility is to bring the customer's perspective into the organisation and keep it connected to the market.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Marketing's prime directive is to represent the customer",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/market-orientation.md",
+        "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/media-delivery-cannot-compensate-for-weak-creative.md",
+      "path": "knowledge/principles/media-delivery-cannot-compensate-for-weak-creative.md",
+      "title": "Media delivery cannot compensate for weak creative",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Distribution speed, reach, and channel optimisation cannot rescue an advertisement whose creative content is ineffective.",
+      "tags": [
+        "tactics",
+        "communications"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Media delivery cannot compensate for weak creative",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/media-roles-are-determined-by-use-not-channel-label.md",
+      "path": "knowledge/principles/media-roles-are-determined-by-use-not-channel-label.md",
+      "title": "Media roles are determined by use, not channel label",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A medium becomes brand-building or activation through the campaign's objective and execution rather than through a permanent channel classification.",
+      "tags": [
+        "tactics",
+        "distribution",
+        "communications"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Media roles are determined by use, not channel label",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/non-targeting-is-temporary-non-investment-not-exclusion.md",
+      "path": "knowledge/principles/non-targeting-is-temporary-non-investment-not-exclusion.md",
+      "title": "Non-targeting is temporary non-investment, not exclusion",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Not targeting a customer group means withholding focused resources for a defined period, not refusing its business permanently.",
+      "tags": [
+        "tactics",
+        "profitability",
+        "targeting"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Non-targeting is temporary non-investment, not exclusion",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/nps-is-a-contextual-learning-measure-not-a-growth-predictor.md",
+      "path": "knowledge/principles/nps-is-a-contextual-learning-measure-not-a-growth-predictor.md",
+      "title": "NPS is a contextual learning measure, not a growth predictor",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Net Promoter Score should be interpreted against relevant benchmarks and customer explanations, not treated as a universal predictor of growth.",
+      "tags": [
+        "diagnosis",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "NPS is a contextual learning measure, not a growth predictor",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/touchpoints.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/objective-changes-can-require-new-tactics.md",
+      "path": "knowledge/principles/objective-changes-can-require-new-tactics.md",
+      "title": "Objective changes can require new tactics",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A changed objective can require different tactical execution even when the target market and intended position remain stable.",
+      "tags": [
+        "strategy",
+        "objectives"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Objective changes can require new tactics",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/target-position-objective.md",
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/objective-count-is-a-team-level-limit.md",
+      "path": "knowledge/principles/objective-count-is-a-team-level-limit.md",
+      "title": "Objective count is a team-level limit",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A team should hold only a small handful of objectives across its products and segments, rather than assigning a full set to each one.",
+      "tags": [
+        "strategy",
+        "objectives"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Objective count is a team-level limit",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/target-position-objective.md",
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/objective-targets-must-balance-ambition-and-realism.md",
+      "path": "knowledge/principles/objective-targets-must-balance-ambition-and-realism.md",
+      "title": "Objective targets must balance ambition and realism",
+      "type": "Principle",
+      "status": "stable",
+      "description": "An objective should stretch performance enough to matter while remaining credible enough to guide plans and budgets.",
+      "tags": [
+        "strategy",
+        "targeting",
+        "objectives"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Objective targets must balance ambition and realism",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/funnel.md",
+        "knowledge/frameworks/target-position-objective.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
+      "path": "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
+      "title": "Objectives should follow funnel diagnosis",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Marketing objectives should be selected from a populated funnel rather than inferred from isolated sales outcomes.",
+      "tags": [
+        "strategy",
+        "funnel",
+        "objectives"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Objectives should follow funnel diagnosis",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/funnel.md",
+        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md",
+      "path": "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md",
+      "title": "Omnichannel quality depends on integration, not channel count",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Omnichannel maturity comes from a seamless experience and connected customer data across priority channels, not from operating the largest possible number of channels.",
+      "tags": [
+        "tactics",
+        "distribution"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Omnichannel quality depends on integration, not channel count",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/playbooks/three-phases-to-omnichannel.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
+      "path": "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
+      "title": "Positioning is internal strategy expressed through touchpoints",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Customers experience positioning through coordinated tactical choices and touchpoints, not through the internal positioning document itself.",
+      "tags": [
+        "tactics",
+        "touchpoints",
+        "positioning"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Positioning is internal strategy expressed through touchpoints",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+        "knowledge/frameworks/touchpoints.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
+      "path": "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
+      "title": "Positioning must use customer data, not internal opinion",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Positioning choices should be grounded in customer evidence about purchase drivers, alternatives, and perceptions.",
+      "tags": [
+        "strategy",
+        "positioning",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Positioning must use customer data, not internal opinion",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/positioning-promises-must-be-deliverable.md",
+      "path": "knowledge/principles/positioning-promises-must-be-deliverable.md",
+      "title": "Positioning promises must be deliverable",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A brand should position only on promises the organisation already has the competence and capability to deliver.",
+      "tags": [
+        "strategy",
+        "positioning"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Positioning promises must be deliverable",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
+      "path": "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
+      "title": "Positioning works backwards from intended customer associations",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Positioning should begin with what the target customer should think about the brand, then express that intended association compactly.",
+      "tags": [
+        "strategy",
+        "positioning",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Positioning works backwards from intended customer associations",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/price-increases-should-be-communicated-candidly-and-with-value-context.md",
+      "path": "knowledge/principles/price-increases-should-be-communicated-candidly-and-with-value-context.md",
+      "title": "Price increases should be communicated candidly and with value context",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A price increase should be named directly, announced with adequate notice, explained, and accompanied by a reminder of the offer's continuing value.",
+      "tags": [
+        "tactics",
+        "pricing"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Price increases should be communicated candidly and with value context",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/price-presentation-shapes-perceived-value-and-demand.md",
+      "path": "knowledge/principles/price-presentation-shapes-perceived-value-and-demand.md",
+      "title": "Price presentation shapes perceived value and demand",
+      "type": "Principle",
+      "status": "stable",
+      "description": "How a price is framed, anchored, and presented can change perceived value and customer choice even when the underlying offer or nominal difference is unchanged.",
+      "tags": [
+        "tactics",
+        "pricing"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Price presentation shapes perceived value and demand",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
+      "path": "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
+      "title": "Price should follow customer perceived value, not cost-plus arithmetic",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Costs establish a floor, while customer perceived value should guide the price; a markup applied to cost is not a substitute for market evidence.",
+      "tags": [
+        "tactics",
+        "pricing",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Price should follow customer perceived value, not cost-plus arithmetic",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md",
+        "knowledge/playbooks/conjoint-analysis-procedure.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
+      "path": "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
+      "title": "Pricing decisions require customer evidence, not internal intuition",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Price setting should use evidence about customer value and behaviour rather than inherited assumptions, competitor imitation, or unsupported managerial judgement.",
+      "tags": [
+        "tactics",
+        "pricing",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Pricing decisions require customer evidence, not internal intuition",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+        "knowledge/playbooks/conjoint-analysis-procedure.md",
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/pricing-is-the-revenue-producing-element-of-the-marketing-mix.md",
+      "path": "knowledge/principles/pricing-is-the-revenue-producing-element-of-the-marketing-mix.md",
+      "title": "Pricing is the revenue-producing element of the marketing mix",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Pricing is distinctive among the four Ps because it returns value from willing customers to the organisation as revenue.",
+      "tags": [
+        "tactics",
+        "pricing"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Pricing is the revenue-producing element of the marketing mix",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md",
+      "path": "knowledge/principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md",
+      "title": "Pricing power combines value perception with the ability to hold price",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A business has pricing power when customer perceptions support a higher price and the organisation can raise or maintain that price without losing the business.",
+      "tags": [
+        "tactics",
+        "pricing"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Pricing power combines value perception with the ability to hold price",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/product-expansion-must-be-balanced-with-rationalisation.md",
+      "path": "knowledge/principles/product-expansion-must-be-balanced-with-rationalisation.md",
+      "title": "Product expansion must be balanced with rationalisation",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Portfolio growth should be counterbalanced by removing weak products so resources and attention remain concentrated.",
+      "tags": [
+        "tactics",
+        "product"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Product expansion must be balanced with rationalisation",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/product-success-requires-quality-and-market-preparation.md",
+      "path": "knowledge/principles/product-success-requires-quality-and-market-preparation.md",
+      "title": "Product success requires quality and market preparation",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A strong product is necessary but insufficient; organisations must also prepare the market and communicate the product's value.",
+      "tags": [
+        "tactics",
+        "product"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Product success requires quality and market preparation",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/market-orientation.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/profit-not-revenue-is-the-primary-commercial-test.md",
+      "path": "knowledge/principles/profit-not-revenue-is-the-primary-commercial-test.md",
+      "title": "Profit, not revenue, is the primary commercial test",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Revenue should be evaluated by the profit it carries because higher sales or turnover can coexist with weaker margins and lower profitability.",
+      "tags": [
+        "cross-cutting",
+        "profitability"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Profit, not revenue, is the primary commercial test",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/value-and-profitability.md",
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+      "path": "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+      "title": "Qualitative depth does not establish population magnitude",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Focus groups and ethnography provide depth and qualities, but small qualitative samples do not establish how common a finding is across the market.",
+      "tags": [
+        "diagnosis",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Qualitative depth does not establish population magnitude",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
+      "path": "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
+      "title": "Quantitative extrapolation requires a representative sample",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A survey result can represent a wider market only when its sample covers the relevant consumer types and is sufficiently robust for the intended population.",
+      "tags": [
+        "diagnosis",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Quantitative extrapolation requires a representative sample",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+        "knowledge/playbooks/conjoint-analysis-procedure.md",
+        "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md",
+      "path": "knowledge/principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md",
+      "title": "Record cross-segment influence only when the relationship is specific",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Show spillover between segments only when a credible, directional relationship identifies how one segment influences another.",
+      "tags": [
+        "cross-cutting",
+        "segmentation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Record cross-segment influence only when the relationship is specific",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
+      "path": "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
+      "title": "Repeated discounting can become a self-reinforcing strategic trap",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Promotions can pull demand forward, train customers and organisations to expect further discounts, intensify price competition, and conceal unresolved strategic problems.",
+      "tags": [
+        "tactics",
+        "pricing"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Repeated discounting can become a self-reinforcing strategic trap",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/research-methods-are-trade-offs-not-a-ranking.md",
+      "path": "knowledge/principles/research-methods-are-trade-offs-not-a-ranking.md",
+      "title": "Research methods are trade-offs, not a ranking",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Research methods should be selected and combined by their strengths and limitations rather than treated as a universal best-to-worst hierarchy.",
+      "tags": [
+        "diagnosis",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Research methods are trade-offs, not a ranking",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/conjoint-analysis-procedure.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/research-reveals-complexity-segmentation-organises-it.md",
+      "path": "knowledge/principles/research-reveals-complexity-segmentation-organises-it.md",
+      "title": "Research reveals complexity; segmentation organises it",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Research exposes real variation in the market, and segmentation converts recurring patterns in that variation into a usable structure.",
+      "tags": [
+        "diagnosis",
+        "segmentation",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Research reveals complexity; segmentation organises it",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/resellers-must-retain-independent-price-setting.md",
+      "path": "knowledge/principles/resellers-must-retain-independent-price-setting.md",
+      "title": "Resellers must retain independent price-setting",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A supplier may recommend a resale price but must not turn that recommendation into a minimum through pressure, threats, supply withdrawal, or incentives.",
+      "tags": [
+        "tactics",
+        "pricing"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Resellers must retain independent price-setting",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+        "knowledge/frameworks/value-and-profitability.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/revealed-choices-can-be-more-informative-than-stated-explanations.md",
+      "path": "knowledge/principles/revealed-choices-can-be-more-informative-than-stated-explanations.md",
+      "title": "Revealed choices can be more informative than stated explanations",
+      "type": "Principle",
+      "status": "stable",
+      "description": "When consumers cannot accurately explain their decision drivers, repeated choices and observed behaviour can reveal what influences them.",
+      "tags": [
+        "diagnosis",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Revealed choices can be more informative than stated explanations",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/conjoint-analysis-procedure.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md"
+      ],
+      "source_count": 5
+    },
+    {
+      "id": "knowledge/principles/segment-b2b-markets-at-the-account-level.md",
+      "path": "knowledge/principles/segment-b2b-markets-at-the-account-level.md",
+      "title": "Segment B2B markets at the account level",
+      "type": "Principle",
+      "status": "stable",
+      "description": "B2B segmentation should group qualifying organisations as accounts; decision makers are described later within selected target accounts.",
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Segment B2B markets at the account level",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/segment-boundaries-must-preserve-meaningful-differences.md",
+      "path": "knowledge/principles/segment-boundaries-must-preserve-meaningful-differences.md",
+      "title": "Segment boundaries must preserve meaningful differences",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Cut-off lines and group collapses should simplify the map only while distinctions that change treatment, behaviour, or positioning remain intact.",
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Segment boundaries must preserve meaningful differences",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/segment-names-should-carry-insight-not-priority.md",
+      "path": "knowledge/principles/segment-names-should-carry-insight-not-priority.md",
+      "title": "Segment names should carry insight, not priority",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Name segments with a memorable behaviour or defining insight, not with target priority, arbitrary themes, or derogatory labels.",
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Segment names should carry insight, not priority",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/segmentation-is-an-option-not-a-default.md",
+      "path": "knowledge/principles/segmentation-is-an-option-not-a-default.md",
+      "title": "Segmentation is an option, not a default",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A market may warrant targeted segmentation or mass marketing; the choice depends on whether useful, actionable differences justify selective treatment.",
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Segmentation is an option, not a default",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md",
+      "path": "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md",
+      "title": "Segments must be coherent and large enough to serve",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A useful segment groups customers who are meaningfully similar to one another, different from other groups, and numerous enough to serve economically.",
+      "tags": [
+        "diagnosis",
+        "segmentation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Segments must be coherent and large enough to serve",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/settle-strategy-before-selecting-tactics.md",
+      "path": "knowledge/principles/settle-strategy-before-selecting-tactics.md",
+      "title": "Settle strategy before selecting tactics",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Tactical choices should implement an established strategy rather than determine it from the bottom up.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Settle strategy before selecting tactics",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/strategic-thinking-requires-protected-time.md",
+      "path": "knowledge/principles/strategic-thinking-requires-protected-time.md",
+      "title": "Strategic thinking requires protected time",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Strategy requires deliberate time away from day-to-day execution so events do not dictate the plan.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Strategic thinking requires protected time",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
+      "path": "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
+      "title": "Strategy requires choice and sacrifice",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A strategy concentrates resources by deciding both what to pursue and what deliberately not to pursue.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Strategy requires choice and sacrifice",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/funnel.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
+      "path": "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
+      "title": "Strategy should be disciplined while tactics remain agile",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Execution should adapt to events while the governing strategy remains stable for its defined planning period.",
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Strategy should be disciplined while tactics remain agile",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
+        "knowledge/frameworks/target-position-objective.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
+      "path": "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
+      "title": "Target portraits must come from evidence, not invention",
+      "type": "Principle",
+      "status": "stable",
+      "description": "A target portrait should synthesise qualitative and quantitative evidence about a chosen target rather than invent an idealised customer persona.",
+      "tags": [
+        "strategy",
+        "targeting"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Target portraits must come from evidence, not invention",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+        "knowledge/schemas/target-customer-portrait.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/targeting-breadth-must-balance-reach-cost-and-message-advantage.md",
+      "path": "knowledge/principles/targeting-breadth-must-balance-reach-cost-and-message-advantage.md",
+      "title": "Targeting breadth must balance reach, cost, and message advantage",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Broad and focused targeting carry different benefits and costs; narrower reach must earn its added expense through greater relevance or value.",
+      "tags": [
+        "strategy",
+        "targeting"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Targeting breadth must balance reach, cost, and message advantage",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md",
+      "path": "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md",
+      "title": "Targeting, positioning, and objectives must cohere",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Targeting begins strategy, but target, position, and objectives may need iterative adjustment as one choice changes another.",
+      "tags": [
+        "strategy",
+        "targeting",
+        "positioning",
+        "objectives"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Targeting, positioning, and objectives must cohere",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/funnel.md",
+        "knowledge/frameworks/target-position-objective.md",
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/targeting-requires-a-clear-yes-or-no-choice.md",
+      "path": "knowledge/principles/targeting-requires-a-clear-yes-or-no-choice.md",
+      "title": "Targeting requires a clear yes-or-no choice",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Targeting should make explicit selections and rejections rather than disguise an all-market approach with priority rankings.",
+      "tags": [
+        "strategy",
+        "targeting"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Targeting requires a clear yes-or-no choice",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
+      "path": "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
+      "title": "The value of creative pre-testing depends on method and context",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Creative pre-testing should be judged by how realistically and predictively it measures response, as well as by its value for refinement and stakeholder decisions.",
+      "tags": [
+        "tactics",
+        "communications"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "The value of creative pre-testing depends on method and context",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
+      "path": "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
+      "title": "Touchpoint priorities must be measured, not assumed",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Organisations should use customer evidence to identify the breadth, importance, and performance of touchpoints rather than prioritising from internal opinion.",
+      "tags": [
+        "tactics",
+        "touchpoints"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Touchpoint priorities must be measured, not assumed",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/touchpoints.md",
+        "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md",
+      "path": "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md",
+      "title": "Touchpoints and funnels answer different questions",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Funnels diagnose movement through a market for objective setting, while touchpoints examine an individual's continuing experience for product improvement.",
+      "tags": [
+        "tactics",
+        "touchpoints",
+        "funnel"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Touchpoints and funnels answer different questions",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/funnel.md",
+        "knowledge/frameworks/touchpoints.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
+      "path": "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
+      "title": "Triangulate secondary data without assuming it is correct",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Multiple secondary sources can improve confidence, but pre-existing information still requires checks for reliability, timeliness, completeness, and access to underlying data.",
+      "tags": [
+        "diagnosis",
+        "research"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Triangulate secondary data without assuming it is correct",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
+      ],
+      "source_count": 2
+    },
+    {
+      "id": "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md",
+      "path": "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md",
+      "title": "Underpricing can be harder to correct than overpricing",
+      "type": "Principle",
+      "status": "stable",
+      "description": "An initial price set too low can forgo profit and establish a low perceived-value position that is difficult to raise later.",
+      "tags": [
+        "tactics",
+        "pricing"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Underpricing can be harder to correct than overpricing",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/value-and-profitability.md",
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
+      ],
+      "source_count": 1
+    },
+    {
+      "id": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "path": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "title": "Understand customers in their real context",
+      "type": "Principle",
+      "status": "stable",
+      "description": "Customer understanding improves when marketers observe people in the settings where products, services, and decisions are actually experienced.",
+      "tags": [
+        "diagnosis",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/principles",
+      "headings": [
+        "Understand customers in their real context",
+        "When to use this",
+        "Principle",
+        "Why it matters",
+        "Related distinctions",
+        "Invokes",
+        "Boundaries and failure modes",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+        "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/principles/marketers-are-not-the-consumer.md",
+        "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md"
+      ],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/schemas/README.md",
+      "path": "knowledge/schemas/README.md",
+      "title": "Schemas",
+      "type": "Knowledge Base Folder",
+      "status": "stable",
+      "description": "Data shapes a Framework or Playbook produces or consumes in the verified marketing knowledge base — never real client data.",
+      "tags": [
+        "cross-cutting",
+        "knowledge-base"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Schemas",
+        "Changes"
+      ],
+      "outgoing_links": [
+        "index.md",
+        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
+        "project-context/structural-decisions.md"
+      ],
+      "source_count": 0
+    },
+    {
+      "id": "knowledge/schemas/b2b-market-definition-total-population-qualifying-accounts-buying-committee.md",
+      "path": "knowledge/schemas/b2b-market-definition-total-population-qualifying-accounts-buying-committee.md",
+      "title": "B2B Market Definition (total population → qualifying accounts → buying committee)",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "B2B Market Definition (total population → qualifying accounts → buying committee)",
+        "When to use this",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Sources"
+      ],
+      "outgoing_links": [],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/schemas/brand-palette-selected-small-code-set.md",
+      "path": "knowledge/schemas/brand-palette-selected-small-code-set.md",
+      "title": "Brand Palette (selected small code set)",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "tactics",
+        "brand"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Brand Palette (selected small code set)",
+        "When to use this",
+        "Purpose",
+        "Invokes",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
+        "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
+        "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/schemas/conjoint-choice-structure-options-alternatives-attributes.md",
+      "path": "knowledge/schemas/conjoint-choice-structure-options-alternatives-attributes.md",
+      "title": "Conjoint Choice Structure (options / alternatives / attributes)",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "research",
+        "pricing"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Conjoint Choice Structure (options / alternatives / attributes)",
+        "When to use this",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/conjoint-analysis-procedure.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
+      "path": "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
+      "title": "Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "cross-cutting",
+        "market-orientation"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)",
+        "When to use this",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/frameworks/brand-tracking.md",
+        "knowledge/frameworks/diagnosis-strategy-tactics.md",
+        "knowledge/frameworks/four-ps.md",
+        "knowledge/frameworks/value-and-profitability.md",
+        "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
+        "knowledge/playbooks/three-phases-to-omnichannel.md",
+        "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
+        "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md",
+        "knowledge/principles/price-presentation-shapes-perceived-value-and-demand.md",
+        "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
+        "knowledge/schemas/b2b-market-definition-total-population-qualifying-accounts-buying-committee.md",
+        "knowledge/schemas/brand-palette-selected-small-code-set.md",
+        "knowledge/schemas/positioning-statement-to-what-versus-is.md",
+        "knowledge/schemas/segment-profile-name-population-value-market-share.md",
+        "knowledge/schemas/stated-objective-structure.md",
+        "knowledge/schemas/target-customer-portrait.md",
+        "project-context/marketing-plan-artifact-design.md"
+      ],
+      "source_count": 0
+    },
+    {
+      "id": "knowledge/schemas/positioning-statement-to-what-versus-is.md",
+      "path": "knowledge/schemas/positioning-statement-to-what-versus-is.md",
+      "title": "Positioning Statement (to / what / versus / is)",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "positioning"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Positioning Statement (to / what / versus / is)",
+        "When to use this",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/schemas/segment-profile-name-population-value-market-share.md",
+      "path": "knowledge/schemas/segment-profile-name-population-value-market-share.md",
+      "title": "Segment Profile (name / population / value / market share)",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "segmentation",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Segment Profile (name / population / value / market share)",
+        "When to use this",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md",
+      "path": "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md",
+      "title": "Segment Spillover Record (segment A influences segment B)",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "segmentation",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Segment Spillover Record (segment A influences segment B)",
+        "When to use this",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
+      ],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/schemas/stated-objective-structure.md",
+      "path": "knowledge/schemas/stated-objective-structure.md",
+      "title": "Stated Objective Structure",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "objectives"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Stated Objective Structure",
+        "When to use this",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Sources"
+      ],
+      "outgoing_links": [],
+      "source_count": 3
+    },
+    {
+      "id": "knowledge/schemas/target-customer-portrait.md",
+      "path": "knowledge/schemas/target-customer-portrait.md",
+      "title": "Target Customer Portrait",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "strategy",
+        "targeting",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Target Customer Portrait",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Citation status",
+        "Sources"
+      ],
+      "outgoing_links": [],
+      "source_count": 4
+    },
+    {
+      "id": "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md",
+      "path": "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md",
+      "title": "Three-Section Questionnaire (demographic / attitudinal / behavioural)",
+      "type": "Schema",
+      "status": "draft",
+      "description": null,
+      "tags": [
+        "diagnosis",
+        "research",
+        "customer-understanding"
+      ],
+      "folder": "knowledge/schemas",
+      "headings": [
+        "Three-Section Questionnaire (demographic / attitudinal / behavioural)",
+        "When to use this",
+        "Purpose",
+        "Shape",
+        "Grounded good example",
+        "Grounded bad or failure example",
+        "Consumers",
+        "Boundaries",
+        "Sources"
+      ],
+      "outgoing_links": [
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+        "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md"
+      ],
+      "source_count": 4
+    }
+  ]
+}
