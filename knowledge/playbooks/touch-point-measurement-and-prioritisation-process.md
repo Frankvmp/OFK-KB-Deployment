@@ -133,7 +133,7 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 
 Three body footnotes (`[^step-1]`, `[^step-3]`, `[^step-8]`) had no matching definitions. Checked against `tools/flattened/product-m7-video.txt#00:38:52-00:44:10`: step 1's content is part of the same sentence as `[^origin]` (00:38:52); step 3's content is part of the same sentence as step 2 (00:39:29); step 8's content is part of the same passage as step 7 (00:42:29). Fixed by pointing each body marker at the correct existing definition rather than adding duplicate ones. Everything else checked out.
 
-**Agent-execution translation (2026-09-19):** steps 2, 3, and 8's instructional text was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual (asking a consumer directly, live rating collection) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these three steps.
+**Agent-execution translation (2026-09-19):** steps 2, 3, and 8's instructional text was rewritten per ADR-0019 to state the evidence standard each step must satisfy, rather than the human-executed ritual (asking a consumer directly, live rating collection) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these three steps.
 
 ## Sources
 

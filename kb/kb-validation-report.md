@@ -1,10 +1,10 @@
 # Knowledge Base Validation Report
 
-Generated: 2026-09-19T19:31:26.331Z
+Generated: 2026-09-19T20:39:34.976Z
 
 - Markdown files scanned: 138
 - Graph edges: 617
-- Broken internal links: 22
+- Broken internal links: 0
 - Missing required frontmatter fields: 0
 - Duplicate title/type pairs: 0
 
@@ -54,28 +54,7 @@ Generated: 2026-09-19T19:31:26.331Z
 
 ## Broken Internal Links
 
-- knowledge/README.md -> index.md (Knowledge)
-- knowledge/README.md -> project-context/agent-execution-retrofit.md (Structure)
-- knowledge/README.md -> project-context/structural-decisions.md (Changes)
-- knowledge/README.md -> project-context/marketing-plan-artifact-design.md (Changes)
-- knowledge/frameworks/README.md -> index.md (Frameworks)
-- knowledge/frameworks/long-term-brand-building-and-short-term-activation.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/frameworks/market-orientation.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/frameworks/research-informs-understanding-not-strategy.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/frameworks/research-informs-understanding-not-strategy.md -> project-context/v2-translation-review-table.md (Citation status)
-- knowledge/frameworks/touchpoints.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/frameworks/value-and-profitability.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/playbooks/README.md -> index.md (Playbooks)
-- knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md -> CONTEXT.md (When to use this)
-- knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/playbooks/seven-step-route-out-of-discounting.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/principles/README.md -> docs/adr/0010-principle-reasoning-layer-and-module-1-pilot.md (Changes)
-- knowledge/principles/understand-customers-in-their-real-context.md -> docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md (Citation status)
-- knowledge/schemas/README.md -> project-context/structural-decisions.md (Schemas)
-- knowledge/schemas/README.md -> index.md (Schemas)
-- knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md -> project-context/marketing-plan-artifact-design.md (Consumers)
+None found.
 
 ## Missing Required Frontmatter
 

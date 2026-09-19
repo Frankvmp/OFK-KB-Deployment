@@ -11,7 +11,7 @@ tags:
 
 This folder contains ordered processes for the verified marketing knowledge base. Playbooks preserve source-supported sequence, inputs, constraints, and outputs; they do not invent missing steps or client data.
 
-The canonical catalogue is maintained in the [root index](../../index.md) so this folder record does not duplicate it.
+The canonical catalogue is maintained in the root index so this folder record does not duplicate it.
 
 ## Changes
 

@@ -126,7 +126,7 @@ Step 6 is the only one of the seven with no spoken ordinal ('six' is skipped, go
 
 `[^step-3]` had no matching definition. Checked against `tools/flattened/pricing-m8-video.txt`, its content ("manage senior expectations") is part of the same sentence block as step 4 (01:26:54); pointed the body marker there rather than adding a duplicate definition. Everything else checked out, including the file's own honest note that step 6 has no spoken ordinal in the source.
 
-**Agent-execution translation (2026-09-19):** steps 2 and 5's instructional text was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual (pricing research, a brand-tracking survey) the source describes; step 5 also now names this knowledge base's own Funnel and Touchpoints content as the concrete leading indicators. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these two steps.
+**Agent-execution translation (2026-09-19):** steps 2 and 5's instructional text was rewritten per ADR-0019 to state the evidence standard each step must satisfy, rather than the human-executed ritual (pricing research, a brand-tracking survey) the source describes; step 5 also now names this knowledge base's own Funnel and Touchpoints content as the concrete leading indicators. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these two steps.
 
 ## Sources
 

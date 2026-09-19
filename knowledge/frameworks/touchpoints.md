@@ -125,7 +125,7 @@ and competitor scores rather than as an absolute universal score. [^nps]
 
 Unlike `market-orientation.md` and `research-informs-understanding-not-strategy.md`, this file's "Operating procedure" list was NOT invented — checked against `tools/flattened/product-m7-video.txt#00:36:36-00:42:29`, 6 of 7 steps trace to real, sequential content (ask for experiences → rate → code → average/variance → frequency → prioritise), now individually cited. Step 1 ("list the significant interactions") has softer support: the transcript frames the underlying point (companies underestimate the journey's width) as general discipline, not a discrete first sub-step of the measurement procedure — flagged in the step's own note rather than silently cited as if it were as strong as the rest.
 
-**Agent-execution translation (2026-09-19):** Operating procedure steps 2 and 3 were rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual (asking customers directly, live rating collection) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these two steps.
+**Agent-execution translation (2026-09-19):** Operating procedure steps 2 and 3 were rewritten per ADR-0019 to state the evidence standard each step must satisfy, rather than the human-executed ritual (asking customers directly, live rating collection) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these two steps.
 
 ## Sources
 

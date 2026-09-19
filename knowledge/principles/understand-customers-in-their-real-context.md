@@ -65,7 +65,7 @@ This Principle extends [Marketers are not the consumer](marketers-are-not-the-co
 
 Drafted from the contextual-observation passages at 00:36:44–00:37:25, 00:42:26–00:44:57, and 00:47:22–00:47:47. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
 
-**Agent-execution addition (2026-09-19):** one new paragraph was added to "Why it matters" per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md), explaining how an agent (with no way to be physically present) can still satisfy this principle. It carries no footnote and makes no claim about what the transcript said — the cited "Principle" section above is untouched.
+**Agent-execution addition (2026-09-19):** one new paragraph was added to "Why it matters" per ADR-0019, explaining how an agent (with no way to be physically present) can still satisfy this principle. It carries no footnote and makes no claim about what the transcript said — the cited "Principle" section above is untouched.
 
 ## Sources
 

@@ -30,7 +30,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* This is the Playbook other concepts invoke whenever they need the agent to gather real evidence rather than assert a claim without support — see the `Data-gathering` step type in [CONTEXT.md](../../CONTEXT.md). Run it whenever a diagnosis, a funnel population, or a strategic decision needs grounding in real research and no research has been gathered yet.
+*(Process framing — not a sourced claim; no footnote.)* This is the Playbook other concepts invoke whenever they need the agent to gather real evidence rather than assert a claim without support — see the `Data-gathering` step type in CONTEXT.md. Run it whenever a diagnosis, a funnel population, or a strategic decision needs grounding in real research and no research has been gathered yet.
 
 ## Purpose
 
@@ -109,7 +109,7 @@ IMPORTANT TENSION, not resolved by the source material: this teaches methods in 
 
 ## Citation status
 
-**Agent-execution translation (2026-09-19):** steps 2, 3, and 4's instructional text was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual (qualitative interviews, a live-administered survey, mid-stage focus groups) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these three steps. Step 1 is untouched — it was already agent-native as written.
+**Agent-execution translation (2026-09-19):** steps 2, 3, and 4's instructional text was rewritten per ADR-0019 to state the evidence standard each step must satisfy, rather than the human-executed ritual (qualitative interviews, a live-administered survey, mid-stage focus groups) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these three steps. Step 1 is untouched — it was already agent-native as written.
 
 ## Sources
 

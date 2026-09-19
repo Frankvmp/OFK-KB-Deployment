@@ -127,4 +127,4 @@ The current contents are evidence-gated Module 1, Module 2, Module 3, Module 4, 
 - 2026-09-03: added eleven stable Module 3 Principles, merging overlapping inventory labels into independent reasoning rules and adding bidirectional links to the segmentation, research, diagnosis, and targeting methods.
 - 2026-09-03: added eight stable Module 2 Principles, including bidirectional links to related Frameworks and Playbooks; the preserved source ends mid-sentence at 00:59:31, so no later material was inferred.
 - 2026-09-03: linked five selected bridge Principles to the Diagnosis → Strategy → Tactics Framework; existing operational links were audited and no redundant links were added.
-- 2026-09-02: created for the Module 1 Principle extraction pilot under [ADR-0010](../../docs/adr/0010-principle-reasoning-layer-and-module-1-pilot.md).
+- 2026-09-02: created for the Module 1 Principle extraction pilot under ADR-0010.

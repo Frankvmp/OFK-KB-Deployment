@@ -95,7 +95,7 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 
 `[^step-1-2]` had no matching definition. Checked against `tools/flattened/objectives-m6-video.txt`, the near-verbatim source sentence is at 00:27:22; added it as a real definition. A mechanical audit pass (`tools/audit_harness.py`) later found step 1's own body marker was written as `[^step-1]`, with no matching definition — the covering citation existed under the unused id `[^origin]`. Fixed by pointing the body marker at `[^origin]` and widening its span from a single timestamp (00:24:25) to 00:24:33-00:24:49, which is where the actual sentence runs. Everything else checked out.
 
-**Agent-execution translation (2026-09-19):** steps 2 and 3's instructional text was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual (qualitative interviews, an online quantitative survey) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these two steps.
+**Agent-execution translation (2026-09-19):** steps 2 and 3's instructional text was rewritten per ADR-0019 to state the evidence standard each step must satisfy, rather than the human-executed ritual (qualitative interviews, an online quantitative survey) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these two steps.
 
 ## Sources
 
