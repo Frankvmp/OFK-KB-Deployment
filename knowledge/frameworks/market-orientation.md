@@ -109,6 +109,8 @@ used as a universal estimate of organisational self-perception gaps.
 
 The originally-drafted "Operating procedure" section (6 numbered steps: identify customers, gather customer evidence, gather competitor evidence, share intelligence, decide, measure) carried no footnotes at all — not a wrong timestamp, no citation whatsoever. Checked against `tools/flattened/market-orientation-m1-video.txt`, no span states that specific 6-step breakdown; it reads as a plausible synthesis rather than a transcript-grounded procedure, and duplicates (less precisely, and without the transcript's own hedging) the properly-cited **Organizational Market-Orientation Intelligence Chain** below. Removed rather than re-cited on a guess, per this project's anti-fabrication rule. Everything else in this file was checked against the transcript and holds up.
 
+**Agent-execution translation (2026-09-19):** the Producer-Consumer Development Wheel's step 3 ("test the prototype with other consumers") was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard the step must satisfy, rather than the human-executed ritual the source describes. The original human-taught wording remains below in `## Sources` for provenance. Step 1 ("lead users immediately") was reviewed and confirmed to need no change — its existing annotation already states an honest limit rather than a ritual assumption.
+
 ## Sources
 
 ## Embedded Playbooks
@@ -125,7 +127,7 @@ This ordered process is embedded here because it is self-contained within the or
    **Step type:** Data-gathering — the agent's role is to advise/track that this real-world test happens and capture what it returns, not to invent the result.
 2. **Bring back insights, develop a prototype.** Bring back those insights from the lead users and develop a prototype. [^producer-consumer-development-wheel-2]
    **Step type:** Evidence-and-judgement — synthesizing gathered lead-user insight into a design decision.
-3. **Test the prototype with other consumers.** Test the prototype with other consumers. [^producer-consumer-development-wheel-3]
+3. **Test the prototype with other consumers.** *(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* The prototype must be checked against real reactions from people outside the original lead-user group who have genuinely experienced it — not the team's assumption of how they would respond. If no such reaction exists yet, that absence must be stated plainly rather than filled with an assumed response.
    **Step type:** Data-gathering — real consumer response, not invented.
 4. **Bring back insights from a soft launch.** Bring back those insights, gain insight from a soft launch. [^producer-consumer-development-wheel-4]
    **Step type:** Data-gathering — real soft-launch results, not invented.

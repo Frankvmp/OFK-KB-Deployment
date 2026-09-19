@@ -100,7 +100,7 @@ once you've done that, then you need to apply it accordingly. Focus in on that c
 
 The power of a clear target portrait is that it really synthesizes everything together. [^step-4]
 
-**Invokes:** [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md), [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) (Playbooks) to gather the evidence; [Target Customer Portrait](../schemas/target-customer-portrait.md) (Schema) to structure it.
+**Invokes:** [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook) to gather the evidence; [Target Customer Portrait](../schemas/target-customer-portrait.md) (Schema) to structure it.
 
 **Nested sequence:**
 

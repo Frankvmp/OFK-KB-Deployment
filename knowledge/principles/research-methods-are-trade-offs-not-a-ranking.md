@@ -46,7 +46,6 @@ The source material begins to name “research architecture,” but ends before 
 ## Invokes
 
 - [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook) — provides the supported sequence for combining secondary, qualitative, quantitative, and mid-stage research.
-- [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) (Playbook) — provides the specialised choice-based method when revealed trade-offs are needed.
 
 ## Boundaries and failure modes
 

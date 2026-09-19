@@ -43,7 +43,6 @@ Research informs the pricing decision; it does not remove managerial judgement. 
 ## Invokes
 
 - [Research informs understanding, not strategy](../frameworks/research-informs-understanding-not-strategy.md) (Framework) — keeps research as evidence for a pricing choice rather than an automatic answer.
-- [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) (Playbook) — derives attribute and price value from repeated trade-offs.
 - [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook) — requires research to establish the destination price before reducing promotional dependence.
 
 ## Boundaries and failure modes

@@ -43,9 +43,11 @@ Contextual observation shows how people actually interact with an offer while us
 
 The researcher must remain willing to ask apparently obvious questions in detail rather than signalling expertise and filling gaps from assumption. [^professional-idiot]
 
+*(Agent-execution note — not a sourced claim; no footnote.)* What makes context matter isn't specifically a human being present — it's that the evidence comes from the real setting where the behaviour actually happens, not a recollection of it given afterward in a removed conversation. An agent with no way to be physically present can still satisfy this principle using real material captured from that context (existing recordings, session data, in-the-moment documentation) — see the [Ethnographic Research Procedure](../frameworks/research-informs-understanding-not-strategy.md#ethnographic-research-procedure) for how. A recalled survey or interview response, given outside the real context, does not satisfy it regardless of who or what collects it.
+
 ## Related distinctions
 
-This Principle extends [Marketers are not the consumer](marketers-are-not-the-consumer.md) from personal humility into field practice. It does not claim that observation is representative of the whole market; [Qualitative depth does not establish population magnitude](qualitative-depth-does-not-establish-population-magnitude.md) supplies that boundary. Where no human collaborator can observe customers in their real context, [Agent-gathered secondary evidence is directional, not equivalent to primary research](agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md) states the confidence discount that applies to the closest agent-executable alternative — it does not relax this Principle's own claim.
+This Principle extends [Marketers are not the consumer](marketers-are-not-the-consumer.md) from personal humility into field practice. It does not claim that observation is representative of the whole market; [Qualitative depth does not establish population magnitude](qualitative-depth-does-not-establish-population-magnitude.md) supplies that boundary.
 
 ## Invokes
 
@@ -62,6 +64,8 @@ This Principle extends [Marketers are not the consumer](marketers-are-not-the-co
 ## Citation status
 
 Drafted from the contextual-observation passages at 00:36:44–00:37:25, 00:42:26–00:44:57, and 00:47:22–00:47:47. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
+
+**Agent-execution addition (2026-09-19):** one new paragraph was added to "Why it matters" per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md), explaining how an agent (with no way to be physically present) can still satisfy this principle. It carries no footnote and makes no claim about what the transcript said — the cited "Principle" section above is untouched.
 
 ## Sources
 

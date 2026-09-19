@@ -77,7 +77,7 @@ strategic choice; they are the means by which the market experiences it.
 
 1. Gather and interpret evidence about the market.
    **Step type:** Data-gathering — output must be real gathered evidence, never invented, executed via a dedicated research-method Playbook.
-   **Invokes:** [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md), [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) (Playbooks).
+   **Invokes:** [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook).
 2. Formulate the target, position, and objectives from that diagnosis.
    **Step type:** Evidence-and-judgement, executed via dedicated Playbooks.
    **Invokes:** [Segmentation Process](../playbooks/segmentation-process-top-level-5-step-sequence.md), [Module 4 Targeting Sequence](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbooks); [Target, Position, Objective](target-position-objective.md) (Framework).

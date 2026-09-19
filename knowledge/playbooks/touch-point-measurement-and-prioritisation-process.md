@@ -65,13 +65,13 @@ make sure some of that overall questionnaire you're designing back in module two
 
 **Step type:** Data-gathering — real customer-described experiences, never invented.
 
-ask your consumer for up to 10 experiences in order that they've had where they've experienced an interaction with your brand. [^step-2]
+*(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* The touchpoint list must be built from real, customer-described accounts of specific interactions with the brand — up to around ten distinct experiences, genuinely reported, not the agent's own assumption of what a typical touchpoint would be. If no such accounts exist yet, that gap must be stated honestly rather than filled with an invented list.
 
 ### 3. Rate each experience 1-10
 
 **Step type:** Data-gathering — real customer ratings, never invented.
 
-Rate each of those experiences and have the consumer say this one made me feel, one, really bad about the brand... ten, I felt really good. [^step-2]
+*(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* Each described experience must carry a real rating reflecting how it actually made that customer feel — genuine customer response, not an assumed or estimated score. Where no such rating exists yet for a given experience, that gap must be stated honestly rather than filled with a guessed number.
 
 ### 4. Code into common categories
 
@@ -110,7 +110,7 @@ there's a second, more specific, more brand-centric, more positioning-linked cha
 
 **Step type:** Data-gathering — real re-measured ratings, never assumed to have improved.
 
-you will tell us at the end of this mini-MBA whether it's improved and whether my yellow bar moves over here so we can continue that process of improvement. [^step-7]
+*(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* After the fix is made, the same touchpoint must be re-assessed using real, current customer response to confirm whether it actually improved — never assumed to have improved simply because the fix was implemented. If no re-measurement exists yet, that gap must be stated honestly rather than the improvement being asserted.
 
 ## Output
 
@@ -132,6 +132,8 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 ## Citation status
 
 Three body footnotes (`[^step-1]`, `[^step-3]`, `[^step-8]`) had no matching definitions. Checked against `tools/flattened/product-m7-video.txt#00:38:52-00:44:10`: step 1's content is part of the same sentence as `[^origin]` (00:38:52); step 3's content is part of the same sentence as step 2 (00:39:29); step 8's content is part of the same passage as step 7 (00:42:29). Fixed by pointing each body marker at the correct existing definition rather than adding duplicate ones. Everything else checked out.
+
+**Agent-execution translation (2026-09-19):** steps 2, 3, and 8's instructional text was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual (asking a consumer directly, live rating collection) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these three steps.
 
 ## Sources
 

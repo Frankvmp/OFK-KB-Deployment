@@ -39,14 +39,13 @@ This Principle creates an evidence gate between open-ended discovery and closed-
 
 ## Related distinctions
 
-The [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) operationalises the qualitative-before-quantitative order. The [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) applies the same rule to choice attributes.
+The [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) operationalises the qualitative-before-quantitative order.
 
 This Principle is about establishing the option set. It is not a claim that qualitative evidence can estimate population magnitude.
 
 ## Invokes
 
 - [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook) — sequences qualitative exploration before quantitative survey design.
-- [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) (Playbook) — derives choice drivers only after the correct divisible attributes have been established.
 
 ## Boundaries and failure modes
 

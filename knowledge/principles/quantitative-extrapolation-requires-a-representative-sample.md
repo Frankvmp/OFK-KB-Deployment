@@ -50,7 +50,6 @@ The [Three-Section Questionnaire Build Order](../playbooks/three-section-questio
 
 - [Sample Size Calculator Procedure](../frameworks/research-informs-understanding-not-strategy.md#sample-size-calculator-procedure) (embedded Playbook) — calculates the required sample size from population, confidence level, and margin of error.
 - [Three-Section Questionnaire Build Order](../playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md) (Playbook) — structures demographic, attitudinal, and behavioural measurement for the selected sample.
-- [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) (Playbook) — also begins with a representative sample when deriving choice drivers.
 
 ## Boundaries and failure modes
 

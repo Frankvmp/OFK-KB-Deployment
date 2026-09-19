@@ -111,6 +111,8 @@ assessed through response and return-on-investment measures. [^definition]
 
 The originally-drafted "Operating model" section (6 numbered steps: define objective, decide effect type, build long, build short, coordinate, measure) carried no footnotes at all. Checked against `tools/flattened/marketing-communications-m9-video.txt#00:27:17-00:35:07`, no span states that specific 6-step breakdown; it reads as a plausible synthesis of the module's content rather than a transcript-grounded procedure. Removed rather than re-cited on a guess, per this project's anti-fabrication rule. Step-type tagging for the 7 embedded Playbooks below is now complete as part of the Module 9 retrofit pass. One step (Media S-Curve step 4, "repeat across channels") is a loop-back instruction that doesn't fit any of the four defined Step types — flagged rather than force-labelled, the same gap already noted in `market-orientation.md`.
 
+**Agent-execution translation (2026-09-19):** Zero-Based Budgeting step 3 ("brief the agency") and Effectiveness Measurement Escalation Ladder step 3 ("brand lift studies") were rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual the source describes. The ZBB step also separates the agent's own real task (specifying which objectives need an estimate) from the genuine external dependency (the agency's actual quote, which the agent cannot invent). The original human-taught wording for both remains below in `## Sources` for provenance. Effectiveness Ladder step 4 ("media mix modeling") was reviewed and confirmed to need no change — it's a statistical technique over existing data, not a live-instrument ritual.
+
 ## Embedded Playbooks
 
 ### IMC Plumber Diagnostic Sequence
@@ -170,8 +172,8 @@ This ordered process is embedded here because it is self-contained within the or
    **Invokes:** [Stated Objective Structure](../schemas/stated-objective-structure.md) (Schema).
 2. **Calculate incremental value.** I'm going to calculate their incremental value. How much money will they make if I make them come true? [^zero-based-budgeting-process-2]
    **Step type:** Data-gathering — a real financial estimate, never invented.
-3. **Brief the agency for cost estimates.** I'm going to brief my agency or agencies on these objectives, and they're going to come back to me with estimates. [^zero-based-budgeting-process-3]
-   **Step type:** Data-gathering — real agency cost estimates, never invented.
+3. **Brief the agency for cost estimates.** *(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* The agent's role is to identify and clearly specify which objectives need a real cost estimate, and how each will be measured and can be improved — preparing a well-defined brief. The actual estimate must come back from a real agency or supplier; the agent cannot invent or predict that figure. If no such estimate exists yet, that gap must be stated honestly rather than filled with an assumed cost.
+   **Step type:** Data-gathering — the actual cost estimate must be real and externally sourced, never invented; the agent's own task is limited to specifying the ask.
 4. **Present investment + return together before budgets are set.** I'm going to bundle that all together, and I'm going to present it in my marketing plan to senior management, crucially, before budgets are set. [^zero-based-budgeting-process-4]
    **Step type:** Constraint check — investment and return must be presented together, and before budgets are set, not after.
 5. **Branch on approval.** The senior management team can say yes... or... say no... I have to go back to my office and revise my proposed return based on how much money they'll actually give me. [^zero-based-budgeting-process-5]
@@ -250,8 +252,8 @@ This ordered process is embedded here because it is self-contained within the or
    **Invokes:** [Stated Objective Structure](../schemas/stated-objective-structure.md) (Schema).
 2. **First-/last-touch attribution.** many companies do either first- or last-touch attribution. [^effectiveness-measurement-escalation-ladder-2]
    **Step type:** Data-gathering — real attribution data, never invented.
-3. **Brand lift studies (fixes single-channel underestimation).** The problem with that approach... it underestimates all the other channel mix... So a better approach are brand lift studies. [^effectiveness-measurement-escalation-ladder-3]
-   **Step type:** Data-gathering — real brand-lift study results, never invented.
+3. **Brand lift studies (fixes single-channel underestimation).** *(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* Where the campaign spans more than one channel, first-/last-touch attribution's undercount must be checked against a real, controlled comparison of outcomes between people who were genuinely exposed to the activity and comparable people who were not. If no such comparison exists yet, that gap must be stated plainly rather than filled with an assumed uplift.
+   **Step type:** Data-gathering — real controlled-comparison evidence, never invented.
 4. **Media mix modeling (fixes single-channel limit).** There's only one problem. It only measures a single channel... To do that, we have to move to media mix modeling. [^effectiveness-measurement-escalation-ladder-4]
    **Step type:** Data-gathering — real media-mix-modeling output, never invented.
 

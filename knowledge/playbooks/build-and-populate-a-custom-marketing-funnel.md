@@ -58,19 +58,19 @@ The first step, then, in the process is what we've already done, way back in Mod
 2. **Rebase to the target segment if targeting a specific segment.** if you're targeting a specific segment, your objective and therefore your funnel should also be derived from that segment. [^step-1-2]
    **Step type:** Constraint check — the 100% base must match the actual target (segment vs. whole market), not be assumed.
 
-### 2. Identify the main funnel stages via qualitative interviews
+### 2. Identify the main funnel stages from real customer evidence
 
-**Step type:** Data-gathering — real one-on-one interview data, never invented; stages should not be copied from a generic template.
+**Step type:** Data-gathering — real customer-sourced evidence, never invented; stages should not be copied from a generic template.
 
-Having done that, we can then move to identifying the main steps, and the simple technique for doing this is to use your qualitative research. [^step-2]
+*(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* The funnel's stages must reflect a real, evidence-grounded understanding of how customers in this category actually move toward the offering — genuine customer-sourced insight into that process, not a stage sequence copied from a generic template or invented from assumption. If no such evidence exists yet for this market, that gap must be stated openly rather than filled with a plausible-sounding set of stages.
 
 **Invokes:** [Market Research Method Sequence](market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook).
 
 ### 3. Populate the funnel via quantitative research
 
-**Step type:** Data-gathering — real survey data, never invented.
+**Step type:** Data-gathering — real, representative measurement data, never invented.
 
-What we therefore need to do is to rely upon our quantitative online market research... you remember we talked about demographic, attitudinal and behavioral questions [module two]... our sample size calculator from Module 2. [^step-3]
+*(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* Each stage's percentage must come from a real, sufficiently large and representative measurement of the target population against the funnel stages already identified in step 2 — not an estimate. If that measurement doesn't exist yet, the funnel must show the gap honestly rather than being populated with assumed or invented percentages.
 
 **Invokes:** [Three-Section Questionnaire](../schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md) (Schema), Sample Size Calculator Procedure (embedded in [Research informs understanding, not strategy](../frameworks/research-informs-understanding-not-strategy.md#sample-size-calculator-procedure)).
 
@@ -94,6 +94,8 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 ## Citation status
 
 `[^step-1-2]` had no matching definition. Checked against `tools/flattened/objectives-m6-video.txt`, the near-verbatim source sentence is at 00:27:22; added it as a real definition. A mechanical audit pass (`tools/audit_harness.py`) later found step 1's own body marker was written as `[^step-1]`, with no matching definition — the covering citation existed under the unused id `[^origin]`. Fixed by pointing the body marker at `[^origin]` and widening its span from a single timestamp (00:24:25) to 00:24:33-00:24:49, which is where the actual sentence runs. Everything else checked out.
+
+**Agent-execution translation (2026-09-19):** steps 2 and 3's instructional text was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual (qualitative interviews, an online quantitative survey) the source describes. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these two steps.
 
 ## Sources
 

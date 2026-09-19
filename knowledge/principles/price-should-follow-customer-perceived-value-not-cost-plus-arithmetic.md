@@ -44,7 +44,6 @@ True economic value describes the offer's theoretical economic benefit. The sour
 
 - [Value and profitability](../frameworks/value-and-profitability.md) (Framework) — provides the pricing thermometer and the relationship between cost, value, price, and profit.
 - [Four Ps](../frameworks/four-ps.md) (Framework) — keeps the selected price aligned with the broader tactical mix.
-- [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) (Playbook) — estimates willingness to pay from trade-offs when that method fits the context.
 
 ## Boundaries and failure modes
 

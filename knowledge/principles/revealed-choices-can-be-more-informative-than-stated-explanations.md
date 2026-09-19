@@ -48,13 +48,12 @@ Choice-based evidence can identify the relative importance and utility of attrib
 
 ## Related distinctions
 
-This Principle explains why the [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) can be useful. It does not claim that all stated evidence is false or that conjoint reproduces every aspect of real-world decision-making. The source explicitly warns that conjoint is a rationalised model that may not capture the full decision process. [^conjoint-limit]
+This Principle explains why choice-based methods such as conjoint analysis can be useful. It does not claim that all stated evidence is false or that conjoint reproduces every aspect of real-world decision-making. The source explicitly warns that conjoint is a rationalised model that may not capture the full decision process. [^conjoint-limit]
 
 [Discover options qualitatively before measuring them](discover-options-qualitatively-before-measuring-them.md) remains a precondition: revealed-choice analysis can still precisely measure the wrong attributes if its inputs are incomplete.
 
 ## Invokes
 
-- [Conjoint Analysis Procedure](../playbooks/conjoint-analysis-procedure.md) (Playbook) — derives attribute importance and utility from repeated trade-off choices.
 - [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook) — supplies the earlier qualitative work needed to establish the relevant choice variables.
 
 ## Boundaries and failure modes

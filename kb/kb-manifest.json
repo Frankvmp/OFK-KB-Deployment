@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T11:09:44.823Z",
-  "file_count": 142,
+  "generated_at": "2026-09-19T19:31:26.331Z",
+  "file_count": 138,
   "files": [
     {
       "id": "knowledge/README.md",
@@ -129,7 +129,6 @@
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/target-position-objective.md",
-        "knowledge/playbooks/conjoint-analysis-procedure.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
@@ -296,6 +295,7 @@
         "Sources"
       ],
       "outgoing_links": [
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/frameworks/brand-tracking.md",
         "knowledge/principles/brand-building-and-activation-should-work-together-without-forcing-both-into-one-execution.md",
         "knowledge/principles/channel-breadth-must-not-outrun-viable-investment.md",
@@ -341,6 +341,7 @@
         "Organizational Market-Orientation Intelligence Chain (generate -> irrigate -> respond)"
       ],
       "outgoing_links": [
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
         "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
@@ -437,16 +438,15 @@
         "Ethnographic Research Procedure"
       ],
       "outgoing_links": [
-        "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
-        "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
         "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
         "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
         "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
         "knowledge/principles/research-methods-are-trade-offs-not-a-ranking.md",
         "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
-        "knowledge/principles/understand-customers-in-their-real-context.md"
+        "knowledge/principles/understand-customers-in-their-real-context.md",
+        "project-context/v2-translation-review-table.md"
       ],
       "source_count": 3
     },
@@ -572,6 +572,7 @@
         "Sources"
       ],
       "outgoing_links": [
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/frameworks/funnel.md",
         "knowledge/principles/existing-products-should-be-continuously-improved.md",
         "knowledge/principles/nps-is-a-contextual-learning-measure-not-a-growth-predictor.md",
@@ -614,6 +615,7 @@
         "Sources"
       ],
       "outgoing_links": [
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
         "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
         "knowledge/principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md",
@@ -656,52 +658,6 @@
       "source_count": 0
     },
     {
-      "id": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
-      "path": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
-      "title": "Agent-Executable Customer Insight Synthesis (identify sources → extract variables → tag confidence → flag gaps)",
-      "type": "Playbook",
-      "status": "draft",
-      "description": null,
-      "tags": [
-        "diagnosis",
-        "research",
-        "customer-understanding",
-        "agent-execution"
-      ],
-      "folder": "knowledge/playbooks",
-      "headings": [
-        "Agent-Executable Customer Insight Synthesis (identify sources → extract variables → tag confidence → flag gaps)",
-        "When to use this",
-        "Purpose",
-        "Invokes",
-        "Inputs and preconditions",
-        "Ordered steps",
-        "1. Identify candidate secondary sources",
-        "2. Extract only statements that map to a defined variable slot",
-        "3. Tag every extracted fact with its source and its pattern strength",
-        "4. Mark any slot with insufficient evidence as not found",
-        "5. Apply the confidence discount before this output is used downstream",
-        "Output",
-        "Consumers",
-        "Boundaries",
-        "Citation status",
-        "Sources"
-      ],
-      "outgoing_links": [
-        "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
-        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/conjoint-analysis-procedure.md",
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
-        "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
-        "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
-        "knowledge/principles/understand-customers-in-their-real-context.md",
-        "knowledge/schemas/target-customer-portrait.md",
-        "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
-      ],
-      "source_count": 0
-    },
-    {
       "id": "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
       "path": "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
       "title": "Build and Populate a Custom Marketing Funnel",
@@ -721,7 +677,7 @@
         "Inputs and preconditions",
         "Ordered steps",
         "1. Identify the total potential market (the funnel's 100% base)",
-        "2. Identify the main funnel stages via qualitative interviews",
+        "2. Identify the main funnel stages from real customer evidence",
         "3. Populate the funnel via quantitative research",
         "Output",
         "Explicit consumers",
@@ -730,6 +686,7 @@
         "Sources"
       ],
       "outgoing_links": [
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
@@ -738,50 +695,6 @@
         "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
       ],
       "source_count": 4
-    },
-    {
-      "id": "knowledge/playbooks/conjoint-analysis-procedure.md",
-      "path": "knowledge/playbooks/conjoint-analysis-procedure.md",
-      "title": "Conjoint Analysis Procedure",
-      "type": "Playbook",
-      "status": "draft",
-      "description": null,
-      "tags": [
-        "diagnosis",
-        "research",
-        "customer-understanding"
-      ],
-      "folder": "knowledge/playbooks",
-      "headings": [
-        "Conjoint Analysis Procedure",
-        "When to use this",
-        "Purpose",
-        "Invokes",
-        "Inputs and preconditions",
-        "Ordered steps",
-        "1. Recruit a representative sample",
-        "2. Present a choice task built from options/alternatives/attributes",
-        "3. Record choice; generate a new trade-off with altered variables",
-        "4. Repeat 12-15 times",
-        "5. Derive attribute importance and option utility",
-        "Output",
-        "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
-      ],
-      "outgoing_links": [
-        "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
-        "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
-        "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
-        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
-        "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
-        "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
-        "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
-        "knowledge/principles/revealed-choices-can-be-more-informative-than-stated-explanations.md",
-        "knowledge/schemas/conjoint-choice-structure-options-alternatives-attributes.md"
-      ],
-      "source_count": 5
     },
     {
       "id": "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
@@ -887,14 +800,13 @@
         "Output",
         "Explicit consumers",
         "Boundaries and failure modes",
+        "Citation status",
         "Sources"
       ],
       "outgoing_links": [
         "CONTEXT.md",
-        "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
-        "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
         "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
         "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
         "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
@@ -995,7 +907,6 @@
         "Sources"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/conjoint-analysis-procedure.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
         "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
@@ -1168,7 +1079,7 @@
         "2. Get the price right first (research)",
         "3. Manage senior expectations",
         "4. Focus on differentiation",
-        "5. Use brand tracking",
+        "5. Track a real leading indicator during recovery",
         "6. Shift spend from discounting to advertising",
         "7. Keep the focus on profit",
         "Output",
@@ -1178,8 +1089,11 @@
         "Sources"
       ],
       "outgoing_links": [
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/frameworks/brand-tracking.md",
+        "knowledge/frameworks/funnel.md",
         "knowledge/frameworks/positioning-and-brand-codes.md",
+        "knowledge/frameworks/touchpoints.md",
         "knowledge/frameworks/value-and-profitability.md",
         "knowledge/principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md",
         "knowledge/principles/evidence-backed-value-supports-holding-the-price-line.md",
@@ -1381,6 +1295,7 @@
         "Sources"
       ],
       "outgoing_links": [
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/principles/existing-products-should-be-continuously-improved.md",
         "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
@@ -1535,39 +1450,6 @@
         "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
       "source_count": 3
-    },
-    {
-      "id": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
-      "path": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
-      "title": "Agent-gathered secondary evidence is directional, not equivalent to primary research",
-      "type": "Principle",
-      "status": "draft",
-      "description": "Secondary-source synthesis run by an agent can approximate some primary-research variables, but must never be presented with the same confidence as a live interview, focus group, or in-context observation, and must never assert a population-level magnitude.",
-      "tags": [
-        "diagnosis",
-        "customer-understanding",
-        "agent-execution"
-      ],
-      "folder": "knowledge/principles",
-      "headings": [
-        "Agent-gathered secondary evidence is directional, not equivalent to primary research",
-        "When to use this",
-        "Principle",
-        "Why it matters",
-        "Related distinctions",
-        "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
-      ],
-      "outgoing_links": [
-        "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
-        "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
-        "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
-        "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
-        "knowledge/principles/understand-customers-in-their-real-context.md"
-      ],
-      "source_count": 0
     },
     {
       "id": "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
@@ -2265,7 +2147,6 @@
         "Sources"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/conjoint-analysis-procedure.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
       "source_count": 2
@@ -3418,8 +3299,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/playbooks/conjoint-analysis-procedure.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 2
     },
@@ -3449,7 +3329,6 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/conjoint-analysis-procedure.md",
         "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
       "source_count": 2
@@ -3653,7 +3532,6 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/conjoint-analysis-procedure.md",
         "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md"
       ],
       "source_count": 3
@@ -3740,7 +3618,6 @@
         "Sources"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/conjoint-analysis-procedure.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
       "source_count": 2
@@ -3828,7 +3705,6 @@
         "Sources"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/conjoint-analysis-procedure.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/principles/discover-options-qualitatively-before-measuring-them.md"
       ],
@@ -4387,10 +4263,10 @@
         "Sources"
       ],
       "outgoing_links": [
+        "docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md",
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
         "knowledge/principles/marketers-are-not-the-consumer.md",
         "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md"
       ],
@@ -4474,35 +4350,6 @@
         "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
         "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
         "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md"
-      ],
-      "source_count": 3
-    },
-    {
-      "id": "knowledge/schemas/conjoint-choice-structure-options-alternatives-attributes.md",
-      "path": "knowledge/schemas/conjoint-choice-structure-options-alternatives-attributes.md",
-      "title": "Conjoint Choice Structure (options / alternatives / attributes)",
-      "type": "Schema",
-      "status": "draft",
-      "description": null,
-      "tags": [
-        "diagnosis",
-        "research",
-        "pricing"
-      ],
-      "folder": "knowledge/schemas",
-      "headings": [
-        "Conjoint Choice Structure (options / alternatives / attributes)",
-        "When to use this",
-        "Purpose",
-        "Shape",
-        "Grounded good example",
-        "Grounded bad or failure example",
-        "Consumers",
-        "Boundaries",
-        "Sources"
-      ],
-      "outgoing_links": [
-        "knowledge/playbooks/conjoint-analysis-procedure.md"
       ],
       "source_count": 3
     },

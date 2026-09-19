@@ -67,7 +67,7 @@ it begins... by ignoring the sales line, by not worrying about revenues, but wor
 
 **Step type:** Data-gathering — real pricing research, never invented.
 
-get the price right first... Do your research. Peg the right price. [^step-2]
+*(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* The destination price must rest on real evidence of what customers actually value and are willing to pay — genuine customer-sourced pricing evidence, not an internally assumed number dressed up as a price point. If that evidence doesn't exist yet, that gap must be stated honestly before a price is set, not filled with a plausible-sounding figure.
 
 **Invokes:** [Value and profitability](../frameworks/value-and-profitability.md) (Framework).
 
@@ -85,13 +85,13 @@ focus on differentiation... there's a very important reason why distinctiveness 
 
 **Invokes:** [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework).
 
-### 5. Use brand tracking
+### 5. Track a real leading indicator during recovery
 
 **Step type:** Data-gathering — real tracked results, never invented; a lead indicator before revenue/profit recovers.
 
-use brand tracking. It'll take a while for the commercial results... to return. [^step-5]
+*(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* Track real brand-health indicators — Funnel stage movement and Touchpoint experience ratings — as a leading signal during the recovery period, since revenue and profit lag behind. Draw on whatever genuine tracking data already exists or becomes available. If none exists yet, that absence must be stated plainly, not filled with an assumed trend.
 
-**Invokes:** [Brand tracking](../frameworks/brand-tracking.md) (Framework).
+**Invokes:** [Brand tracking](../frameworks/brand-tracking.md) (Framework); [Funnel](../frameworks/funnel.md) (Framework); [Touchpoints](../frameworks/touchpoints.md) (Framework).
 
 ### 6. Shift spend from discounting to advertising
 
@@ -125,6 +125,8 @@ Step 6 is the only one of the seven with no spoken ordinal ('six' is skipped, go
 ## Citation status
 
 `[^step-3]` had no matching definition. Checked against `tools/flattened/pricing-m8-video.txt`, its content ("manage senior expectations") is part of the same sentence block as step 4 (01:26:54); pointed the body marker there rather than adding a duplicate definition. Everything else checked out, including the file's own honest note that step 6 has no spoken ordinal in the source.
+
+**Agent-execution translation (2026-09-19):** steps 2 and 5's instructional text was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard each step must satisfy, rather than the human-executed ritual (pricing research, a brand-tracking survey) the source describes; step 5 also now names this knowledge base's own Funnel and Touchpoints content as the concrete leading indicators. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for these two steps.
 
 ## Sources
 

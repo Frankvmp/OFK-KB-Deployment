@@ -120,8 +120,8 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Steps:**
 
-1. **Ask the four open-ended price questions.** ask your consumers four open-ended questions, each of which they answer with a number. [^van-westendorp-price-setting-procedure-1]
-   **Step type:** Data-gathering — real consumer price responses, never invented.
+1. **Establish real price-sensitivity data across the four reference points.** *(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* Obtain real customer price-sensitivity responses across the four reference points — price too cheap relative to perceived value, price a bargain relative to perceived value, price expensive relative to perceived value, price too expensive relative to perceived value — for the relevant population, from existing pricing research, prior studies, or any genuine source that actually captures it, not a plausible-sounding number. If no such evidence exists, that gap must be stated honestly before the remaining steps run.
+   **Step type:** Data-gathering — real customer price-sensitivity evidence, never invented.
 2. **Accumulate answers across the whole sample.** we're then able to take those numbers and accumulate them together for the whole market. [^van-westendorp-price-setting-procedure-2]
    **Step type:** Decision (criteria-guided) — a deterministic aggregation once responses are gathered.
 3. **Plot all four question curves.** We can draw it for all the four questions... The other two Van Vestendorp questions build in the other direction. [^van-westendorp-price-setting-procedure-3]
@@ -144,6 +144,8 @@ This ordered process is embedded here because it is self-contained within the or
 ## Citation status
 
 The originally-drafted "Value model" section (4 numbered steps: identify customer value, identify company value, align the four Ps, harvest via pricing) carried no footnotes at all. Checked against `tools/flattened/pricing-m8-video.txt#00:03:02-00:06:10`, no span states that specific 4-step breakdown — the transcript gives the "V" image (two aligned prongs of value) and the reasoning for why pricing is distinctive, not a numbered procedure. Removed rather than re-cited on a guess. The embedded Van Westendorp Playbook and remaining prose citations checked out.
+
+**Agent-execution translation (2026-09-19):** the Van Westendorp Price-Setting Procedure's step 1 instructional text was rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md) to state the evidence standard the step must satisfy, rather than the human-executed ritual (asking consumers four open-ended questions directly) the source describes, and to tie each reference point explicitly to perceived value. The original human-taught wording remains below in `## Sources` for provenance; it is no longer the live instruction for this step. Steps 2–5 (computation over whatever real numbers step 1 produces) are untouched.
 
 ## Sources
 

@@ -57,9 +57,7 @@ Start with:
 
 Start with:
 
-1. `knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md` — the default path for gathering customer-understanding variables when no human collaborator is available to run a live method.
-2. `knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md` — the full research sequence; its own "When to use this" routes to file 1 above for the steps that need a live respondent.
-3. `knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md`
-4. `knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md`
-5. `knowledge/principles/discover-options-qualitatively-before-measuring-them.md`
-6. `knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md`
+1. `knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md` — the full research sequence; steps written to state the evidence standard each one must satisfy, not a specific human-only method.
+2. `knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md`
+3. `knowledge/principles/discover-options-qualitatively-before-measuring-them.md`
+4. `knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md`

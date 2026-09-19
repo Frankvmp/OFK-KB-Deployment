@@ -40,8 +40,6 @@ itself. [^origin]
 - [Understand customers in their real context](../principles/understand-customers-in-their-real-context.md) (Principle) — supplies the reasoning for the embedded ethnographic procedure.
 - [Pricing decisions require customer evidence, not internal intuition](../principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md) (Principle) — applies the research boundary to price setting.
 - [The value of creative pre-testing depends on method and context](../principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md) (Principle) — keeps creative-test evidence within its methodological strengths and limitations.
-- [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) (Playbook) — gathers directional signal on the same variable categories the embedded Ethnographic Research Procedure covers, when no human collaborator can run real immersion and observation; not a substitute for it. See [ADR-0018](../../docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md).
-- [Agent-gathered secondary evidence is directional, not equivalent to primary research](../principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md) (Principle) — governs the confidence discount on that directional signal.
 
 ## How this executes
 
@@ -91,6 +89,8 @@ Two findings from checking this file against `tools/flattened/market-orientation
 
 Everything else — both embedded Playbooks, the reuse citations — checked out accurately.
 
+**Agent-execution translation (2026-09-19):** the Ethnographic Research Procedure's steps 1–3 were rewritten per [ADR-0019](../../docs/adr/0019-translate-evidence-standard-not-ritual-or-tool.md), after an initial "no agent path exists" reading was found too quick (see [project-context/v2-translation-review-table.md](../../project-context/v2-translation-review-table.md)). The real requirement isn't physical presence — the procedure's own text already leans on recorded material ("increasingly, that's digital video") — it's that the evidence comes from the customer's real context of use, not recalled or self-reported afterward. Each step now states that evidence standard rather than the human-executed ritual (physical immersion, in-person observation, on-the-spot interviews) the source describes. The original human-taught wording remains below in `## Sources` for provenance. Step 4 (synthesis) was reviewed and confirmed to need no change — it reasons over whatever real material steps 1–3 produce and is not itself a ritual.
+
 ## Sources
 
 ## Embedded Playbooks
@@ -134,18 +134,18 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Steps:**
 
-1. **Extended immersion, fully inductive start.** Day one of an ethnographic mission is basically to turn up and start to understand what's going on around you. [^ethnographic-research-procedure-1]
-   **Step type:** Data-gathering — real immersion in the field, not something the agent can simulate.
-2. **Observe and record (diary or digital video).** The core source of data is observational... Increasingly, that's digital video. [^ethnographic-research-procedure-2]
+1. **Gather real in-context material with an open, inductive start.** *(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* Before narrowing to specific questions, take in whatever real, in-context material already exists about how customers actually behave and experience the category — existing recordings, documented sessions, published real accounts of use — without pre-selecting for a hypothesis. If no such material exists yet, that gap must be stated honestly rather than assumed away.
+   **Step type:** Data-gathering — real in-context material, never invented or assumed; existing recordings and documentation can satisfy this without physical presence.
+2. **Observe and record real behaviour (existing recordings or documentation).** *(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* The core evidence is observational — real records of what customers actually do (video, session recordings, documented interactions), not a self-report of what they say they do. Structure and analyse whatever real observational material exists; do not invent or infer what it would likely show.
    **Step type:** Data-gathering — the agent's role is to structure the recorded observation, not invent it.
-3. **Use observation to drive in-situ interviews.** recording what you're seeing and using that evidence to drive in situ interviews. So these are much more casual. They're on the spot. [^ethnographic-research-procedure-3]
-   **Step type:** Data-gathering — real interview responses, not invented.
+3. **Use real in-context commentary alongside observation.** *(Adapted for agent execution — states the evidence standard, not a transcript claim; see Citation status.)* Where real, in-the-moment customer commentary exists — captured during or immediately after the observed behaviour, not recalled afterward in a separate conversation — draw on it directly; it reflects what was actually happening rather than a reconstructed memory of it. Where none exists, that gap must be stated honestly rather than filled with an assumed reaction.
+   **Step type:** Data-gathering — real in-the-moment commentary, not invented or recalled after the fact.
 4. **Output: deep ethnographic insight.** this combination of observation and interview over extended periods of time produces this deep, extremely complex series of ethnographic insights. 'Get your ass into the market.' [^ethnographic-research-procedure-4]
    **Step type:** Evidence-and-judgement — synthesizing the gathered observation and interview data into insight.
 
 **Output:** Deep ethnographic insight (B2C); for B2B, a naturally-sampled view of the buying committee.
 
-**Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify. No agent-executable substitute exists for steps 1–3 (extended immersion, direct observation, in-situ interviewing) — do not simulate or fabricate ethnographic insight to fill this gap; state plainly that this procedure needs a human collaborator. [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) can gather directional signal on the same variable categories from published reviews, forum discussion, or video showing real product use, but it is a materially weaker stand-in, not an equivalent — see [Understand customers in their real context](../principles/understand-customers-in-their-real-context.md) for why, and [Agent-gathered secondary evidence is directional, not equivalent to primary research](../principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md) for the confidence discount that applies.
+**Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
 [^ethnographic-research-procedure-1]: market-research-m2-video — 00:42:58
 [^ethnographic-research-procedure-2]: market-research-m2-video — 00:43:28
