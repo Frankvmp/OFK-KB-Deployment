@@ -45,7 +45,7 @@ The researcher must remain willing to ask apparently obvious questions in detail
 
 ## Related distinctions
 
-This Principle extends [Marketers are not the consumer](marketers-are-not-the-consumer.md) from personal humility into field practice. It does not claim that observation is representative of the whole market; [Qualitative depth does not establish population magnitude](qualitative-depth-does-not-establish-population-magnitude.md) supplies that boundary.
+This Principle extends [Marketers are not the consumer](marketers-are-not-the-consumer.md) from personal humility into field practice. It does not claim that observation is representative of the whole market; [Qualitative depth does not establish population magnitude](qualitative-depth-does-not-establish-population-magnitude.md) supplies that boundary. Where no human collaborator can observe customers in their real context, [Agent-gathered secondary evidence is directional, not equivalent to primary research](agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md) states the confidence discount that applies to the closest agent-executable alternative — it does not relax this Principle's own claim.
 
 ## Invokes
 

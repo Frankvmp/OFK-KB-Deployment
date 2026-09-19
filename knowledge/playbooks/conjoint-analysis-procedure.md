@@ -32,6 +32,8 @@ tags:
 
 *(Process framing — not a sourced claim; no footnote.)* Reach for this when stated preference (asking consumers what they want) isn't reliable enough — when you need to derive what actually drives choice, and the trade-off between price and other attributes, from revealed behaviour rather than spoken explanation.
 
+This procedure requires a real respondent panel making repeated real trade-off choices (steps 1, 3, and 4) — there is no agent-executable substitute for live choice elicitation itself. Where no human collaborator can run it, say so plainly rather than simulate or estimate trade-off data. [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) can gather directional signal on attribute importance or price sensitivity from published reviews, commentary, or existing conjoint/pricing studies to inform a decision in the meantime — but it does not derive attribute utility the way this procedure does, and its output must never be presented as if it had. See [ADR-0018](../../docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md).
+
 ## Purpose
 
 This playbook defines an ordered process for conjoint analysis procedure. The sequence and decision points are retained from the registered evidence.
@@ -43,6 +45,8 @@ This playbook defines an ordered process for conjoint analysis procedure. The se
 - [Revealed choices can be more informative than stated explanations](../principles/revealed-choices-can-be-more-informative-than-stated-explanations.md) (Principle) — explains why this Playbook uses observed trade-offs rather than direct importance questions.
 - [Price should follow customer perceived value, not cost-plus arithmetic](../principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md) (Principle) — governs use of conjoint-derived willingness to pay in price setting.
 - [Pricing decisions require customer evidence, not internal intuition](../principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md) (Principle) — explains why the Playbook uses observed trade-offs as pricing evidence.
+- [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) (Playbook) — gathers directional attribute/price-sensitivity signal when no human collaborator can run the live trade-off elicitation this procedure needs; not a substitute for it. See [ADR-0018](../../docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md).
+- [Agent-gathered secondary evidence is directional, not equivalent to primary research](../principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md) (Principle) — governs the confidence discount on that directional signal.
 
 ## Inputs and preconditions
 
@@ -98,6 +102,7 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+- No agent-executable substitute exists for steps 1, 3, and 4 (recruiting a live panel, recording real trade-off choices). Do not simulate, estimate, or invent trade-off data to fill this gap — state plainly that this procedure needs a human collaborator and offer [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md)'s directional signal only as a lower-confidence stand-in, never as equivalent output.
 
 ## Citation status
 

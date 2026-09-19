@@ -40,6 +40,8 @@ itself. [^origin]
 - [Understand customers in their real context](../principles/understand-customers-in-their-real-context.md) (Principle) — supplies the reasoning for the embedded ethnographic procedure.
 - [Pricing decisions require customer evidence, not internal intuition](../principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md) (Principle) — applies the research boundary to price setting.
 - [The value of creative pre-testing depends on method and context](../principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md) (Principle) — keeps creative-test evidence within its methodological strengths and limitations.
+- [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) (Playbook) — gathers directional signal on the same variable categories the embedded Ethnographic Research Procedure covers, when no human collaborator can run real immersion and observation; not a substitute for it. See [ADR-0018](../../docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md).
+- [Agent-gathered secondary evidence is directional, not equivalent to primary research](../principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md) (Principle) — governs the confidence discount on that directional signal.
 
 ## How this executes
 
@@ -143,7 +145,7 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Output:** Deep ethnographic insight (B2C); for B2B, a naturally-sampled view of the buying committee.
 
-**Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
+**Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify. No agent-executable substitute exists for steps 1–3 (extended immersion, direct observation, in-situ interviewing) — do not simulate or fabricate ethnographic insight to fill this gap; state plainly that this procedure needs a human collaborator. [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) can gather directional signal on the same variable categories from published reviews, forum discussion, or video showing real product use, but it is a materially weaker stand-in, not an equivalent — see [Understand customers in their real context](../principles/understand-customers-in-their-real-context.md) for why, and [Agent-gathered secondary evidence is directional, not equivalent to primary research](../principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md) for the confidence discount that applies.
 
 [^ethnographic-research-procedure-1]: market-research-m2-video — 00:42:58
 [^ethnographic-research-procedure-2]: market-research-m2-video — 00:43:28

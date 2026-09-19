@@ -1,6 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:13:09.345Z",
-  "source_commit": "991a2afd2417ab4113c1e3d422fbaf7daf2274ca",
+  "generated_at": "2026-09-19T11:09:44.823Z",
   "nodes": [
     {
       "id": "knowledge/README.md",
@@ -163,6 +162,18 @@
       "tags": [
         "cross-cutting",
         "knowledge-base"
+      ]
+    },
+    {
+      "id": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "title": "Agent-Executable Customer Insight Synthesis (identify sources → extract variables → tag confidence → flag gaps)",
+      "type": "Playbook",
+      "status": "draft",
+      "tags": [
+        "diagnosis",
+        "research",
+        "customer-understanding",
+        "agent-execution"
       ]
     },
     {
@@ -353,6 +364,17 @@
       "tags": [
         "diagnosis",
         "segmentation"
+      ]
+    },
+    {
+      "id": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "title": "Agent-gathered secondary evidence is directional, not equivalent to primary research",
+      "type": "Principle",
+      "status": "draft",
+      "tags": [
+        "diagnosis",
+        "customer-understanding",
+        "agent-execution"
       ]
     },
     {
@@ -2050,9 +2072,39 @@
     },
     {
       "from": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
       "to": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "kind": "markdown-link",
       "context": "How this executes"
+    },
+    {
+      "from": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "Ethnographic Research Procedure"
+    },
+    {
+      "from": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "to": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "kind": "markdown-link",
+      "context": "Ethnographic Research Procedure"
+    },
+    {
+      "from": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "Ethnographic Research Procedure"
     },
     {
       "from": "knowledge/frameworks/strategy-directs-each-tactical-p.md",
@@ -2331,6 +2383,102 @@
       "context": "Invokes"
     },
     {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/schemas/target-customer-portrait.md",
+      "kind": "markdown-link",
+      "context": "When to use this"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "kind": "markdown-link",
+      "context": "When to use this"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "Purpose"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/schemas/target-customer-portrait.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "5. Apply the confidence discount before this output is used downstream"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/schemas/target-customer-portrait.md",
+      "kind": "markdown-link",
+      "context": "Output"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md",
+      "kind": "markdown-link",
+      "context": "Output"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "kind": "markdown-link",
+      "context": "Consumers"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "kind": "markdown-link",
+      "context": "Consumers"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "kind": "markdown-link",
+      "context": "Consumers"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "kind": "markdown-link",
+      "context": "Boundaries"
+    },
+    {
       "from": "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
       "to": "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
       "kind": "markdown-link",
@@ -2368,6 +2516,12 @@
     },
     {
       "from": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "When to use this"
+    },
+    {
+      "from": "knowledge/playbooks/conjoint-analysis-procedure.md",
       "to": "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
       "kind": "markdown-link",
       "context": "Invokes"
@@ -2398,9 +2552,27 @@
     },
     {
       "from": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/conjoint-analysis-procedure.md",
       "to": "knowledge/schemas/conjoint-choice-structure-options-alternatives-attributes.md",
       "kind": "markdown-link",
       "context": "2. Present a choice task built from options/alternatives/attributes"
+    },
+    {
+      "from": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "Boundaries and failure modes"
     },
     {
       "from": "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
@@ -2455,6 +2627,12 @@
       "to": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "kind": "markdown-link",
       "context": "2. Create a vacuum (empty yourself of assumptions before research)"
+    },
+    {
+      "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "When to use this"
     },
     {
       "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
@@ -2548,6 +2726,18 @@
     },
     {
       "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "to": "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md",
       "kind": "markdown-link",
       "context": "2. Do qualitative exploration before designing the quantitative survey"
@@ -2569,6 +2759,18 @@
       "to": "knowledge/schemas/target-customer-portrait.md",
       "kind": "markdown-link",
       "context": "4. Use focus groups again, mid-stage, once tentative strategic decisions exist"
+    },
+    {
+      "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "Boundaries and failure modes"
+    },
+    {
+      "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "Boundaries and failure modes"
     },
     {
       "from": "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
@@ -3661,6 +3863,72 @@
       "to": "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
       "kind": "markdown-link",
       "context": "Invokes"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "When to use this"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "kind": "markdown-link",
+      "context": "Why it matters"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+      "kind": "markdown-link",
+      "context": "Why it matters"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "kind": "markdown-link",
+      "context": "Related distinctions"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "Related distinctions"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
+      "kind": "markdown-link",
+      "context": "Invokes"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "kind": "markdown-link",
+      "context": "Citation status"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
+      "kind": "markdown-link",
+      "context": "Citation status"
     },
     {
       "from": "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
@@ -5008,6 +5276,12 @@
     },
     {
       "from": "knowledge/principles/understand-customers-in-their-real-context.md",
+      "to": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "kind": "markdown-link",
+      "context": "Related distinctions"
+    },
+    {
+      "from": "knowledge/principles/understand-customers-in-their-real-context.md",
       "to": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
       "kind": "markdown-link",
       "context": "Invokes"
@@ -5337,6 +5611,7 @@
       "knowledge/frameworks/funnel.md",
       "knowledge/frameworks/market-orientation.md",
       "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
       "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
       "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
       "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
@@ -5361,6 +5636,7 @@
     ],
     "knowledge/playbooks/conjoint-analysis-procedure.md": [
       "knowledge/frameworks/diagnosis-strategy-tactics.md",
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
       "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
       "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
       "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
@@ -5748,15 +6024,19 @@
     ],
     "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md": [
       "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
       "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "knowledge/principles/README.md",
+      "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
       "knowledge/principles/understand-customers-in-their-real-context.md"
     ],
     "knowledge/principles/understand-customers-in-their-real-context.md": [
       "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
       "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
       "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-      "knowledge/principles/README.md"
+      "knowledge/principles/README.md",
+      "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md"
     ],
     "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md": [
       "knowledge/frameworks/research-informs-understanding-not-strategy.md",
@@ -5769,6 +6049,19 @@
       "knowledge/frameworks/research-informs-understanding-not-strategy.md",
       "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "knowledge/principles/README.md"
+    ],
+    "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md": [
+      "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md"
+    ],
+    "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md": [
+      "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "knowledge/principles/understand-customers-in-their-real-context.md"
     ],
     "knowledge/principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md": [
       "knowledge/frameworks/strategy-directs-each-tactical-p.md",
@@ -5847,7 +6140,23 @@
       "knowledge/principles/README.md",
       "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
     ],
+    "knowledge/schemas/target-customer-portrait.md": [
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
+      "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
+      "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
+      "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
+      "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+    ],
+    "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md": [
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "knowledge/principles/README.md",
+      "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md"
+    ],
     "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md": [
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
       "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
       "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
@@ -5855,6 +6164,7 @@
       "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md"
     ],
     "knowledge/frameworks/research-informs-understanding-not-strategy.md": [
+      "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
       "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
       "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
@@ -5885,10 +6195,6 @@
       "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
       "knowledge/principles/README.md"
     ],
-    "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md": [
-      "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-      "knowledge/principles/README.md"
-    ],
     "knowledge/principles/research-reveals-complexity-segmentation-organises-it.md": [
       "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
@@ -5898,14 +6204,6 @@
       "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
       "knowledge/principles/README.md"
-    ],
-    "knowledge/schemas/target-customer-portrait.md": [
-      "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-      "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-      "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
-      "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
-      "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
-      "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
     ],
     "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md": [
       "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
@@ -6144,9 +6442,39 @@
       "context": "Frameworks"
     },
     {
+      "from": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "Invokes"
+    },
+    {
       "from": "knowledge/playbooks/README.md",
       "to": "index.md",
       "context": "Playbooks"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "When to use this"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "Citation status"
+    },
+    {
+      "from": "knowledge/playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "Citation status"
+    },
+    {
+      "from": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "When to use this"
+    },
+    {
+      "from": "knowledge/playbooks/conjoint-analysis-procedure.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "Invokes"
     },
     {
       "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
@@ -6154,9 +6482,24 @@
       "context": "When to use this"
     },
     {
+      "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "When to use this"
+    },
+    {
+      "from": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "Invokes"
+    },
+    {
       "from": "knowledge/principles/README.md",
       "to": "docs/adr/0010-principle-reasoning-layer-and-module-1-pilot.md",
       "context": "Changes"
+    },
+    {
+      "from": "knowledge/principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md",
+      "to": "docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md",
+      "context": "Citation status"
     },
     {
       "from": "knowledge/schemas/README.md",

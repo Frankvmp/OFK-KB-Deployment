@@ -32,6 +32,8 @@ tags:
 
 *(Process framing — not a sourced claim; no footnote.)* This is the Playbook other concepts invoke whenever they need the agent to gather real evidence rather than assert a claim without support — see the `Data-gathering` step type in [CONTEXT.md](../../CONTEXT.md). Run it whenever a diagnosis, a funnel population, or a strategic decision needs grounding in real research and no research has been gathered yet.
 
+Steps 2 through 4 below describe human-executed methods (qualitative interviews feeding survey design, administering a live quantitative survey, mid-stage focus groups) exactly as the source material presents them — accurate, but not something an agent can run itself. Where no human collaborator is available to execute them, run [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) instead, for the variables it can actually gather; see that playbook's own Boundaries for what it cannot replace, and this file's own Boundaries and failure modes below for what has no substitute at all. See [ADR-0018](../../docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md) for why this is the default an agent is routed to.
+
 ## Purpose
 
 This playbook defines an ordered process for market research method sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups). The sequence and decision points are retained from the registered evidence.
@@ -53,6 +55,8 @@ This playbook defines an ordered process for market research method sequence (se
 - [Positioning must use customer data, not internal opinion](../principles/positioning-must-use-customer-data-not-internal-opinion.md) (Principle) — requires positioning inputs to come from market evidence.
 - [Existing-customer evidence can refine positioning](../principles/existing-customer-evidence-can-refine-positioning.md) (Principle) — supports research with customers who already prefer the offer.
 - [The value of creative pre-testing depends on method and context](../principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md) (Principle) — applies method trade-offs to late-stage creative testing.
+- [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) (Playbook) — the agent-executable path for steps 2–4 when no human collaborator is available; see [ADR-0018](../../docs/adr/0018-agent-executable-path-is-primary-not-side-by-side.md).
+- [Agent-gathered secondary evidence is directional, not equivalent to primary research](../principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md) (Principle) — governs the confidence discount on that substitute's output.
 
 ## Inputs and preconditions
 
@@ -106,6 +110,7 @@ IMPORTANT TENSION, not resolved by the source material: this teaches methods in 
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+- Steps 2–4 require a live respondent this Playbook cannot supply on its own; where no human collaborator is available, route to [Agent-Executable Customer Insight Synthesis](../playbooks/agent-executable-customer-insight-synthesis-identify-sources-extract-variables-flag-gaps.md) for the variables it can gather. Its output is directional only — never equivalent to a real mid-stage focus-group reaction — see [Agent-gathered secondary evidence is directional, not equivalent to primary research](../principles/agent-gathered-secondary-evidence-is-directional-not-equivalent-to-primary-research.md).
 
 ## Sources
 
