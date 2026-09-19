@@ -61,6 +61,6 @@ Drafted from Module 7 transcript spans 00:36:36-00:42:29. Stage 4 mechanical cit
 
 ## Sources
 
-[^unknown-priorities]: ../../transcripts/product-m7-video.md#00:36:36-00:38:52
-[^measurement]: ../../transcripts/product-m7-video.md#00:38:52-00:40:32
-[^priority]: ../../transcripts/product-m7-video.md#00:41:02-00:42:29
+[^unknown-priorities]: product-m7-video — 00:36:36-00:38:52
+[^measurement]: product-m7-video — 00:38:52-00:40:32
+[^priority]: product-m7-video — 00:41:02-00:42:29

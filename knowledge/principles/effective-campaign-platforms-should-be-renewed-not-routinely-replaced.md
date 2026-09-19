@@ -57,5 +57,5 @@ Drafted from Module 9 transcript spans 01:18:19-01:21:49 and 01:22:17-01:26:02. 
 
 ## Sources
 
-[^wearout]: ../../transcripts/marketing-communications-m9-video.md#01:18:19-01:21:49
-[^campaignability]: ../../transcripts/marketing-communications-m9-video.md#01:22:17-01:26:02
+[^wearout]: marketing-communications-m9-video — 01:18:19-01:21:49
+[^campaignability]: marketing-communications-m9-video — 01:22:17-01:26:02

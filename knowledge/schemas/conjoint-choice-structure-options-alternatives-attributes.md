@@ -69,6 +69,6 @@ attributes in combination, supporting pricing decisions. [^consumer]
 
 ## Sources
 
-[^structure]: ../../transcripts/market-research-m2-video.md#00:50:46
-[^example]: ../../transcripts/market-research-m2-video.md#00:50:46-00:51:24
-[^consumer]: ../../transcripts/pricing-m8-video.md#00:38:40
+[^structure]: market-research-m2-video — 00:50:46
+[^example]: market-research-m2-video — 00:50:46-00:51:24
+[^consumer]: pricing-m8-video — 00:38:40

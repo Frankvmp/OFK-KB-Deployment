@@ -135,11 +135,11 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^van-westendorp-price-setting-procedure-1]: ../../transcripts/pricing-m8-video.md#00:33:35
-[^van-westendorp-price-setting-procedure-2]: ../../transcripts/pricing-m8-video.md#00:34:11
-[^van-westendorp-price-setting-procedure-3]: ../../transcripts/pricing-m8-video.md#00:35:44
-[^van-westendorp-price-setting-procedure-4]: ../../transcripts/pricing-m8-video.md#00:36:10
-[^van-westendorp-price-setting-procedure-5]: ../../transcripts/pricing-m8-video.md#00:36:10
+[^van-westendorp-price-setting-procedure-1]: pricing-m8-video — 00:33:35
+[^van-westendorp-price-setting-procedure-2]: pricing-m8-video — 00:34:11
+[^van-westendorp-price-setting-procedure-3]: pricing-m8-video — 00:35:44
+[^van-westendorp-price-setting-procedure-4]: pricing-m8-video — 00:36:10
+[^van-westendorp-price-setting-procedure-5]: pricing-m8-video — 00:36:10
 
 ## Citation status
 
@@ -147,7 +147,7 @@ The originally-drafted "Value model" section (4 numbered steps: identify custome
 
 ## Sources
 
-[^value]: ../../transcripts/pricing-m8-video.md#00:03:02-00:04:37
-[^pricing]: ../../transcripts/pricing-m8-video.md#00:04:37-00:05:37
-[^profit]: ../../transcripts/pricing-m8-video.md#00:05:37-00:06:10
-[^distribution]: ../../transcripts/distribution-m10-video.md#00:12:39
+[^value]: pricing-m8-video — 00:03:02-00:04:37
+[^pricing]: pricing-m8-video — 00:04:37-00:05:37
+[^profit]: pricing-m8-video — 00:05:37-00:06:10
+[^distribution]: distribution-m10-video — 00:12:39

@@ -52,4 +52,4 @@ Drafted from Module 9 transcript span 01:32:03-01:36:12. Stage 4 mechanical cita
 
 ## Sources
 
-[^synergy]: ../../transcripts/marketing-communications-m9-video.md#01:32:03-01:36:12
+[^synergy]: marketing-communications-m9-video — 01:32:03-01:36:12

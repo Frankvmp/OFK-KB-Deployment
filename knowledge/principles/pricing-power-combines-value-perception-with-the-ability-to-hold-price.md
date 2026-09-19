@@ -53,4 +53,4 @@ Drafted from the Module 8 Apple, Samsung, and pricing-power discussion at 00:20:
 
 ## Sources
 
-[^pricing-power]: ../../transcripts/pricing-m8-video.md#00:20:29-00:23:25
+[^pricing-power]: pricing-m8-video — 00:20:29-00:23:25

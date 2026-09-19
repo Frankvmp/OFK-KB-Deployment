@@ -93,7 +93,7 @@ All citations checked against `tools/flattened/positioning-m5-video.txt#00:51:07
 
 ## Sources
 
-[^origin]: ../../transcripts/positioning-m5-video.md#00:51:07
-[^step-1]: ../../transcripts/positioning-m5-video.md#00:52:43
-[^step-2]: ../../transcripts/positioning-m5-video.md#00:55:27
-[^step-3]: ../../transcripts/positioning-m5-video.md#00:57:29
+[^origin]: positioning-m5-video — 00:51:07
+[^step-1]: positioning-m5-video — 00:52:43
+[^step-2]: positioning-m5-video — 00:55:27
+[^step-3]: positioning-m5-video — 00:57:29

@@ -69,6 +69,6 @@ codes needed by a communications brief. [^consumer]
 
 ## Sources
 
-[^structure]: ../../transcripts/positioning-m5-video.md#01:22:32-01:26:05
-[^example]: ../../transcripts/positioning-m5-video.md#01:26:31-01:28:08
-[^consumer]: ../../transcripts/marketing-communications-m9-video.md#00:08:28
+[^structure]: positioning-m5-video — 01:22:32-01:26:05
+[^example]: positioning-m5-video — 01:26:31-01:28:08
+[^consumer]: marketing-communications-m9-video — 00:08:28

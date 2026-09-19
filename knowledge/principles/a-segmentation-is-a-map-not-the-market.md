@@ -59,6 +59,6 @@ Drafted from Module 3 transcript spans 01:11:07-01:12:02, 01:26:15-01:26:44, 01:
 
 ## Sources
 
-[^map-abstraction]: ../../transcripts/segmentation-m3-video.md#01:11:07-01:12:02
-[^directional-check]: ../../transcripts/segmentation-m3-video.md#01:26:15-01:26:44
-[^update-without-rebuild]: ../../transcripts/segmentation-m3-video.md#01:26:44-01:27:36
+[^map-abstraction]: segmentation-m3-video — 01:11:07-01:12:02
+[^directional-check]: segmentation-m3-video — 01:26:15-01:26:44
+[^update-without-rebuild]: segmentation-m3-video — 01:26:44-01:27:36

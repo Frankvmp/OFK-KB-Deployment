@@ -95,7 +95,7 @@ Step 1's body footnote was written as `[^step-1]`, but no `[^step-1]` definition
 
 ## Sources
 
-[^origin]: ../../transcripts/positioning-m5-video.md#01:23:06
-[^step-2]: ../../transcripts/positioning-m5-video.md#01:23:32
-[^step-3]: ../../transcripts/positioning-m5-video.md#01:24:31
-[^step-4]: ../../transcripts/positioning-m5-video.md#01:25:04
+[^origin]: positioning-m5-video — 01:23:06
+[^step-2]: positioning-m5-video — 01:23:32
+[^step-3]: positioning-m5-video — 01:24:31
+[^step-4]: positioning-m5-video — 01:25:04

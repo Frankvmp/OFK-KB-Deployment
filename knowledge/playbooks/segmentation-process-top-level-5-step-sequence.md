@@ -120,9 +120,9 @@ Everything else checked out — steps 2 and 5 cite accurately.
 
 ## Sources
 
-[^origin]: ../../transcripts/segmentation-m3-video.md#00:18:50-00:18:55
-[^step-1-1]: ../../transcripts/segmentation-m3-video.md#00:27:38
-[^step-2]: ../../transcripts/segmentation-m3-video.md#00:19:03
-[^step-3]: ../../transcripts/segmentation-m3-video.md#00:19:03
-[^step-4]: ../../transcripts/segmentation-m3-video.md#00:19:03
-[^step-5]: ../../transcripts/segmentation-m3-video.md#00:19:31
+[^origin]: segmentation-m3-video — 00:18:50-00:18:55
+[^step-1-1]: segmentation-m3-video — 00:27:38
+[^step-2]: segmentation-m3-video — 00:19:03
+[^step-3]: segmentation-m3-video — 00:19:03
+[^step-4]: segmentation-m3-video — 00:19:03
+[^step-5]: segmentation-m3-video — 00:19:31

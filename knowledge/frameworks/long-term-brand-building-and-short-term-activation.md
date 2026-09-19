@@ -132,9 +132,9 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^imc-plumber-diagnostic-sequence-1]: ../../transcripts/marketing-communications-m9-video.md#00:53:31
-[^imc-plumber-diagnostic-sequence-2]: ../../transcripts/marketing-communications-m9-video.md#00:54:19
-[^imc-plumber-diagnostic-sequence-3]: ../../transcripts/marketing-communications-m9-video.md#00:54:19
+[^imc-plumber-diagnostic-sequence-1]: marketing-communications-m9-video — 00:53:31
+[^imc-plumber-diagnostic-sequence-2]: marketing-communications-m9-video — 00:54:19
+[^imc-plumber-diagnostic-sequence-3]: marketing-communications-m9-video — 00:54:19
 
 ### Codify Every Pixel
 
@@ -154,8 +154,8 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^codify-every-pixel-1]: ../../transcripts/marketing-communications-m9-video.md#00:57:26
-[^codify-every-pixel-2]: ../../transcripts/marketing-communications-m9-video.md#00:57:53
+[^codify-every-pixel-1]: marketing-communications-m9-video — 00:57:26
+[^codify-every-pixel-2]: marketing-communications-m9-video — 00:57:53
 
 ### Zero-Based Budgeting Process
 
@@ -181,11 +181,11 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^zero-based-budgeting-process-1]: ../../transcripts/marketing-communications-m9-video.md#00:15:18
-[^zero-based-budgeting-process-2]: ../../transcripts/marketing-communications-m9-video.md#00:15:18
-[^zero-based-budgeting-process-3]: ../../transcripts/marketing-communications-m9-video.md#00:15:18
-[^zero-based-budgeting-process-4]: ../../transcripts/marketing-communications-m9-video.md#00:15:18
-[^zero-based-budgeting-process-5]: ../../transcripts/marketing-communications-m9-video.md#00:15:48
+[^zero-based-budgeting-process-1]: marketing-communications-m9-video — 00:15:18
+[^zero-based-budgeting-process-2]: marketing-communications-m9-video — 00:15:18
+[^zero-based-budgeting-process-3]: marketing-communications-m9-video — 00:15:18
+[^zero-based-budgeting-process-4]: marketing-communications-m9-video — 00:15:18
+[^zero-based-budgeting-process-5]: marketing-communications-m9-video — 00:15:48
 
 ### Triple Cooked Budgeting
 
@@ -207,9 +207,9 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^triple-cooked-budgeting-1]: ../../transcripts/marketing-communications-m9-video.md#00:24:09
-[^triple-cooked-budgeting-2]: ../../transcripts/marketing-communications-m9-video.md#00:25:02
-[^triple-cooked-budgeting-3]: ../../transcripts/marketing-communications-m9-video.md#00:26:23
+[^triple-cooked-budgeting-1]: marketing-communications-m9-video — 00:24:09
+[^triple-cooked-budgeting-2]: marketing-communications-m9-video — 00:25:02
+[^triple-cooked-budgeting-3]: marketing-communications-m9-video — 00:26:23
 
 ### Media S-Curve Apex-Hopping Sequence
 
@@ -232,10 +232,10 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^media-s-curve-apex-hopping-sequence-1]: ../../transcripts/marketing-communications-m9-video.md#00:40:29
-[^media-s-curve-apex-hopping-sequence-2]: ../../transcripts/marketing-communications-m9-video.md#00:40:29
-[^media-s-curve-apex-hopping-sequence-3]: ../../transcripts/marketing-communications-m9-video.md#00:40:29
-[^media-s-curve-apex-hopping-sequence-4]: ../../transcripts/marketing-communications-m9-video.md#00:40:29
+[^media-s-curve-apex-hopping-sequence-1]: marketing-communications-m9-video — 00:40:29
+[^media-s-curve-apex-hopping-sequence-2]: marketing-communications-m9-video — 00:40:29
+[^media-s-curve-apex-hopping-sequence-3]: marketing-communications-m9-video — 00:40:29
+[^media-s-curve-apex-hopping-sequence-4]: marketing-communications-m9-video — 00:40:29
 
 ### Effectiveness Measurement Escalation Ladder
 
@@ -259,10 +259,10 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^effectiveness-measurement-escalation-ladder-1]: ../../transcripts/marketing-communications-m9-video.md#01:27:51
-[^effectiveness-measurement-escalation-ladder-2]: ../../transcripts/marketing-communications-m9-video.md#01:27:51
-[^effectiveness-measurement-escalation-ladder-3]: ../../transcripts/marketing-communications-m9-video.md#01:28:14
-[^effectiveness-measurement-escalation-ladder-4]: ../../transcripts/marketing-communications-m9-video.md#01:29:45
+[^effectiveness-measurement-escalation-ladder-1]: marketing-communications-m9-video — 01:27:51
+[^effectiveness-measurement-escalation-ladder-2]: marketing-communications-m9-video — 01:27:51
+[^effectiveness-measurement-escalation-ladder-3]: marketing-communications-m9-video — 01:28:14
+[^effectiveness-measurement-escalation-ladder-4]: marketing-communications-m9-video — 01:29:45
 
 ### Campaignability / No-Wearout Budget Reallocation Sequence
 
@@ -287,15 +287,15 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^campaignability-no-wearout-budget-reallocation-sequence-1]: ../../transcripts/marketing-communications-m9-video.md#01:20:53
-[^campaignability-no-wearout-budget-reallocation-sequence-2]: ../../transcripts/marketing-communications-m9-video.md#01:21:49
-[^campaignability-no-wearout-budget-reallocation-sequence-3]: ../../transcripts/marketing-communications-m9-video.md#01:22:17
-[^campaignability-no-wearout-budget-reallocation-sequence-4]: ../../transcripts/marketing-communications-m9-video.md#01:22:17
-[^campaignability-no-wearout-budget-reallocation-sequence-5]: ../../transcripts/marketing-communications-m9-video.md#01:22:44
+[^campaignability-no-wearout-budget-reallocation-sequence-1]: marketing-communications-m9-video — 01:20:53
+[^campaignability-no-wearout-budget-reallocation-sequence-2]: marketing-communications-m9-video — 01:21:49
+[^campaignability-no-wearout-budget-reallocation-sequence-3]: marketing-communications-m9-video — 01:22:17
+[^campaignability-no-wearout-budget-reallocation-sequence-4]: marketing-communications-m9-video — 01:22:17
+[^campaignability-no-wearout-budget-reallocation-sequence-5]: marketing-communications-m9-video — 01:22:44
 
 ## Sources
 
-[^targeting]: ../../transcripts/targeting-m4-video.md#00:45:40
-[^definition]: ../../transcripts/marketing-communications-m9-video.md#00:27:17-00:28:04
-[^mcdonalds]: ../../transcripts/marketing-communications-m9-video.md#00:29:44-00:32:36
-[^balance]: ../../transcripts/marketing-communications-m9-video.md#00:34:17-00:35:07
+[^targeting]: targeting-m4-video — 00:45:40
+[^definition]: marketing-communications-m9-video — 00:27:17-00:28:04
+[^mcdonalds]: marketing-communications-m9-video — 00:29:44-00:32:36
+[^balance]: marketing-communications-m9-video — 00:34:17-00:35:07

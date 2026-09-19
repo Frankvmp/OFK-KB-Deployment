@@ -60,6 +60,6 @@ Drafted from Module 3 transcript spans 00:04:17-00:07:43, 00:07:43-00:08:18, 00:
 
 ## Sources
 
-[^revealed-complexity]: ../../transcripts/segmentation-m3-video.md#00:04:17-00:07:43
-[^research-handoff]: ../../transcripts/segmentation-m3-video.md#00:07:43-00:08:18
-[^questionnaire-input]: ../../transcripts/segmentation-m3-video.md#00:44:07-00:44:37
+[^revealed-complexity]: segmentation-m3-video — 00:04:17-00:07:43
+[^research-handoff]: segmentation-m3-video — 00:07:43-00:08:18
+[^questionnaire-input]: segmentation-m3-video — 00:44:07-00:44:37

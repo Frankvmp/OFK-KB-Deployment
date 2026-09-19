@@ -58,6 +58,6 @@ Drafted from Module 4 transcript spans 00:25:01-00:27:49, 00:27:49-00:29:01, 00:
 
 ## Sources
 
-[^constrained-focus]: ../../transcripts/targeting-m4-video.md#00:25:01-00:27:49
-[^subcategory-growth]: ../../transcripts/targeting-m4-video.md#00:27:49-00:29:01
-[^staged-expansion]: ../../transcripts/targeting-m4-video.md#00:29:01-00:30:33
+[^constrained-focus]: targeting-m4-video — 00:25:01-00:27:49
+[^subcategory-growth]: targeting-m4-video — 00:27:49-00:29:01
+[^staged-expansion]: targeting-m4-video — 00:29:01-00:30:33

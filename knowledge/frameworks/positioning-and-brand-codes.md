@@ -159,8 +159,8 @@ The originally-drafted "Brand-code system" section (5 numbered steps: identify p
 
 ## Sources
 
-[^distinction]: ../../transcripts/positioning-m5-video.md#00:02:47
-[^codes]: ../../transcripts/positioning-m5-video.md#00:07:28-00:16:43
-[^three-cs]: ../../transcripts/positioning-m5-video.md#00:32:00-00:51:07
-[^touchpoints]: ../../transcripts/product-m7-video.md#00:43:01
-[^codification]: ../../transcripts/marketing-communications-m9-video.md#00:56:58
+[^distinction]: positioning-m5-video — 00:02:47
+[^codes]: positioning-m5-video — 00:07:28-00:16:43
+[^three-cs]: positioning-m5-video — 00:32:00-00:51:07
+[^touchpoints]: product-m7-video — 00:43:01
+[^codification]: marketing-communications-m9-video — 00:56:58

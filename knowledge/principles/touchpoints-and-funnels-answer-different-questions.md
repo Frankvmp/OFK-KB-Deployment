@@ -52,4 +52,4 @@ Drafted from Module 7 transcript span 00:33:05-00:34:05. Stage 4 mechanical cita
 
 ## Sources
 
-[^distinction]: ../../transcripts/product-m7-video.md#00:33:05-00:34:05
+[^distinction]: product-m7-video — 00:33:05-00:34:05

@@ -53,4 +53,4 @@ Drafted from the Module 8 underpricing discussion at 00:28:19-00:30:32. Stage 4 
 
 ## Sources
 
-[^underpricing-risk]: ../../transcripts/pricing-m8-video.md#00:28:19-00:30:32
+[^underpricing-risk]: pricing-m8-video — 00:28:19-00:30:32

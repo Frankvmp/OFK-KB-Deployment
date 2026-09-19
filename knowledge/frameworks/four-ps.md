@@ -287,12 +287,12 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^new-product-development-sequence-1]: ../../transcripts/product-m7-video.md#00:18:05
-[^new-product-development-sequence-2]: ../../transcripts/product-m7-video.md#00:18:05
-[^new-product-development-sequence-3]: ../../transcripts/product-m7-video.md#00:18:43
-[^new-product-development-sequence-4]: ../../transcripts/product-m7-video.md#00:18:43
-[^new-product-development-sequence-5]: ../../transcripts/product-m7-video.md#00:18:43
-[^new-product-development-sequence-6]: ../../transcripts/product-m7-video.md#00:18:43
+[^new-product-development-sequence-1]: product-m7-video — 00:18:05
+[^new-product-development-sequence-2]: product-m7-video — 00:18:05
+[^new-product-development-sequence-3]: product-m7-video — 00:18:43
+[^new-product-development-sequence-4]: product-m7-video — 00:18:43
+[^new-product-development-sequence-5]: product-m7-video — 00:18:43
+[^new-product-development-sequence-6]: product-m7-video — 00:18:43
 ### Product Rationalisation Path (temporary revenue reduction to focus)
 
 This ordered process is embedded here because it is self-contained within the originating Framework.
@@ -320,13 +320,13 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Adjacent governance rule, not part of this step order: Benefit Cosmetics SKU-replacement rule (any new SKU proposal must come paired with SKUs to remove).
 
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-1]: ../../transcripts/product-m7-video.md#01:26:27
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-2]: ../../transcripts/product-m7-video.md#01:26:27
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-3]: ../../transcripts/product-m7-video.md#01:26:54
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-4]: ../../transcripts/product-m7-video.md#01:26:54
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-5]: ../../transcripts/product-m7-video.md#01:26:54
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-6]: ../../transcripts/product-m7-video.md#01:27:22
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-7]: ../../transcripts/product-m7-video.md#01:27:22
+[^product-rationalisation-path-temporary-revenue-reduction-to-focus-1]: product-m7-video — 01:26:27
+[^product-rationalisation-path-temporary-revenue-reduction-to-focus-2]: product-m7-video — 01:26:27
+[^product-rationalisation-path-temporary-revenue-reduction-to-focus-3]: product-m7-video — 01:26:54
+[^product-rationalisation-path-temporary-revenue-reduction-to-focus-4]: product-m7-video — 01:26:54
+[^product-rationalisation-path-temporary-revenue-reduction-to-focus-5]: product-m7-video — 01:26:54
+[^product-rationalisation-path-temporary-revenue-reduction-to-focus-6]: product-m7-video — 01:27:22
+[^product-rationalisation-path-temporary-revenue-reduction-to-focus-7]: product-m7-video — 01:27:22
 ### NPS Exit-Survey Reading Workflow
 
 This ordered process is embedded here because it is self-contained within the originating Framework.
@@ -350,19 +350,19 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^nps-exit-survey-reading-workflow-1]: ../../transcripts/product-m7-video.md#00:56:18
-[^nps-exit-survey-reading-workflow-2]: ../../transcripts/product-m7-video.md#00:56:18
-[^nps-exit-survey-reading-workflow-3]: ../../transcripts/product-m7-video.md#00:56:18
-[^nps-exit-survey-reading-workflow-4]: ../../transcripts/product-m7-video.md#00:56:18
-[^nps-exit-survey-reading-workflow-5]: ../../transcripts/product-m7-video.md#00:56:41
+[^nps-exit-survey-reading-workflow-1]: product-m7-video — 00:56:18
+[^nps-exit-survey-reading-workflow-2]: product-m7-video — 00:56:18
+[^nps-exit-survey-reading-workflow-3]: product-m7-video — 00:56:18
+[^nps-exit-survey-reading-workflow-4]: product-m7-video — 00:56:18
+[^nps-exit-survey-reading-workflow-5]: product-m7-video — 00:56:41
 
 
-[^four-ps-definition]: ../../transcripts/product-m7-video.md#00:09:18-00:10:18
-[^tactical-checklist]: ../../transcripts/product-m7-video.md#00:10:18-00:10:46
-[^marketer-input]: ../../transcripts/product-m7-video.md#00:11:12-00:13:34
-[^product-quality]: ../../transcripts/product-m7-video.md#00:14:00-00:18:43
-[^shania-example]: ../../transcripts/product-m7-video.md#00:16:16-00:18:05
-[^strategy-context]: ../../transcripts/product-m7-video.md#00:03:56-00:06:18
-[^pricing-context]: ../../transcripts/pricing-m8-video.md#00:04:37-00:05:37
-[^distribution-context]: ../../transcripts/distribution-m10-video.md#01:03:33
+[^four-ps-definition]: product-m7-video — 00:09:18-00:10:18
+[^tactical-checklist]: product-m7-video — 00:10:18-00:10:46
+[^marketer-input]: product-m7-video — 00:11:12-00:13:34
+[^product-quality]: product-m7-video — 00:14:00-00:18:43
+[^shania-example]: product-m7-video — 00:16:16-00:18:05
+[^strategy-context]: product-m7-video — 00:03:56-00:06:18
+[^pricing-context]: pricing-m8-video — 00:04:37-00:05:37
+[^distribution-context]: distribution-m10-video — 01:03:33
 

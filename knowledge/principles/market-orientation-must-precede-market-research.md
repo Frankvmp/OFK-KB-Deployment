@@ -62,5 +62,5 @@ Drafted from the Module 2 opening at 00:00:00–00:02:29. Stage 4 mechanical cit
 
 ## Sources
 
-[^orientation-effects]: ../../transcripts/market-research-m2-video.md#00:00:00-00:01:53
-[^orientation-prerequisite]: ../../transcripts/market-research-m2-video.md#00:01:53-00:02:29
+[^orientation-effects]: market-research-m2-video — 00:00:00-00:01:53
+[^orientation-prerequisite]: market-research-m2-video — 00:01:53-00:02:29

@@ -102,8 +102,8 @@ Step 1's body footnote was written as `[^step-1]` (no definition existed; matchi
 
 ## Sources
 
-[^origin]: ../../transcripts/objectives-m6-video.md#01:17:38
-[^step-2]: ../../transcripts/objectives-m6-video.md#01:18:06
-[^step-3]: ../../transcripts/objectives-m6-video.md#01:18:06
-[^step-4]: ../../transcripts/objectives-m6-video.md#01:18:06
-[^step-5]: ../../transcripts/objectives-m6-video.md#01:18:33
+[^origin]: objectives-m6-video — 01:17:38
+[^step-2]: objectives-m6-video — 01:18:06
+[^step-3]: objectives-m6-video — 01:18:06
+[^step-4]: objectives-m6-video — 01:18:06
+[^step-5]: objectives-m6-video — 01:18:33

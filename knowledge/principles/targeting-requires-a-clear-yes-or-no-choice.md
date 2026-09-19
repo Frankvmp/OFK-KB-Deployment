@@ -50,4 +50,4 @@ Drafted from Module 4 transcript spans 00:40:23-00:40:53. Stage 4 mechanical cit
 
 ## Sources
 
-[^binary-choice]: ../../transcripts/targeting-m4-video.md#00:40:23-00:40:53
+[^binary-choice]: targeting-m4-video — 00:40:23-00:40:53

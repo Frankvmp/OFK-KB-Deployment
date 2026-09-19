@@ -228,11 +228,11 @@ belonging to this Framework. [^mortn-context] [^tracksuit-context]
 
 ## Sources
 
-[^mortn-context]: ../../transcripts/market-orientation-m1-video.md#00:45:57
-[^tracksuit-context]: ../../transcripts/objectives-m6-video.md#01:05:53
-[^objective-context]: ../../transcripts/objectives-m6-video.md#01:02:14-01:02:51
-[^long-short-measurement]: ../../transcripts/marketing-communications-m9-video.md#00:26:23
-[^mcdonalds-long-brand-building]: ../../transcripts/marketing-communications-m9-video.md#00:29:44-00:31:51
-[^campaign-versus-company]: ../../transcripts/marketing-communications-m9-video.md#01:26:02-01:28:14
-[^brand-lift-context]: ../../transcripts/marketing-communications-m9-video.md#01:28:14-01:29:45
+[^mortn-context]: market-orientation-m1-video — 00:45:57
+[^tracksuit-context]: objectives-m6-video — 01:05:53
+[^objective-context]: objectives-m6-video — 01:02:14-01:02:51
+[^long-short-measurement]: marketing-communications-m9-video — 00:26:23
+[^mcdonalds-long-brand-building]: marketing-communications-m9-video — 00:29:44-00:31:51
+[^campaign-versus-company]: marketing-communications-m9-video — 01:26:02-01:28:14
+[^brand-lift-context]: marketing-communications-m9-video — 01:28:14-01:29:45
 

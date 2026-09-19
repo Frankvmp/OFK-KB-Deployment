@@ -58,5 +58,5 @@ Drafted from Module 3 transcript spans 00:06:39-00:08:18, 00:11:53-00:12:29. Sta
 
 ## Sources
 
-[^segment-definition]: ../../transcripts/segmentation-m3-video.md#00:06:39-00:08:18
-[^scale-compromise]: ../../transcripts/segmentation-m3-video.md#00:11:53-00:12:29
+[^segment-definition]: segmentation-m3-video — 00:06:39-00:08:18
+[^scale-compromise]: segmentation-m3-video — 00:11:53-00:12:29

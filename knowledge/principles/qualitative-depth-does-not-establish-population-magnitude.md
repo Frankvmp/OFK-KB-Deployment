@@ -60,6 +60,6 @@ Drafted from the focus-group boundary at 00:34:51–00:35:48 and ethnographic de
 
 ## Sources
 
-[^focus-group-depth]: ../../transcripts/market-research-m2-video.md#00:34:51-00:35:48
-[^ethnographic-depth]: ../../transcripts/market-research-m2-video.md#00:48:09-00:48:59
+[^focus-group-depth]: market-research-m2-video — 00:34:51-00:35:48
+[^ethnographic-depth]: market-research-m2-video — 00:48:09-00:48:59
 

@@ -54,4 +54,4 @@ Drafted from the Module 8 explanation of value at 00:03:02-00:04:37. Stage 4 mec
 
 ## Sources
 
-[^dual-value]: ../../transcripts/pricing-m8-video.md#00:03:02-00:04:37
+[^dual-value]: pricing-m8-video — 00:03:02-00:04:37

@@ -136,11 +136,11 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^producer-consumer-development-wheel-1]: ../../transcripts/market-orientation-m1-video.md#00:55:43
-[^producer-consumer-development-wheel-2]: ../../transcripts/market-orientation-m1-video.md#00:55:43
-[^producer-consumer-development-wheel-3]: ../../transcripts/market-orientation-m1-video.md#00:55:43
-[^producer-consumer-development-wheel-4]: ../../transcripts/market-orientation-m1-video.md#00:55:43
-[^producer-consumer-development-wheel-5]: ../../transcripts/market-orientation-m1-video.md#00:56:15
+[^producer-consumer-development-wheel-1]: market-orientation-m1-video — 00:55:43
+[^producer-consumer-development-wheel-2]: market-orientation-m1-video — 00:55:43
+[^producer-consumer-development-wheel-3]: market-orientation-m1-video — 00:55:43
+[^producer-consumer-development-wheel-4]: market-orientation-m1-video — 00:55:43
+[^producer-consumer-development-wheel-5]: market-orientation-m1-video — 00:56:15
 ### Organizational Market-Orientation Intelligence Chain (generate -> irrigate -> respond)
 
 This ordered process is embedded here because it is self-contained within the originating Framework.
@@ -161,14 +161,14 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** CONTESTED / lower confidence: the surrounding text is stated in definitional tense ('market orientation meant... there was...'), describing traits of market-oriented firms, not an imperative build procedure. Only this 3-link back half (generate->irrigate->respond) has genuine sequential dependency language ('once they gathered... finally'). Do not over-state as a 5-step 'how to build market orientation' playbook.
 
-[^organizational-market-orientation-intelligence-chain-generate-irrigate-respond-1]: ../../transcripts/market-orientation-m1-video.md#00:41:53
-[^organizational-market-orientation-intelligence-chain-generate-irrigate-respond-2]: ../../transcripts/market-orientation-m1-video.md#00:42:30
-[^organizational-market-orientation-intelligence-chain-generate-irrigate-respond-3]: ../../transcripts/market-orientation-m1-video.md#00:43:01
+[^organizational-market-orientation-intelligence-chain-generate-irrigate-respond-1]: market-orientation-m1-video — 00:41:53
+[^organizational-market-orientation-intelligence-chain-generate-irrigate-respond-2]: market-orientation-m1-video — 00:42:30
+[^organizational-market-orientation-intelligence-chain-generate-irrigate-respond-3]: market-orientation-m1-video — 00:43:01
 
 
-[^definition]: ../../transcripts/market-orientation-m1-video.md#00:16:20-00:16:45
-[^intelligence]: ../../transcripts/market-orientation-m1-video.md#00:42:30-00:43:59
-[^measurement]: ../../transcripts/market-orientation-m1-video.md#00:45:20-00:47:19
-[^capgemini]: ../../transcripts/market-orientation-m1-video.md#00:47:56-00:49:34
-[^prime-directive]: ../../transcripts/market-orientation-m1-video.md#01:08:46-01:11:18
+[^definition]: market-orientation-m1-video — 00:16:20-00:16:45
+[^intelligence]: market-orientation-m1-video — 00:42:30-00:43:59
+[^measurement]: market-orientation-m1-video — 00:45:20-00:47:19
+[^capgemini]: market-orientation-m1-video — 00:47:56-00:49:34
+[^prime-directive]: market-orientation-m1-video — 01:08:46-01:11:18
 

@@ -133,11 +133,11 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^channel-conflict-response-sequence-horizontal-vertical-1]: ../../transcripts/distribution-m10-video.md#00:18:32
-[^channel-conflict-response-sequence-horizontal-vertical-2]: ../../transcripts/distribution-m10-video.md#00:20:07
-[^channel-conflict-response-sequence-horizontal-vertical-3]: ../../transcripts/distribution-m10-video.md#00:20:34
-[^channel-conflict-response-sequence-horizontal-vertical-4]: ../../transcripts/distribution-m10-video.md#00:20:34
-[^channel-conflict-response-sequence-horizontal-vertical-5]: ../../transcripts/distribution-m10-video.md#00:21:04
+[^channel-conflict-response-sequence-horizontal-vertical-1]: distribution-m10-video — 00:18:32
+[^channel-conflict-response-sequence-horizontal-vertical-2]: distribution-m10-video — 00:20:07
+[^channel-conflict-response-sequence-horizontal-vertical-3]: distribution-m10-video — 00:20:34
+[^channel-conflict-response-sequence-horizontal-vertical-4]: distribution-m10-video — 00:20:34
+[^channel-conflict-response-sequence-horizontal-vertical-5]: distribution-m10-video — 00:21:04
 
 ### Dom Perignon's Two-Step Response to Uncontrollable Discounting
 
@@ -156,8 +156,8 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^dom-perignon-s-two-step-response-to-uncontrollable-discounting-1]: ../../transcripts/distribution-m10-video.md#00:56:37
-[^dom-perignon-s-two-step-response-to-uncontrollable-discounting-2]: ../../transcripts/distribution-m10-video.md#00:57:03
+[^dom-perignon-s-two-step-response-to-uncontrollable-discounting-1]: distribution-m10-video — 00:56:37
+[^dom-perignon-s-two-step-response-to-uncontrollable-discounting-2]: distribution-m10-video — 00:57:03
 
 ## Citation status
 
@@ -165,7 +165,7 @@ The originally-drafted "Decision model" section (6 numbered steps: state target,
 
 ## Sources
 
-[^strategy-origin]: ../../transcripts/targeting-m4-video.md#00:04:27
-[^tactical-choice]: ../../transcripts/product-m7-video.md#00:04:21-00:06:18
-[^four-ps]: ../../transcripts/product-m7-video.md#00:13:34
-[^distribution]: ../../transcripts/distribution-m10-video.md#00:33:34
+[^strategy-origin]: targeting-m4-video — 00:04:27
+[^tactical-choice]: product-m7-video — 00:04:21-00:06:18
+[^four-ps]: product-m7-video — 00:13:34
+[^distribution]: distribution-m10-video — 00:33:34

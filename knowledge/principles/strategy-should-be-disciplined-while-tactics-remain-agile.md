@@ -57,5 +57,5 @@ Drafted from Module 7 transcript spans 00:02:29-00:03:28 and 00:03:28-00:04:21. 
 
 ## Sources
 
-[^agility]: ../../transcripts/product-m7-video.md#00:02:29-00:03:28
-[^distillation]: ../../transcripts/product-m7-video.md#00:03:28-00:04:21
+[^agility]: product-m7-video — 00:02:29-00:03:28
+[^distillation]: product-m7-video — 00:03:28-00:04:21

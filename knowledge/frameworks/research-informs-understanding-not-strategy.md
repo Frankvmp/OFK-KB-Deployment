@@ -118,12 +118,12 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^sample-size-calculator-procedure-1]: ../../transcripts/market-research-m2-video.md#00:11:07
-[^sample-size-calculator-procedure-2]: ../../transcripts/market-research-m2-video.md#00:12:29
-[^sample-size-calculator-procedure-3]: ../../transcripts/market-research-m2-video.md#00:12:57
-[^sample-size-calculator-procedure-4]: ../../transcripts/market-research-m2-video.md#00:13:23
-[^sample-size-calculator-procedure-5]: ../../transcripts/market-research-m2-video.md#00:13:52
-[^sample-size-calculator-procedure-6]: ../../transcripts/market-research-m2-video.md#00:14:53
+[^sample-size-calculator-procedure-1]: market-research-m2-video — 00:11:07
+[^sample-size-calculator-procedure-2]: market-research-m2-video — 00:12:29
+[^sample-size-calculator-procedure-3]: market-research-m2-video — 00:12:57
+[^sample-size-calculator-procedure-4]: market-research-m2-video — 00:13:23
+[^sample-size-calculator-procedure-5]: market-research-m2-video — 00:13:52
+[^sample-size-calculator-procedure-6]: market-research-m2-video — 00:14:53
 ### Ethnographic Research Procedure
 
 This ordered process is embedded here because it is self-contained within the originating Framework.
@@ -145,12 +145,12 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^ethnographic-research-procedure-1]: ../../transcripts/market-research-m2-video.md#00:42:58
-[^ethnographic-research-procedure-2]: ../../transcripts/market-research-m2-video.md#00:43:28
-[^ethnographic-research-procedure-3]: ../../transcripts/market-research-m2-video.md#00:43:28
-[^ethnographic-research-procedure-4]: ../../transcripts/market-research-m2-video.md#00:43:57
+[^ethnographic-research-procedure-1]: market-research-m2-video — 00:42:58
+[^ethnographic-research-procedure-2]: market-research-m2-video — 00:43:28
+[^ethnographic-research-procedure-3]: market-research-m2-video — 00:43:28
+[^ethnographic-research-procedure-4]: market-research-m2-video — 00:43:57
 
 
-[^origin]: ../../transcripts/market-orientation-m1-video.md#00:29:46-00:30:20
-[^reuse-objectives]: ../../transcripts/objectives-m6-video.md#00:13:01
-[^reuse-pricing]: ../../transcripts/pricing-m8-video.md#00:17:17
+[^origin]: market-orientation-m1-video — 00:29:46-00:30:20
+[^reuse-objectives]: objectives-m6-video — 00:13:01
+[^reuse-pricing]: pricing-m8-video — 00:17:17

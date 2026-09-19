@@ -60,6 +60,6 @@ Drafted from Module 7 transcript spans 01:23:50-01:28:15 and 01:31:20-01:32:15. 
 
 ## Sources
 
-[^proliferation]: ../../transcripts/product-m7-video.md#01:23:50-01:25:55
-[^rationalisation]: ../../transcripts/product-m7-video.md#01:26:27-01:28:15
-[^replacement-rule]: ../../transcripts/product-m7-video.md#01:31:20-01:32:15
+[^proliferation]: product-m7-video — 01:23:50-01:25:55
+[^rationalisation]: product-m7-video — 01:26:27-01:28:15
+[^replacement-rule]: product-m7-video — 01:31:20-01:32:15

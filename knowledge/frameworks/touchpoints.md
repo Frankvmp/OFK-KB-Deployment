@@ -127,13 +127,13 @@ Unlike `market-orientation.md` and `research-informs-understanding-not-strategy.
 
 ## Sources
 
-[^origin]: ../../transcripts/market-orientation-m1-video.md#00:38:38
-[^definition]: ../../transcripts/product-m7-video.md#00:33:05-00:35:34
-[^measurement]: ../../transcripts/product-m7-video.md#00:35:34-00:40:32
-[^prioritisation]: ../../transcripts/product-m7-video.md#00:41:02-00:42:29
-[^positioning]: ../../transcripts/product-m7-video.md#00:42:29-00:46:17
-[^nps]: ../../transcripts/product-m7-video.md#00:47:52-00:54:59
-[^operating-2]: ../../transcripts/product-m7-video.md#00:39:29-00:40:02
-[^operating-4]: ../../transcripts/product-m7-video.md#00:40:02-00:40:32
-[^operating-6]: ../../transcripts/product-m7-video.md#00:40:32
+[^origin]: market-orientation-m1-video — 00:38:38
+[^definition]: product-m7-video — 00:33:05-00:35:34
+[^measurement]: product-m7-video — 00:35:34-00:40:32
+[^prioritisation]: product-m7-video — 00:41:02-00:42:29
+[^positioning]: product-m7-video — 00:42:29-00:46:17
+[^nps]: product-m7-video — 00:47:52-00:54:59
+[^operating-2]: product-m7-video — 00:39:29-00:40:02
+[^operating-4]: product-m7-video — 00:40:02-00:40:32
+[^operating-6]: product-m7-video — 00:40:32
 

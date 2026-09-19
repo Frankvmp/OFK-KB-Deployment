@@ -149,10 +149,10 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^interpret-the-populated-funnel-to-choose-a-focus-1]: ../../transcripts/objectives-m6-video.md#00:42:01
-[^interpret-the-populated-funnel-to-choose-a-focus-2]: ../../transcripts/objectives-m6-video.md#00:45:10
-[^interpret-the-populated-funnel-to-choose-a-focus-3]: ../../transcripts/objectives-m6-video.md#00:46:43
-[^interpret-the-populated-funnel-to-choose-a-focus-4]: ../../transcripts/objectives-m6-video.md#00:54:37
+[^interpret-the-populated-funnel-to-choose-a-focus-1]: objectives-m6-video — 00:42:01
+[^interpret-the-populated-funnel-to-choose-a-focus-2]: objectives-m6-video — 00:45:10
+[^interpret-the-populated-funnel-to-choose-a-focus-3]: objectives-m6-video — 00:46:43
+[^interpret-the-populated-funnel-to-choose-a-focus-4]: objectives-m6-video — 00:54:37
 ### Write a SMART Objective (DARE walkthrough)
 
 This ordered process is embedded here because it is self-contained within the originating Framework.
@@ -174,20 +174,20 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^write-a-smart-objective-dare-walkthrough-1]: ../../transcripts/objectives-m6-video.md#01:02:14
-[^write-a-smart-objective-dare-walkthrough-2]: ../../transcripts/objectives-m6-video.md#01:02:51
-[^write-a-smart-objective-dare-walkthrough-3]: ../../transcripts/objectives-m6-video.md#01:03:27
-[^write-a-smart-objective-dare-walkthrough-4]: ../../transcripts/objectives-m6-video.md#01:06:50
+[^write-a-smart-objective-dare-walkthrough-1]: objectives-m6-video — 01:02:14
+[^write-a-smart-objective-dare-walkthrough-2]: objectives-m6-video — 01:02:51
+[^write-a-smart-objective-dare-walkthrough-3]: objectives-m6-video — 01:03:27
+[^write-a-smart-objective-dare-walkthrough-4]: objectives-m6-video — 01:06:50
 
 
-[^definition]: ../../transcripts/objectives-m6-video.md#00:13:01
-[^design]: ../../transcripts/objectives-m6-video.md#00:35:26-00:37:22
-[^conversion]: ../../transcripts/objectives-m6-video.md#00:42:01
-[^bridge]: ../../transcripts/objectives-m6-video.md#00:47:00-00:51:00
-[^reuse-product]: ../../transcripts/product-m7-video.md#00:33:05-00:34:05
-[^operating-1]: ../../transcripts/objectives-m6-video.md#00:35:26
-[^operating-2]: ../../transcripts/objectives-m6-video.md#00:35:58
-[^operating-3]: ../../transcripts/objectives-m6-video.md#00:36:27
-[^operating-4]: ../../transcripts/objectives-m6-video.md#00:38:18-00:38:45
-[^operating-6]: ../../transcripts/objectives-m6-video.md#00:45:37-00:46:09
-[^operating-8]: ../../transcripts/objectives-m6-video.md#00:54:37
+[^definition]: objectives-m6-video — 00:13:01
+[^design]: objectives-m6-video — 00:35:26-00:37:22
+[^conversion]: objectives-m6-video — 00:42:01
+[^bridge]: objectives-m6-video — 00:47:00-00:51:00
+[^reuse-product]: product-m7-video — 00:33:05-00:34:05
+[^operating-1]: objectives-m6-video — 00:35:26
+[^operating-2]: objectives-m6-video — 00:35:58
+[^operating-3]: objectives-m6-video — 00:36:27
+[^operating-4]: objectives-m6-video — 00:38:18-00:38:45
+[^operating-6]: objectives-m6-video — 00:45:37-00:46:09
+[^operating-8]: objectives-m6-video — 00:54:37

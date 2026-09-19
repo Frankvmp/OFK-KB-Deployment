@@ -141,11 +141,11 @@ Standard Targeting Checklist (step 3) is itself an unordered parallel-filter che
 
 ## Sources
 
-[^origin]: ../../transcripts/targeting-m4-video.md#01:00:01
-[^step-2]: ../../transcripts/targeting-m4-video.md#00:19:00
-[^step-2-1]: ../../transcripts/targeting-m4-video.md#00:20:25
-[^step-3]: ../../transcripts/targeting-m4-video.md#01:00:38
-[^step-4-1]: ../../transcripts/targeting-m4-video.md#00:58:40
-[^step-4-2]: ../../transcripts/targeting-m4-video.md#00:59:06
-[^step-4-4]: ../../transcripts/targeting-m4-video.md#00:59:39
-[^step-4-5]: ../../transcripts/targeting-m4-video.md#00:55:43
+[^origin]: targeting-m4-video — 01:00:01
+[^step-2]: targeting-m4-video — 00:19:00
+[^step-2-1]: targeting-m4-video — 00:20:25
+[^step-3]: targeting-m4-video — 01:00:38
+[^step-4-1]: targeting-m4-video — 00:58:40
+[^step-4-2]: targeting-m4-video — 00:59:06
+[^step-4-4]: targeting-m4-video — 00:59:39
+[^step-4-5]: targeting-m4-video — 00:55:43

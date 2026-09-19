@@ -73,6 +73,6 @@ communications. [^consumer]
 
 ## Sources
 
-[^structure]: ../../transcripts/positioning-m5-video.md#00:16:43
-[^example]: ../../transcripts/positioning-m5-video.md#00:17:13
-[^consumer]: ../../transcripts/marketing-communications-m9-video.md#00:56:58-00:57:53
+[^structure]: positioning-m5-video — 00:16:43
+[^example]: positioning-m5-video — 00:17:13
+[^consumer]: marketing-communications-m9-video — 00:56:58-00:57:53

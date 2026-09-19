@@ -128,10 +128,10 @@ Step 6 is the only one of the seven with no spoken ordinal ('six' is skipped, go
 
 ## Sources
 
-[^origin]: ../../transcripts/pricing-m8-video.md#01:25:21
-[^step-1]: ../../transcripts/pricing-m8-video.md#01:26:00
-[^step-2]: ../../transcripts/pricing-m8-video.md#01:26:27
-[^step-4]: ../../transcripts/pricing-m8-video.md#01:26:54
-[^step-5]: ../../transcripts/pricing-m8-video.md#01:27:27
-[^step-6]: ../../transcripts/pricing-m8-video.md#01:27:57
-[^step-7]: ../../transcripts/pricing-m8-video.md#01:28:29
+[^origin]: pricing-m8-video — 01:25:21
+[^step-1]: pricing-m8-video — 01:26:00
+[^step-2]: pricing-m8-video — 01:26:27
+[^step-4]: pricing-m8-video — 01:26:54
+[^step-5]: pricing-m8-video — 01:27:27
+[^step-6]: pricing-m8-video — 01:27:57
+[^step-7]: pricing-m8-video — 01:28:29

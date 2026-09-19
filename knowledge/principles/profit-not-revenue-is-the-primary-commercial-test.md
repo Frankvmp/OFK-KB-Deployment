@@ -56,5 +56,5 @@ Drafted from Module 8 transcript spans 00:11:27-00:14:26 and 00:14:00-00:17:17. 
 
 ## Sources
 
-[^revenue-profit]: ../../transcripts/pricing-m8-video.md#00:11:27-00:14:26
-[^profit-focus]: ../../transcripts/pricing-m8-video.md#00:14:00-00:17:17
+[^revenue-profit]: pricing-m8-video — 00:11:27-00:14:26
+[^profit-focus]: pricing-m8-video — 00:14:00-00:17:17

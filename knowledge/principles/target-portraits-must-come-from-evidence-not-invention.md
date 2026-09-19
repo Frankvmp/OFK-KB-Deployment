@@ -59,7 +59,7 @@ Drafted from Module 4 transcript spans 00:52:50-00:53:51, 00:53:51-00:54:55, 00:
 
 ## Sources
 
-[^persona-failure]: ../../transcripts/targeting-m4-video.md#00:52:50-00:53:51
-[^evidence-portrait]: ../../transcripts/targeting-m4-video.md#00:53:51-00:54:55
-[^challenge-not-solution]: ../../transcripts/targeting-m4-video.md#00:54:55-00:55:43
+[^persona-failure]: targeting-m4-video — 00:52:50-00:53:51
+[^evidence-portrait]: targeting-m4-video — 00:53:51-00:54:55
+[^challenge-not-solution]: targeting-m4-video — 00:54:55-00:55:43
 

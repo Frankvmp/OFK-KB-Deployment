@@ -73,6 +73,6 @@ targeting decision. [^consumer]
 
 ## Sources
 
-[^structure]: ../../transcripts/segmentation-m3-video.md#01:19:22-01:20:39
-[^example]: ../../transcripts/segmentation-m3-video.md#01:20:39-01:21:33
-[^consumer]: ../../transcripts/targeting-m4-video.md#00:38:34
+[^structure]: segmentation-m3-video — 01:19:22-01:20:39
+[^example]: segmentation-m3-video — 01:20:39-01:21:33
+[^consumer]: targeting-m4-video — 00:38:34

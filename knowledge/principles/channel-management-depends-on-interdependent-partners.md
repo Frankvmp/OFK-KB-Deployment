@@ -57,5 +57,5 @@ Drafted from Module 10 transcript spans 00:16:14-00:17:27 and 00:26:31-00:27:54.
 
 ## Sources
 
-[^interdependence]: ../../transcripts/distribution-m10-video.md#00:16:14-00:17:27
-[^management]: ../../transcripts/distribution-m10-video.md#00:26:31-00:27:54
+[^interdependence]: distribution-m10-video — 00:16:14-00:17:27
+[^management]: distribution-m10-video — 00:26:31-00:27:54

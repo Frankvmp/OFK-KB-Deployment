@@ -60,6 +60,6 @@ Drafted from the method-trade-off statement at 00:07:29–00:08:53 and the metho
 
 ## Sources
 
-[^method-tradeoffs]: ../../transcripts/market-research-m2-video.md#00:07:29-00:08:53
-[^method-summary]: ../../transcripts/market-research-m2-video.md#00:56:30-00:59:31
+[^method-tradeoffs]: market-research-m2-video — 00:07:29-00:08:53
+[^method-summary]: market-research-m2-video — 00:56:30-00:59:31
 

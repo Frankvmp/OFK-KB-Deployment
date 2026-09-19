@@ -60,6 +60,6 @@ Drafted from Module 3 transcript spans 00:08:18-00:10:12, 01:25:16-01:25:45, and
 
 ## Sources
 
-[^diagnosis-boundary]: ../../transcripts/segmentation-m3-video.md#00:08:18-00:10:12
-[^whole-market-check]: ../../transcripts/segmentation-m3-video.md#01:25:16-01:25:45
-[^strategy-handoff]: ../../transcripts/segmentation-m3-video.md#01:28:13-01:30:07
+[^diagnosis-boundary]: segmentation-m3-video — 00:08:18-00:10:12
+[^whole-market-check]: segmentation-m3-video — 01:25:16-01:25:45
+[^strategy-handoff]: segmentation-m3-video — 01:28:13-01:30:07

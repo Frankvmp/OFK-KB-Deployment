@@ -59,5 +59,5 @@ Drafted from Module 8 transcript spans 00:32:12-00:33:35 and 00:37:44-00:45:48. 
 
 ## Sources
 
-[^weak-inputs]: ../../transcripts/pricing-m8-video.md#00:32:12-00:33:35
-[^method-fit]: ../../transcripts/pricing-m8-video.md#00:37:44-00:45:48
+[^weak-inputs]: pricing-m8-video — 00:32:12-00:33:35
+[^method-fit]: pricing-m8-video — 00:37:44-00:45:48

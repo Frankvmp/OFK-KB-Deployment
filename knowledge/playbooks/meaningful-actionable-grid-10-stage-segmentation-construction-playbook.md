@@ -207,22 +207,22 @@ Spot-checked steps 1, 2, 4, 5, 6, 7, and 8 against `tools/flattened/segmentation
 
 ## Sources
 
-[^origin]: ../../transcripts/segmentation-m3-video.md#00:49:40
-[^step-1]: ../../transcripts/segmentation-m3-video.md#00:50:34
-[^step-2]: ../../transcripts/segmentation-m3-video.md#00:52:21
-[^step-3]: ../../transcripts/segmentation-m3-video.md#00:54:29
-[^step-4]: ../../transcripts/segmentation-m3-video.md#00:56:17
-[^step-5]: ../../transcripts/segmentation-m3-video.md#00:56:46
-[^step-6]: ../../transcripts/segmentation-m3-video.md#00:57:38
-[^step-7]: ../../transcripts/segmentation-m3-video.md#01:02:50
-[^step-8]: ../../transcripts/segmentation-m3-video.md#01:07:37
-[^step-8-1]: ../../transcripts/segmentation-m3-video.md#01:08:30
-[^step-8-2]: ../../transcripts/segmentation-m3-video.md#01:12:02
-[^step-8-3]: ../../transcripts/segmentation-m3-video.md#01:13:30
-[^step-8-4]: ../../transcripts/segmentation-m3-video.md#01:14:43
-[^step-9]: ../../transcripts/segmentation-m3-video.md#01:19:22
-[^step-10]: ../../transcripts/segmentation-m3-video.md#01:21:33
-[^step-10-1]: ../../transcripts/segmentation-m3-video.md#01:22:01
-[^step-10-2]: ../../transcripts/segmentation-m3-video.md#01:22:27
-[^step-10-3]: ../../transcripts/segmentation-m3-video.md#01:22:52
-[^step-10-4]: ../../transcripts/segmentation-m3-video.md#01:23:45
+[^origin]: segmentation-m3-video — 00:49:40
+[^step-1]: segmentation-m3-video — 00:50:34
+[^step-2]: segmentation-m3-video — 00:52:21
+[^step-3]: segmentation-m3-video — 00:54:29
+[^step-4]: segmentation-m3-video — 00:56:17
+[^step-5]: segmentation-m3-video — 00:56:46
+[^step-6]: segmentation-m3-video — 00:57:38
+[^step-7]: segmentation-m3-video — 01:02:50
+[^step-8]: segmentation-m3-video — 01:07:37
+[^step-8-1]: segmentation-m3-video — 01:08:30
+[^step-8-2]: segmentation-m3-video — 01:12:02
+[^step-8-3]: segmentation-m3-video — 01:13:30
+[^step-8-4]: segmentation-m3-video — 01:14:43
+[^step-9]: segmentation-m3-video — 01:19:22
+[^step-10]: segmentation-m3-video — 01:21:33
+[^step-10-1]: segmentation-m3-video — 01:22:01
+[^step-10-2]: segmentation-m3-video — 01:22:27
+[^step-10-3]: segmentation-m3-video — 01:22:52
+[^step-10-4]: segmentation-m3-video — 01:23:45

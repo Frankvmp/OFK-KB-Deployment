@@ -72,6 +72,6 @@ describes the committee members, their interactions, and what matters to them.
 
 ## Sources
 
-[^structure]: ../../transcripts/segmentation-m3-video.md#00:27:38
-[^example]: ../../transcripts/segmentation-m3-video.md#00:26:22
-[^consumer]: ../../transcripts/targeting-m4-video.md#00:55:22-00:55:43
+[^structure]: segmentation-m3-video — 00:27:38
+[^example]: segmentation-m3-video — 00:26:22
+[^consumer]: targeting-m4-video — 00:55:22-00:55:43

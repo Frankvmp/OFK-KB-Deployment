@@ -75,7 +75,7 @@ separate touchpoint questionnaire. [^objectives] [^product]
 
 ## Sources
 
-[^structure]: ../../transcripts/market-research-m2-video.md#00:16:38-00:18:07
-[^example]: ../../transcripts/market-research-m2-video.md#00:17:37-00:18:07
-[^objectives]: ../../transcripts/objectives-m6-video.md#00:38:45
-[^product]: ../../transcripts/product-m7-video.md#00:38:52
+[^structure]: market-research-m2-video — 00:16:38-00:18:07
+[^example]: market-research-m2-video — 00:17:37-00:18:07
+[^objectives]: objectives-m6-video — 00:38:45
+[^product]: product-m7-video — 00:38:52

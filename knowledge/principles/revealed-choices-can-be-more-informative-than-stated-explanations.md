@@ -69,8 +69,8 @@ Drafted from the stated-versus-actual behaviour passage at 00:48:59–00:50:08 a
 
 ## Sources
 
-[^stated-behaviour-gap]: ../../transcripts/market-research-m2-video.md#00:48:59-00:50:08
-[^derived-drivers]: ../../transcripts/market-research-m2-video.md#00:52:28-00:52:57
-[^utility-output]: ../../transcripts/market-research-m2-video.md#00:52:57-00:53:26
-[^derived-value]: ../../transcripts/market-research-m2-video.md#00:54:26-00:54:56
-[^conjoint-limit]: ../../transcripts/market-research-m2-video.md#00:55:25-00:56:30
+[^stated-behaviour-gap]: market-research-m2-video — 00:48:59-00:50:08
+[^derived-drivers]: market-research-m2-video — 00:52:28-00:52:57
+[^utility-output]: market-research-m2-video — 00:52:57-00:53:26
+[^derived-value]: market-research-m2-video — 00:54:26-00:54:56
+[^conjoint-limit]: market-research-m2-video — 00:55:25-00:56:30

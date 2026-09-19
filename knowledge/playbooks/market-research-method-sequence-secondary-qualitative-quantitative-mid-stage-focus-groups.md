@@ -109,8 +109,8 @@ IMPORTANT TENSION, not resolved by the source material: this teaches methods in 
 
 ## Sources
 
-[^origin]: ../../transcripts/market-research-m2-video.md#00:03:03
-[^step-1]: ../../transcripts/market-research-m2-video.md#00:05:53
-[^step-2]: ../../transcripts/market-research-m2-video.md#00:27:05
-[^step-3]: ../../transcripts/market-research-m2-video.md#00:16:38
-[^step-4]: ../../transcripts/market-research-m2-video.md#00:33:33
+[^origin]: market-research-m2-video — 00:03:03
+[^step-1]: market-research-m2-video — 00:05:53
+[^step-2]: market-research-m2-video — 00:27:05
+[^step-3]: market-research-m2-video — 00:16:38
+[^step-4]: market-research-m2-video — 00:33:33

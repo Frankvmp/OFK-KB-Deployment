@@ -60,5 +60,5 @@ Drafted from the survey limitation at 00:25:32–00:28:21 and the parallel conjo
 
 ## Sources
 
-[^survey-option-failure]: ../../transcripts/market-research-m2-video.md#00:25:32-00:28:21
-[^conjoint-option-failure]: ../../transcripts/market-research-m2-video.md#00:55:56-00:56:30
+[^survey-option-failure]: market-research-m2-video — 00:25:32-00:28:21
+[^conjoint-option-failure]: market-research-m2-video — 00:55:56-00:56:30

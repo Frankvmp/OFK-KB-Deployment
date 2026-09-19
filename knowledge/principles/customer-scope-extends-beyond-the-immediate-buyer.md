@@ -56,4 +56,4 @@ Drafted from the Module 1 span at 00:27:16–00:29:16, including the Intel examp
 
 ## Sources
 
-[^who-barrier]: ../../transcripts/market-orientation-m1-video.md#00:27:16-00:29:16
+[^who-barrier]: market-orientation-m1-video — 00:27:16-00:29:16

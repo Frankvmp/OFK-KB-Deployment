@@ -58,5 +58,5 @@ Drafted from the Module 8 Netflix and Pret comparison at 01:04:32-01:08:25. Stag
 
 ## Sources
 
-[^poor-increase]: ../../transcripts/pricing-m8-video.md#01:04:32-01:06:15
-[^strong-increase]: ../../transcripts/pricing-m8-video.md#01:06:15-01:08:25
+[^poor-increase]: pricing-m8-video — 01:04:32-01:06:15
+[^strong-increase]: pricing-m8-video — 01:06:15-01:08:25

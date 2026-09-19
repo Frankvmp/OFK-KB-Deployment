@@ -69,6 +69,6 @@ This is an explicit cross-module use. [^consumer]
 
 ## Sources
 
-[^fields]: ../../transcripts/segmentation-m3-video.md#01:08:04
-[^example]: ../../transcripts/segmentation-m3-video.md#01:16:29
-[^consumer]: ../../transcripts/objectives-m6-video.md#00:38:18
+[^fields]: segmentation-m3-video — 01:08:04
+[^example]: segmentation-m3-video — 01:16:29
+[^consumer]: objectives-m6-video — 00:38:18

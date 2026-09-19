@@ -133,13 +133,13 @@ Four of the nine questions (`[^step-2]`, `[^step-4]`, `[^step-6]`, `[^step-8]`) 
 
 ## Sources
 
-[^origin]: ../../transcripts/segmentation-m3-video.md#01:24:41
-[^step-1]: ../../transcripts/segmentation-m3-video.md#01:25:16
-[^step-2]: ../../transcripts/segmentation-m3-video.md#01:25:16
-[^step-3]: ../../transcripts/segmentation-m3-video.md#01:25:45
-[^step-4]: ../../transcripts/segmentation-m3-video.md#01:25:45
-[^step-5]: ../../transcripts/segmentation-m3-video.md#01:26:15
-[^step-6]: ../../transcripts/segmentation-m3-video.md#01:26:15
-[^step-7]: ../../transcripts/segmentation-m3-video.md#01:26:44
-[^step-8]: ../../transcripts/segmentation-m3-video.md#01:27:11
-[^step-9]: ../../transcripts/segmentation-m3-video.md#01:27:36
+[^origin]: segmentation-m3-video — 01:24:41
+[^step-1]: segmentation-m3-video — 01:25:16
+[^step-2]: segmentation-m3-video — 01:25:16
+[^step-3]: segmentation-m3-video — 01:25:45
+[^step-4]: segmentation-m3-video — 01:25:45
+[^step-5]: segmentation-m3-video — 01:26:15
+[^step-6]: segmentation-m3-video — 01:26:15
+[^step-7]: segmentation-m3-video — 01:26:44
+[^step-8]: segmentation-m3-video — 01:27:11
+[^step-9]: segmentation-m3-video — 01:27:36

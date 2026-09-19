@@ -104,8 +104,8 @@ Step 1's body footnote was written as `[^step-1]`, but no `[^step-1]` definition
 
 ## Sources
 
-[^origin]: ../../transcripts/distribution-m10-video.md#00:06:10
-[^step-2]: ../../transcripts/distribution-m10-video.md#00:07:12
-[^step-3]: ../../transcripts/distribution-m10-video.md#00:08:12
-[^step-4]: ../../transcripts/distribution-m10-video.md#00:11:17
-[^step-5]: ../../transcripts/distribution-m10-video.md#00:12:14
+[^origin]: distribution-m10-video — 00:06:10
+[^step-2]: distribution-m10-video — 00:07:12
+[^step-3]: distribution-m10-video — 00:08:12
+[^step-4]: distribution-m10-video — 00:11:17
+[^step-5]: distribution-m10-video — 00:12:14

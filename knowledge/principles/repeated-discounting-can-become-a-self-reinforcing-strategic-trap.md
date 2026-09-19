@@ -57,6 +57,6 @@ Drafted from Module 8 transcript spans 01:15:49-01:18:24 and 01:18:24-01:20:21. 
 
 ## Sources
 
-[^discount-cycle]: ../../transcripts/pricing-m8-video.md#01:15:49-01:18:24
-[^exceptions-and-cause]: ../../transcripts/pricing-m8-video.md#01:18:24-01:20:21
+[^discount-cycle]: pricing-m8-video — 01:15:49-01:18:24
+[^exceptions-and-cause]: pricing-m8-video — 01:18:24-01:20:21
 

@@ -54,5 +54,5 @@ Drafted from Module 3 transcript spans 00:27:08-00:28:03, 00:28:03-00:28:33. Sta
 
 ## Sources
 
-[^two-level-market]: ../../transcripts/segmentation-m3-video.md#00:27:08-00:28:03
-[^account-level-rule]: ../../transcripts/segmentation-m3-video.md#00:28:03-00:28:33
+[^two-level-market]: segmentation-m3-video — 00:27:08-00:28:03
+[^account-level-rule]: segmentation-m3-video — 00:28:03-00:28:33

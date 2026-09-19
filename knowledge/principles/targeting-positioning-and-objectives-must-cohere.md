@@ -62,5 +62,5 @@ Drafted from Module 4 transcript spans 00:16:34-00:18:02, 00:18:02-00:19:00. Sta
 
 ## Sources
 
-[^three-questions]: ../../transcripts/targeting-m4-video.md#00:16:34-00:18:02
-[^iterative-system]: ../../transcripts/targeting-m4-video.md#00:18:02-00:19:00
+[^three-questions]: targeting-m4-video — 00:16:34-00:18:02
+[^iterative-system]: targeting-m4-video — 00:18:02-00:19:00

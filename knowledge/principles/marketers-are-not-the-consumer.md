@@ -64,6 +64,6 @@ Drafted from the Module 1 spans at 00:21:01–00:24:09. Exact wording, surroundi
 
 ## Sources
 
-[^personal-perspective]: ../../transcripts/market-orientation-m1-video.md#00:21:01-00:23:02
-[^producer-threshold]: ../../transcripts/market-orientation-m1-video.md#00:23:37-00:24:09
-[^create-vacuum]: ../../transcripts/market-orientation-m1-video.md#00:23:02-00:23:37
+[^personal-perspective]: market-orientation-m1-video — 00:21:01-00:23:02
+[^producer-threshold]: market-orientation-m1-video — 00:23:37-00:24:09
+[^create-vacuum]: market-orientation-m1-video — 00:23:02-00:23:37

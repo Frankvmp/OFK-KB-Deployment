@@ -64,6 +64,6 @@ Drafted from the Module 1 spans at 01:01:52–01:05:12. Exact source wording, th
 
 ## Sources
 
-[^marketing-mix-scope]: ../../transcripts/market-orientation-m1-video.md#01:01:52-01:02:53
-[^contronym]: ../../transcripts/market-orientation-m1-video.md#01:02:53-01:04:44
-[^sales-orientation]: ../../transcripts/market-orientation-m1-video.md#01:04:44-01:05:12
+[^marketing-mix-scope]: market-orientation-m1-video — 01:01:52-01:02:53
+[^contronym]: market-orientation-m1-video — 01:02:53-01:04:44
+[^sales-orientation]: market-orientation-m1-video — 01:04:44-01:05:12

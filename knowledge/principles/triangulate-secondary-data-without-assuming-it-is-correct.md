@@ -57,5 +57,5 @@ Drafted from the secondary-data discussion at 00:06:20–00:08:53. Stage 4 mecha
 
 ## Sources
 
-[^secondary-triangulation]: ../../transcripts/market-research-m2-video.md#00:06:20-00:07:29
-[^secondary-limits]: ../../transcripts/market-research-m2-video.md#00:07:29-00:08:53
+[^secondary-triangulation]: market-research-m2-video — 00:06:20-00:07:29
+[^secondary-limits]: market-research-m2-video — 00:07:29-00:08:53

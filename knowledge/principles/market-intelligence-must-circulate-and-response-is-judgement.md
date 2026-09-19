@@ -62,5 +62,5 @@ Drafted from the Module 1 spans at 00:41:53–00:43:59. Exact wording, the “ir
 
 ## Sources
 
-[^organisational-orientation]: ../../transcripts/market-orientation-m1-video.md#00:41:53-00:43:01
-[^response-judgement]: ../../transcripts/market-orientation-m1-video.md#00:43:01-00:43:59
+[^organisational-orientation]: market-orientation-m1-video — 00:41:53-00:43:01
+[^response-judgement]: market-orientation-m1-video — 00:43:01-00:43:59

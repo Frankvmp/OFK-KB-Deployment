@@ -55,5 +55,5 @@ Drafted from Module 5 transcript spans 00:10:24-00:12:41 and 00:12:41-00:13:35. 
 
 ## Sources
 
-[^averages]: ../../transcripts/positioning-m5-video.md#00:10:24-00:12:41
-[^exception]: ../../transcripts/positioning-m5-video.md#00:12:41-00:13:35
+[^averages]: positioning-m5-video — 00:10:24-00:12:41
+[^exception]: positioning-m5-video — 00:12:41-00:13:35

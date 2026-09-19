@@ -59,7 +59,7 @@ Drafted from Module 3 transcript spans 00:59:44-01:00:33, 01:03:23-01:04:21, 01:
 
 ## Sources
 
-[^meaningful-cutoffs]: ../../transcripts/segmentation-m3-video.md#00:59:44-01:00:33
-[^coherence-tradeoff]: ../../transcripts/segmentation-m3-video.md#01:03:23-01:04:21
-[^overcollapse-signal]: ../../transcripts/segmentation-m3-video.md#01:05:15-01:05:38
+[^meaningful-cutoffs]: segmentation-m3-video — 00:59:44-01:00:33
+[^coherence-tradeoff]: segmentation-m3-video — 01:03:23-01:04:21
+[^overcollapse-signal]: segmentation-m3-video — 01:05:15-01:05:38
 

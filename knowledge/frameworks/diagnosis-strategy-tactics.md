@@ -108,7 +108,7 @@ the strategic-to-tactical transition into the [Four Ps](four-ps.md). [^spine-reu
 
 ## Sources
 
-[^spine-origin]: ../../transcripts/market-orientation-m1-video.md#00:09:49
-[^spine-reuse-targeting]: ../../transcripts/targeting-m4-video.md#00:04:57
-[^spine-reuse-product]: ../../transcripts/product-m7-video.md#00:06:18
+[^spine-origin]: market-orientation-m1-video — 00:09:49
+[^spine-reuse-targeting]: targeting-m4-video — 00:04:57
+[^spine-reuse-product]: product-m7-video — 00:06:18
 

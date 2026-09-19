@@ -56,5 +56,5 @@ Drafted from Module 3 transcript spans 00:44:07-00:45:08, 00:45:08-00:46:05. Sta
 
 ## Sources
 
-[^research-inputs]: ../../transcripts/segmentation-m3-video.md#00:44:07-00:45:08
-[^reverse-inference]: ../../transcripts/segmentation-m3-video.md#00:45:08-00:46:05
+[^research-inputs]: segmentation-m3-video — 00:44:07-00:45:08
+[^reverse-inference]: segmentation-m3-video — 00:45:08-00:46:05

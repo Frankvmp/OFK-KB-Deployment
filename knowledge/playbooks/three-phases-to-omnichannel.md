@@ -98,7 +98,7 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 
 ## Sources
 
-[^origin]: ../../transcripts/distribution-m10-video.md#00:58:33
-[^step-1]: ../../transcripts/distribution-m10-video.md#01:00:33
-[^step-4]: ../../transcripts/distribution-m10-video.md#01:01:32
-[^step-5]: ../../transcripts/distribution-m10-video.md#01:02:09
+[^origin]: distribution-m10-video — 00:58:33
+[^step-1]: distribution-m10-video — 01:00:33
+[^step-4]: distribution-m10-video — 01:01:32
+[^step-5]: distribution-m10-video — 01:02:09

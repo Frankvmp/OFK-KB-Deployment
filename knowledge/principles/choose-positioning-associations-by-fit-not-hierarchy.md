@@ -55,5 +55,5 @@ Drafted from the recoverable Module 5 transcript spans 01:19:54-01:21:35 and 01:
 
 ## Sources
 
-[^no-hierarchy]: ../../transcripts/positioning-m5-video.md#01:19:54-01:21:35
-[^mix]: ../../transcripts/positioning-m5-video.md#01:21:35-01:22:32
+[^no-hierarchy]: positioning-m5-video — 01:19:54-01:21:35
+[^mix]: positioning-m5-video — 01:21:35-01:22:32

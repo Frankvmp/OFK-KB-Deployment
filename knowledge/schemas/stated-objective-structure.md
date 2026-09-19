@@ -72,6 +72,6 @@ or revenue numbers that do not identify the intended marketing outcome.
 
 ## Sources
 
-[^structure]: ../../transcripts/objectives-m6-video.md#00:58:17-00:58:48
-[^example]: ../../transcripts/objectives-m6-video.md#00:58:48
-[^consumer]: ../../transcripts/marketing-communications-m9-video.md#00:08:58
+[^structure]: objectives-m6-video — 00:58:17-00:58:48
+[^example]: objectives-m6-video — 00:58:48
+[^consumer]: marketing-communications-m9-video — 00:08:58

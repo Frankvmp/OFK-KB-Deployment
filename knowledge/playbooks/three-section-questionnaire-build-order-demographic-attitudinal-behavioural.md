@@ -87,6 +87,6 @@ Step 1's body footnote was written as `[^step-1]`, but no `[^step-1]` definition
 
 ## Sources
 
-[^origin]: ../../transcripts/market-research-m2-video.md#00:16:38
-[^step-2]: ../../transcripts/market-research-m2-video.md#00:17:08
-[^step-3]: ../../transcripts/market-research-m2-video.md#00:18:07
+[^origin]: market-research-m2-video — 00:16:38
+[^step-2]: market-research-m2-video — 00:17:08
+[^step-3]: market-research-m2-video — 00:18:07

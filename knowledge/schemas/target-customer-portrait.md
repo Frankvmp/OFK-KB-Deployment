@@ -75,8 +75,8 @@ portraits for the targets being addressed. [^positioning] [^communications]
 
 ## Sources
 
-[^structure]: ../../transcripts/targeting-m4-video.md#00:58:40-00:59:39
-[^b2b-structure]: ../../transcripts/targeting-m4-video.md#00:55:43
-[^example]: ../../transcripts/targeting-m4-video.md#00:56:11-00:58:40
-[^positioning]: ../../transcripts/positioning-m5-video.md#01:23:06
-[^communications]: ../../transcripts/marketing-communications-m9-video.md#00:08:28
+[^structure]: targeting-m4-video — 00:58:40-00:59:39
+[^b2b-structure]: targeting-m4-video — 00:55:43
+[^example]: targeting-m4-video — 00:56:11-00:58:40
+[^positioning]: positioning-m5-video — 01:23:06
+[^communications]: marketing-communications-m9-video — 00:08:28

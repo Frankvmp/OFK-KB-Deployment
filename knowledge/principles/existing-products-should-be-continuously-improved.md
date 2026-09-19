@@ -62,6 +62,6 @@ Drafted from Module 7 transcript spans 00:29:13-00:32:37 and 01:06:06-01:07:04. 
 
 ## Sources
 
-[^existing-product]: ../../transcripts/product-m7-video.md#00:29:13-00:30:40
-[^continuous-improvement]: ../../transcripts/product-m7-video.md#00:30:40-00:32:37
-[^three-methods]: ../../transcripts/product-m7-video.md#01:06:06-01:07:04
+[^existing-product]: product-m7-video — 00:29:13-00:30:40
+[^continuous-improvement]: product-m7-video — 00:30:40-00:32:37
+[^three-methods]: product-m7-video — 01:06:06-01:07:04

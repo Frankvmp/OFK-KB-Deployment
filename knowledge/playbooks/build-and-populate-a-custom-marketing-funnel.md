@@ -97,8 +97,8 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 
 ## Sources
 
-[^origin]: ../../transcripts/objectives-m6-video.md#00:24:33-00:24:49
-[^step-1-1]: ../../transcripts/objectives-m6-video.md#00:26:55
-[^step-1-2]: ../../transcripts/objectives-m6-video.md#00:27:22
-[^step-2]: ../../transcripts/objectives-m6-video.md#00:30:43
-[^step-3]: ../../transcripts/objectives-m6-video.md#00:38:45
+[^origin]: objectives-m6-video — 00:24:33-00:24:49
+[^step-1-1]: objectives-m6-video — 00:26:55
+[^step-1-2]: objectives-m6-video — 00:27:22
+[^step-2]: objectives-m6-video — 00:30:43
+[^step-3]: objectives-m6-video — 00:38:45

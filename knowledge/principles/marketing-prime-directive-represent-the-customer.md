@@ -59,5 +59,5 @@ Drafted from the Module 1 spans at 01:08:46–01:11:18. Exact source wording, th
 
 ## Sources
 
-[^prime-directive]: ../../transcripts/market-orientation-m1-video.md#01:08:46-01:10:20
-[^prime-directive-recap]: ../../transcripts/market-orientation-m1-video.md#01:10:20-01:11:18
+[^prime-directive]: market-orientation-m1-video — 01:08:46-01:10:20
+[^prime-directive-recap]: market-orientation-m1-video — 01:10:20-01:11:18

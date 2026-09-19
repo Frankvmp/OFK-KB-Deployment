@@ -65,7 +65,7 @@ Drafted from the contextual-observation passages at 00:36:44–00:37:25, 00:42:2
 
 ## Sources
 
-[^focus-group-context]: ../../transcripts/market-research-m2-video.md#00:35:48-00:36:44
-[^real-context]: ../../transcripts/market-research-m2-video.md#00:36:44-00:37:25
-[^ethnographic-practice]: ../../transcripts/market-research-m2-video.md#00:42:26-00:44:57
-[^professional-idiot]: ../../transcripts/market-research-m2-video.md#00:47:22-00:47:47
+[^focus-group-context]: market-research-m2-video — 00:35:48-00:36:44
+[^real-context]: market-research-m2-video — 00:36:44-00:37:25
+[^ethnographic-practice]: market-research-m2-video — 00:42:26-00:44:57
+[^professional-idiot]: market-research-m2-video — 00:47:22-00:47:47

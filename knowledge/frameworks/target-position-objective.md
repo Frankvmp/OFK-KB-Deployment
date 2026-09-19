@@ -110,11 +110,11 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Boundary:** Illustrated only by the Facebook case study; a resource-constrained variant of 'Sophisticated Mass Marketing' (Framework), not a universally-prescribed procedure.
 
-[^staged-mass-market-expansion-resource-constrained-path-to-full-reach-1]: ../../transcripts/targeting-m4-video.md#00:29:37
-[^staged-mass-market-expansion-resource-constrained-path-to-full-reach-2]: ../../transcripts/targeting-m4-video.md#00:30:09
+[^staged-mass-market-expansion-resource-constrained-path-to-full-reach-1]: targeting-m4-video — 00:29:37
+[^staged-mass-market-expansion-resource-constrained-path-to-full-reach-2]: targeting-m4-video — 00:30:09
 
 
-[^origin]: ../../transcripts/objectives-m6-video.md#00:16:04
-[^strategy]: ../../transcripts/product-m7-video.md#00:04:21-00:06:18
-[^mantra]: ../../transcripts/product-m7-video.md#00:06:47-00:08:17
-[^reuse-distribution]: ../../transcripts/distribution-m10-video.md#00:33:34
+[^origin]: objectives-m6-video — 00:16:04
+[^strategy]: product-m7-video — 00:04:21-00:06:18
+[^mantra]: product-m7-video — 00:06:47-00:08:17
+[^reuse-distribution]: distribution-m10-video — 00:33:34

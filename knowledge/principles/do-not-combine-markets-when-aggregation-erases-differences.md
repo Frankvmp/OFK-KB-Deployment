@@ -51,4 +51,4 @@ Drafted from Module 3 transcript spans 00:29:01-00:29:53. Stage 4 mechanical cit
 
 ## Sources
 
-[^aggregation-choice]: ../../transcripts/segmentation-m3-video.md#00:29:01-00:29:53
+[^aggregation-choice]: segmentation-m3-video — 00:29:01-00:29:53

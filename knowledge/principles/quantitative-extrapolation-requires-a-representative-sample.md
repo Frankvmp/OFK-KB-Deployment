@@ -64,6 +64,6 @@ Drafted from the sampling explanation at 00:10:35–00:11:37 and survey-use expl
 
 ## Sources
 
-[^representative-sample]: ../../transcripts/market-research-m2-video.md#00:10:35-00:11:37
-[^survey-extrapolation]: ../../transcripts/market-research-m2-video.md#00:20:33-00:21:45
-[^survey-uncertainty]: ../../transcripts/market-research-m2-video.md#00:12:29-00:14:53
+[^representative-sample]: market-research-m2-video — 00:10:35-00:11:37
+[^survey-extrapolation]: market-research-m2-video — 00:20:33-00:21:45
+[^survey-uncertainty]: market-research-m2-video — 00:12:29-00:14:53

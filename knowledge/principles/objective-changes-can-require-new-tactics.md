@@ -56,5 +56,5 @@ Drafted from Module 6 transcript spans 00:05:44-00:06:56 and 00:07:28-00:09:30. 
 
 ## Sources
 
-[^objective-shift]: ../../transcripts/objectives-m6-video.md#00:05:44-00:06:56
-[^tactical-effect]: ../../transcripts/objectives-m6-video.md#00:07:28-00:09:30
+[^objective-shift]: objectives-m6-video — 00:05:44-00:06:56
+[^tactical-effect]: objectives-m6-video — 00:07:28-00:09:30

@@ -135,10 +135,10 @@ Three body footnotes (`[^step-1]`, `[^step-3]`, `[^step-8]`) had no matching def
 
 ## Sources
 
-[^origin]: ../../transcripts/product-m7-video.md#00:38:52
-[^step-2]: ../../transcripts/product-m7-video.md#00:39:29
-[^step-4]: ../../transcripts/product-m7-video.md#00:40:02
-[^step-5]: ../../transcripts/product-m7-video.md#00:40:32
-[^step-6]: ../../transcripts/product-m7-video.md#00:41:57
-[^step-7]: ../../transcripts/product-m7-video.md#00:42:29
-[^step-7-1]: ../../transcripts/product-m7-video.md#00:44:10
+[^origin]: product-m7-video — 00:38:52
+[^step-2]: product-m7-video — 00:39:29
+[^step-4]: product-m7-video — 00:40:02
+[^step-5]: product-m7-video — 00:40:32
+[^step-6]: product-m7-video — 00:41:57
+[^step-7]: product-m7-video — 00:42:29
+[^step-7-1]: product-m7-video — 00:44:10
