@@ -3,18 +3,6 @@ type: Principle
 title: Profit, not revenue, is the primary commercial test
 description: Revenue should be evaluated by the profit it carries because higher sales or turnover can coexist with weaker margins and lower profitability.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: revenue-profit
-    resource: tools/flattened/pricing-m8-video.txt#00:11:27-00:14:26
-    title: Module 8 transcript — revenue can increase while profit declines
-  - id: profit-focus
-    resource: tools/flattened/pricing-m8-video.txt#00:14:00-00:17:17
-    title: Module 8 transcript — profitability frames the importance of pricing
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T12:17:47Z
 tags:
   - cross-cutting
   - profitability
@@ -27,13 +15,13 @@ Reach for this Principle when sales, turnover, volume, or growth are being used 
 
 ## Principle
 
-Revenue is valuable because it can carry profit, but revenue alone does not establish commercial success. A business can increase sales or turnover while reducing the profit retained from those sales. [^revenue-profit]
+Revenue is valuable because it can carry profit, but revenue alone does not establish commercial success. A business can increase sales or turnover while reducing the profit retained from those sales.
 
-Marketing and pricing decisions should therefore be evaluated primarily through their effect on profitability, with revenue treated as an input rather than the final test. [^profit-focus]
+Marketing and pricing decisions should therefore be evaluated primarily through their effect on profitability, with revenue treated as an input rather than the final test.
 
 ## Why it matters
 
-Revenue-focused decisions can reward volume that destroys margin. This is especially important when promotions, portfolio expansion, or lower prices increase sales while adding cost or reducing the return from each sale. [^revenue-profit]
+Revenue-focused decisions can reward volume that destroys margin. This is especially important when promotions, portfolio expansion, or lower prices increase sales while adding cost or reducing the return from each sale.
 
 ## Related distinctions
 
@@ -49,12 +37,3 @@ Profit focus does not mean revenue is irrelevant. It means revenue must be inter
 - Do not infer profitability from revenue growth alone.
 - Do not treat unit sales as a substitute for margin analysis.
 - Use the organisation's verified financial definitions rather than inventing cost or profit inputs.
-
-## Citation status
-
-Drafted from Module 8 transcript spans 00:11:27-00:14:26 and 00:14:00-00:17:17. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^revenue-profit]: pricing-m8-video — 00:11:27-00:14:26
-[^profit-focus]: pricing-m8-video — 00:14:00-00:17:17

@@ -3,18 +3,6 @@ type: Principle
 title: Grey-market leakage can become self-reinforcing
 description: Legal but unauthorised channel leakage can erode distribution discipline and become increasingly difficult to control once products circulate through parallel routes.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: sources-cycle
-    resource: tools/flattened/distribution-m10-video.txt#00:22:37-00:26:31
-    title: Module 10 transcript — grey-market sources, cycle, and brand effects
-  - id: manage
-    resource: tools/flattened/distribution-m10-video.txt#00:26:31-00:27:27
-    title: Module 10 transcript — discipline and continuing grey-market management
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T16:56:34Z
 tags:
   - tactics
   - distribution
@@ -27,9 +15,9 @@ Reach for this Principle when genuine products appear through unintended channel
 
 ## Principle
 
-Grey-market products are genuine and legally sold, but they move outside the intended distribution agreement through parallel sources. Excess stock, wholesalers, or corporate affiliates can introduce this leakage. Once it starts, wider availability at unintended prices can weaken channel discipline and encourage further leakage. [^sources-cycle]
+Grey-market products are genuine and legally sold, but they move outside the intended distribution agreement through parallel sources. Excess stock, wholesalers, or corporate affiliates can introduce this leakage. Once it starts, wider availability at unintended prices can weaken channel discipline and encourage further leakage.
 
-Grey markets may not disappear completely. They require continuing distribution discipline and management to limit their spread and effects. [^manage]
+Grey markets may not disappear completely. They require continuing distribution discipline and management to limit their spread and effects.
 
 ## Why it matters
 
@@ -50,12 +38,3 @@ A grey market concerns genuine goods sold through unintended but legal routes. A
 - Do not assume every unauthorised route is illegal.
 - Do not claim that grey markets can be eliminated completely.
 - Do not infer the source of leakage without tracing real inventory and channel evidence.
-
-## Citation status
-
-Drafted from Module 10 transcript spans 00:22:37-00:26:31 and 00:26:31-00:27:27. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^sources-cycle]: distribution-m10-video — 00:22:37-00:26:31
-[^manage]: distribution-m10-video — 00:26:31-00:27:27

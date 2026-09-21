@@ -3,21 +3,6 @@ type: Principle
 title: "Marketers are not the consumer"
 description: "A marketer must remove personal and producer-side assumptions before interpreting the market."
 status: stable
-generated:
-  by: "process:extraction"
-sources:
-  - id: personal-perspective
-    resource: "tools/flattened/market-orientation-m1-video.txt#00:21:01-00:23:02"
-    title: "Module 1 transcript — the marketer is not the consumer"
-  - id: producer-threshold
-    resource: "tools/flattened/market-orientation-m1-video.txt#00:23:37-00:24:09"
-    title: "Module 1 transcript — the producer-consumer threshold"
-  - id: create-vacuum
-    resource: "tools/flattened/market-orientation-m1-video.txt#00:23:02-00:23:37"
-    title: "Module 1 transcript — creating a vacuum before research"
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-02T23:15:00+01:00
 tags:
   - diagnosis
   - customer-understanding
@@ -31,21 +16,21 @@ Reach for this Principle when someone evaluates a product, price, advertisement,
 
 ## Principle
 
-A marketer must not treat personal opinion as evidence of consumer response. The marketer works for the producer, which creates a different and potentially misleading perspective from that of the consumers being targeted. [^personal-perspective]
+A marketer must not treat personal opinion as evidence of consumer response. The marketer works for the producer, which creates a different and potentially misleading perspective from that of the consumers being targeted.
 
-Entering employment with the producer changes the marketer's perspective, even if the marketer previously belonged to the market being considered. [^producer-threshold]
+Entering employment with the producer changes the marketer's perspective, even if the marketer previously belonged to the market being considered.
 
 ## Why it matters
 
-Market orientation begins with the recognition that the marketer is not the consumer. The discipline is to remove the marketer's own tastes, perceptions, and experiences from the centre of the decision rather than presenting them as market knowledge. [^personal-perspective]
+Market orientation begins with the recognition that the marketer is not the consumer. The discipline is to remove the marketer's own tastes, perceptions, and experiences from the centre of the decision rather than presenting them as market knowledge.
 
-This is framed as creating a vacuum that can later be filled with research data. The vacuum is a discipline for listening; it is not permission to proceed without evidence. [^create-vacuum]
+This is framed as creating a vacuum that can later be filled with research data. The vacuum is a discipline for listening; it is not permission to proceed without evidence.
 
 ## Related distinctions
 
 This Principle is the personal discipline that supports [Market orientation](../frameworks/market-orientation.md); it is not a replacement for the Framework's organisational definition and operating material.
 
-It does not mean inventing a fictional persona and guessing how that person would feel. This also warns against ignoring the presence of multiple market segments. [^personal-perspective]
+It does not mean inventing a fictional persona and guessing how that person would feel. This also warns against ignoring the presence of multiple market segments.
 
 ## Invokes
 
@@ -55,15 +40,5 @@ It does not mean inventing a fictional persona and guessing how that person woul
 
 ## Boundaries and failure modes
 
-- Do not use internal taste, expertise, or a fictional single customer as a substitute for market evidence. [^personal-perspective]
-- Do not interpret “you are not the consumer” as a claim that marketers can never understand consumers; it is a warning against treating internal projection as understanding. [^personal-perspective]
-
-## Citation status
-
-Drafted from the Module 1 spans at 00:21:01–00:24:09. Exact wording, surrounding argument, and the distinction between personal humility and later research were checked against the flattened transcript. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-02. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^personal-perspective]: market-orientation-m1-video — 00:21:01-00:23:02
-[^producer-threshold]: market-orientation-m1-video — 00:23:37-00:24:09
-[^create-vacuum]: market-orientation-m1-video — 00:23:02-00:23:37
+- Do not use internal taste, expertise, or a fictional single customer as a substitute for market evidence.
+- Do not interpret “you are not the consumer” as a claim that marketers can never understand consumers; it is a warning against treating internal projection as understanding.

@@ -2,18 +2,6 @@
 type: Playbook
 title: "Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: origin
-    resource: "tools/flattened/market-research-m2-video.txt#00:16:38"
-    title: "Transcript source"
-  - id: step-2
-    resource: "tools/flattened/market-research-m2-video.txt#00:17:08"
-    title: "Transcript source"
-  - id: step-3
-    resource: "tools/flattened/market-research-m2-video.txt#00:18:07"
-    title: "Transcript source"
 tags:
   - diagnosis
   - research
@@ -24,7 +12,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* Reach for this when designing the online quantitative survey referenced across the Market Research Method Sequence — it's the standard three-part shape that survey should take, not a one-off design decision per project.
+Reach for this when designing the online quantitative survey referenced across the Market Research Method Sequence — it's the standard three-part shape that survey should take, not a one-off design decision per project.
 
 ## Purpose
 
@@ -45,7 +33,7 @@ None stated.
 
 **Step type:** Constraint check — demographic is the required first section; not a free ordering choice.
 
-The first section of the questionnaire is all about demographics... income through to location through to the general questions of age and gender. [^origin]
+The first section of the questionnaire is all about demographics... income through to location through to the general questions of age and gender.
 
 **Invokes:** [Three-Section Questionnaire](../schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md) (Schema).
 
@@ -53,7 +41,7 @@ The first section of the questionnaire is all about demographics... income throu
 
 **Step type:** Constraint check — attitudinal is the required second section.
 
-Next up, we get to attitudinal questions... measured... with what's called Likert scale data. [^step-2]
+Next up, we get to attitudinal questions... measured... with what's called Likert scale data.
 
 **Invokes:** Likert scale (Metric). *(not yet drafted)*
 
@@ -61,7 +49,7 @@ Next up, we get to attitudinal questions... measured... with what's called Liker
 
 **Step type:** Constraint check — behavioural is the required third section.
 
-The final type of data we want to measure in our questionnaire are behavioural questions... related to specific activity in the category. [^step-3]
+The final type of data we want to measure in our questionnaire are behavioural questions... related to specific activity in the category.
 
 ## Output
 
@@ -80,13 +68,3 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
-
-## Citation status
-
-Step 1's body footnote was written as `[^step-1]`, but no `[^step-1]` definition existed — the matching content is covered by `[^origin]` (00:16:38). Fixed by pointing the body marker at `[^origin]`. All citations checked against `tools/flattened/market-research-m2-video.txt#00:16:38-00:18:07` and hold up.
-
-## Sources
-
-[^origin]: market-research-m2-video — 00:16:38
-[^step-2]: market-research-m2-video — 00:17:08
-[^step-3]: market-research-m2-video — 00:18:07

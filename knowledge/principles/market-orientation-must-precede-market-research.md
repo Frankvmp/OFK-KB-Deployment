@@ -3,18 +3,6 @@ type: Principle
 title: Market orientation must precede market research
 description: Research is most useful when the marketer is oriented to seek, accept, and act on market evidence.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: orientation-effects
-    resource: tools/flattened/market-research-m2-video.txt#00:00:00-00:01:53
-    title: Module 2 transcript — market orientation changes research behaviour
-  - id: orientation-prerequisite
-    resource: tools/flattened/market-research-m2-video.txt#00:01:53-00:02:29
-    title: Module 2 transcript — market orientation as a prerequisite
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-02T23:09:38.392Z
 tags:
   - diagnosis
   - market-orientation
@@ -28,13 +16,13 @@ Reach for this Principle before commissioning research, interpreting findings, o
 
 ## Principle
 
-Market research works properly only when the marketer first accepts that the market must be understood from evidence rather than internal assumption. The source explicitly presents market orientation as a prerequisite for conducting research correctly. [^orientation-prerequisite]
+Market research works properly only when the marketer first accepts that the market must be understood from evidence rather than internal assumption. The source explicitly presents market orientation as a prerequisite for conducting research correctly.
 
-Market orientation creates the curiosity to make time for research, choose an appropriate method, attend to the findings, change one's understanding, and act on what was learned. Research volume alone does not produce these behaviours. [^orientation-effects]
+Market orientation creates the curiosity to make time for research, choose an appropriate method, attend to the findings, change one's understanding, and act on what was learned. Research volume alone does not produce these behaviours.
 
 ## Why it matters
 
-Research can be collected without being believed or used. The quality of the method therefore does not compensate for an organisation that is unwilling to listen to the market. [^orientation-effects]
+Research can be collected without being believed or used. The quality of the method therefore does not compensate for an organisation that is unwilling to listen to the market.
 
 This Principle places orientation before method selection: first acknowledge the knowledge gap, then use research to fill it.
 
@@ -53,14 +41,5 @@ It extends [Marketers are not the consumer](marketers-are-not-the-consumer.md). 
 ## Boundaries and failure modes
 
 - Do not treat market orientation as a substitute for gathering evidence.
-- Do not assume that possessing research means the organisation is prepared to believe or use it. [^orientation-effects]
-- Do not dismiss findings merely because they conflict with an internal belief. [^orientation-effects]
-
-## Citation status
-
-Drafted from the Module 2 opening at 00:00:00–00:02:29. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^orientation-effects]: market-research-m2-video — 00:00:00-00:01:53
-[^orientation-prerequisite]: market-research-m2-video — 00:01:53-00:02:29
+- Do not assume that possessing research means the organisation is prepared to believe or use it.
+- Do not dismiss findings merely because they conflict with an internal belief.

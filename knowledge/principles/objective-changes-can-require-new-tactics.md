@@ -3,18 +3,6 @@ type: Principle
 title: Objective changes can require new tactics
 description: A changed objective can require different tactical execution even when the target market and intended position remain stable.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: objective-shift
-    resource: tools/flattened/objectives-m6-video.txt#00:05:44-00:06:56
-    title: Module 6 transcript — Netflix changes its objective
-  - id: tactical-effect
-    resource: tools/flattened/objectives-m6-video.txt#00:07:28-00:09:30
-    title: Module 6 transcript — changed objective alters tactical execution
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T07:43:33Z
 tags:
   - strategy
   - objectives
@@ -27,9 +15,9 @@ Reach for this Principle when a market has changed, an earlier objective has bee
 
 ## Principle
 
-A strategic objective can change while the target market and intended position remain stable. When the objective changes, tactical execution may also need to change because the required market movement is different. [^tactical-effect]
+A strategic objective can change while the target market and intended position remain stable. When the objective changes, tactical execution may also need to change because the required market movement is different.
 
-The Netflix example moves from expanding subscription-video viewing to converting existing viewers into paying subscribers after the earlier opportunity approaches its ceiling. [^objective-shift]
+The Netflix example moves from expanding subscription-video viewing to converting existing viewers into paying subscribers after the earlier opportunity approaches its ceiling.
 
 ## Why it matters
 
@@ -49,12 +37,3 @@ Changing an objective does not automatically require changing the target or posi
 - Do not preserve tactics merely because they worked under an earlier objective.
 - Do not change the target or position when only the objective needs revision.
 - Do not infer a new objective from tactical preference; diagnose the market first.
-
-## Citation status
-
-Drafted from Module 6 transcript spans 00:05:44-00:06:56 and 00:07:28-00:09:30. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^objective-shift]: objectives-m6-video — 00:05:44-00:06:56
-[^tactical-effect]: objectives-m6-video — 00:07:28-00:09:30

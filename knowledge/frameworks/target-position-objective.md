@@ -2,21 +2,6 @@
 type: Framework
 title: "Target → position → objective"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: origin
-    resource: "tools/flattened/objectives-m6-video.txt#00:16:04"
-    title: "Transcript source — M6"
-  - id: strategy
-    resource: "tools/flattened/product-m7-video.txt#00:04:21-00:06:18"
-    title: "Transcript source — M7"
-  - id: mantra
-    resource: "tools/flattened/product-m7-video.txt#00:06:47-00:08:17"
-    title: "Transcript source — M7"
-  - id: reuse-distribution
-    resource: "tools/flattened/distribution-m10-video.txt#00:33:34"
-    title: "Transcript source — M10"
 tags:
   - strategy
   - targeting
@@ -31,7 +16,6 @@ tags:
 Target, position, and objective are the three strategic reference points used
 to guide tactical choices. Together they state whom the work is for, what the
 brand should mean to that market, and what measurable change is required.
-[^origin]
 
 ## Invokes
 
@@ -61,7 +45,7 @@ other market-facing choices.
 ### Objective
 
 Define the measurable change required, including the relevant funnel or outcome,
-benchmark, goal, target market, and delivery period. [^origin]
+benchmark, goal, target market, and delivery period.
 
 ## Decision procedure
 
@@ -73,13 +57,13 @@ benchmark, goal, target market, and delivery period. [^origin]
 
 The answer to a tactical choice should come from the strategy, not from the
 attractiveness of the option in isolation. The three questions are repeatedly
-used to keep tactical choices aligned. [^strategy] [^mantra]
+used to keep tactical choices aligned.
 
 ## Supporting Principle: strategy directs tactics
 
 Strategy should guide product, pricing, communications, and distribution
 decisions. Distribution is not an exception: its design must spring from the
-strategic decisions already taken. [^reuse-distribution]
+strategic decisions already taken.
 
 ## Boundaries and failure modes
 
@@ -91,8 +75,6 @@ strategic decisions already taken. [^reuse-distribution]
 - Do not write an objective without a target market, benchmark, goal, and
   delivery period.
 
-## Sources
-
 ## Embedded Playbooks
 
 ### Staged Mass-Market Expansion (resource-constrained path to full reach)
@@ -103,18 +85,9 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Steps:**
 
-1. **Start with a small, manageable group.** They focused on Harvard... because that was a small and manageable group. [^staged-mass-market-expansion-resource-constrained-path-to-full-reach-1]
-2. **Broaden step by step.** Then they broadened it out further to all university students, then all high school students, then everyone in the United States, then everyone all over the world. [^staged-mass-market-expansion-resource-constrained-path-to-full-reach-2]
+1. **Start with a small, manageable group.** They focused on Harvard... because that was a small and manageable group.
+2. **Broaden step by step.** Then they broadened it out further to all university students, then all high school students, then everyone in the United States, then everyone all over the world.
 
 **Output:** Full mass-market reach, achieved incrementally rather than immediately, when resources don't permit going wide from day one.
 
 **Boundary:** Illustrated only by the Facebook case study; a resource-constrained variant of 'Sophisticated Mass Marketing' (Framework), not a universally-prescribed procedure.
-
-[^staged-mass-market-expansion-resource-constrained-path-to-full-reach-1]: targeting-m4-video — 00:29:37
-[^staged-mass-market-expansion-resource-constrained-path-to-full-reach-2]: targeting-m4-video — 00:30:09
-
-
-[^origin]: objectives-m6-video — 00:16:04
-[^strategy]: product-m7-video — 00:04:21-00:06:18
-[^mantra]: product-m7-video — 00:06:47-00:08:17
-[^reuse-distribution]: distribution-m10-video — 00:33:34

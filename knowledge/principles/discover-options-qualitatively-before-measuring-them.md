@@ -3,18 +3,6 @@ type: Principle
 title: Discover options qualitatively before measuring them
 description: Quantitative precision cannot repair an incomplete or incorrect set of options; qualitative exploration must establish what should be measured first.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: survey-option-failure
-    resource: tools/flattened/market-research-m2-video.txt#00:25:32-00:28:21
-    title: Module 2 transcript — precise measurement of incomplete options
-  - id: conjoint-option-failure
-    resource: tools/flattened/market-research-m2-video.txt#00:55:56-00:56:30
-    title: Module 2 transcript — conjoint cannot repair wrong attributes
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-02T23:09:38.392Z
 tags:
   - diagnosis
   - research
@@ -27,9 +15,9 @@ Reach for this Principle before designing a survey, conjoint study, scoring mode
 
 ## Principle
 
-Quantitative accuracy cannot compensate for measuring the wrong or incomplete options. Qualitative exploration must first identify the relevant possibilities; only then should quantitative research measure their incidence, importance, or trade-offs. [^survey-option-failure]
+Quantitative accuracy cannot compensate for measuring the wrong or incomplete options. Qualitative exploration must first identify the relevant possibilities; only then should quantitative research measure their incidence, importance, or trade-offs.
 
-The same limitation applies to advanced conjoint analysis: a technically sophisticated model can measure the wrong attributes very accurately if its inputs were not first grounded in consumer understanding. [^conjoint-option-failure]
+The same limitation applies to advanced conjoint analysis: a technically sophisticated model can measure the wrong attributes very accurately if its inputs were not first grounded in consumer understanding.
 
 ## Why it matters
 
@@ -52,12 +40,3 @@ This Principle is about establishing the option set. It is not a claim that qual
 - Do not convert an internally generated option list directly into a survey without qualitative checking.
 - Do not mistake statistical significance for completeness of the variables measured.
 - Do not ask respondents to choose among options that omit a plausible market alternative.
-
-## Citation status
-
-Drafted from the survey limitation at 00:25:32–00:28:21 and the parallel conjoint limitation at 00:55:56–00:56:30. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^survey-option-failure]: market-research-m2-video — 00:25:32-00:28:21
-[^conjoint-option-failure]: market-research-m2-video — 00:55:56-00:56:30

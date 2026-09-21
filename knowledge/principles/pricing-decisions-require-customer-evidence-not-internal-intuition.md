@@ -3,18 +3,6 @@ type: Principle
 title: Pricing decisions require customer evidence, not internal intuition
 description: Price setting should use evidence about customer value and behaviour rather than inherited assumptions, competitor imitation, or unsupported managerial judgement.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: weak-inputs
-    resource: tools/flattened/pricing-m8-video.txt#00:32:12-00:33:35
-    title: Module 8 transcript — finger-in-the-wind pricing inputs
-  - id: method-fit
-    resource: tools/flattened/pricing-m8-video.txt#00:37:44-00:45:48
-    title: Module 8 transcript — pricing research methods and customer evidence
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T12:17:47Z
 tags:
   - tactics
   - pricing
@@ -28,9 +16,9 @@ Reach for this Principle when a price is being justified by inherited rules, com
 
 ## Principle
 
-Pricing decisions should be informed by customer evidence about perceived value, willingness to pay, and demand. Combining cost data, competitor prices, and inherited anecdotes without customer research is an inferior basis for price setting. [^weak-inputs]
+Pricing decisions should be informed by customer evidence about perceived value, willingness to pay, and demand. Combining cost data, competitor prices, and inherited anecdotes without customer research is an inferior basis for price setting.
 
-No single pricing-research method is universally best. Van Westendorp, conjoint analysis, experimentation, and dynamic pricing differ in cost, accuracy, suitability, and the behaviour they can reveal. The method should fit the market and decision. [^method-fit]
+No single pricing-research method is universally best. Van Westendorp, conjoint analysis, experimentation, and dynamic pricing differ in cost, accuracy, suitability, and the behaviour they can reveal. The method should fit the market and decision.
 
 ## Why it matters
 
@@ -51,12 +39,3 @@ Research informs the pricing decision; it does not remove managerial judgement. 
 - Do not treat a stated willingness-to-pay answer as complete behavioural proof.
 - Do not apply a research method without checking its suitability.
 - Do not present research as eliminating uncertainty or judgement.
-
-## Citation status
-
-Drafted from Module 8 transcript spans 00:32:12-00:33:35 and 00:37:44-00:45:48. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^weak-inputs]: pricing-m8-video — 00:32:12-00:33:35
-[^method-fit]: pricing-m8-video — 00:37:44-00:45:48

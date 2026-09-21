@@ -3,15 +3,6 @@ type: Principle
 title: Emotional communication can outperform rational persuasion
 description: Communications should consider the emotional response they seek rather than defaulting to rational explanation as the strongest route to effectiveness.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: emotion
-    resource: tools/flattened/marketing-communications-m9-video.txt#01:09:18-01:10:24
-    title: Module 9 transcript — emotional campaigns show stronger profitability outcomes
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T12:38:08Z
 tags:
   - tactics
   - communications
@@ -24,7 +15,7 @@ Reach for this Principle when a campaign assumes that more product information o
 
 ## Principle
 
-Communications should deliberately consider what the target audience should feel, not only what it should think. In the cited analysis, overtly emotional campaigns produced profitable outcomes more often than rational campaigns or campaigns combining rational and emotional appeals. [^emotion]
+Communications should deliberately consider what the target audience should feel, not only what it should think. In the cited analysis, overtly emotional campaigns produced profitable outcomes more often than rational campaigns or campaigns combining rational and emotional appeals.
 
 ## Why it matters
 
@@ -45,11 +36,3 @@ The result is an observed average, not a guarantee that every emotional executio
 - Do not treat a category average as a guaranteed campaign result.
 - Do not assume that combining rational and emotional content is always optimal.
 - Do not confuse emotional intensity with effective creative quality.
-
-## Citation status
-
-Drafted from Module 9 transcript span 01:09:18-01:10:24. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^emotion]: marketing-communications-m9-video — 01:09:18-01:10:24

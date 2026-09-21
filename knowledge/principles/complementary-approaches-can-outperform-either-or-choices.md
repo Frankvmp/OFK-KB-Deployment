@@ -3,18 +3,6 @@ type: Principle
 title: "Complementary approaches can outperform either-or choices"
 description: "When two approaches perform different useful jobs, a deliberate combination may be stronger than treating them as mutually exclusive."
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: two-speed-example
-    resource: tools/flattened/targeting-m4-video.txt#00:46:08-00:47:04
-    title: Module 4 transcript — broad brand building and focused activation serve different jobs
-  - id: both-ism
-    resource: tools/flattened/targeting-m4-video.txt#00:49:55-00:51:47
-    title: Module 4 transcript — complementary alternatives can be combined
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T06:40:47Z
 tags:
   - cross-cutting
   - market-orientation
@@ -27,9 +15,9 @@ Reach for this Principle when a marketing debate presents two useful approaches 
 
 ## Principle
 
-Apparently opposing approaches should be tested for complementarity before one is rejected. When each performs a different necessary job, using both deliberately can produce a stronger system. [^both-ism]
+Apparently opposing approaches should be tested for complementarity before one is rejected. When each performs a different necessary job, using both deliberately can produce a stronger system.
 
-Two-speed targeting is one example: broad targeting supports long-term brand building, while focused targeting supports near-term activation among people more likely to respond now. [^two-speed-example]
+Two-speed targeting is one example: broad targeting supports long-term brand building, while focused targeting supports near-term activation among people more likely to respond now.
 
 ## Why it matters
 
@@ -50,12 +38,3 @@ Combination is not compromise for its own sake. Two weak or contradictory approa
 - Do not combine approaches unless each has a defined role.
 - Do not use combination to avoid making necessary choices.
 - Specify how the components interact and where each applies.
-
-## Citation status
-
-Drafted from Module 4 transcript spans 00:46:08-00:47:04, 00:49:55-00:51:47. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^two-speed-example]: targeting-m4-video — 00:46:08-00:47:04
-[^both-ism]: targeting-m4-video — 00:49:55-00:51:47

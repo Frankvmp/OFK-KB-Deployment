@@ -2,21 +2,6 @@
 type: Playbook
 title: "Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: origin
-    resource: "tools/flattened/market-orientation-m1-video.txt#00:21:01"
-    title: "Transcript source"
-  - id: step-2
-    resource: "tools/flattened/market-orientation-m1-video.txt#00:23:02"
-    title: "Transcript source"
-  - id: step-3
-    resource: "tools/flattened/market-orientation-m1-video.txt#01:10:46"
-    title: "Transcript source"
-  - id: step-4
-    resource: "tools/flattened/market-orientation-m1-video.txt#00:32:37"
-    title: "Transcript source"
 tags:
   - diagnosis
   - customer-understanding
@@ -26,7 +11,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* Run this before any diagnosis or strategy work starts — it's the individual-level precondition for [Market orientation](../frameworks/market-orientation.md) and for [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md)'s first phase. If the agent (or the human it's working with) is about to substitute personal opinion, an untested assumption, or a fictional persona for real customer evidence, this is the checkpoint that catches it before diagnosis begins.
+Run this before any diagnosis or strategy work starts — it's the individual-level precondition for [Market orientation](../frameworks/market-orientation.md) and for [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md)'s first phase. If the agent (or the human it's working with) is about to substitute personal opinion, an untested assumption, or a fictional persona for real customer evidence, this is the checkpoint that catches it before diagnosis begins.
 
 ## Purpose
 
@@ -48,13 +33,13 @@ No explicit precondition stated -- this is the individual-level starting discipl
 
 **Step type:** Evidence-and-judgement — the agent must not substitute its own synthesized "consumer opinion" for real evidence; this step is the discipline check, not a computable rule.
 
-a trained marketer, a disciplined marketer, will step back... and will realize... that you are not the consumer. [^origin]
+a trained marketer, a disciplined marketer, will step back... and will realize... that you are not the consumer.
 
 ### 2. Create a vacuum (empty yourself of assumptions before research)
 
 **Step type:** Data-gathering — the vacuum is deliberately filled with real evidence, not the agent's own assumptions.
 
-The discipline of marketing... is to take oneself out of the thinking. And to create a vacuum, a space, an empty hole. We'll fill that hole, as you'll see in Module 2, with data. [^step-2]
+The discipline of marketing... is to take oneself out of the thinking. And to create a vacuum, a space, an empty hole. We'll fill that hole, as you'll see in Module 2, with data.
 
 **Invokes:** [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook).
 
@@ -62,7 +47,7 @@ The discipline of marketing... is to take oneself out of the thinking. And to cr
 
 **Step type:** Evidence-and-judgement — identifying which specific barriers apply to this business is a judgement call informed by evidence, not a lookup.
 
-you will face barriers to market orientation that will stop you doing your job recognize those barriers [^step-3]
+you will face barriers to market orientation that will stop you doing your job recognize those barriers
 
 **Invokes:** Practical barriers to market orientation (Framework). *(not yet drafted)*
 
@@ -70,7 +55,7 @@ you will face barriers to market orientation that will stop you doing your job r
 
 **Step type:** Evidence-and-judgement — removing an organisational barrier is a real-world action the agent can recommend and track, not one it performs itself.
 
-you must remove, destroy, take out the barriers that are in between you and your customer... your first challenge in doing marketing right is to remove those barriers and give yourself a line of sight, a channel, access to customers so the marketing process can begin. [^step-4]
+you must remove, destroy, take out the barriers that are in between you and your customer... your first challenge in doing marketing right is to remove those barriers and give yourself a line of sight, a channel, access to customers so the marketing process can begin.
 
 ## Output
 
@@ -89,14 +74,3 @@ Note on provenance: the separately-tagged 'Verify instincts with the marketplace
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
-
-## Citation status
-
-Step 1's body footnote was written as `[^step-1]`, but no `[^step-1]` definition existed — the matching definition was named `[^origin]` (matching the frontmatter `sources[].id`). Fixed by renaming the body marker to `[^origin]`, rather than adding a duplicate definition. All four citations checked against `tools/flattened/market-orientation-m1-video.txt` and hold up — near-verbatim matches at the cited timestamps, no fabrication, no span errors. This is the most accurately-cited file retrofitted in this cluster so far.
-
-## Sources
-
-[^origin]: market-orientation-m1-video — 00:21:01
-[^step-2]: market-orientation-m1-video — 00:23:02
-[^step-3]: market-orientation-m1-video — 01:10:46
-[^step-4]: market-orientation-m1-video — 00:32:37

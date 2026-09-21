@@ -3,15 +3,6 @@ type: Principle
 title: Do not combine markets when aggregation erases differences
 description: Use one segmentation across markets only when aggregation preserves useful similarities and does not conceal material country or category differences.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: aggregation-choice
-    resource: tools/flattened/segmentation-m3-video.txt#00:29:01-00:29:53
-    title: Module 3 transcript — test whether a global map loses more than it gains
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T06:21:39Z
 tags:
   - cross-cutting
   - market-orientation
@@ -24,7 +15,7 @@ Reach for this Principle when deciding whether several countries, regions, or ca
 
 ## Principle
 
-A single combined segmentation is valuable only when the simplification preserves the distinctions needed for action. If combining country markets or materially different categories loses more than it gains, build separate segmentations. [^aggregation-choice]
+A single combined segmentation is valuable only when the simplification preserves the distinctions needed for action. If combining country markets or materially different categories loses more than it gains, build separate segmentations.
 
 ## Why it matters
 
@@ -44,11 +35,3 @@ This is not a blanket requirement to create one map per country. It is a test of
 - Do not force different markets into one map merely to reduce the number of segmentations.
 - Do not split markets automatically without testing whether one coherent map is possible.
 - State the market boundary used by each map.
-
-## Citation status
-
-Drafted from Module 3 transcript spans 00:29:01-00:29:53. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^aggregation-choice]: segmentation-m3-video — 00:29:01-00:29:53

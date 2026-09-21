@@ -3,15 +3,6 @@ type: Principle
 title: "Align marketing and sales targeting choices"
 description: "Marketing and sales should compare their target choices and agree how their activities support one another."
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: alignment
-    resource: tools/flattened/targeting-m4-video.txt#00:40:53-00:41:15
-    title: Module 4 transcript — marketing and sales compare target choices
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T06:40:47Z
 tags:
   - strategy
   - targeting
@@ -24,7 +15,7 @@ Reach for this Principle when marketing and sales select accounts or segments in
 
 ## Principle
 
-Marketing and sales should share the same segmentation, compare whom each function intends to target, and agree how their different activities feed one another. [^alignment]
+Marketing and sales should share the same segmentation, compare whom each function intends to target, and agree how their different activities feed one another.
 
 ## Why it matters
 
@@ -43,11 +34,3 @@ Alignment does not require marketing and sales to perform identical work. It req
 - Do not let either function infer the other's target list.
 - Do not treat a shared segmentation as proof that target choices are aligned.
 - Record how marketing interest or leads pass into sales activity.
-
-## Citation status
-
-Drafted from Module 4 transcript spans 00:40:53-00:41:15. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^alignment]: targeting-m4-video — 00:40:53-00:41:15

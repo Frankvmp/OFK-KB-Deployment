@@ -3,18 +3,6 @@ type: Principle
 title: Repeated discounting can become a self-reinforcing strategic trap
 description: Promotions can pull demand forward, train customers and organisations to expect further discounts, intensify price competition, and conceal unresolved strategic problems.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: discount-cycle
-    resource: tools/flattened/pricing-m8-video.txt#01:15:49-01:18:24
-    title: Module 8 transcript — the self-reinforcing discount cycle
-  - id: exceptions-and-cause
-    resource: tools/flattened/pricing-m8-video.txt#01:18:24-01:20:21
-    title: Module 8 transcript — limited exceptions and underlying strategic failures
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T12:17:47Z
 tags:
   - tactics
   - pricing
@@ -27,9 +15,9 @@ Reach for this Principle when promotions are repeatedly used to restore declinin
 
 ## Principle
 
-A promotion can pull future demand into the discounted period. The subsequent decline then teaches the organisation to run another promotion, creating a self-reinforcing cycle. Repetition can disrupt production, disappoint full-price customers, train buyers and retailers to wait for deals, provoke competitor responses, and weaken profitability and product quality. [^discount-cycle]
+A promotion can pull future demand into the discounted period. The subsequent decline then teaches the organisation to run another promotion, creating a self-reinforcing cycle. Repetition can disrupt production, disappoint full-price customers, train buyers and retailers to wait for deals, provoke competitor responses, and weaken profitability and product quality.
 
-Discounting may be justified in limited cases such as encouraging trial or defensive stock-up. Most repeated use does not repair weak targeting, positioning, product, or distribution; it lowers the price while leaving the underlying problem unresolved. [^exceptions-and-cause]
+Discounting may be justified in limited cases such as encouraging trial or defensive stock-up. Most repeated use does not repair weak targeting, positioning, product, or distribution; it lowers the price while leaving the underlying problem unresolved.
 
 ## Why it matters
 
@@ -50,13 +38,3 @@ This Principle does not prohibit every discount. It distinguishes a bounded, str
 - Do not ignore effects on existing full-price customers.
 - Do not use discounting to conceal weak targeting, positioning, product, or distribution.
 - Use discounts only for a defined purpose and evaluate whether that purpose was achieved.
-
-## Citation status
-
-Drafted from Module 8 transcript spans 01:15:49-01:18:24 and 01:18:24-01:20:21. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^discount-cycle]: pricing-m8-video — 01:15:49-01:18:24
-[^exceptions-and-cause]: pricing-m8-video — 01:18:24-01:20:21
-

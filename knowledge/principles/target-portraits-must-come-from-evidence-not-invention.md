@@ -3,21 +3,6 @@ type: Principle
 title: "Target portraits must come from evidence, not invention"
 description: "A target portrait should synthesise qualitative and quantitative evidence about a chosen target rather than invent an idealised customer persona."
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: persona-failure
-    resource: tools/flattened/targeting-m4-video.txt#00:52:50-00:53:51
-    title: Module 4 transcript — invented idealised personas are rejected
-  - id: evidence-portrait
-    resource: tools/flattened/targeting-m4-video.txt#00:53:51-00:54:55
-    title: Module 4 transcript — portraits synthesise qualitative and quantitative evidence
-  - id: challenge-not-solution
-    resource: tools/flattened/targeting-m4-video.txt#00:54:55-00:55:43
-    title: Module 4 transcript — portraits contain barriers and frame the challenge
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T06:40:47Z
 tags:
   - strategy
   - targeting
@@ -30,9 +15,9 @@ Reach for this Principle when a target description relies on an invented name, s
 
 ## Principle
 
-Build a target customer portrait from the qualitative and quantitative evidence used to understand the selected target. Do not substitute an invented, idealised persona that assumes enthusiasm for the product. [^persona-failure] [^evidence-portrait]
+Build a target customer portrait from the qualitative and quantitative evidence used to understand the selected target. Do not substitute an invented, idealised persona that assumes enthusiasm for the product.
 
-The portrait should include barriers, challenges, motivations, and drivers. Its purpose is to make the strategic challenge understandable, not to invent the solution that positioning and objectives must later provide. [^challenge-not-solution]
+The portrait should include barriers, challenges, motivations, and drivers. Its purpose is to make the strategic challenge understandable, not to invent the solution that positioning and objectives must later provide.
 
 ## Why it matters
 
@@ -52,14 +37,3 @@ The [Target Customer Portrait](../schemas/target-customer-portrait.md) is an evi
 - Do not invent positive attitudes, needs, or behaviours.
 - Do not write portraits for every segment before target selection.
 - Keep proposed positioning and solutions out of the evidence portrait.
-
-## Citation status
-
-Drafted from Module 4 transcript spans 00:52:50-00:53:51, 00:53:51-00:54:55, 00:54:55-00:55:43. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^persona-failure]: targeting-m4-video — 00:52:50-00:53:51
-[^evidence-portrait]: targeting-m4-video — 00:53:51-00:54:55
-[^challenge-not-solution]: targeting-m4-video — 00:54:55-00:55:43
-

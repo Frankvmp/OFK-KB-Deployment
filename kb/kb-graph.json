@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:48:00.874Z",
+  "generated_at": "2026-09-21T16:35:00.716Z",
   "nodes": [
     {
       "id": "knowledge/README.md",
@@ -1437,12 +1437,6 @@
     }
   ],
   "edges": [
-    {
-      "from": "knowledge/README.md",
-      "to": "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
-      "kind": "markdown-link",
-      "context": "Changes"
-    },
     {
       "from": "knowledge/frameworks/brand-tracking.md",
       "to": "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
@@ -4924,12 +4918,6 @@
       "context": "Invokes"
     },
     {
-      "from": "knowledge/schemas/README.md",
-      "to": "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
-      "kind": "markdown-link",
-      "context": "Changes"
-    },
-    {
       "from": "knowledge/schemas/brand-palette-selected-small-code-set.md",
       "to": "knowledge/frameworks/positioning-and-brand-codes.md",
       "kind": "markdown-link",
@@ -5104,12 +5092,6 @@
       "context": "Shape"
     },
     {
-      "from": "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
-      "to": "knowledge/frameworks/diagnosis-strategy-tactics.md",
-      "kind": "markdown-link",
-      "context": "Citation status"
-    },
-    {
       "from": "knowledge/schemas/positioning-statement-to-what-versus-is.md",
       "to": "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
       "kind": "markdown-link",
@@ -5141,10 +5123,6 @@
     }
   ],
   "backlinks": {
-    "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md": [
-      "knowledge/README.md",
-      "knowledge/schemas/README.md"
-    ],
     "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md": [
       "knowledge/frameworks/brand-tracking.md",
       "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",

@@ -3,24 +3,6 @@ type: Principle
 title: Understand customers in their real context
 description: Customer understanding improves when marketers observe people in the settings where products, services, and decisions are actually experienced.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: focus-group-context
-    resource: tools/flattened/market-research-m2-video.txt#00:35:48-00:36:44
-    title: Module 2 transcript — artificial focus-group context
-  - id: real-context
-    resource: tools/flattened/market-research-m2-video.txt#00:36:44-00:37:25
-    title: Module 2 transcript — understand consumers in their own environment
-  - id: ethnographic-practice
-    resource: tools/flattened/market-research-m2-video.txt#00:42:26-00:44:57
-    title: Module 2 transcript — contextual observation and in-situ interviewing
-  - id: professional-idiot
-    resource: tools/flattened/market-research-m2-video.txt#00:47:22-00:47:47
-    title: Module 2 transcript — asking obvious questions in detail
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-02T23:09:38.392Z
 tags:
   - diagnosis
   - customer-understanding
@@ -33,15 +15,15 @@ Reach for this Principle when research depends mainly on customers recalling beh
 
 ## Principle
 
-To understand how customers use and evaluate an offer, marketers should observe and listen to them in the environment where the behaviour occurs. Bringing people into an artificial research setting can remove the context needed to interpret their actions. [^focus-group-context] [^real-context]
+To understand how customers use and evaluate an offer, marketers should observe and listen to them in the environment where the behaviour occurs. Bringing people into an artificial research setting can remove the context needed to interpret their actions.
 
-Ethnographic research applies this through extended immersion, observation, recorded evidence, and in-situ interviews driven by what is actually happening. [^ethnographic-practice]
+Ethnographic research applies this through extended immersion, observation, recorded evidence, and in-situ interviews driven by what is actually happening.
 
 ## Why it matters
 
-Contextual observation shows how people actually interact with an offer while using it. It therefore complements interview answers with direct evidence of behaviour in the setting where that behaviour occurs. [^ethnographic-practice]
+Contextual observation shows how people actually interact with an offer while using it. It therefore complements interview answers with direct evidence of behaviour in the setting where that behaviour occurs.
 
-The researcher must remain willing to ask apparently obvious questions in detail rather than signalling expertise and filling gaps from assumption. [^professional-idiot]
+The researcher must remain willing to ask apparently obvious questions in detail rather than signalling expertise and filling gaps from assumption.
 
 *(Agent-execution note — not a sourced claim; no footnote.)* What makes context matter isn't specifically a human being present — it's that the evidence comes from the real setting where the behaviour actually happens, not a recollection of it given afterward in a removed conversation. An agent with no way to be physically present can still satisfy this principle using real material captured from that context (existing recordings, session data, in-the-moment documentation) — see the [Ethnographic Research Procedure](../frameworks/research-informs-understanding-not-strategy.md#ethnographic-research-procedure) for how. A recalled survey or interview response, given outside the real context, does not satisfy it regardless of who or what collects it.
 
@@ -59,17 +41,4 @@ This Principle extends [Marketers are not the consumer](marketers-are-not-the-co
 
 - Do not infer the full market from a small number of contextual observations.
 - Do not replace field observation with imagined customer behaviour.
-- Do not let researcher expertise suppress basic questions that would expose how the customer understands the situation. [^professional-idiot]
-
-## Citation status
-
-Drafted from the contextual-observation passages at 00:36:44–00:37:25, 00:42:26–00:44:57, and 00:47:22–00:47:47. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-**Agent-execution addition (2026-09-19):** one new paragraph was added to "Why it matters" per ADR-0019, explaining how an agent (with no way to be physically present) can still satisfy this principle. It carries no footnote and makes no claim about what the transcript said — the cited "Principle" section above is untouched.
-
-## Sources
-
-[^focus-group-context]: market-research-m2-video — 00:35:48-00:36:44
-[^real-context]: market-research-m2-video — 00:36:44-00:37:25
-[^ethnographic-practice]: market-research-m2-video — 00:42:26-00:44:57
-[^professional-idiot]: market-research-m2-video — 00:47:22-00:47:47
+- Do not let researcher expertise suppress basic questions that would expose how the customer understands the situation.

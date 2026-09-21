@@ -2,21 +2,6 @@
 type: Playbook
 title: "Segmentation Process (top-level 5-step sequence)"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: origin
-    resource: tools/flattened/segmentation-m3-video.txt#00:18:50-00:18:55
-    title: Transcript source
-  - id: step-1-1
-    resource: tools/flattened/segmentation-m3-video.txt#00:27:38
-    title: Transcript source
-  - id: step-2
-    resource: tools/flattened/segmentation-m3-video.txt#00:19:03
-    title: Transcript source
-  - id: step-5
-    resource: tools/flattened/segmentation-m3-video.txt#00:19:31
-    title: Transcript source
 tags:
   - diagnosis
   - segmentation
@@ -26,7 +11,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* Reach for this once the mass market is understood and a business needs to move from raw market understanding to a validated set of describable, valuable segments — the bridge between diagnosis and the targeting decision that follows it.
+Reach for this once the mass market is understood and a business needs to move from raw market understanding to a validated set of describable, valuable segments — the bridge between diagnosis and the targeting decision that follows it.
 
 ## Purpose
 
@@ -53,11 +38,11 @@ None for step 1 (starting point of the module).
 
 **Step type:** Data-gathering — the total market size and boundary must be a real, constructed definition, never invented, per the Pampers/Tide/GE Medical examples that follow.
 
-Paradoxically, the first step in the process is to define the mass market. [^origin]
+Paradoxically, the first step in the process is to define the mass market.
 
 **Nested sequence:**
 
-1. **B2B two-level sophistication (qualifying population, then buying committee).** identifying from the total population of companies which ones are actually in the market. And then identifying the decision making unit or buying committee that makes a decision in each of those accounts. [^step-1-1]
+1. **B2B two-level sophistication (qualifying population, then buying committee).** identifying from the total population of companies which ones are actually in the market. And then identifying the decision making unit or buying committee that makes a decision in each of those accounts.
    **Step type:** Data-gathering — real qualifying-population and buying-committee data, never invented.
    **Invokes:** [B2B Market Definition](../schemas/b2b-market-definition-total-population-qualifying-accounts-buying-committee.md) (Schema).
 
@@ -65,13 +50,13 @@ Paradoxically, the first step in the process is to define the mass market. [^ori
 
 **Step type:** Decision (criteria-guided) — choosing among the available segmentation methods.
 
-we have to select our segmentation method. There are many different ways to carve up the market. [^step-2]
+we have to select our segmentation method. There are many different ways to carve up the market.
 
 ### 3. Segment (separate customers into segments)
 
 **Step type:** Evidence-and-judgement — executed via the chosen method's own procedure.
 
-Then there's the segmentation process itself, which involves separating out the customers into their various different segments. [^step-3]
+Then there's the segmentation process itself, which involves separating out the customers into their various different segments.
 
 **Invokes:** [Meaningful Actionable Grid](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) (or other method) (Playbook).
 
@@ -79,7 +64,7 @@ Then there's the segmentation process itself, which involves separating out the 
 
 **Step type:** Data-gathering — real segment data (value, size), never invented.
 
-the all-important stage of populating each segment with the relevant data, so we can identify these different segments, their value, and set up the targeting process ahead. [^step-4]
+the all-important stage of populating each segment with the relevant data, so we can identify these different segments, their value, and set up the targeting process ahead.
 
 **Invokes:** [Segment Profile](../schemas/segment-profile-name-population-value-market-share.md), [Segment Spillover Record](../schemas/segment-spillover-record-segment-a-influences-segment-b.md) (Schemas).
 
@@ -87,7 +72,7 @@ the all-important stage of populating each segment with the relevant data, so we
 
 **Step type:** Constraint check — confirm the segmentation is broadly accurate via multiple checks before proceeding.
 
-Finally, there's an extra step at the end, triangulation. Just checking a number of different ways that the segmentation is broadly accurate and represents the market. [^step-5]
+Finally, there's an extra step at the end, triangulation. Just checking a number of different ways that the segmentation is broadly accurate and represents the market.
 
 ## Output
 
@@ -106,23 +91,3 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
-
-## Citation status
-
-Two findings from checking against `tools/flattened/segmentation-m3-video.txt`:
-
-1. `[^step-1-1]` (the B2B two-level sophistication note) was cited at 00:25:58, but the near-verbatim matching sentence — "identifying from the total population of companies which ones are actually in the market. And then identifying the decision making unit or buying committee that makes a decision in each of those accounts" — is actually at 00:27:38. Fixed to point at the correct span.
-2. Steps 3 and 4 cited `[^step-3]` and `[^step-4]` with no matching definitions. The source sentence covering steps 2, 3, and 4 is a single breath at 00:19:03 ("we have to select our segmentation method... Then there's the segmentation process itself... And then the all-important stage of populating each segment"). Added both as real definitions pointing at that shared span rather than leaving them undefined.
-
-A later mechanical audit pass (`tools/audit_harness.py`) found a third issue: step 1's body marker was written as `[^step-1]`, with no matching definition, while the actual covering citation existed under the unused id `[^origin]` — but pointed at the wrong span (00:18:36, a Sally Dibb quote, not the step-1 sentence). Fixed by pointing the body marker at `[^origin]` and correcting its span to 00:18:50-00:18:55, where "Paradoxically, the first step in the process is to define the mass market" actually is.
-
-Everything else checked out — steps 2 and 5 cite accurately.
-
-## Sources
-
-[^origin]: segmentation-m3-video — 00:18:50-00:18:55
-[^step-1-1]: segmentation-m3-video — 00:27:38
-[^step-2]: segmentation-m3-video — 00:19:03
-[^step-3]: segmentation-m3-video — 00:19:03
-[^step-4]: segmentation-m3-video — 00:19:03
-[^step-5]: segmentation-m3-video — 00:19:31

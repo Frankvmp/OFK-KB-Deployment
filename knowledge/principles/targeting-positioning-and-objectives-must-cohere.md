@@ -3,18 +3,6 @@ type: Principle
 title: "Targeting, positioning, and objectives must cohere"
 description: "Targeting begins strategy, but target, position, and objectives may need iterative adjustment as one choice changes another."
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: three-questions
-    resource: tools/flattened/targeting-m4-video.txt#00:16:34-00:18:02
-    title: Module 4 transcript — who, what, and how define marketing strategy
-  - id: iterative-system
-    resource: tools/flattened/targeting-m4-video.txt#00:18:02-00:19:00
-    title: Module 4 transcript — strategic choices may require revisiting one another
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T06:40:47Z
 tags:
   - strategy
   - targeting
@@ -29,9 +17,9 @@ Reach for this Principle when targeting, positioning, and objectives are being d
 
 ## Principle
 
-Marketing strategy must answer three connected questions: who the organisation will target, what position it wants those targets to hold, and what objectives it intends to achieve. [^three-questions]
+Marketing strategy must answer three connected questions: who the organisation will target, what position it wants those targets to hold, and what objectives it intends to achieve.
 
-Targeting begins the strategic work, but the three choices form an iterative system. A position or objective may expose a problem in the selected target, and a target choice may require the position or objective to change. [^iterative-system]
+Targeting begins the strategic work, but the three choices form an iterative system. A position or objective may expose a problem in the selected target, and a target choice may require the position or objective to change.
 
 ## Why it matters
 
@@ -55,12 +43,3 @@ The strategic system is iterative, not unordered. Targeting remains the starting
 - Do not finalise one strategic choice without testing it against the other two.
 - Do not restart the whole strategy for every minor tension; revise when the choices are materially inconsistent.
 - Keep tactics outside this coherence test until the strategy is settled.
-
-## Citation status
-
-Drafted from Module 4 transcript spans 00:16:34-00:18:02, 00:18:02-00:19:00. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^three-questions]: targeting-m4-video — 00:16:34-00:18:02
-[^iterative-system]: targeting-m4-video — 00:18:02-00:19:00

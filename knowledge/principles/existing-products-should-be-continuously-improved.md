@@ -3,21 +3,6 @@ type: Principle
 title: Existing products should be continuously improved
 description: Product work should include systematic improvement of in-market offers, not only the creation of new products.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: existing-product
-    resource: tools/flattened/product-m7-video.txt#00:29:13-00:30:40
-    title: Module 7 transcript — existing product improvement
-  - id: continuous-improvement
-    resource: tools/flattened/product-m7-video.txt#00:30:40-00:32:37
-    title: Module 7 transcript — repeated improvement rather than breakthrough-only innovation
-  - id: three-methods
-    resource: tools/flattened/product-m7-video.txt#01:06:06-01:07:04
-    title: Module 7 transcript — touchpoints, NPS, and jobs support existing product improvement
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T11:47:20Z
 tags:
   - tactics
   - product
@@ -30,11 +15,11 @@ Reach for this Principle when product work is framed only as new-product develop
 
 ## Principle
 
-Marketing's product responsibility continues after launch. Existing customers provide both revenue and evidence that can be used to improve and augment an in-market offer. [^existing-product]
+Marketing's product responsibility continues after launch. Existing customers provide both revenue and evidence that can be used to improve and augment an in-market offer.
 
-Improvement need not depend on breakthrough innovation. Repeated, evidence-led changes to an existing product can be a more accessible and valuable contribution than creating a product from scratch. [^continuous-improvement]
+Improvement need not depend on breakthrough innovation. Repeated, evidence-led changes to an existing product can be a more accessible and valuable contribution than creating a product from scratch.
 
-Touchpoints, Net Promoter Score, and Jobs to Be Done are presented as three routes for finding existing-product improvements. [^three-methods]
+Touchpoints, Net Promoter Score, and Jobs to Be Done are presented as three routes for finding existing-product improvements.
 
 ## Why it matters
 
@@ -55,13 +40,3 @@ Continuous improvement is not uncontrolled feature accumulation. Changes should 
 - Do not reserve product input only for new-product launches.
 - Do not assume an in-market product is optimal because it is currently successful.
 - Do not add changes without customer evidence or strategic fit.
-
-## Citation status
-
-Drafted from Module 7 transcript spans 00:29:13-00:32:37 and 01:06:06-01:07:04. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^existing-product]: product-m7-video — 00:29:13-00:30:40
-[^continuous-improvement]: product-m7-video — 00:30:40-00:32:37
-[^three-methods]: product-m7-video — 01:06:06-01:07:04

@@ -3,15 +3,6 @@ type: Principle
 title: Communications investment and expected return must move together
 description: A reduced communications investment requires a revised return expectation rather than preserving the original forecast.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: linkage
-    resource: tools/flattened/marketing-communications-m9-video.txt#00:14:53-00:16:44
-    title: Module 9 transcript — zero-based investment and return linkage
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T12:38:08Z
 tags:
   - tactics
   - communications
@@ -25,7 +16,7 @@ Reach for this Principle when a communications budget is reduced while the assoc
 
 ## Principle
 
-Communications spending should be presented as an investment linked to an expected return. If management approves less investment than requested, the projected return must be recalculated for the lower amount rather than retained unchanged. [^linkage]
+Communications spending should be presented as an investment linked to an expected return. If management approves less investment than requested, the projected return must be recalculated for the lower amount rather than retained unchanged.
 
 ## Why it matters
 
@@ -46,11 +37,3 @@ The principle does not guarantee that a proposed investment will produce its for
 - Do not treat a sales-ratio budget as evidence that the spend is strategically sufficient.
 - Do not present an uncertain forecast as a guaranteed result.
 - Rebuild both the amount and its allocation when using a zero base.
-
-## Citation status
-
-Drafted from Module 9 transcript span 00:14:53-00:16:44. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^linkage]: marketing-communications-m9-video — 00:14:53-00:16:44

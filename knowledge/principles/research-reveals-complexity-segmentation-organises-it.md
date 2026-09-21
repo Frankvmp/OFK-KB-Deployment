@@ -3,21 +3,6 @@ type: Principle
 title: Research reveals complexity; segmentation organises it
 description: Research exposes real variation in the market, and segmentation converts recurring patterns in that variation into a usable structure.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: revealed-complexity
-    resource: tools/flattened/segmentation-m3-video.txt#00:04:17-00:07:43
-    title: Module 3 transcript — research reveals existing market complexity
-  - id: research-handoff
-    resource: tools/flattened/segmentation-m3-video.txt#00:07:43-00:08:18
-    title: Module 3 transcript — research leads into segmentation
-  - id: questionnaire-input
-    resource: tools/flattened/segmentation-m3-video.txt#00:44:07-00:44:37
-    title: Module 3 transcript — research data feeds the segmentation map
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T06:21:39Z
 tags:
   - diagnosis
   - segmentation
@@ -31,9 +16,9 @@ Reach for this Principle when moving from research findings to a market structur
 
 ## Principle
 
-Research does not create market complexity. It reveals differences that were already present but hidden by assumptions about a single, homogeneous customer. As observations accumulate, recurring needs, motivations, attitudes, and behaviours become visible. [^revealed-complexity]
+Research does not create market complexity. It reveals differences that were already present but hidden by assumptions about a single, homogeneous customer. As observations accumulate, recurring needs, motivations, attitudes, and behaviours become visible.
 
-Segmentation follows research by organising those recurring patterns into a usable market map. [^research-handoff] A representative questionnaire can supply demographic, attitudinal, and behavioural inputs to that map. [^questionnaire-input]
+Segmentation follows research by organising those recurring patterns into a usable market map. A representative questionnaire can supply demographic, attitudinal, and behavioural inputs to that map.
 
 ## Why it matters
 
@@ -53,13 +38,3 @@ Research gathers and tests evidence; segmentation structures the resulting varia
 - Do not invent segments before gathering market evidence.
 - Do not mistake additional complexity in research findings for a defect in the research.
 - Do not reduce varied responses to one average before checking for recurring groups.
-
-## Citation status
-
-Drafted from Module 3 transcript spans 00:04:17-00:07:43, 00:07:43-00:08:18, 00:44:07-00:44:37. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^revealed-complexity]: segmentation-m3-video — 00:04:17-00:07:43
-[^research-handoff]: segmentation-m3-video — 00:07:43-00:08:18
-[^questionnaire-input]: segmentation-m3-video — 00:44:07-00:44:37

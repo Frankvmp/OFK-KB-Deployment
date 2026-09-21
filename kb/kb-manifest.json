@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T11:48:00.874Z",
+  "generated_at": "2026-09-21T16:35:00.716Z",
   "file_count": 138,
   "files": [
     {
@@ -16,12 +16,9 @@
       "folder": "knowledge",
       "headings": [
         "Knowledge",
-        "Structure",
-        "Changes"
+        "Structure"
       ],
-      "outgoing_links": [
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
-      ],
+      "outgoing_links": [],
       "source_count": 0
     },
     {
@@ -37,8 +34,7 @@
       ],
       "folder": "knowledge/frameworks",
       "headings": [
-        "Frameworks",
-        "Changes"
+        "Frameworks"
       ],
       "outgoing_links": [],
       "source_count": 0
@@ -80,8 +76,7 @@
         "Principle: Long versus short measurement",
         "Principle: Campaign metrics versus company results",
         "Case Study: McDonald’s long-term brand-building example",
-        "Metrics",
-        "Sources"
+        "Metrics"
       ],
       "outgoing_links": [
         "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
@@ -89,7 +84,7 @@
         "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
         "knowledge/schemas/stated-objective-structure.md"
       ],
-      "source_count": 7
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/diagnosis-strategy-tactics.md",
@@ -117,8 +112,7 @@
         "Tactics",
         "Operating sequence",
         "Boundaries",
-        "Supporting concepts",
-        "Sources"
+        "Supporting concepts"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
@@ -136,7 +130,7 @@
         "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
         "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/four-ps.md",
@@ -178,7 +172,6 @@
         "Supporting Case Study: Shania Twain’s *Come On Over*",
         "Metrics",
         "Boundaries and failure modes",
-        "Sources",
         "Embedded Playbooks",
         "New Product Development Sequence",
         "Product Rationalisation Path (temporary revenue reduction to focus)",
@@ -206,7 +199,7 @@
         "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
         "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md"
       ],
-      "source_count": 8
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/funnel.md",
@@ -231,8 +224,6 @@
         "Supporting Principle: funnels are not touchpoint maps",
         "Supporting Metrics",
         "Boundaries and failure modes",
-        "Citation status",
-        "Sources",
         "Embedded Playbooks",
         "Interpret the Populated Funnel to Choose a Focus",
         "Write a SMART Objective (DARE walkthrough)"
@@ -249,7 +240,7 @@
         "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
         "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md"
       ],
-      "source_count": 5
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
@@ -277,7 +268,6 @@
         "Supporting Case Study: McDonald’s",
         "Supporting Metrics",
         "Boundaries and failure modes",
-        "Citation status",
         "Embedded Playbooks",
         "IMC Plumber Diagnostic Sequence",
         "Codify Every Pixel",
@@ -285,8 +275,7 @@
         "Triple Cooked Budgeting",
         "Media S-Curve Apex-Hopping Sequence",
         "Effectiveness Measurement Escalation Ladder",
-        "Campaignability / No-Wearout Budget Reallocation Sequence",
-        "Sources"
+        "Campaignability / No-Wearout Budget Reallocation Sequence"
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
@@ -302,7 +291,7 @@
         "knowledge/schemas/brand-palette-selected-small-code-set.md",
         "knowledge/schemas/stated-objective-structure.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/market-orientation.md",
@@ -327,8 +316,6 @@
         "Supporting Case Study: Think TV",
         "Supporting Metrics",
         "Boundaries and failure modes",
-        "Citation status",
-        "Sources",
         "Embedded Playbooks",
         "Producer-Consumer Development Wheel",
         "Organizational Market-Orientation Intelligence Chain (generate -> irrigate -> respond)"
@@ -344,7 +331,7 @@
         "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
         "knowledge/principles/product-success-requires-quality-and-market-preparation.md"
       ],
-      "source_count": 5
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/positioning-and-brand-codes.md",
@@ -374,9 +361,7 @@
         "KitKat",
         "Sephora",
         "Supporting Metrics",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
@@ -398,7 +383,7 @@
         "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
         "knowledge/schemas/brand-palette-selected-small-code-set.md"
       ],
-      "source_count": 6
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
@@ -423,8 +408,6 @@
         "Challenge assumptions with data",
         "Research has different roles",
         "Boundaries and failure modes",
-        "Citation status",
-        "Sources",
         "Embedded Playbooks",
         "Sample Size Calculator Procedure",
         "Ethnographic Research Procedure"
@@ -438,7 +421,7 @@
         "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
         "knowledge/principles/understand-customers-in-their-real-context.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/strategy-directs-each-tactical-p.md",
@@ -469,9 +452,7 @@
         "Boundaries and failure modes",
         "Embedded Playbooks",
         "Channel-Conflict Response Sequence (horizontal -> vertical)",
-        "Dom Perignon's Two-Step Response to Uncontrollable Discounting",
-        "Citation status",
-        "Sources"
+        "Dom Perignon's Two-Step Response to Uncontrollable Discounting"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
@@ -489,7 +470,7 @@
         "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
         "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/target-position-objective.md",
@@ -516,7 +497,6 @@
         "Decision procedure",
         "Supporting Principle: strategy directs tactics",
         "Boundaries and failure modes",
-        "Sources",
         "Embedded Playbooks",
         "Staged Mass-Market Expansion (resource-constrained path to full reach)"
       ],
@@ -531,7 +511,7 @@
         "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
         "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/touchpoints.md",
@@ -557,9 +537,7 @@
         "Signup touchpoint",
         "Apple stores",
         "Supporting Metric: Net Promoter Score",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
@@ -569,7 +547,7 @@
         "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
         "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md"
       ],
-      "source_count": 6
+      "source_count": 0
     },
     {
       "id": "knowledge/frameworks/value-and-profitability.md",
@@ -599,9 +577,7 @@
         "Profit over revenue",
         "Boundaries and failure modes",
         "Embedded Playbooks",
-        "Van Westendorp Price-Setting Procedure",
-        "Citation status",
-        "Sources"
+        "Van Westendorp Price-Setting Procedure"
       ],
       "outgoing_links": [
         "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
@@ -622,7 +598,7 @@
         "knowledge/principles/resellers-must-retain-independent-price-setting.md",
         "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/README.md",
@@ -637,8 +613,7 @@
       ],
       "folder": "knowledge/playbooks",
       "headings": [
-        "Playbooks",
-        "Changes"
+        "Playbooks"
       ],
       "outgoing_links": [],
       "source_count": 0
@@ -667,9 +642,7 @@
         "3. Populate the funnel via quantitative research",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
@@ -679,7 +652,7 @@
         "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
         "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
@@ -708,16 +681,14 @@
         "5. Do it gradually, not all at once",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/target-position-objective.md",
         "knowledge/principles/early-distribution-should-establish-the-brand-before-maximising-availability.md",
         "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md"
       ],
-      "source_count": 5
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
@@ -744,9 +715,7 @@
         "4. Remove the barriers to gain line of sight to the customer",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
@@ -756,7 +725,7 @@
         "knowledge/principles/marketers-are-not-the-consumer.md",
         "knowledge/principles/understand-customers-in-their-real-context.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
@@ -784,9 +753,7 @@
         "4. Use focus groups again, mid-stage, once tentative strategic decisions exist",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
@@ -808,7 +775,7 @@
         "knowledge/schemas/target-customer-portrait.md",
         "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
       ],
-      "source_count": 5
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
@@ -841,9 +808,7 @@
         "10. Triangulate",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
@@ -856,7 +821,7 @@
         "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md",
         "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
       ],
-      "source_count": 19
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
@@ -885,9 +850,7 @@
         "5. Ensure clarity and simplicity",
         "Output",
         "Explicit consumers",
-        "Citation status",
-        "Boundaries and failure modes",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
@@ -910,7 +873,7 @@
         "knowledge/principles/targeting-requires-a-clear-yes-or-no-choice.md",
         "knowledge/schemas/target-customer-portrait.md"
       ],
-      "source_count": 8
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
@@ -937,9 +900,7 @@
         "4. \"Is\" -- the actual positioning claim",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
@@ -947,7 +908,7 @@
         "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
         "knowledge/schemas/target-customer-portrait.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
@@ -975,9 +936,7 @@
         "5. Triangulate",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
@@ -993,7 +952,7 @@
         "knowledge/schemas/segment-profile-name-population-value-market-share.md",
         "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/settle-the-strategy-before-execution.md",
@@ -1023,9 +982,7 @@
         "5. Check against Lafley's six strategy traps",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md",
@@ -1036,7 +993,7 @@
         "knowledge/principles/strategic-thinking-requires-protected-time.md",
         "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/seven-step-route-out-of-discounting.md",
@@ -1067,9 +1024,7 @@
         "7. Keep the focus on profit",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
@@ -1084,7 +1039,7 @@
         "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
         "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md"
       ],
-      "source_count": 7
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
@@ -1116,9 +1071,7 @@
         "9. Strategic usefulness (\"speaks to you\")",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
@@ -1129,7 +1082,7 @@
         "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md",
         "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md"
       ],
-      "source_count": 6
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
@@ -1155,9 +1108,7 @@
         "3. Company C -- can you actually deliver",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/market-orientation.md",
@@ -1168,7 +1119,7 @@
         "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
         "knowledge/schemas/target-customer-portrait.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/three-phases-to-omnichannel.md",
@@ -1197,14 +1148,12 @@
         "5. Deliver the omnichannel capability set",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md",
@@ -1231,16 +1180,14 @@
         "3. Behavioural section",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
         "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
         "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md",
@@ -1272,9 +1219,7 @@
         "8. Re-measure to verify improvement",
         "Output",
         "Explicit consumers",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
@@ -1282,7 +1227,7 @@
         "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
         "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
       ],
-      "source_count": 7
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/README.md",
@@ -1298,8 +1243,7 @@
       "folder": "knowledge/principles",
       "headings": [
         "Principles",
-        "Concepts",
-        "Changes"
+        "Concepts"
       ],
       "outgoing_links": [
         "knowledge/principles/a-segmentation-is-a-map-not-the-market.md",
@@ -1421,15 +1365,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
         "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
@@ -1450,14 +1392,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/brand-building-and-activation-should-work-together-without-forcing-both-into-one-execution.md",
@@ -1478,14 +1418,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
@@ -1506,14 +1444,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
@@ -1534,14 +1470,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/channel-breadth-must-not-outrun-viable-investment.md",
@@ -1563,14 +1497,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
@@ -1591,15 +1523,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
@@ -1620,14 +1550,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md",
@@ -1648,15 +1576,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/co-branding-works-through-complementary-association-transfer.md",
@@ -1677,14 +1603,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/communications-effectiveness-comes-from-an-interacting-system-not-one-lever.md",
@@ -1705,15 +1629,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
@@ -1735,15 +1657,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/target-position-objective.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
@@ -1764,15 +1684,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
         "knowledge/frameworks/target-position-objective.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/complementary-approaches-can-outperform-either-or-choices.md",
@@ -1793,16 +1711,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/complementary-channels-can-create-more-than-additive-effects.md",
@@ -1823,15 +1739,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/complex-thinking-should-produce-simple-strategy.md",
@@ -1852,16 +1766,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md",
@@ -1882,15 +1794,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
@@ -1913,9 +1823,7 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/market-orientation.md",
@@ -1923,7 +1831,7 @@
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
@@ -1944,16 +1852,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/market-orientation.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md",
@@ -1975,15 +1881,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/market-orientation.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/differentiation-seeks-relative-advantage-not-uniqueness.md",
@@ -2004,15 +1908,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/direct-channel-control-does-not-guarantee-scale-or-profitability.md",
@@ -2034,15 +1936,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md",
@@ -2064,15 +1964,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/value-and-profitability.md",
         "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
@@ -2093,15 +1991,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
@@ -2122,14 +2018,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md",
@@ -2151,14 +2045,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/do-not-combine-markets-when-aggregation-erases-differences.md",
@@ -2179,15 +2071,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
         "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/early-distribution-should-establish-the-brand-before-maximising-availability.md",
@@ -2209,15 +2099,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md",
@@ -2238,15 +2126,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/emotional-communication-can-outperform-rational-persuasion.md",
@@ -2267,15 +2153,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/frameworks/target-position-objective.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/evidence-backed-value-supports-holding-the-price-line.md",
@@ -2296,16 +2180,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md",
         "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
@@ -2327,15 +2209,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/existing-products-should-be-continuously-improved.md",
@@ -2356,16 +2236,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/touchpoints.md",
         "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/focused-entry-can-support-mass-market-growth-under-constraints.md",
@@ -2386,14 +2264,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/funnel-base-must-match-the-selected-target.md",
@@ -2415,16 +2291,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
         "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/funnel-performance-needs-conversion-and-competitive-context.md",
@@ -2446,14 +2320,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
@@ -2474,15 +2346,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
         "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md",
@@ -2503,15 +2373,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/value-and-profitability.md",
         "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/long-and-short-budget-allocation-must-fit-the-context.md",
@@ -2532,14 +2400,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
@@ -2560,15 +2426,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
@@ -2589,16 +2453,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
@@ -2620,9 +2482,7 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
@@ -2630,7 +2490,7 @@
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/market-orientation-must-precede-market-research.md",
@@ -2652,9 +2512,7 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/market-orientation.md",
@@ -2662,7 +2520,7 @@
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/principles/marketers-are-not-the-consumer.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/marketers-are-not-the-consumer.md",
@@ -2683,16 +2541,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/market-orientation.md",
         "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/marketing-influence-does-not-require-control-of-every-p.md",
@@ -2713,14 +2569,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/marketing-is-broader-than-advertising-and-sales.md",
@@ -2741,16 +2595,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/market-orientation.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/marketing-must-create-value-for-both-customers-and-the-organisation.md",
@@ -2772,15 +2624,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
@@ -2801,16 +2651,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/market-orientation.md",
         "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/media-delivery-cannot-compensate-for-weak-creative.md",
@@ -2831,15 +2679,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/media-roles-are-determined-by-use-not-channel-label.md",
@@ -2861,15 +2707,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/non-targeting-is-temporary-non-investment-not-exclusion.md",
@@ -2891,14 +2735,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/nps-is-a-contextual-learning-measure-not-a-growth-predictor.md",
@@ -2919,14 +2761,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/touchpoints.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/objective-changes-can-require-new-tactics.md",
@@ -2947,15 +2787,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/target-position-objective.md",
         "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/objective-count-is-a-team-level-limit.md",
@@ -2976,15 +2814,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/target-position-objective.md",
         "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/objective-targets-must-balance-ambition-and-realism.md",
@@ -3006,15 +2842,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
         "knowledge/frameworks/target-position-objective.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
@@ -3036,16 +2870,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/funnel.md",
         "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md",
@@ -3066,15 +2898,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/playbooks/three-phases-to-omnichannel.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
@@ -3096,16 +2926,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/frameworks/touchpoints.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
@@ -3127,15 +2955,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/positioning-promises-must-be-deliverable.md",
@@ -3156,14 +2982,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
@@ -3185,15 +3009,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
         "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/price-increases-should-be-communicated-candidly-and-with-value-context.md",
@@ -3214,15 +3036,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/price-presentation-shapes-perceived-value-and-demand.md",
@@ -3243,15 +3063,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md",
@@ -3273,15 +3091,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
@@ -3303,15 +3119,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/pricing-is-the-revenue-producing-element-of-the-marketing-mix.md",
@@ -3332,15 +3146,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md",
@@ -3361,15 +3173,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/product-expansion-must-be-balanced-with-rationalisation.md",
@@ -3390,14 +3200,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/product-success-requires-quality-and-market-preparation.md",
@@ -3418,15 +3226,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/market-orientation.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/profit-not-revenue-is-the-primary-commercial-test.md",
@@ -3447,15 +3253,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/value-and-profitability.md",
         "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
@@ -3476,16 +3280,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/principles/discover-options-qualitatively-before-measuring-them.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
@@ -3506,15 +3308,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md",
@@ -3535,15 +3335,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
@@ -3564,15 +3362,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/research-methods-are-trade-offs-not-a-ranking.md",
@@ -3593,14 +3389,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/research-reveals-complexity-segmentation-organises-it.md",
@@ -3622,15 +3416,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/resellers-must-retain-independent-price-setting.md",
@@ -3651,15 +3443,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/frameworks/value-and-profitability.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/revealed-choices-can-be-more-informative-than-stated-explanations.md",
@@ -3680,15 +3470,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/principles/discover-options-qualitatively-before-measuring-them.md"
       ],
-      "source_count": 5
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/segment-b2b-markets-at-the-account-level.md",
@@ -3709,15 +3497,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/segment-boundaries-must-preserve-meaningful-differences.md",
@@ -3738,15 +3524,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
         "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/segment-names-should-carry-insight-not-priority.md",
@@ -3767,14 +3551,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/segmentation-is-an-option-not-a-default.md",
@@ -3795,15 +3577,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
         "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md",
@@ -3824,15 +3604,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
         "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/settle-strategy-before-selecting-tactics.md",
@@ -3853,16 +3631,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/strategic-thinking-requires-protected-time.md",
@@ -3883,15 +3659,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
@@ -3912,16 +3686,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/funnel.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
@@ -3942,16 +3714,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/frameworks/target-position-objective.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
@@ -3972,16 +3742,14 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/schemas/target-customer-portrait.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/targeting-breadth-must-balance-reach-cost-and-message-advantage.md",
@@ -4002,14 +3770,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md",
@@ -4032,9 +3798,7 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
@@ -4044,7 +3808,7 @@
         "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
         "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/targeting-requires-a-clear-yes-or-no-choice.md",
@@ -4065,14 +3829,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
@@ -4093,15 +3855,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/touchpoint-priorities-must-be-measured-not-assumed.md",
@@ -4122,15 +3882,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/touchpoints.md",
         "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md",
@@ -4152,15 +3910,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
         "knowledge/frameworks/touchpoints.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
@@ -4181,14 +3937,12 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
-      "source_count": 2
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md",
@@ -4209,15 +3963,13 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/value-and-profitability.md",
         "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
-      "source_count": 1
+      "source_count": 0
     },
     {
       "id": "knowledge/principles/understand-customers-in-their-real-context.md",
@@ -4238,9 +3990,7 @@
         "Why it matters",
         "Related distinctions",
         "Invokes",
-        "Boundaries and failure modes",
-        "Citation status",
-        "Sources"
+        "Boundaries and failure modes"
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
@@ -4249,7 +3999,7 @@
         "knowledge/principles/marketers-are-not-the-consumer.md",
         "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md"
       ],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/schemas/README.md",
@@ -4264,12 +4014,9 @@
       ],
       "folder": "knowledge/schemas",
       "headings": [
-        "Schemas",
-        "Changes"
+        "Schemas"
       ],
-      "outgoing_links": [
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
-      ],
+      "outgoing_links": [],
       "source_count": 0
     },
     {
@@ -4292,11 +4039,10 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/schemas/brand-palette-selected-small-code-set.md",
@@ -4319,8 +4065,7 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
@@ -4328,7 +4073,7 @@
         "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
         "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
@@ -4350,9 +4095,7 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Citation status",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
@@ -4396,13 +4139,12 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [
         "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/schemas/segment-profile-name-population-value-market-share.md",
@@ -4425,13 +4167,12 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md",
@@ -4454,13 +4195,12 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
       ],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/schemas/stated-objective-structure.md",
@@ -4482,11 +4222,10 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [],
-      "source_count": 3
+      "source_count": 0
     },
     {
       "id": "knowledge/schemas/target-customer-portrait.md",
@@ -4508,12 +4247,10 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Citation status",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [],
-      "source_count": 4
+      "source_count": 0
     },
     {
       "id": "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md",
@@ -4536,14 +4273,13 @@
         "Grounded good example",
         "Grounded bad or failure example",
         "Consumers",
-        "Boundaries",
-        "Sources"
+        "Boundaries"
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md"
       ],
-      "source_count": 4
+      "source_count": 0
     }
   ]
 }

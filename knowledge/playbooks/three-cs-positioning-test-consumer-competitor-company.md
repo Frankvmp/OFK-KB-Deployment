@@ -2,21 +2,6 @@
 type: Playbook
 title: "Three Cs (positioning test: Consumer -> Competitor -> Company)"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: origin
-    resource: "tools/flattened/positioning-m5-video.txt#00:51:07"
-    title: "Transcript source"
-  - id: step-1
-    resource: "tools/flattened/positioning-m5-video.txt#00:52:43"
-    title: "Transcript source"
-  - id: step-2
-    resource: "tools/flattened/positioning-m5-video.txt#00:55:27"
-    title: "Transcript source"
-  - id: step-3
-    resource: "tools/flattened/positioning-m5-video.txt#00:57:29"
-    title: "Transcript source"
 tags:
   - strategy
   - positioning
@@ -26,7 +11,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* Reach for this both as a build order (constructing a new position, Consumer → Competitor → Company) and as a diagnostic test (checking whether an existing position actually holds up) — use it before finalising any positioning statement.
+Reach for this both as a build order (constructing a new position, Consumer → Competitor → Company) and as a diagnostic test (checking whether an existing position actually holds up) — use it before finalising any positioning statement.
 
 ## Purpose
 
@@ -50,7 +35,7 @@ None stated.
 
 **Step type:** Data-gathering — real research into what drives purchase, never invented or assumed.
 
-Let's start where we should start with the consumer C. Always begin the positioning journey here... What are the one or two things that drive them to purchase in the category? Your data has to tell you that. [^step-1]
+Let's start where we should start with the consumer C. Always begin the positioning journey here... What are the one or two things that drive them to purchase in the category? Your data has to tell you that.
 
 **Invokes:** [Target Customer Portrait](../schemas/target-customer-portrait.md) (Schema).
 
@@ -58,7 +43,7 @@ Let's start where we should start with the consumer C. Always begin the position
 
 **Step type:** Evidence-and-judgement — identifying true alternatives and assessing relative advantage, informed by real evidence.
 
-We find out who the true alternatives are. Remember that lesson all the way back in module one. The competitors aren't who you think they are. It's the alternatives that your target customer is considering. [^step-2]
+We find out who the true alternatives are. Remember that lesson all the way back in module one. The competitors aren't who you think they are. It's the alternatives that your target customer is considering.
 
 **Invokes:** [Market orientation](../frameworks/market-orientation.md) (Framework, explicit cross-module reference).
 
@@ -66,7 +51,7 @@ We find out who the true alternatives are. Remember that lesson all the way back
 
 **Step type:** Constraint check — the capability to deliver must already exist before positioning on it; aspirational positioning without it is explicitly called out as a failure mode.
 
-Can you actually deliver on what you want to give the consumer?... Before you make the promise, before you position, you already have to have the capability to deliver. [^step-3]
+Can you actually deliver on what you want to give the consumer?... Before you make the promise, before you position, you already have to have the capability to deliver.
 
 **Invokes:** Core competence (Prahalad & Hamel) (Framework). *(not yet drafted)*
 
@@ -86,14 +71,3 @@ Used as both a diagnostic test (applied to an existing position, e.g. Starbucks)
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
-
-## Citation status
-
-All citations checked against `tools/flattened/positioning-m5-video.txt#00:51:07-00:57:53` and hold up — near-verbatim, no fabrication.
-
-## Sources
-
-[^origin]: positioning-m5-video — 00:51:07
-[^step-1]: positioning-m5-video — 00:52:43
-[^step-2]: positioning-m5-video — 00:55:27
-[^step-3]: positioning-m5-video — 00:57:29

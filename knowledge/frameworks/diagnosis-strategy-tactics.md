@@ -2,18 +2,6 @@
 type: Framework
 title: "Diagnosis → Strategy → Tactics"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: spine-origin
-    resource: "tools/flattened/market-orientation-m1-video.txt#00:09:49"
-    title: "Transcript source — M1"
-  - id: spine-reuse-targeting
-    resource: "tools/flattened/targeting-m4-video.txt#00:04:57"
-    title: "Transcript source — M4"
-  - id: spine-reuse-product
-    resource: "tools/flattened/product-m7-video.txt#00:06:18"
-    title: "Transcript source — M7"
 tags:
   - cross-cutting
   - market-orientation
@@ -23,14 +11,14 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* Reach for this first, at the start of any engagement — it's the top-level lens for deciding whether the open question is a **Diagnosis** question (evidence-gathering), a **Strategy** question (who to target, what position, what objective), or a **Tactics** question (product/pricing/comms/distribution choices), and for keeping later work honest about which phase it belongs to.
+Reach for this first, at the start of any engagement — it's the top-level lens for deciding whether the open question is a **Diagnosis** question (evidence-gathering), a **Strategy** question (who to target, what position, what objective), or a **Tactics** question (product/pricing/comms/distribution choices), and for keeping later work honest about which phase it belongs to.
 
 ## Purpose
 
 This framework sequences marketing work into three connected phases:
 diagnosis, strategy, and tactics. Diagnosis establishes what is happening in
 the market; strategy makes choices about where and how to compete; tactics
-express those choices in market-facing action. [^spine-origin]
+express those choices in market-facing action.
 
 ## Invokes
 
@@ -71,7 +59,6 @@ choices determine which opportunities receive attention and which do not.
 Tactics implement the strategy through the Four Ps: product, pricing,
 marketing communications, and distribution. Tactics are not a substitute for
 strategic choice; they are the means by which the market experiences it.
-[^spine-reuse-product]
 
 ## Operating sequence
 
@@ -89,7 +76,7 @@ strategic choice; they are the means by which the market experiences it.
    **Step type:** Evidence-and-judgement.
 
 Diagnosis feeds strategy, and strategy drives tactics. The sequence is
-repeated explicitly when moving from strategy into tactical work. [^spine-reuse-targeting]
+repeated explicitly when moving from strategy into tactical work.
 
 ## Boundaries
 
@@ -103,12 +90,4 @@ repeated explicitly when moving from strategy into tactical work. [^spine-reuse-
 
 The framework is supported by the selected Principles in the Diagnosis,
 Strategy, and Strategy-to-tactics groups above. It is also expressed through
-the strategic-to-tactical transition into the [Four Ps](four-ps.md). [^spine-reuse-targeting]
-[^spine-reuse-product]
-
-## Sources
-
-[^spine-origin]: market-orientation-m1-video — 00:09:49
-[^spine-reuse-targeting]: targeting-m4-video — 00:04:57
-[^spine-reuse-product]: product-m7-video — 00:06:18
-
+the strategic-to-tactical transition into the [Four Ps](four-ps.md).

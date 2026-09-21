@@ -3,15 +3,6 @@ type: Principle
 title: Complementary channels can create more-than-additive effects
 description: A deliberate mix of channels can combine distinct strengths and amplify a campaign beyond concentrating the same investment in one channel.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: mix
-    resource: tools/flattened/marketing-communications-m9-video.txt#00:44:00-00:46:48
-    title: Module 9 transcript — online and offline channel combinations create synergy
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T12:38:08Z
 tags:
   - tactics
   - distribution
@@ -24,7 +15,7 @@ Reach for this Principle when a media decision is framed as choosing one winning
 
 ## Principle
 
-A deliberate channel mix can outperform either channel used alone. Combining online and offline media, or channels with different strengths, can create a positive synergistic effect rather than merely dividing the same result between tools. [^mix]
+A deliberate channel mix can outperform either channel used alone. Combining online and offline media, or channels with different strengths, can create a positive synergistic effect rather than merely dividing the same result between tools.
 
 ## Why it matters
 
@@ -45,11 +36,3 @@ Synergy is not guaranteed by adding channels. The channels must be suitable, com
 - Do not assume two weak or mismatched channels will create synergy.
 - Preserve a common strategy and recognisable campaign across the mix.
 - Check that each channel has a defined role.
-
-## Citation status
-
-Drafted from Module 9 transcript span 00:44:00-00:46:48. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^mix]: marketing-communications-m9-video — 00:44:00-00:46:48

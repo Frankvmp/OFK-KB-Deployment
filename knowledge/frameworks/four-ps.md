@@ -2,33 +2,6 @@
 type: Framework
 title: "Four Ps"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: four-ps-definition
-    resource: "tools/flattened/product-m7-video.txt#00:09:18-00:10:18"
-    title: "Transcript source — M7"
-  - id: tactical-checklist
-    resource: "tools/flattened/product-m7-video.txt#00:10:18-00:10:46"
-    title: "Transcript source — M7"
-  - id: marketer-input
-    resource: "tools/flattened/product-m7-video.txt#00:11:12-00:13:34"
-    title: "Transcript source — M7"
-  - id: product-quality
-    resource: "tools/flattened/product-m7-video.txt#00:14:00-00:18:43"
-    title: "Transcript source — M7"
-  - id: shania-example
-    resource: "tools/flattened/product-m7-video.txt#00:16:16-00:18:05"
-    title: "Transcript source — M7"
-  - id: strategy-context
-    resource: "tools/flattened/product-m7-video.txt#00:03:56-00:06:18"
-    title: "Transcript source — M7"
-  - id: pricing-context
-    resource: "tools/flattened/pricing-m8-video.txt#00:04:37-00:05:37"
-    title: "Transcript source — M8"
-  - id: distribution-context
-    resource: "tools/flattened/distribution-m10-video.txt#01:03:33"
-    title: "Transcript source — M10"
 tags:
   - tactics
   - product
@@ -41,17 +14,17 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* Reach for this once target, position, and objective are settled — it's the checklist for translating strategy into coordinated product, pricing, communications, and distribution choices, and for catching when one of those areas contradicts the others.
+Reach for this once target, position, and objective are settled — it's the checklist for translating strategy into coordinated product, pricing, communications, and distribution choices, and for catching when one of those areas contradicts the others.
 
 ## Purpose
 
 The Four Ps are a tactical checklist for translating a completed marketing
 strategy into coordinated market-facing choices. The four elements are
-product, pricing, marketing communications, and distribution. [^four-ps-definition]
+product, pricing, marketing communications, and distribution.
 
 The framework is used after strategic choices have been made. It checks that
 the strategy influences each tactical area and that the resulting choices are
-aligned with one another. [^tactical-checklist]
+aligned with one another.
 
 ## Invokes
 
@@ -90,24 +63,23 @@ follows:
   physically available to the market.
 
 The terms “pricing,” “marketing communications,” and “distribution” make the
-scope of the original labels more explicit. [^four-ps-definition]
+scope of the original labels more explicit.
 
 ## Role in the marketing decision sequence
 
 Strategy provides the answers to three questions: who is the target, what is
 the position, and what is the objective. Those answers direct tactical choices
 such as selecting between product options, distributors, flavours, or
-campaigns. [^strategy-context]
+campaigns.
 
 The consumer does not see the strategy document directly. The consumer
 experiences the strategy through the combined product, pricing,
 communications, and distribution decisions. Consistency across the four Ps
-therefore creates a coherent market experience. [^strategy-context]
+therefore creates a coherent market experience.
 
 The four Ps do not replace segmentation, targeting, positioning, or objectives.
 Positioning is a strategic concept, not an additional P in this tactical list.
 Adding further Ps changes the scope of the framework and is not supported here.
-[^tactical-checklist]
 
 ## The four tactical areas
 
@@ -116,7 +88,7 @@ Adding further Ps changes the scope of the framework and is not supported here.
 Product includes the offering itself and its quality. Product decisions should
 be assessed as part of marketing rather than treated as external to it. A poor
 product cannot reliably be compensated for by strong communications or a
-prominent endorser. [^product-quality]
+prominent endorser.
 
 Product decisions may include developing a new product, improving an existing
 product, extending a product line, rationalising a portfolio, or choosing the
@@ -129,7 +101,6 @@ Pricing is more than selecting a monetary price. It includes the research and
 judgement used to establish value, set the price, frame the price, and manage
 price changes. Pricing is distinctive within the mix because it returns value
 from the market to the organisation and is the element that produces revenue.
-[^pricing-context]
 
 Pricing choices must remain consistent with the target, position, and
 objective. A price can alter the perceived value of the offering, the intended
@@ -142,7 +113,7 @@ Marketing communications is broader than advertising. It includes the ways the
 offering and its value are communicated through the selected channels and
 touchpoints. Communications should express the intended position and support
 the stated objective; communications activity alone is not the whole of
-marketing. [^four-ps-definition] [^marketer-input]
+marketing.
 
 ### Distribution
 
@@ -150,7 +121,7 @@ Distribution concerns the channels and arrangements that make the offering
 available to the market. The relevant choices include direct or indirect
 channels, retail arrangements, channel roles, and physical availability.
 Distribution choices must spring from the strategic decisions already taken,
-like the other tactical parts of marketing. [^distribution-context]
+like the other tactical parts of marketing.
 
 ## Operating procedure
 
@@ -160,7 +131,7 @@ like the other tactical parts of marketing. [^distribution-context]
 
 Record the target market, position, and objective before making tactical
 choices. If these are not settled, the Four Ps cannot provide a reliable basis
-for choosing between tactical alternatives. [^strategy-context]
+for choosing between tactical alternatives.
 
 **Invokes:** [Target → position → objective](target-position-objective.md) (Framework).
 
@@ -186,7 +157,6 @@ the tactical requirements.
 Check whether the four areas reinforce the same target, position, and
 objective. A product, price, message, or channel that contradicts the strategy
 is a misaligned tactical choice even if it performs well in isolation.
-[^strategy-context]
 
 ### 5. Confirm influence and input
 
@@ -196,7 +166,7 @@ Marketing responsibility does not require direct control of every P. Control
 and influence are different: marketers may not control product, pricing, or
 distribution, but they should contribute to decisions across all four areas.
 Limiting marketing to communications alone is the restricted view described as
-“communification.” [^marketer-input]
+“communification.”
 
 ### 6. Execute with tactical agility
 
@@ -204,33 +174,33 @@ Limiting marketing to communications alone is the restricted view described as
 
 Tactical execution can change in response to events. Strategic direction should
 remain disciplined for its planning period so that agility does not become
-unplanned strategic drift. [^strategy-context]
+unplanned strategic drift.
 
 ## Supporting Principle: Four Ps as a tactical checklist
 
 The Four Ps are a tactical checklist, not a strategy framework. They identify
 the areas that strategy must influence and align. Positioning is not a fifth P,
 and the list should not be expanded by adding concepts that belong to strategy
-or other disciplines. [^tactical-checklist]
+or other disciplines.
 
 ## Supporting Principle: Marketer input across the four Ps
 
 Marketing influence should extend across product, pricing, communications, and
 distribution. Direct control is not required; meaningful input into decisions is
-the relevant standard. [^marketer-input]
+the relevant standard.
 
 ## Supporting Principle: Product quality drives success
 
 Product quality is central to commercial success. Strong communications or a
 prominent endorser cannot reliably compensate for an offering whose formulas
-or underlying product experience do not work. [^product-quality]
+or underlying product experience do not work.
 
 ## Supporting Case Study: Shania Twain’s *Come On Over*
 
 The album is used as an example of a strong product offering. Its unusually
 large number of successful singles is presented as a substantial consumer deal,
 supporting the wider point that product strength can underpin commercial
-success. [^shania-example]
+success.
 
 ## Metrics
 
@@ -242,22 +212,20 @@ measure of the Four Ps as a whole and should not be used as one.
 ## Boundaries and failure modes
 
 - Do not use the Four Ps to select a target market, establish a position, or
-  set an objective. Those are strategic decisions. [^strategy-context]
+  set an objective. Those are strategic decisions.
 - Do not treat communications as the only marketing responsibility.
   Communications-only practice is the restricted view identified as
-  “communification.” [^marketer-input]
+  “communification.”
 - Do not assume that lack of formal control removes the need for marketing
-  input into product, pricing, or distribution. [^marketer-input]
+  input into product, pricing, or distribution.
 - Do not add positioning, people, process, or other concepts as additional Ps
-  without evidence that the framework itself has changed. [^tactical-checklist]
+  without evidence that the framework itself has changed.
 - Do not judge each P in isolation. Tactical choices must be checked for
-  consistency with the same target, position, and objective. [^strategy-context]
+  consistency with the same target, position, and objective.
 - Do not treat the product as secondary to its promotion. Product quality is a
-  condition of success, not merely a communications input. [^product-quality]
+  condition of success, not merely a communications input.
 - Do not treat example figures from new-product research as a general Four Ps
   metric.
-
-## Sources
 
 ## Embedded Playbooks
 
@@ -269,30 +237,24 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Steps:**
 
-1. **Identify an underserved target segment.** We start by identifying an underserved target segment. [^new-product-development-sequence-1]
+1. **Identify an underserved target segment.** We start by identifying an underserved target segment.
    **Step type:** Data-gathering — real segmentation output, not invented.
-2. **Build a product for that segment.** We then build a product for that target segment. [^new-product-development-sequence-2]
+2. **Build a product for that segment.** We then build a product for that target segment.
    **Step type:** Evidence-and-judgement — a real-world development act the agent can advise on, not perform.
-3. **Test and prototype.** it's still good to turn the wheel in terms of testing and prototyping, so we get the product exactly right. [^new-product-development-sequence-3]
+3. **Test and prototype.** it's still good to turn the wheel in terms of testing and prototyping, so we get the product exactly right.
    **Step type:** Data-gathering — real testing feedback, not invented.
    **Invokes:** [Producer-Consumer Development Wheel](../frameworks/market-orientation.md#producer-consumer-development-wheel) (embedded Playbook).
-4. **Align the other Ps.** We align the other P's, making sure the communications and distribution and price are right. [^new-product-development-sequence-4]
+4. **Align the other Ps.** We align the other P's, making sure the communications and distribution and price are right.
    **Step type:** Constraint check — the other three Ps must reinforce the product decision, not contradict it.
-5. **Launch.** and we launch with great success, [^new-product-development-sequence-5]
+5. **Launch.** and we launch with great success,
    **Step type:** Evidence-and-judgement — a real-world action the agent can recommend and track, not perform.
-6. **Count the money.** and then we count our money. [^new-product-development-sequence-6]
+6. **Count the money.** and then we count our money.
    **Step type:** Data-gathering — real revenue/survival data, never invented; see the failure-rate figures below.
 
 **Output:** A launched, revenue-generating product -- immediately contrasted with the high real-world failure rate (Simester ~40% survival, Christensen ~95% failure estimates) and Schneider & Hall's named failure modes.
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
 
-[^new-product-development-sequence-1]: product-m7-video — 00:18:05
-[^new-product-development-sequence-2]: product-m7-video — 00:18:05
-[^new-product-development-sequence-3]: product-m7-video — 00:18:43
-[^new-product-development-sequence-4]: product-m7-video — 00:18:43
-[^new-product-development-sequence-5]: product-m7-video — 00:18:43
-[^new-product-development-sequence-6]: product-m7-video — 00:18:43
 ### Product Rationalisation Path (temporary revenue reduction to focus)
 
 This ordered process is embedded here because it is self-contained within the originating Framework.
@@ -301,32 +263,25 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Steps:**
 
-1. **Decide which products to remove.** The first step is to work out which products we're going to remove. That's a tricky conversation. [^product-rationalisation-path-temporary-revenue-reduction-to-focus-1]
+1. **Decide which products to remove.** The first step is to work out which products we're going to remove. That's a tricky conversation.
    **Step type:** Evidence-and-judgement — grounded in real per-product data (the 80/20 profit split), but the removal choice itself is a judgement call.
-2. **Reduce overall cost.** once we do that, we reduce the overall cost of the company substantially. [^product-rationalisation-path-temporary-revenue-reduction-to-focus-2]
+2. **Reduce overall cost.** once we do that, we reduce the overall cost of the company substantially.
    **Step type:** Decision (criteria-guided) — a consequence that follows once products are removed.
-3. **Accept a temporary revenue dip.** we're also going to reduce, probably very slightly, the overall revenues of the company. [^product-rationalisation-path-temporary-revenue-reduction-to-focus-3]
+3. **Accept a temporary revenue dip.** we're also going to reduce, probably very slightly, the overall revenues of the company.
    **Step type:** Constraint check — an expected consequence to accept, not avoid.
-4. **Gain margin/profitability.** get over that and suddenly we have more gross margin. We're more profitable. [^product-rationalisation-path-temporary-revenue-reduction-to-focus-4]
+4. **Gain margin/profitability.** get over that and suddenly we have more gross margin. We're more profitable.
    **Step type:** Decision (criteria-guided).
-5. **Improve product focus.** That focus that comes then from less products means we start making better products. [^product-rationalisation-path-temporary-revenue-reduction-to-focus-5]
+5. **Improve product focus.** That focus that comes then from less products means we start making better products.
    **Step type:** Evidence-and-judgement.
-6. **Grow sales again.** we also start increasing our overall sales as well. [^product-rationalisation-path-temporary-revenue-reduction-to-focus-6]
+6. **Grow sales again.** we also start increasing our overall sales as well.
    **Step type:** Data-gathering — real sales data confirming the recovery, never invented.
-7. **Re-enter diversification.** there's now much more room and resources to diversify and expand again. The process can continue. [^product-rationalisation-path-temporary-revenue-reduction-to-focus-7]
+7. **Re-enter diversification.** there's now much more room and resources to diversify and expand again. The process can continue.
    **Step type:** Decision (criteria-guided) — loops back to the New Product Development Sequence above.
 
 **Output:** Lower cost, higher margin, and (after the temporary dip) higher sales, freeing resources for renewed diversification.
 
 **Boundary:** Adjacent governance rule, not part of this step order: Benefit Cosmetics SKU-replacement rule (any new SKU proposal must come paired with SKUs to remove).
 
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-1]: product-m7-video — 01:26:27
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-2]: product-m7-video — 01:26:27
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-3]: product-m7-video — 01:26:54
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-4]: product-m7-video — 01:26:54
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-5]: product-m7-video — 01:26:54
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-6]: product-m7-video — 01:27:22
-[^product-rationalisation-path-temporary-revenue-reduction-to-focus-7]: product-m7-video — 01:27:22
 ### NPS Exit-Survey Reading Workflow
 
 This ordered process is embedded here because it is self-contained within the originating Framework.
@@ -335,34 +290,17 @@ This ordered process is embedded here because it is self-contained within the or
 
 **Steps:**
 
-1. **Get the NPS data / benchmark.** The first thing I ask the team to send me is the MPS data so I can see my benchmark. [^nps-exit-survey-reading-workflow-1]
+1. **Get the NPS data / benchmark.** The first thing I ask the team to send me is the MPS data so I can see my benchmark.
    **Step type:** Data-gathering — real NPS survey data, never invented.
-2. **Slice results into promoters / passives / detractors.** I ask them to slice the MPS results, the two questions, into basically three different documents. [^nps-exit-survey-reading-workflow-2]
+2. **Slice results into promoters / passives / detractors.** I ask them to slice the MPS results, the two questions, into basically three different documents.
    **Step type:** Decision (criteria-guided) — a deterministic split by the standard NPS thresholds.
-3. **Read promoters first.** Give me my promoters. I'll do those first. [^nps-exit-survey-reading-workflow-3]
+3. **Read promoters first.** Give me my promoters. I'll do those first.
    **Step type:** Constraint check — the stated reading order (promoters first).
-4. **Read passives next.** Give me my passives. I'll do those next. And I'll read every single comment. [^nps-exit-survey-reading-workflow-4]
+4. **Read passives next.** Give me my passives. I'll do those next. And I'll read every single comment.
    **Step type:** Constraint check.
-5. **Read detractors last.** let me sit down with the hopefully shorter list of detractors and read why we weren't good enough for them. [^nps-exit-survey-reading-workflow-5]
+5. **Read detractors last.** let me sit down with the hopefully shorter list of detractors and read why we weren't good enough for them.
    **Step type:** Evidence-and-judgement — synthesizing what wasn't good enough from real detractor comments.
 
 **Output:** "armed with insights about what works, what doesn't work, and what we have to do better." (00:56:41)
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
-
-[^nps-exit-survey-reading-workflow-1]: product-m7-video — 00:56:18
-[^nps-exit-survey-reading-workflow-2]: product-m7-video — 00:56:18
-[^nps-exit-survey-reading-workflow-3]: product-m7-video — 00:56:18
-[^nps-exit-survey-reading-workflow-4]: product-m7-video — 00:56:18
-[^nps-exit-survey-reading-workflow-5]: product-m7-video — 00:56:41
-
-
-[^four-ps-definition]: product-m7-video — 00:09:18-00:10:18
-[^tactical-checklist]: product-m7-video — 00:10:18-00:10:46
-[^marketer-input]: product-m7-video — 00:11:12-00:13:34
-[^product-quality]: product-m7-video — 00:14:00-00:18:43
-[^shania-example]: product-m7-video — 00:16:16-00:18:05
-[^strategy-context]: product-m7-video — 00:03:56-00:06:18
-[^pricing-context]: pricing-m8-video — 00:04:37-00:05:37
-[^distribution-context]: distribution-m10-video — 01:03:33
-

@@ -3,15 +3,6 @@ type: Principle
 title: Communications effectiveness comes from an interacting system, not one lever
 description: Briefing, budget, long- and short-term roles, media, integration, codes, creative, emotion, testing, longevity, and measurement reinforce one another.
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: synergy
-    resource: tools/flattened/marketing-communications-m9-video.txt#01:32:03-01:36:12
-    title: Module 9 transcript — effectiveness factors operate together
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T12:38:08Z
 tags:
   - tactics
   - communications
@@ -24,7 +15,7 @@ Reach for this Principle when a communications problem is reduced to one preferr
 
 ## Principle
 
-Communications effectiveness emerges from interacting choices. Briefing, budget, long- and short-term roles, media selection and mix, integration, codification, creative quality, emotional response, pre-testing, campaign longevity, and measurement can reinforce one another rather than operating as isolated factors. [^synergy]
+Communications effectiveness emerges from interacting choices. Briefing, budget, long- and short-term roles, media selection and mix, integration, codification, creative quality, emotional response, pre-testing, campaign longevity, and measurement can reinforce one another rather than operating as isolated factors.
 
 ## Why it matters
 
@@ -45,11 +36,3 @@ A systemic view does not require maximising every factor or using every channel.
 - Do not turn the checklist into an unprioritised requirement to maximise everything.
 - Diagnose the current constraint before selecting an intervention.
 - Preserve interaction and strategic coherence when optimising individual parts.
-
-## Citation status
-
-Drafted from Module 9 transcript span 01:32:03-01:36:12. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^synergy]: marketing-communications-m9-video — 01:32:03-01:36:12

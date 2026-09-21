@@ -2,33 +2,6 @@
 type: Playbook
 title: "Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: origin
-    resource: "tools/flattened/targeting-m4-video.txt#01:00:01"
-    title: "Transcript source"
-  - id: step-2
-    resource: "tools/flattened/targeting-m4-video.txt#00:19:00"
-    title: "Transcript source"
-  - id: step-2-1
-    resource: "tools/flattened/targeting-m4-video.txt#00:20:25"
-    title: "Transcript source"
-  - id: step-3
-    resource: "tools/flattened/targeting-m4-video.txt#01:00:38"
-    title: "Transcript source"
-  - id: step-4-1
-    resource: "tools/flattened/targeting-m4-video.txt#00:58:40"
-    title: "Transcript source"
-  - id: step-4-2
-    resource: "tools/flattened/targeting-m4-video.txt#00:59:06"
-    title: "Transcript source"
-  - id: step-4-4
-    resource: "tools/flattened/targeting-m4-video.txt#00:59:39"
-    title: "Transcript source"
-  - id: step-4-5
-    resource: "tools/flattened/targeting-m4-video.txt#00:55:43"
-    title: "Transcript source"
 tags:
   - strategy
   - targeting
@@ -39,7 +12,7 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* Reach for this once [Segmentation Process](segmentation-process-top-level-5-step-sequence.md) has produced a validated market map and one or more candidate segments need to be chosen and described — before writing a positioning statement.
+Reach for this once [Segmentation Process](segmentation-process-top-level-5-step-sequence.md) has produced a validated market map and one or more candidate segments need to be chosen and described — before writing a positioning statement.
 
 ## Purpose
 
@@ -74,23 +47,23 @@ Explicit: 'do the targeting and then only write the portraits for those segment 
 
 **Step type:** Evidence-and-judgement — confirms prior strategic work is settled; not itself a rule or computation.
 
-First, before we even get to targeting, remember to think strategically. [^step-1]
+First, before we even get to targeting, remember to think strategically.
 
 ### 2. Choose a targeting philosophy (sophisticated mass marketing / STP / two-speed)
 
 **Step type:** Decision (criteria-guided) — this names the philosophies and the considerations for choosing between them, but not a formula. The agent presents the options against those considerations; it does not choose alone.
 
-you face a double choice with targeting... first of all, you have to decide what kind of targeting strategy do you subscribe to. [^step-2]
+you face a double choice with targeting... first of all, you have to decide what kind of targeting strategy do you subscribe to.
 
 **Nested sequence:**
 
-1. **Then choose which customers within that philosophy.** **Step type:** Evidence-and-judgement. once you've selected your approach, you then have to decide... which customers am I going to target [^step-2-1]
+1. **Then choose which customers within that philosophy.** **Step type:** Evidence-and-judgement. once you've selected your approach, you then have to decide... which customers am I going to target
 
 ### 3. Apply the standard targeting checklist (parallel filters, not sequential)
 
 **Step type:** Constraint check + Evidence-and-judgement (mixed) — the numeric criteria (dollar potential, population, market share) are computable once real business data exists; "ease of conversion" and "corporate strategy fit" stay judgement calls the agent should surface, not resolve.
 
-once you've done that, then you need to apply it accordingly. Focus in on that criteria for making targeting choices. [^step-3]
+once you've done that, then you need to apply it accordingly. Focus in on that criteria for making targeting choices.
 
 **Invokes:** Standard Targeting Checklist (Framework: dollar potential, population offset, market share, ease of conversion, spillover, corporate strategy fit -- NOT itself sequential). *(not yet drafted)*
 
@@ -98,23 +71,23 @@ once you've done that, then you need to apply it accordingly. Focus in on that c
 
 **Step type:** Data-gathering — output must be real gathered customer behaviour and attitude evidence, never invented; gather it via a research-method Playbook, then structure it into the schema shape below.
 
-The power of a clear target portrait is that it really synthesizes everything together. [^step-4]
+The power of a clear target portrait is that it really synthesizes everything together.
 
 **Invokes:** [Market Research Method Sequence](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook) to gather the evidence; [Target Customer Portrait](../schemas/target-customer-portrait.md) (Schema) to structure it.
 
 **Nested sequence:**
 
-1. **Identify who the consumer is.** first of all, about who this consumer is so we can identify them. [^step-4-1]
-2. **Current category behaviour.** what they do in the category right now, the current state of behavior. [^step-4-2]
-3. **Turn-ons/drivers and barriers/perceptions.** what are the turn ons and the drivers for this particular customer and what are the barriers or perceptions [^step-4-3]
-4. **Anything else.** there's room at the bottom for anything else [^step-4-4]
-5. **B2B: break out the buying committee.** it's here in the portrait that will now break out the different members of the buying committee, how they decide, how they interact. [^step-4-5]
+1. **Identify who the consumer is.** first of all, about who this consumer is so we can identify them.
+2. **Current category behaviour.** what they do in the category right now, the current state of behavior.
+3. **Turn-ons/drivers and barriers/perceptions.** what are the turn ons and the drivers for this particular customer and what are the barriers or perceptions
+4. **Anything else.** there's room at the bottom for anything else
+5. **B2B: break out the buying committee.** it's here in the portrait that will now break out the different members of the buying committee, how they decide, how they interact.
 
 ### 5. Ensure clarity and simplicity
 
 **Step type:** Evidence-and-judgement — a communication-quality check, not a rule.
 
-clarity at this stage, simplicity at this stage is key. [^step-5]
+clarity at this stage, simplicity at this stage is key.
 
 **Invokes:** Better Briefs targeting-clarity finding (Metric). *(not yet drafted)*
 
@@ -126,10 +99,6 @@ clarity at this stage, simplicity at this stage is key. [^step-5]
 
 - Module 5: Positioning: Explicit reuse recorded in the register.
 
-## Citation status
-
-Four body references have no matching `sources` entry or footnote definition — flagged rather than silently fixed, pending re-verification against `tools/flattened/targeting-m4-video.txt`: `[^step-1]` (heading 1), `[^step-4]` (heading 4's opening sentence), `[^step-4-3]` (nested item 3 under step 4), `[^step-5]` (heading 5).
-
 ## Boundaries and failure modes
 
 Standard Targeting Checklist (step 3) is itself an unordered parallel-filter checklist, not a sub-sequence -- each criterion applies independently to a candidate segment.
@@ -138,14 +107,3 @@ Standard Targeting Checklist (step 3) is itself an unordered parallel-filter che
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
-
-## Sources
-
-[^origin]: targeting-m4-video — 01:00:01
-[^step-2]: targeting-m4-video — 00:19:00
-[^step-2-1]: targeting-m4-video — 00:20:25
-[^step-3]: targeting-m4-video — 01:00:38
-[^step-4-1]: targeting-m4-video — 00:58:40
-[^step-4-2]: targeting-m4-video — 00:59:06
-[^step-4-4]: targeting-m4-video — 00:59:39
-[^step-4-5]: targeting-m4-video — 00:55:43

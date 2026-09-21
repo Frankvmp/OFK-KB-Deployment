@@ -2,18 +2,6 @@
 type: Schema
 title: "Brand Palette (selected small code set)"
 status: draft
-generated:
-  by: "process:extraction"
-sources:
-  - id: structure
-    resource: "tools/flattened/positioning-m5-video.txt#00:16:43"
-    title: "Transcript source — M5"
-  - id: example
-    resource: "tools/flattened/positioning-m5-video.txt#00:17:13"
-    title: "Transcript source — M5"
-  - id: consumer
-    resource: "tools/flattened/marketing-communications-m9-video.txt#00:56:58-00:57:53"
-    title: "Transcript source — M9"
 tags:
   - tactics
   - brand
@@ -23,13 +11,13 @@ tags:
 
 ## When to use this
 
-*(Process framing — not a sourced claim; no footnote.)* Reach for this once the [Distinctive asset assessment](../frameworks/positioning-and-brand-codes.md#distinctive-asset-assessment) has scored candidate codes — it's the record of which small set was actually selected, consumed downstream by communications execution.
+Reach for this once the [Distinctive asset assessment](../frameworks/positioning-and-brand-codes.md#distinctive-asset-assessment) has scored candidate codes — it's the record of which small set was actually selected, consumed downstream by communications execution.
 
 ## Purpose
 
 This schema records the small, disciplined set of distinctive codes selected to
 make a brand recognisable. The structure is categorical: the logo is included,
-with a small number of additional brand codes. [^structure]
+with a small number of additional brand codes.
 
 ## Invokes
 
@@ -44,24 +32,24 @@ with a small number of additional brand codes. [^structure]
    such as colour, typography, packaging, character, sound, or scent.
 
 “Logo plus three” is a rule of thumb for keeping the palette small. It is not a
-requirement that every brand use exactly three additional codes. [^structure]
+requirement that every brand use exactly three additional codes.
 
 ## Grounded good example
 
 The Sephora example identifies four codes: the logo, black-and-white stripes,
-the flame, and a touch of red. [^example]
+the flame, and a touch of red.
 
 ## Grounded bad or failure example
 
 NOT FOUND as a complete bad palette. A palette with an uncontrolled collection
 of identifiers would conflict with the stated discipline of selecting a small,
-consistent set. [^structure]
+consistent set.
 
 ## Consumers
 
 Marketing communications uses the selected palette across executions. The codes
 are developed in strategy and then applied consistently in tactical
-communications. [^consumer]
+communications.
 
 ## Boundaries
 
@@ -70,9 +58,3 @@ communications. [^consumer]
 - Do not invent a required number of codes beyond the “logo plus three” rule of
   thumb.
 - Do not apply codes inconsistently when distinctive recognition is the goal.
-
-## Sources
-
-[^structure]: positioning-m5-video — 00:16:43
-[^example]: positioning-m5-video — 00:17:13
-[^consumer]: marketing-communications-m9-video — 00:56:58-00:57:53

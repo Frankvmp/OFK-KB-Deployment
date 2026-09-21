@@ -3,15 +3,6 @@ type: Principle
 title: "Targeting requires a clear yes-or-no choice"
 description: "Targeting should make explicit selections and rejections rather than disguise an all-market approach with priority rankings."
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: binary-choice
-    resource: tools/flattened/targeting-m4-video.txt#00:40:23-00:40:53
-    title: Module 4 transcript — priority numbers can conceal targeting everyone
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T06:40:47Z
 tags:
   - strategy
   - targeting
@@ -24,7 +15,7 @@ Reach for this Principle when every segment appears on a numbered priority list 
 
 ## Principle
 
-Targeting requires a clear decision about whether each candidate segment will receive focused investment. Priority rankings can conceal an unwillingness to sacrifice by retaining every segment as a target. [^binary-choice]
+Targeting requires a clear decision about whether each candidate segment will receive focused investment. Priority rankings can conceal an unwillingness to sacrifice by retaining every segment as a target.
 
 ## Why it matters
 
@@ -43,11 +34,3 @@ This Principle applies to target selection, not to the later allocation of diffe
 - Do not use priority labels as a substitute for rejecting segments.
 - Do not infer that every selected target must receive equal resources.
 - Document the non-targets as clearly as the targets.
-
-## Citation status
-
-Drafted from Module 4 transcript spans 00:40:23-00:40:53. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^binary-choice]: targeting-m4-video — 00:40:23-00:40:53

@@ -3,18 +3,6 @@ type: Principle
 title: "Complex thinking should produce simple strategy"
 description: "Deep analysis should resolve into a clear strategic direction that people can understand and execute."
 status: stable
-generated:
-  by: process:extraction
-sources:
-  - id: simple-output
-    resource: tools/flattened/targeting-m4-video.txt#00:08:57-00:10:36
-    title: Module 4 transcript — simple plans follow intense engagement
-  - id: complex-to-simple
-    resource: tools/flattened/targeting-m4-video.txt#00:11:05-00:13:10
-    title: Module 4 transcript — complex reasoning produces a simple direction
-verified:
-  by: process:support-review/codex-independent-pass
-  at: 2026-09-03T06:40:47Z
 tags:
   - cross-cutting
   - market-orientation
@@ -27,7 +15,7 @@ Reach for this Principle when strategy is either presented as an unexplained slo
 
 ## Principle
 
-The output of strategy should be simple enough for the people responsible for execution to understand and act upon. That simplicity is the result of substantial analysis and judgement, not the absence of them. [^simple-output] [^complex-to-simple]
+The output of strategy should be simple enough for the people responsible for execution to understand and act upon. That simplicity is the result of substantial analysis and judgement, not the absence of them.
 
 ## Why it matters
 
@@ -48,12 +36,3 @@ Simple strategy is not casual strategy. It compresses resolved complexity into a
 - Do not use complexity as evidence of strategic quality.
 - Do not simplify by hiding unresolved assumptions or trade-offs.
 - Test whether the people executing the strategy can state the direction consistently.
-
-## Citation status
-
-Drafted from Module 4 transcript spans 00:08:57-00:10:36, 00:11:05-00:13:10. Stage 4 mechanical citation-integrity and Stage 5 independent semantic-support reviews passed on 2026-09-03. A fresh Stage 6 voice/register pass also found no delivery-style or narrated-attribution leakage requiring revision.
-
-## Sources
-
-[^simple-output]: targeting-m4-video — 00:08:57-00:10:36
-[^complex-to-simple]: targeting-m4-video — 00:11:05-00:13:10
