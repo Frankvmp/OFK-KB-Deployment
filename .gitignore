@@ -12,3 +12,13 @@ Desktop.ini
 .github/skills/open-knowledge/
 .opencode/skills/open-knowledge/
 .pi/skills/open-knowledge/
+
+# marketing-kb-grounded-reasoning is written for the gate-proxied OK MCP
+# channel (search/exec/links) and is served to that channel's testers
+# through the gate's own `skills` tool -- it stays on disk for that. It
+# must NOT be pushed to GitHub: a Claude-based tester on the read-only
+# GitHub mirror channel (search/read only, no exec/links) auto-discovers
+# .claude/skills/ on its own and would follow this skill's instructions
+# instead of AGENTS.md, which is the correct, already-adapted instruction
+# file for that channel. See project-context/remote-mcp-access.md.
+.claude/skills/marketing-kb-grounded-reasoning/
