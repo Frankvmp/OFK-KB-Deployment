@@ -1,6 +1,6 @@
 # Using this knowledge base
 
-This repository holds a marketing knowledge base -- verified, source-backed
+This repository holds a marketing knowledge base -- source-backed
 frameworks, principles, playbooks, and schemas for real marketing work. If
 you are an AI agent with read access to this repository, this file is your
 operating instructions for using it.
