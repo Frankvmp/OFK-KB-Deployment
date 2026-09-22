@@ -40,3 +40,12 @@ It also does not assume that the direct buyer and end user are always different.
 
 - Do not treat the direct buyer's account as automatically representative of the whole market.
 - Do not stop at “talk to everyone” as an unbounded instruction; identify which buyer, intermediary, user, or other party is relevant to the product and decision context.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Market orientation](../frameworks/market-orientation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)

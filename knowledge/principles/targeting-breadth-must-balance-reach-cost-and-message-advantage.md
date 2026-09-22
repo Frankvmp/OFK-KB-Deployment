@@ -36,3 +36,10 @@ This Principle governs the breadth decision. The targeting Playbook separately i
 - Do not assume narrower targeting is automatically more efficient.
 - Do not assume broad reach is affordable or equally valuable for every organisation.
 - Make the expected benefit of narrower targeting explicit before paying its reach premium.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

@@ -53,3 +53,14 @@ portraits for the targets being addressed.
 - Keep actual client data outside this knowledge-base schema.
 - Do not replace evidence with a fictional name, photograph, or personality.
 - Do not confuse a portrait with a general description of all customers.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Positioning Statement Build Order (to -> what -> versus -> is)](../playbooks/positioning-statement-build-order-to-what-versus-is.md) (Playbook)
+- [Target portraits must come from evidence, not invention](../principles/target-portraits-must-come-from-evidence-not-invention.md) (Principle)
+- [Three Cs (positioning test: Consumer -> Competitor -> Company)](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) (Playbook)

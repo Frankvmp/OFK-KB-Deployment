@@ -40,3 +40,11 @@ It is related to [Market intelligence must circulate, and response is judgement]
 
 - Do not reduce marketing's role to advertising or sales support.
 - Do not use this Principle to claim that marketing should comply automatically with every customer request; the related responsiveness Principle preserves the judgement boundary.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Market orientation](../frameworks/market-orientation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

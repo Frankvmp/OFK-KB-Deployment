@@ -35,3 +35,11 @@ This is not a blanket requirement to create one map per country. It is a test of
 - Do not force different markets into one map merely to reduce the number of segmentations.
 - Do not split markets automatically without testing whether one coherent map is possible.
 - State the market boundary used by each map.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)
+- [Standard Criteria for Segmentation (9-question validation checklist)](../playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md) (Playbook)

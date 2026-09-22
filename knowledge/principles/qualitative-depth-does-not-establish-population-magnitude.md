@@ -41,3 +41,12 @@ The [Market Research Method Sequence](../playbooks/market-research-method-sequen
 - Do not report focus-group counts as market percentages.
 - Do not infer causality from a small qualitative group.
 - Do not dismiss qualitative evidence because it is not representative; use it for the depth it can support.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Research informs understanding, not strategy](../frameworks/research-informs-understanding-not-strategy.md) (Framework)
+- [Understand customers in their real context](understand-customers-in-their-real-context.md) (Principle)

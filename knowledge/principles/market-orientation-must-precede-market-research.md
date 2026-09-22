@@ -43,3 +43,12 @@ It extends [Marketers are not the consumer](marketers-are-not-the-consumer.md). 
 - Do not treat market orientation as a substitute for gathering evidence.
 - Do not assume that possessing research means the organisation is prepared to believe or use it.
 - Do not dismiss findings merely because they conflict with an internal belief.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)](../playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md) (Playbook)
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Market orientation](../frameworks/market-orientation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

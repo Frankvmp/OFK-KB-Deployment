@@ -38,3 +38,11 @@ Research gathers and tests evidence; segmentation structures the resulting varia
 - Do not invent segments before gathering market evidence.
 - Do not mistake additional complexity in research findings for a defect in the research.
 - Do not reduce varied responses to one average before checking for recurring groups.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)

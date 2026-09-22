@@ -36,3 +36,11 @@ Creative autonomy does not mean strategic autonomy. The agency interprets the br
 - Do not turn the client brief into a prescribed creative execution.
 - Do not treat creative freedom as permission to ignore the strategy.
 - Do not delegate cross-agency integration back to competing agencies.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Settle the Strategy Before Execution](../playbooks/settle-the-strategy-before-execution.md) (Playbook)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)

@@ -42,3 +42,10 @@ The operational mix route is [The four Ps](../frameworks/four-ps.md). The custom
 
 - Do not answer “what is marketing?” with advertising or communications alone.
 - Do not treat the source's description of sales orientation as an endorsement that marketing and sales are identical.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

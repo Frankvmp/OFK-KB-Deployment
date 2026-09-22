@@ -37,3 +37,11 @@ Profit focus does not mean revenue is irrelevant. It means revenue must be inter
 - Do not infer profitability from revenue growth alone.
 - Do not treat unit sales as a substitute for margin analysis.
 - Use the organisation's verified financial definitions rather than inventing cost or profit inputs.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

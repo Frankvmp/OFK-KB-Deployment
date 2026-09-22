@@ -35,3 +35,10 @@ Rejecting a universal split does not remove the need to fund both roles. It chan
 - Do not choose a custom split without examining the relevant strategic context.
 - Do not use contextual variation as a reason to omit one role without justification.
 - Keep the source and age of any benchmark visible.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

@@ -39,3 +39,14 @@ Positioning is strategy. A strapline is one possible execution. Customer percept
 - Do not expose the internal positioning statement as if it were finished customer copy.
 - Do not reduce positioning to a strapline or advertising campaign.
 - Check every major tactical choice and touchpoint for consistency with the position.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Positioning Statement Build Order (to -> what -> versus -> is)](../playbooks/positioning-statement-build-order-to-what-versus-is.md) (Playbook)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)
+- [Touchpoints](../frameworks/touchpoints.md) (Framework)

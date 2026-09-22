@@ -37,3 +37,11 @@ The [Target Customer Portrait](../schemas/target-customer-portrait.md) is an evi
 - Do not invent positive attitudes, needs, or behaviours.
 - Do not write portraits for every segment before target selection.
 - Keep proposed positioning and solutions out of the evidence portrait.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

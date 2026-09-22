@@ -39,3 +39,12 @@ A funnel diagnoses where movement is being lost. It does not by itself explain w
 - Do not treat revenue, sales, or market share alone as a marketing objective.
 - Do not choose a funnel stage before the funnel has been populated with evidence.
 - Do not infer the cause of a stage gap from its size alone.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)

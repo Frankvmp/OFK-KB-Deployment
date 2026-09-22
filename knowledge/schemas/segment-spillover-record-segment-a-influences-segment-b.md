@@ -58,3 +58,11 @@ targeting decision.
 - State the evidence basis for the link.
 - Do not treat the link as statistically proven when the source only supports
   an anecdotal rationale.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Meaningful Actionable Grid (10-stage segmentation-construction playbook)](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) (Playbook)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)
+- [Standard Criteria for Segmentation (9-question validation checklist)](../playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md) (Playbook)

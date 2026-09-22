@@ -304,3 +304,28 @@ This ordered process is embedded here because it is self-contained within the or
 **Output:** "armed with insights about what works, what doesn't work, and what we have to do better." (00:56:41)
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Co-branding works through complementary association transfer](../principles/co-branding-works-through-complementary-association-transfer.md) (Principle)
+- [Customers buy solutions to jobs, not products as defined internally](../principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md) (Principle)
+- [Diagnosis → Strategy → Tactics](diagnosis-strategy-tactics.md) (Framework)
+- [Direct-channel control does not guarantee scale or profitability](../principles/direct-channel-control-does-not-guarantee-scale-or-profitability.md) (Principle)
+- [Evidence-backed value supports holding the price line](../principles/evidence-backed-value-supports-holding-the-price-line.md) (Principle)
+- [Existing products should be continuously improved](../principles/existing-products-should-be-continuously-improved.md) (Principle)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Marketing influence does not require control of every P](../principles/marketing-influence-does-not-require-control-of-every-p.md) (Principle)
+- [Marketing is broader than advertising and sales](../principles/marketing-is-broader-than-advertising-and-sales.md) (Principle)
+- [Marketing must create value for both customers and the organisation](../principles/marketing-must-create-value-for-both-customers-and-the-organisation.md) (Principle)
+- [Omnichannel quality depends on integration, not channel count](../principles/omnichannel-quality-depends-on-integration-not-channel-count.md) (Principle)
+- [Price increases should be communicated candidly and with value context](../principles/price-increases-should-be-communicated-candidly-and-with-value-context.md) (Principle)
+- [Price presentation shapes perceived value and demand](../principles/price-presentation-shapes-perceived-value-and-demand.md) (Principle)
+- [Price should follow customer perceived value, not cost-plus arithmetic](../principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md) (Principle)
+- [Pricing is the revenue-producing element of the marketing mix](../principles/pricing-is-the-revenue-producing-element-of-the-marketing-mix.md) (Principle)
+- [Pricing power combines value perception with the ability to hold price](../principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md) (Principle)
+- [Product expansion must be balanced with rationalisation](../principles/product-expansion-must-be-balanced-with-rationalisation.md) (Principle)
+- [Product success requires quality and market preparation](../principles/product-success-requires-quality-and-market-preparation.md) (Principle)
+- [Repeated discounting can become a self-reinforcing strategic trap](../principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md) (Principle)
+- [Strategy directs each tactical P](strategy-directs-each-tactical-p.md) (Framework)

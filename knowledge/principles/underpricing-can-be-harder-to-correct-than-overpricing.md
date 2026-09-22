@@ -37,3 +37,11 @@ This Principle does not say that higher prices are always better. It says that b
 - Do not use this Principle to justify a price unsupported by customer value.
 - Do not assume a low launch price can be raised without changing expectations.
 - Do not treat volume growth as proof that an underpriced offer is commercially healthy.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

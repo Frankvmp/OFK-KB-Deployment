@@ -97,3 +97,15 @@ Step 6 is the only one of the seven with no spoken ordinal ('six' is skipped, go
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Discount effects must be judged by profit and source of sales](../principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md) (Principle)
+- [Evidence-backed value supports holding the price line](../principles/evidence-backed-value-supports-holding-the-price-line.md) (Principle)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Pricing decisions require customer evidence, not internal intuition](../principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md) (Principle)
+- [Profit, not revenue, is the primary commercial test](../principles/profit-not-revenue-is-the-primary-commercial-test.md) (Principle)
+- [Repeated discounting can become a self-reinforcing strategic trap](../principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md) (Principle)
+- [Underpricing can be harder to correct than overpricing](../principles/underpricing-can-be-harder-to-correct-than-overpricing.md) (Principle)

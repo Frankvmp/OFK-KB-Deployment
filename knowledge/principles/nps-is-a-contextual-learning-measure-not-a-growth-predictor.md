@@ -38,3 +38,10 @@ The quantitative score benchmarks sentiment. The qualitative follow-up supplies 
 - Do not compare scores across categories or countries without context.
 - Do not claim NPS alone predicts growth.
 - Do not discard the qualitative follow-up after calculating the score.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Touchpoints](../frameworks/touchpoints.md) (Framework)

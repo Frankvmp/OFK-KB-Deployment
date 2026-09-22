@@ -36,3 +36,11 @@ Different measures do not imply that long-term and short-term activity are disco
 - Do not use brand movement as the only test of a direct activation.
 - Define the intended effect before selecting the measure.
 - Do not convert contextual examples into universal performance thresholds.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand tracking](../frameworks/brand-tracking.md) (Framework)
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

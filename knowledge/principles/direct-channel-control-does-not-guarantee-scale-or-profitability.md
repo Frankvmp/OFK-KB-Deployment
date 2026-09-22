@@ -39,3 +39,11 @@ This Principle does not say direct distribution is inferior. It says channel adv
 - Do not assume first-party data compensates for insufficient reach.
 - Do not treat adding retail as proof that direct distribution had no value.
 - Test channel economics and scale with current business evidence rather than generalising the cited D2C cases to every market.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

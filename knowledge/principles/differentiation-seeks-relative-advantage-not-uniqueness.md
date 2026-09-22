@@ -38,3 +38,11 @@ Sharing an attribute with competitors does not make brands equivalent. The relev
 - Do not select attributes that do not matter to the target customer.
 - Do not claim relative advantage without comparing real alternatives.
 - Concentrate on a small number of associations.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Three Cs (positioning test: Consumer -> Competitor -> Company)](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) (Playbook)

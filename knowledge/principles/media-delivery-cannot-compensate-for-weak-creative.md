@@ -36,3 +36,11 @@ This principle does not establish one formula for producing strong creative. It 
 - Do not treat awards alone as proof of commercial effectiveness.
 - Do not optimise reach while leaving the creative untested or strategically ungrounded.
 - Do not confuse production expense with creative quality.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)

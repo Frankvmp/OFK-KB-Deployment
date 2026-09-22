@@ -75,3 +75,11 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Funnels must fit the market and buying process](../principles/funnels-must-fit-the-market-and-buying-process.md) (Principle)
+- [Objectives should follow funnel diagnosis](../principles/objectives-should-follow-funnel-diagnosis.md) (Principle)
+- [The funnel base must match the selected target](../principles/funnel-base-must-match-the-selected-target.md) (Principle)

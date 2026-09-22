@@ -37,3 +37,11 @@ Historical averages about channel performance can inform a decision. They do not
 - Do not ignore empirical channel tendencies when they are relevant.
 - Judge the actual campaign and execution, not only the medium.
 - Keep the intended effect explicit.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)

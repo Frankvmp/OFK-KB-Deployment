@@ -198,3 +198,14 @@ No direct supporting Metric is established in the current registers. MORTN is
 excluded because it measures organisational market orientation. TrackSuit is
 retained as contextual benchmarking evidence rather than treated as a Metric
 belonging to this Framework.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Communications should be measured at campaign level and used to improve](../principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md) (Principle)
+- [Effective campaign platforms should be renewed, not routinely replaced](../principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md) (Principle)
+- [Long-term brand building and short-term activation](long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Long-term brand building and short-term activation require different measures](../principles/long-term-brand-building-and-short-term-activation-require-different-measures.md) (Principle)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)

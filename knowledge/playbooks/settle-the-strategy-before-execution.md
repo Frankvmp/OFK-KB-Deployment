@@ -83,3 +83,15 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Clients should provide strategy and preserve agency creative autonomy](../principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md) (Principle)
+- [Complex thinking should produce simple strategy](../principles/complex-thinking-should-produce-simple-strategy.md) (Principle)
+- [Objective changes can require new tactics](../principles/objective-changes-can-require-new-tactics.md) (Principle)
+- [Objective count is a team-level limit](../principles/objective-count-is-a-team-level-limit.md) (Principle)
+- [Settle strategy before selecting tactics](../principles/settle-strategy-before-selecting-tactics.md) (Principle)
+- [Strategic thinking requires protected time](../principles/strategic-thinking-requires-protected-time.md) (Principle)
+- [Targeting, positioning, and objectives must cohere](../principles/targeting-positioning-and-objectives-must-cohere.md) (Principle)

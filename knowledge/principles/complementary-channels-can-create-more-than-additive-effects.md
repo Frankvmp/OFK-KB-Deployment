@@ -36,3 +36,11 @@ Synergy is not guaranteed by adding channels. The channels must be suitable, com
 - Do not assume two weak or mismatched channels will create synergy.
 - Preserve a common strategy and recognisable campaign across the mix.
 - Check that each channel has a defined role.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)

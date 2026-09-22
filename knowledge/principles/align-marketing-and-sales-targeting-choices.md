@@ -34,3 +34,10 @@ Alignment does not require marketing and sales to perform identical work. It req
 - Do not let either function infer the other's target list.
 - Do not treat a shared segmentation as proof that target choices are aligned.
 - Record how marketing interest or leads pass into sales activity.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

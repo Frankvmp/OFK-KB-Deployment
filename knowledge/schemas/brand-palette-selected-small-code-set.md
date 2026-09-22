@@ -58,3 +58,11 @@ communications.
 - Do not invent a required number of codes beyond the “logo plus three” rule of
   thumb.
 - Do not apply codes inconsistently when distinctive recognition is the goal.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)

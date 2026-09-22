@@ -133,3 +133,20 @@ This ordered process is embedded here because it is self-contained within the or
 **Output:** Offsets brand-perception damage via reinvested revenue/profit, while keeping the (uncontrollable) Costco revenue and profit gift.
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Channel management depends on interdependent partners](../principles/channel-management-depends-on-interdependent-partners.md) (Principle)
+- [Clients should provide strategy and preserve agency creative autonomy](../principles/clients-should-provide-strategy-and-preserve-agency-creative-autonomy.md) (Principle)
+- [Communications effectiveness comes from an interacting system, not one lever](../principles/communications-effectiveness-comes-from-an-interacting-system-not-one-lever.md) (Principle)
+- [Complementary channels can create more-than-additive effects](../principles/complementary-channels-can-create-more-than-additive-effects.md) (Principle)
+- [Consolidated retail power must be managed, not assumed controllable](../principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md) (Principle)
+- [Early distribution should establish the brand before maximising availability](../principles/early-distribution-should-establish-the-brand-before-maximising-availability.md) (Principle)
+- [Media delivery cannot compensate for weak creative](../principles/media-delivery-cannot-compensate-for-weak-creative.md) (Principle)
+- [Media roles are determined by use, not channel label](../principles/media-roles-are-determined-by-use-not-channel-label.md) (Principle)
+- [Positioning is internal strategy expressed through touchpoints](../principles/positioning-is-internal-strategy-expressed-through-touchpoints.md) (Principle)
+- [Resellers must retain independent price-setting](../principles/resellers-must-retain-independent-price-setting.md) (Principle)
+- [Settle strategy before selecting tactics](../principles/settle-strategy-before-selecting-tactics.md) (Principle)
+- [Strategy should be disciplined while tactics remain agile](../principles/strategy-should-be-disciplined-while-tactics-remain-agile.md) (Principle)

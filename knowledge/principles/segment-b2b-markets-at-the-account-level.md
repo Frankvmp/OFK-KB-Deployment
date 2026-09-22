@@ -35,3 +35,11 @@ Market definition may identify both qualifying accounts and the people involved 
 - Do not place firms and individual decision makers as equivalent members of one segmentation.
 - Do not ignore the buying committee; defer its detailed portrait until target accounts are selected.
 - Apply this rule to B2B account structures, not automatically to consumer markets.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)

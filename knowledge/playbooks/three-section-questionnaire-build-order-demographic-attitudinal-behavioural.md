@@ -68,3 +68,10 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Quantitative extrapolation requires a representative sample](../principles/quantitative-extrapolation-requires-a-representative-sample.md) (Principle)
+- [Three-Section Questionnaire (demographic / attitudinal / behavioural)](../schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md) (Schema)

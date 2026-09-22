@@ -142,3 +142,18 @@ This ordered process is embedded here because it is self-contained within the or
 **Output:** A completed SMART objective (e.g. the DARE awareness and consideration objectives). Bounded downstream by 'Optimal number of objectives: a handful per team' (Principle).
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Funnel performance needs conversion and competitive context](../principles/funnel-performance-needs-conversion-and-competitive-context.md) (Principle)
+- [Funnels must fit the market and buying process](../principles/funnels-must-fit-the-market-and-buying-process.md) (Principle)
+- [Objective targets must balance ambition and realism](../principles/objective-targets-must-balance-ambition-and-realism.md) (Principle)
+- [Objectives should follow funnel diagnosis](../principles/objectives-should-follow-funnel-diagnosis.md) (Principle)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Strategy requires choice and sacrifice](../principles/strategy-requires-choice-and-sacrifice.md) (Principle)
+- [Targeting, positioning, and objectives must cohere](../principles/targeting-positioning-and-objectives-must-cohere.md) (Principle)
+- [The funnel base must match the selected target](../principles/funnel-base-must-match-the-selected-target.md) (Principle)
+- [Touchpoints](touchpoints.md) (Framework)
+- [Touchpoints and funnels answer different questions](../principles/touchpoints-and-funnels-answer-different-questions.md) (Principle)

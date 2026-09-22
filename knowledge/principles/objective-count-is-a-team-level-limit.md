@@ -37,3 +37,12 @@ A small handful is a planning guardrail, not a universal mathematical optimum. T
 - Do not multiply the objective allowance by every product or segment.
 - Do not reduce the list to one when the strategy genuinely requires coordinated initiatives.
 - Do not retain an objective merely because a stakeholder owns it.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Settle the Strategy Before Execution](../playbooks/settle-the-strategy-before-execution.md) (Playbook)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)

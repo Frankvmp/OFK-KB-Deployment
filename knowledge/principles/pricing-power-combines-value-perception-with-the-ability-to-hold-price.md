@@ -37,3 +37,11 @@ Pricing power is not simply charging a premium. The relevant test is whether the
 - Do not infer pricing power from a high list price alone.
 - Do not treat brand perception as sufficient without pricing capability.
 - Do not assume similar products or costs must produce similar profitability.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

@@ -36,3 +36,11 @@ General benchmarks inform the prior expectation. Brand-level testing determines 
 - Do not reject a code solely because its type has a weak average.
 - Do not claim an exception without brand-specific evidence.
 - Use the general benchmark when no stronger focal-brand evidence exists.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand Palette (selected small code set)](../schemas/brand-palette-selected-small-code-set.md) (Schema)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

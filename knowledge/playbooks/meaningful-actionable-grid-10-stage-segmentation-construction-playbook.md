@@ -140,3 +140,17 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [A segmentation is a map, not the market](../principles/a-segmentation-is-a-map-not-the-market.md) (Principle)
+- [Record cross-segment influence only when the relationship is specific](../principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md) (Principle)
+- [Segment Profile (name / population / value / market share)](../schemas/segment-profile-name-population-value-market-share.md) (Schema)
+- [Segment Spillover Record (segment A influences segment B)](../schemas/segment-spillover-record-segment-a-influences-segment-b.md) (Schema)
+- [Segment boundaries must preserve meaningful differences](../principles/segment-boundaries-must-preserve-meaningful-differences.md) (Principle)
+- [Segment names should carry insight, not priority](../principles/segment-names-should-carry-insight-not-priority.md) (Principle)
+- [Segmentation Process (top-level 5-step sequence)](segmentation-process-top-level-5-step-sequence.md) (Playbook)
+- [Segments must be coherent and large enough to serve](../principles/segments-must-be-coherent-and-large-enough-to-serve.md) (Principle)
+- [Standard Criteria for Segmentation (9-question validation checklist)](standard-criteria-for-segmentation-9-question-validation-checklist.md) (Playbook)

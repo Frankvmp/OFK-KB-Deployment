@@ -114,3 +114,16 @@ This ordered process is embedded here because it is self-contained within the or
 **Output:** Deep ethnographic insight (B2C); for B2B, a naturally-sampled view of the buying committee.
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Build and Populate a Custom Marketing Funnel](../playbooks/build-and-populate-a-custom-marketing-funnel.md) (Playbook)
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Market intelligence must circulate, and response is judgement](../principles/market-intelligence-must-circulate-and-response-is-judgement.md) (Principle)
+- [Pricing decisions require customer evidence, not internal intuition](../principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md) (Principle)
+- [Qualitative depth does not establish population magnitude](../principles/qualitative-depth-does-not-establish-population-magnitude.md) (Principle)
+- [Quantitative extrapolation requires a representative sample](../principles/quantitative-extrapolation-requires-a-representative-sample.md) (Principle)
+- [The value of creative pre-testing depends on method and context](../principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md) (Principle)
+- [Understand customers in their real context](../principles/understand-customers-in-their-real-context.md) (Principle)

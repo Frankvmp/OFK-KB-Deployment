@@ -40,3 +40,13 @@ This Principle is about establishing the option set. It is not a claim that qual
 - Do not convert an internally generated option list directly into a survey without qualitative checking.
 - Do not mistake statistical significance for completeness of the variables measured.
 - Do not ask respondents to choose among options that omit a plausible market alternative.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Qualitative depth does not establish population magnitude](qualitative-depth-does-not-establish-population-magnitude.md) (Principle)
+- [Revealed choices can be more informative than stated explanations](revealed-choices-can-be-more-informative-than-stated-explanations.md) (Principle)
+- [Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)](../playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md) (Playbook)

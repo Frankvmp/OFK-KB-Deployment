@@ -37,3 +37,11 @@ Demographics remain useful identifiers. The Principle rejects treating them as a
 - Do not infer needs from demographic membership alone.
 - Do not claim every member shares the group's average demographic profile.
 - Do not omit demographic data when it can help identify an evidence-based behavioural group.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)

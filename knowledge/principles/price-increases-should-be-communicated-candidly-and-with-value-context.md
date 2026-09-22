@@ -39,3 +39,11 @@ This Principle governs the content and posture of the communication. It does not
 - Do not omit the reason or the use of the additional money.
 - Do not repeat the new amount without restating the offer's value.
 - Do not use communication quality to justify an unsupported price level.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

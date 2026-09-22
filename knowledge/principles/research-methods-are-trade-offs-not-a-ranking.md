@@ -40,3 +40,11 @@ The source material begins to name “research architecture,” but ends before 
 - Do not rank methods without reference to the research question.
 - Do not treat evidence from one method as if it provides every kind of insight.
 - Do not infer the missing research-architecture process beyond the source cutoff at 00:59:31.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Research informs understanding, not strategy](../frameworks/research-informs-understanding-not-strategy.md) (Framework)

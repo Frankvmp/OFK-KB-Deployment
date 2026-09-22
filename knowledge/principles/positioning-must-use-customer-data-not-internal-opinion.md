@@ -39,3 +39,12 @@ Management judgement still chooses the position. Customer evidence supplies the 
 - Do not define competitors only from the organisation's category list.
 - Label internally constructed maps as hypotheses until customer evidence tests them.
 - Do not present a two-dimensional map as complete when more attributes matter.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Three Cs (positioning test: Consumer -> Competitor -> Company)](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) (Playbook)

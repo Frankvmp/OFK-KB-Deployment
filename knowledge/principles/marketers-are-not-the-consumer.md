@@ -42,3 +42,13 @@ It does not mean inventing a fictional persona and guessing how that person woul
 
 - Do not use internal taste, expertise, or a fictional single customer as a substitute for market evidence.
 - Do not interpret “you are not the consumer” as a claim that marketers can never understand consumers; it is a warning against treating internal projection as understanding.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)](../playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md) (Playbook)
+- [Market orientation](../frameworks/market-orientation.md) (Framework)
+- [Market orientation must precede market research](market-orientation-must-precede-market-research.md) (Principle)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Understand customers in their real context](understand-customers-in-their-real-context.md) (Principle)

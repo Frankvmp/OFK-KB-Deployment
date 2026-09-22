@@ -38,3 +38,11 @@ Multichannel means that several channels exist. Omnichannel requires integration
 - Do not attempt every possible channel before the priority channels work together.
 - Do not claim that every organisation must use exactly two or three channels.
 - Verify integration through actual customer journeys, data continuity, returns, payment, loyalty, and service capabilities.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Three Phases to Omnichannel](../playbooks/three-phases-to-omnichannel.md) (Playbook)

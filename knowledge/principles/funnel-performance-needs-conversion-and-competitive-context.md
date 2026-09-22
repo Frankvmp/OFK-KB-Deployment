@@ -37,3 +37,10 @@ Conversion and comparison identify where performance differs. They do not explai
 - Do not rank stages by total-market percentage alone.
 - Do not treat a competitor average as a universal performance threshold.
 - Do not infer the cause of underperformance from the comparison itself.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

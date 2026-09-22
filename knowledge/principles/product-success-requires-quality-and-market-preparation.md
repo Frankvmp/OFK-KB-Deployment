@@ -39,3 +39,11 @@ Market preparation does not repair a defective product. Product quality does not
 - Do not treat promotion as a substitute for product quality.
 - Do not postpone market preparation until development is complete.
 - Do not assume passing product tests guarantees market adoption.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Market orientation](../frameworks/market-orientation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

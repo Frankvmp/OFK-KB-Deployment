@@ -38,3 +38,10 @@ Triangulation can increase confidence, but the source presents it as a probable 
 - Do not assume that multiple sources are independent or equally reliable.
 - Do not treat older or partial secondary evidence as current or complete.
 - Do not invent missing detail when the underlying data cannot be explored further.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

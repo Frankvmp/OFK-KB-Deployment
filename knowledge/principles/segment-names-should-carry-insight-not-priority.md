@@ -36,3 +36,10 @@ Naming describes a segment; it does not rank it. Labels such as “Gold” or �
 - Do not use names that state target priority.
 - Do not use themed labels whose connection to the segment breaks down.
 - Do not use labels that customers or colleagues could reasonably regard as derogatory.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Meaningful Actionable Grid (10-stage segmentation-construction playbook)](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

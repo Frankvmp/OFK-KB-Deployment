@@ -91,3 +91,21 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Build and Populate a Custom Marketing Funnel](build-and-populate-a-custom-marketing-funnel.md) (Playbook)
+- [Customer alternatives define segment-relative competition](../principles/customer-alternatives-define-segment-relative-competition.md) (Principle)
+- [Customer scope extends beyond the immediate buyer](../principles/customer-scope-extends-beyond-the-immediate-buyer.md) (Principle)
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Discover behavioural groups before using demographics as identifiers](../principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md) (Principle)
+- [Do not combine markets when aggregation erases differences](../principles/do-not-combine-markets-when-aggregation-erases-differences.md) (Principle)
+- [Map the whole market before choosing targets](../principles/map-the-whole-market-before-choosing-targets.md) (Principle)
+- [Meaningful Actionable Grid (10-stage segmentation-construction playbook)](meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) (Playbook)
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Research reveals complexity; segmentation organises it](../principles/research-reveals-complexity-segmentation-organises-it.md) (Principle)
+- [Segment B2B markets at the account level](../principles/segment-b2b-markets-at-the-account-level.md) (Principle)
+- [Segmentation is an option, not a default](../principles/segmentation-is-an-option-not-a-default.md) (Principle)
+- [The funnel base must match the selected target](../principles/funnel-base-must-match-the-selected-target.md) (Principle)

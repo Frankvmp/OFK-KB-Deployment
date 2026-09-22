@@ -37,3 +37,11 @@ A code identifies the brand. A position supplies the intended associations that 
 - Do not evaluate a code only by whether it communicates a benefit.
 - Do not assume easy recognition establishes meaningful superiority.
 - Keep recognisability and relative preference as separate tests.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand Palette (selected small code set)](../schemas/brand-palette-selected-small-code-set.md) (Schema)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

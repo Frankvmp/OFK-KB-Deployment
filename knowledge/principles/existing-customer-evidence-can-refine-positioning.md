@@ -38,3 +38,12 @@ Loyal customers are an evidence source, not the sole target by default. Their in
 - Do not treat one enthusiastic customer as representative evidence.
 - Do not copy customer language without testing its strategic relevance.
 - Do not assume the original position must remain unchanged when evidence reveals a stronger association.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Three Cs (positioning test: Consumer -> Competitor -> Company)](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) (Playbook)

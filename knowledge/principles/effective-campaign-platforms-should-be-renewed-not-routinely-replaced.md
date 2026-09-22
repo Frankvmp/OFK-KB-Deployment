@@ -38,3 +38,11 @@ Persistence does not require keeping a campaign after the product, strategy, or 
 - Test current performance rather than assuming either wearout or permanence.
 - Replace work when the strategy, product, or evidence requires it.
 - Refresh executions without casually abandoning the central idea and codes.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand tracking](../frameworks/brand-tracking.md) (Framework)
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

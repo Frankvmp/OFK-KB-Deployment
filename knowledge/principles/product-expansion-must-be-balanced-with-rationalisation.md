@@ -38,3 +38,10 @@ Rationalisation is not opposition to innovation. Expansion and contraction form 
 - Do not evaluate products by revenue alone; examine profit contribution and resource burden.
 - Do not hide the possibility of a temporary revenue decline.
 - Do not remove products without product-level evidence and transition planning.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

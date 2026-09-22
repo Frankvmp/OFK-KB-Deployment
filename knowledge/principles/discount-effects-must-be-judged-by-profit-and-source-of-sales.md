@@ -39,3 +39,11 @@ More units sold is not the same as more value retained. A promotion can increase
 - Do not count displaced or subsidised purchases as wholly incremental.
 - Do not evaluate a promotion only through revenue or unit sales.
 - Do not assume additional volume will restore the lost margin without calculation.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

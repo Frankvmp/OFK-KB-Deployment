@@ -238,3 +238,17 @@ This ordered process is embedded here because it is self-contained within the or
 **Output:** A multi-year budget allocation strategy; validated by the Cadbury generosity campaign case study.
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand building and activation should work together without forcing both into one execution](../principles/brand-building-and-activation-should-work-together-without-forcing-both-into-one-execution.md) (Principle)
+- [Channel breadth must not outrun viable investment](../principles/channel-breadth-must-not-outrun-viable-investment.md) (Principle)
+- [Communications effectiveness comes from an interacting system, not one lever](../principles/communications-effectiveness-comes-from-an-interacting-system-not-one-lever.md) (Principle)
+- [Complementary approaches can outperform either-or choices](../principles/complementary-approaches-can-outperform-either-or-choices.md) (Principle)
+- [Complementary channels can create more-than-additive effects](../principles/complementary-channels-can-create-more-than-additive-effects.md) (Principle)
+- [Effective campaign platforms should be renewed, not routinely replaced](../principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md) (Principle)
+- [Long-and-short budget allocation must fit the context](../principles/long-and-short-budget-allocation-must-fit-the-context.md) (Principle)
+- [Long-term brand building and short-term activation require different measures](../principles/long-term-brand-building-and-short-term-activation-require-different-measures.md) (Principle)
+- [Media roles are determined by use, not channel label](../principles/media-roles-are-determined-by-use-not-channel-label.md) (Principle)

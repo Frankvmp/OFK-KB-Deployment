@@ -36,3 +36,10 @@ Association transfer is a customer perception to test, not an automatic guarante
 - Do not select a partner only for fame or reach.
 - Do not assume every association transfers or that negative effects are impossible.
 - Require a credible reason for the brands to create the offer together.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

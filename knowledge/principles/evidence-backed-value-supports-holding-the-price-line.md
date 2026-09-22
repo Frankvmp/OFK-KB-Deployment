@@ -39,3 +39,12 @@ Holding price is not the same as always choosing a premium price. The price must
 - Do not defend a price when the product or strategy is materially wrong.
 - Do not equate resisting discounts with selecting the highest possible price.
 - Non-price promotions can be considered when they reinforce the brand and its value associations.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

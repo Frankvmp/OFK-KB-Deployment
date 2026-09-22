@@ -56,3 +56,13 @@ separate touchpoint questionnaire.
 - Do not treat attitudinal answers as observed behaviour.
 - Do not duplicate the entire questionnaire for every downstream use.
 - Do not hard-code client-specific questions into this reusable schema.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Build and Populate a Custom Marketing Funnel](../playbooks/build-and-populate-a-custom-marketing-funnel.md) (Playbook)
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Meaningful Actionable Grid (10-stage segmentation-construction playbook)](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) (Playbook)
+- [Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)](../playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md) (Playbook)
+- [Touch-Point Measurement and Prioritisation Process](../playbooks/touch-point-measurement-and-prioritisation-process.md) (Playbook)

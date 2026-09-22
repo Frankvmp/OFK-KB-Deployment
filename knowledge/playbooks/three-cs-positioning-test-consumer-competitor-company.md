@@ -71,3 +71,14 @@ Used as both a diagnostic test (applied to an existing position, e.g. Starbucks)
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Differentiation seeks relative advantage, not uniqueness](../principles/differentiation-seeks-relative-advantage-not-uniqueness.md) (Principle)
+- [Existing-customer evidence can refine positioning](../principles/existing-customer-evidence-can-refine-positioning.md) (Principle)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Positioning must use customer data, not internal opinion](../principles/positioning-must-use-customer-data-not-internal-opinion.md) (Principle)
+- [Positioning promises must be deliverable](../principles/positioning-promises-must-be-deliverable.md) (Principle)
+- [Positioning works backwards from intended customer associations](../principles/positioning-works-backwards-from-intended-customer-associations.md) (Principle)

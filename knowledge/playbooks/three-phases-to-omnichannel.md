@@ -76,3 +76,10 @@ No additional boundary is recorded in the source register. Do not add steps, thr
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Omnichannel quality depends on integration, not channel count](../principles/omnichannel-quality-depends-on-integration-not-channel-count.md) (Principle)

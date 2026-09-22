@@ -40,3 +40,12 @@ Continuous improvement is not uncontrolled feature accumulation. Changes should 
 - Do not reserve product input only for new-product launches.
 - Do not assume an in-market product is optimal because it is currently successful.
 - Do not add changes without customer evidence or strategic fit.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Touch-Point Measurement and Prioritisation Process](../playbooks/touch-point-measurement-and-prioritisation-process.md) (Playbook)
+- [Touchpoints](../frameworks/touchpoints.md) (Framework)

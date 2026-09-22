@@ -38,3 +38,12 @@ Framing does not change the nominal amount being charged. It changes the context
 - Do not assume customers evaluate every price through complete information and calculation.
 - Do not confuse a framing effect with evidence that any framing device will work in every context.
 - Do not misrepresent the actual price or terms.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

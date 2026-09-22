@@ -119,3 +119,26 @@ This ordered process is embedded here because it is self-contained within the or
 **Output:** A specific selected price point (worked example: a selected price of £1,500).
 
 **Boundary:** Do not add steps, thresholds, or prerequisites that the source does not specify.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Channel management depends on interdependent partners](../principles/channel-management-depends-on-interdependent-partners.md) (Principle)
+- [Communications investment and expected return must move together](../principles/communications-investment-and-expected-return-must-move-together.md) (Principle)
+- [Consolidated retail power must be managed, not assumed controllable](../principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md) (Principle)
+- [Direct-channel control does not guarantee scale or profitability](../principles/direct-channel-control-does-not-guarantee-scale-or-profitability.md) (Principle)
+- [Discount effects must be judged by profit and source of sales](../principles/discount-effects-must-be-judged-by-profit-and-source-of-sales.md) (Principle)
+- [Evidence-backed value supports holding the price line](../principles/evidence-backed-value-supports-holding-the-price-line.md) (Principle)
+- [Grey-market leakage can become self-reinforcing](../principles/grey-market-leakage-can-become-self-reinforcing.md) (Principle)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Marketing must create value for both customers and the organisation](../principles/marketing-must-create-value-for-both-customers-and-the-organisation.md) (Principle)
+- [Price increases should be communicated candidly and with value context](../principles/price-increases-should-be-communicated-candidly-and-with-value-context.md) (Principle)
+- [Price presentation shapes perceived value and demand](../principles/price-presentation-shapes-perceived-value-and-demand.md) (Principle)
+- [Price should follow customer perceived value, not cost-plus arithmetic](../principles/price-should-follow-customer-perceived-value-not-cost-plus-arithmetic.md) (Principle)
+- [Pricing is the revenue-producing element of the marketing mix](../principles/pricing-is-the-revenue-producing-element-of-the-marketing-mix.md) (Principle)
+- [Pricing power combines value perception with the ability to hold price](../principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md) (Principle)
+- [Profit, not revenue, is the primary commercial test](../principles/profit-not-revenue-is-the-primary-commercial-test.md) (Principle)
+- [Resellers must retain independent price-setting](../principles/resellers-must-retain-independent-price-setting.md) (Principle)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Underpricing can be harder to correct than overpricing](../principles/underpricing-can-be-harder-to-correct-than-overpricing.md) (Principle)

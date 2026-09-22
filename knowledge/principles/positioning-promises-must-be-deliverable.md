@@ -36,3 +36,11 @@ An internal capability-development ambition can guide investment. It should not 
 - Do not substitute aspiration for present capability.
 - Verify operational delivery across the relevant touchpoints.
 - If capability must be built, separate that plan from the current market promise.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Three Cs (positioning test: Consumer -> Competitor -> Company)](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) (Playbook)

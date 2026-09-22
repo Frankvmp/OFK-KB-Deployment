@@ -39,3 +39,11 @@ Measurement identifies priority candidates; it does not explain the cause of poo
 - Do not invent a touchpoint map from internal workshops alone.
 - Do not prioritise only by average rating; also consider variation and prevalence.
 - Do not assume a change worked without repeating the measurement.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Touch-Point Measurement and Prioritisation Process](../playbooks/touch-point-measurement-and-prioritisation-process.md) (Playbook)
+- [Touchpoints](../frameworks/touchpoints.md) (Framework)

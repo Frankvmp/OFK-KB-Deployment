@@ -38,3 +38,12 @@ Interdependence does not mean every party has equal power or must receive equal 
 - Do not assume conflict proves that the channel has failed.
 - Do not promise complete satisfaction across all partners.
 - Do not use relationship management to justify unlawful influence over a reseller's independent pricing.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

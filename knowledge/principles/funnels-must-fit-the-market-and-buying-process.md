@@ -37,3 +37,11 @@ Custom does not mean unconstrained. The stages still need a logical sequence, a 
 - Do not assume awareness, consideration, preference, and purchase are universal stages.
 - Do not add stages merely to make the funnel appear comprehensive.
 - Do not confuse a market-specific funnel with an unrestricted customer-journey map.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Build and Populate a Custom Marketing Funnel](../playbooks/build-and-populate-a-custom-marketing-funnel.md) (Playbook)
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

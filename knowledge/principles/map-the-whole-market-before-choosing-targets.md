@@ -38,3 +38,13 @@ The [Segmentation Process](../playbooks/segmentation-process-top-level-5-step-se
 - Do not exclude a segment merely because it is unlikely to be targeted.
 - Do not label segments by target priority during segmentation.
 - Do not interpret an apparent opportunity as a targeting decision until the map is complete.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)
+- [Standard Criteria for Segmentation (9-question validation checklist)](../playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md) (Playbook)

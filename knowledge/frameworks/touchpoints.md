@@ -96,3 +96,14 @@ and competitor scores rather than as an absolute universal score.
 - Do not improve touchpoints without checking whether they deliver the intended
   positioning.
 - Do not invent a universal rating scale, cadence, or priority threshold.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Existing products should be continuously improved](../principles/existing-products-should-be-continuously-improved.md) (Principle)
+- [NPS is a contextual learning measure, not a growth predictor](../principles/nps-is-a-contextual-learning-measure-not-a-growth-predictor.md) (Principle)
+- [Positioning is internal strategy expressed through touchpoints](../principles/positioning-is-internal-strategy-expressed-through-touchpoints.md) (Principle)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Touchpoint priorities must be measured, not assumed](../principles/touchpoint-priorities-must-be-measured-not-assumed.md) (Principle)
+- [Touchpoints and funnels answer different questions](../principles/touchpoints-and-funnels-answer-different-questions.md) (Principle)

@@ -129,3 +129,20 @@ This ordered process is embedded here because it is self-contained within the or
 **Output:** An organization that has acted on (or deliberately not acted on) market intelligence.
 
 **Boundary:** CONTESTED / lower confidence: the surrounding text is stated in definitional tense ('market orientation meant... there was...'), describing traits of market-oriented firms, not an imperative build procedure. Only this 3-link back half (generate->irrigate->respond) has genuine sequential dependency language ('once they gathered... finally'). Do not over-state as a 5-step 'how to build market orientation' playbook.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Customer alternatives define segment-relative competition](../principles/customer-alternatives-define-segment-relative-competition.md) (Principle)
+- [Customer scope extends beyond the immediate buyer](../principles/customer-scope-extends-beyond-the-immediate-buyer.md) (Principle)
+- [Customers buy solutions to jobs, not products as defined internally](../principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md) (Principle)
+- [Four Ps](four-ps.md) (Framework)
+- [Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)](../playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md) (Playbook)
+- [Market intelligence must circulate, and response is judgement](../principles/market-intelligence-must-circulate-and-response-is-judgement.md) (Principle)
+- [Market orientation must precede market research](../principles/market-orientation-must-precede-market-research.md) (Principle)
+- [Marketers are not the consumer](../principles/marketers-are-not-the-consumer.md) (Principle)
+- [Marketing is broader than advertising and sales](../principles/marketing-is-broader-than-advertising-and-sales.md) (Principle)
+- [Marketing's prime directive is to represent the customer](../principles/marketing-prime-directive-represent-the-customer.md) (Principle)
+- [Product success requires quality and market preparation](../principles/product-success-requires-quality-and-market-preparation.md) (Principle)
+- [Three Cs (positioning test: Consumer -> Competitor -> Company)](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) (Playbook)

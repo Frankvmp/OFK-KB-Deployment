@@ -36,3 +36,11 @@ A systemic view does not require maximising every factor or using every channel.
 - Do not turn the checklist into an unprioritised requirement to maximise everything.
 - Diagnose the current constraint before selecting an intervention.
 - Preserve interaction and strategic coherence when optimising individual parts.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)

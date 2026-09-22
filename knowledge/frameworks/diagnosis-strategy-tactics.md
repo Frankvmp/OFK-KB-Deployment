@@ -91,3 +91,21 @@ repeated explicitly when moving from strategy into tactical work.
 The framework is supported by the selected Principles in the Diagnosis,
 Strategy, and Strategy-to-tactics groups above. It is also expressed through
 the strategic-to-tactical transition into the [Four Ps](four-ps.md).
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Funnel](funnel.md) (Framework)
+- [Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)](../playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md) (Playbook)
+- [Map the whole market before choosing targets](../principles/map-the-whole-market-before-choosing-targets.md) (Principle)
+- [Market intelligence must circulate, and response is judgement](../principles/market-intelligence-must-circulate-and-response-is-judgement.md) (Principle)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Marketing is broader than advertising and sales](../principles/marketing-is-broader-than-advertising-and-sales.md) (Principle)
+- [Marketing's prime directive is to represent the customer](../principles/marketing-prime-directive-represent-the-customer.md) (Principle)
+- [Objectives should follow funnel diagnosis](../principles/objectives-should-follow-funnel-diagnosis.md) (Principle)
+- [Positioning is internal strategy expressed through touchpoints](../principles/positioning-is-internal-strategy-expressed-through-touchpoints.md) (Principle)
+- [Settle strategy before selecting tactics](../principles/settle-strategy-before-selecting-tactics.md) (Principle)
+- [Strategy requires choice and sacrifice](../principles/strategy-requires-choice-and-sacrifice.md) (Principle)
+- [Strategy should be disciplined while tactics remain agile](../principles/strategy-should-be-disciplined-while-tactics-remain-agile.md) (Principle)
+- [Targeting, positioning, and objectives must cohere](../principles/targeting-positioning-and-objectives-must-cohere.md) (Principle)

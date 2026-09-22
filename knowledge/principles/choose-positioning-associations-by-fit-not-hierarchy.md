@@ -36,3 +36,11 @@ The ladder is a vocabulary menu and analytical aid, not a mandatory sequence the
 - Do not assume purpose is the best position because it is the highest rung.
 - Do not combine levels unless they reinforce a coherent intended association.
 - Choose from evidence about the target, alternatives, and company capability.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Positioning Statement Build Order (to -> what -> versus -> is)](../playbooks/positioning-statement-build-order-to-what-versus-is.md) (Playbook)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

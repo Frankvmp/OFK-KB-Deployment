@@ -56,3 +56,10 @@ describes the committee members, their interactions, and what matters to them.
 - Do not assume every company in the total population is in the market.
 - Do not prescribe demographic or firmographic filters without business-
   specific evidence.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)

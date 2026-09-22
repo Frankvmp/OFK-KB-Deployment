@@ -38,3 +38,11 @@ Campaign-level measurement does not mean ignoring commercial outcomes. It separa
 - Do not claim causal contribution from simple first- or last-touch attribution.
 - Match the method to the question and channel scope.
 - Use findings to adjust decisions rather than only to report success.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand tracking](../frameworks/brand-tracking.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)

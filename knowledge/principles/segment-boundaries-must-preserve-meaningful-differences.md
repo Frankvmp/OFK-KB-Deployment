@@ -37,3 +37,11 @@ A variable can be statistically measurable without providing a meaningful bounda
 - Do not choose round-number thresholds without a market or operating rationale.
 - Do not keep distinctions that never change interpretation or action.
 - Do not collapse groups that require materially different portraits, offers, or positioning.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Meaningful Actionable Grid (10-stage segmentation-construction playbook)](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Standard Criteria for Segmentation (9-question validation checklist)](../playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md) (Playbook)

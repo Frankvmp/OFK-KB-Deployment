@@ -34,3 +34,10 @@ This Principle applies to target selection, not to the later allocation of diffe
 - Do not use priority labels as a substitute for rejecting segments.
 - Do not infer that every selected target must receive equal resources.
 - Document the non-targets as clearly as the targets.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

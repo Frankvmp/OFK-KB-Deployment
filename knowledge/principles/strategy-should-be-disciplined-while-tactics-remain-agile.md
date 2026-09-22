@@ -38,3 +38,13 @@ Discipline does not mean tactics are fixed. Agility does not mean target, positi
 - Do not confuse tactical adaptation with strategic revision.
 - Revisit strategy when its assumptions or planning period materially change, not for every executional event.
 - Do not use stability as a reason to ignore evidence that the strategy has become invalid.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)

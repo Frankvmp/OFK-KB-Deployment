@@ -37,3 +37,10 @@ Separate executions are not separate strategies. Both should serve the same bran
 - Do not infer that every combined execution will fail.
 - Do not merge objectives and measures merely to simplify the plan.
 - Preserve strategic and brand coherence across separate executions.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

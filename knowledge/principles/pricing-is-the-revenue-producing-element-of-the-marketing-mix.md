@@ -37,3 +37,11 @@ This Principle concerns pricing's role in the marketing mix. It does not reduce 
 - Do not infer that revenue alone proves the price is profitable.
 - Do not isolate pricing from the other Ps.
 - Do not equate the pricing process with attaching a number to an offer.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

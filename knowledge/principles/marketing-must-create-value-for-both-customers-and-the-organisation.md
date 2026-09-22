@@ -38,3 +38,11 @@ Customer value is not the same as low price. Organisational value is not the sam
 - Do not maximise extraction at the expense of a credible customer offer.
 - Do not maximise customer giveaway without considering the organisation's return.
 - Do not treat one side of the value exchange as a substitute for the other.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

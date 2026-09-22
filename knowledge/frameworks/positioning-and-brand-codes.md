@@ -128,3 +128,20 @@ formula beyond comparing those two percentages.
 - Do not promise a position the organisation cannot deliver.
 - Do not invent gold, silver, or bronze thresholds when the source does not
   specify them.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand Palette (selected small code set)](../schemas/brand-palette-selected-small-code-set.md) (Schema)
+- [Brand codes should be few, stable, and consistently applied](../principles/brand-codes-should-be-few-stable-and-consistently-applied.md) (Principle)
+- [Brand-specific code evidence can override category averages](../principles/brand-specific-code-evidence-can-override-category-averages.md) (Principle)
+- [Complementary approaches can outperform either-or choices](../principles/complementary-approaches-can-outperform-either-or-choices.md) (Principle)
+- [Complex thinking should produce simple strategy](../principles/complex-thinking-should-produce-simple-strategy.md) (Principle)
+- [Customer alternatives define segment-relative competition](../principles/customer-alternatives-define-segment-relative-competition.md) (Principle)
+- [Differentiation seeks relative advantage, not uniqueness](../principles/differentiation-seeks-relative-advantage-not-uniqueness.md) (Principle)
+- [Distinctiveness is recognition, not competitive superiority](../principles/distinctiveness-is-recognition-not-competitive-superiority.md) (Principle)
+- [Emotional communication can outperform rational persuasion](../principles/emotional-communication-can-outperform-rational-persuasion.md) (Principle)
+- [Media delivery cannot compensate for weak creative](../principles/media-delivery-cannot-compensate-for-weak-creative.md) (Principle)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Touch-Point Measurement and Prioritisation Process](../playbooks/touch-point-measurement-and-prioritisation-process.md) (Playbook)

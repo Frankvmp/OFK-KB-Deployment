@@ -36,3 +36,10 @@ Influence is not unilateral authority. This Principle requires informed particip
 - Do not equate lack of formal control with lack of responsibility for input.
 - Do not reduce marketing to promotion or agency management.
 - Do not use marketing influence to bypass operational expertise or decision rights.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

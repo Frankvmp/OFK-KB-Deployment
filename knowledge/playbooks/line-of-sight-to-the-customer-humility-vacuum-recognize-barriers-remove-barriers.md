@@ -74,3 +74,11 @@ Note on provenance: the separately-tagged 'Verify instincts with the marketplace
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market orientation must precede market research](../principles/market-orientation-must-precede-market-research.md) (Principle)
+- [Marketers are not the consumer](../principles/marketers-are-not-the-consumer.md) (Principle)
+- [Understand customers in their real context](../principles/understand-customers-in-their-real-context.md) (Principle)

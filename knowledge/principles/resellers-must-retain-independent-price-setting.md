@@ -38,3 +38,11 @@ A recommended resale price is not the same as an enforceable minimum. The source
 - Do not use incentives that effectively create a minimum resale price.
 - Do not treat this extracted Principle as jurisdiction-specific legal advice; verify current law and obtain qualified advice for the market concerned.
 - Do not broaden the source's caution into a claim that every discussion of price with an external party is unlawful.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

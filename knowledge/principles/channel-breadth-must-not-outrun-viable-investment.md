@@ -36,3 +36,10 @@ The evidence does not establish one universal optimum number of channels. It sup
 - Do not count channels without checking investment adequacy.
 - Do not assume every additional channel is suitable for the target, position, objective, or message.
 - Do not infer a universal channel count from campaign averages.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

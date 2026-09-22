@@ -38,3 +38,13 @@ This Principle does not delay all operational work until every uncertainty disap
 - Do not infer strategy from a preferred tactic.
 - Do not treat tactical urgency as permission to skip target, position, or objective choices.
 - Reject tactics that conflict with the settled strategy, even when they are attractive in isolation.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Settle the Strategy Before Execution](../playbooks/settle-the-strategy-before-execution.md) (Playbook)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)

@@ -38,3 +38,11 @@ Realistic does not mean conservative, and ambitious does not mean unconstrained.
 - Do not select a target value without a current benchmark.
 - Do not copy an improvement rate from a different funnel stage without testing comparability.
 - Do not present judgement-based projections as certain forecasts.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)

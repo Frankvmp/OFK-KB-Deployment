@@ -42,3 +42,12 @@ This Principle extends [Marketers are not the consumer](marketers-are-not-the-co
 - Do not infer the full market from a small number of contextual observations.
 - Do not replace field observation with imagined customer behaviour.
 - Do not let researcher expertise suppress basic questions that would expose how the customer understands the situation.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)](../playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md) (Playbook)
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Research informs understanding, not strategy](../frameworks/research-informs-understanding-not-strategy.md) (Framework)

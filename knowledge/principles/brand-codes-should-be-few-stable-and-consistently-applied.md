@@ -37,3 +37,11 @@ Codes may be arbitrary identifiers. They do not all need to explain the position
 - Do not add codes merely to create variety.
 - Do not change established codes because internal teams tire of them.
 - Apply the selected palette beyond advertising wherever customers encounter the brand.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand Palette (selected small code set)](../schemas/brand-palette-selected-small-code-set.md) (Schema)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

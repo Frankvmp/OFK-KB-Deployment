@@ -37,3 +37,10 @@ Defining the mass market is required in either case. That definition establishes
 - Do not segment solely because segmentation is conventional practice.
 - Do not choose mass marketing solely to avoid analytical effort.
 - Do not skip the mass-market definition, whichever strategic option is later selected.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Segmentation Process (top-level 5-step sequence)](../playbooks/segmentation-process-top-level-5-step-sequence.md) (Playbook)

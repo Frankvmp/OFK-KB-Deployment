@@ -38,3 +38,11 @@ Accepting a power constraint is not passive approval of every retailer action. I
 - Do not recommend threats or supply pressure as a pricing remedy.
 - Do not assume withdrawal is commercially or legally available without evidence.
 - Do not generalise one retailer relationship without assessing the actual power, economics, contracts, and law.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

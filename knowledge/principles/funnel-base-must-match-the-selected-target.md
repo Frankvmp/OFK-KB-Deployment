@@ -39,3 +39,11 @@ A stage-to-stage conversion rate uses the preceding stage as its denominator. Th
 - Do not use only already-recognised or already-engaged customers as the base when the target is broader.
 - Do not combine segment funnels whose populations follow materially different paths.
 - Do not confuse funnel-stage percentages with stage-to-stage conversion rates.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Build and Populate a Custom Marketing Funnel](../playbooks/build-and-populate-a-custom-marketing-funnel.md) (Playbook)
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

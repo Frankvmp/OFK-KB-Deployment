@@ -37,3 +37,11 @@ Taking time is not indefinite delay. The purpose is to improve the quality and c
 - Do not let tactical workload eliminate strategic review.
 - Do not treat delay by itself as evidence of deeper thinking.
 - Set a clear decision point so protected thinking leads to action.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Settle the Strategy Before Execution](../playbooks/settle-the-strategy-before-execution.md) (Playbook)

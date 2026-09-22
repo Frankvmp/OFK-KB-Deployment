@@ -40,3 +40,10 @@ This Principle explains why choice-based methods such as conjoint analysis can b
 - Do not treat every stated response as dishonest; the source identifies limits of knowledge and articulation.
 - Do not treat conjoint as a complete representation of real-world decision-making.
 - Do not run choice analysis before confirming that the relevant attributes and alternatives are present.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

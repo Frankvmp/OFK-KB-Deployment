@@ -54,3 +54,9 @@ codes needed by a communications brief.
 - Do not fill the “to” slot from intuition when a researched portrait exists.
 - Do not claim the position is deliverable without checking the company’s
   capabilities.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)

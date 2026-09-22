@@ -73,3 +73,13 @@ Explicitly stated to be structurally identical to the Three Cs: 'the positioning
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Choose positioning associations by fit, not hierarchy](../principles/choose-positioning-associations-by-fit-not-hierarchy.md) (Principle)
+- [Positioning Statement (to / what / versus / is)](../schemas/positioning-statement-to-what-versus-is.md) (Schema)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Positioning works backwards from intended customer associations](../principles/positioning-works-backwards-from-intended-customer-associations.md) (Principle)
+- [Targeting, positioning, and objectives must cohere](../principles/targeting-positioning-and-objectives-must-cohere.md) (Principle)

@@ -36,3 +36,11 @@ The result is an observed average, not a guarantee that every emotional executio
 - Do not treat a category average as a guaranteed campaign result.
 - Do not assume that combining rational and emotional content is always optimal.
 - Do not confuse emotional intensity with effective creative quality.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)

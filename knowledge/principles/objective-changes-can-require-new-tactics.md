@@ -37,3 +37,11 @@ Changing an objective does not automatically require changing the target or posi
 - Do not preserve tactics merely because they worked under an earlier objective.
 - Do not change the target or position when only the objective needs revision.
 - Do not infer a new objective from tactical preference; diagnose the market first.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Settle the Strategy Before Execution](../playbooks/settle-the-strategy-before-execution.md) (Playbook)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)

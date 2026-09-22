@@ -38,3 +38,12 @@ The internal articulation describes the intended association. It is not itself t
 - Do not treat completion of a brand document as proof of customer impact.
 - Do not stack multiple positioning formats without a clear need.
 - Keep the intended customer association explicit and concise.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Positioning Statement Build Order (to -> what -> versus -> is)](../playbooks/positioning-statement-build-order-to-what-versus-is.md) (Playbook)
+- [Positioning and brand codes](../frameworks/positioning-and-brand-codes.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Three Cs (positioning test: Consumer -> Competitor -> Company)](../playbooks/three-cs-positioning-test-consumer-competitor-company.md) (Playbook)

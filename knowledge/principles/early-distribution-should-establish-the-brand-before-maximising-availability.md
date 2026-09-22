@@ -39,3 +39,11 @@ This Principle governs sequencing, not permanent exclusivity. It does not say th
 - Do not copy Fiji Water's specific on-premise sequence without checking the brand's strategy and market.
 - Do not interpret gradual rollout as a reason to suppress viable availability after the brand-building purpose has been served.
 - Separate authorised channel choices from grey-market leakage that the brand did not choose.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Distribution Cadence (brand-first, phased channel rollout)](../playbooks/distribution-cadence-brand-first-phased-channel-rollout.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)

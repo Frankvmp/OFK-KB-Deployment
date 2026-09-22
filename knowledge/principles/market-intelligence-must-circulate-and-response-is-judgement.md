@@ -43,3 +43,12 @@ It is also distinct from [Research informs understanding; it does not supply str
 
 - Do not confuse responsiveness with agreeing to every customer request.
 - Do not treat intelligence as useful merely because marketing has collected it; the source explicitly places value on sharing it across the organisation.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Market orientation](../frameworks/market-orientation.md) (Framework)
+- [Marketing's prime directive is to represent the customer](marketing-prime-directive-represent-the-customer.md) (Principle)
+- [Principles](README.md) (Knowledge Base Folder)

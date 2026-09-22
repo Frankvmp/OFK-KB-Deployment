@@ -38,3 +38,13 @@ A list of desirable outcomes is not yet a strategy. Strategy creates a hierarchy
 - Do not call every opportunity a priority.
 - Make rejected options explicit enough to guide resource allocation.
 - Do not confuse sacrifice with permanently rejecting an opportunity; strategic choices can have a defined horizon.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Strategy directs each tactical P](../frameworks/strategy-directs-each-tactical-p.md) (Framework)

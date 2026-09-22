@@ -36,3 +36,11 @@ The tools can inform one another, but they retain different units of analysis, s
 - Do not use touchpoint ratings as funnel conversion measures.
 - Do not treat every individual's journey as the same sequence.
 - Do not use funnel stages as a complete map of product experience.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Touchpoints](../frameworks/touchpoints.md) (Framework)

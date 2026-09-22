@@ -43,3 +43,13 @@ The strategic system is iterative, not unordered. Targeting remains the starting
 - Do not finalise one strategic choice without testing it against the other two.
 - Do not restart the whole strategy for every minor tension; revise when the choices are materially inconsistent.
 - Keep tactics outside this coherence test until the strategy is settled.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Settle the Strategy Before Execution](../playbooks/settle-the-strategy-before-execution.md) (Playbook)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)

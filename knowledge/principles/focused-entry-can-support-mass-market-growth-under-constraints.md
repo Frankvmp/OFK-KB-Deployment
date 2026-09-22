@@ -36,3 +36,10 @@ Focused entry is not necessarily traditional segment targeting. The initial grou
 - Do not present the initial focus as a permanent brand boundary unless the strategy requires it.
 - Do not expand before the organisation can support broader reach.
 - A subcategory claim needs clear defining characteristics; a label alone does not create one.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

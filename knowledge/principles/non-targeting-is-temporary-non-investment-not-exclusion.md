@@ -37,3 +37,10 @@ Accepting business from a non-target is different from spending scarce marketing
 - Do not allocate targeted resources to a group while calling it a non-target.
 - Do not promise that a non-target will remain excluded indefinitely.
 - State the review horizon alongside the target decision.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](../playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)

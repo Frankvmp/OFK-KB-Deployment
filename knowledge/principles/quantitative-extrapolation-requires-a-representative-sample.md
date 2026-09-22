@@ -41,3 +41,12 @@ The [Three-Section Questionnaire Build Order](../playbooks/three-section-questio
 - Do not generalise from an unrepresentative qualitative group.
 - Do not treat a large sample as representative if important consumer types are absent.
 - Do not present sample percentages as exact population facts; retain the declared confidence and error limits.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)](../playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Research informs understanding, not strategy](../frameworks/research-informs-understanding-not-strategy.md) (Framework)
+- [Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)](../playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md) (Playbook)

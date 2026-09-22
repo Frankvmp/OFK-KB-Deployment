@@ -39,3 +39,12 @@ True economic value describes the offer's theoretical economic benefit. The sour
 - Do not treat true economic value as automatically perceived by customers.
 - Do not infer perceived value from internal opinion.
 - Do not assume one price suits every segment.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

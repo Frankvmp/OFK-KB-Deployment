@@ -107,3 +107,24 @@ Standard Targeting Checklist (step 3) is itself an unordered parallel-filter che
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Align marketing and sales targeting choices](../principles/align-marketing-and-sales-targeting-choices.md) (Principle)
+- [Complementary approaches can outperform either-or choices](../principles/complementary-approaches-can-outperform-either-or-choices.md) (Principle)
+- [Complex thinking should produce simple strategy](../principles/complex-thinking-should-produce-simple-strategy.md) (Principle)
+- [Customer alternatives define segment-relative competition](../principles/customer-alternatives-define-segment-relative-competition.md) (Principle)
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Focused entry can support mass-market growth under constraints](../principles/focused-entry-can-support-mass-market-growth-under-constraints.md) (Principle)
+- [Map the whole market before choosing targets](../principles/map-the-whole-market-before-choosing-targets.md) (Principle)
+- [Non-targeting is temporary non-investment, not exclusion](../principles/non-targeting-is-temporary-non-investment-not-exclusion.md) (Principle)
+- [Record cross-segment influence only when the relationship is specific](../principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md) (Principle)
+- [Segment B2B markets at the account level](../principles/segment-b2b-markets-at-the-account-level.md) (Principle)
+- [Strategic thinking requires protected time](../principles/strategic-thinking-requires-protected-time.md) (Principle)
+- [Strategy requires choice and sacrifice](../principles/strategy-requires-choice-and-sacrifice.md) (Principle)
+- [Target portraits must come from evidence, not invention](../principles/target-portraits-must-come-from-evidence-not-invention.md) (Principle)
+- [Targeting breadth must balance reach, cost, and message advantage](../principles/targeting-breadth-must-balance-reach-cost-and-message-advantage.md) (Principle)
+- [Targeting requires a clear yes-or-no choice](../principles/targeting-requires-a-clear-yes-or-no-choice.md) (Principle)
+- [Targeting, positioning, and objectives must cohere](../principles/targeting-positioning-and-objectives-must-cohere.md) (Principle)

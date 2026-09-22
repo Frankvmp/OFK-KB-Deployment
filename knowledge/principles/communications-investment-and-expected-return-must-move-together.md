@@ -37,3 +37,11 @@ The principle does not guarantee that a proposed investment will produce its for
 - Do not treat a sales-ratio budget as evidence that the spend is strategically sufficient.
 - Do not present an uncertain forecast as a guaranteed result.
 - Rebuild both the amount and its allocation when using a zero base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Target → position → objective](../frameworks/target-position-objective.md) (Framework)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

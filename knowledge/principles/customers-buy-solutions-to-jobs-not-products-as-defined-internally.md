@@ -38,3 +38,11 @@ The job is not the customer's demographic identity. Customer characteristics may
 - Do not define the job from product features alone.
 - Do not limit alternatives to the organisation's existing category.
 - Do not treat an appealing job statement as evidence without customer observation or inquiry.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Four Ps](../frameworks/four-ps.md) (Framework)
+- [Market orientation](../frameworks/market-orientation.md) (Framework)
+- [Principles](README.md) (Knowledge Base Folder)

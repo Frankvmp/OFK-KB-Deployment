@@ -91,3 +91,19 @@ This ordered process is embedded here because it is self-contained within the or
 **Output:** Full mass-market reach, achieved incrementally rather than immediately, when resources don't permit going wide from day one.
 
 **Boundary:** Illustrated only by the Facebook case study; a resource-constrained variant of 'Sophisticated Mass Marketing' (Framework), not a universally-prescribed procedure.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Communications investment and expected return must move together](../principles/communications-investment-and-expected-return-must-move-together.md) (Principle)
+- [Communications should be measured at campaign level and used to improve](../principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md) (Principle)
+- [Diagnosis → Strategy → Tactics](diagnosis-strategy-tactics.md) (Framework)
+- [Distribution Cadence (brand-first, phased channel rollout)](../playbooks/distribution-cadence-brand-first-phased-channel-rollout.md) (Playbook)
+- [Emotional communication can outperform rational persuasion](../principles/emotional-communication-can-outperform-rational-persuasion.md) (Principle)
+- [Four Ps](four-ps.md) (Framework)
+- [Objective changes can require new tactics](../principles/objective-changes-can-require-new-tactics.md) (Principle)
+- [Objective count is a team-level limit](../principles/objective-count-is-a-team-level-limit.md) (Principle)
+- [Objective targets must balance ambition and realism](../principles/objective-targets-must-balance-ambition-and-realism.md) (Principle)
+- [Strategy should be disciplined while tactics remain agile](../principles/strategy-should-be-disciplined-while-tactics-remain-agile.md) (Principle)
+- [Targeting, positioning, and objectives must cohere](../principles/targeting-positioning-and-objectives-must-cohere.md) (Principle)

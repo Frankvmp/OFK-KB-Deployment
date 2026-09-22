@@ -52,3 +52,11 @@ or revenue numbers that do not identify the intended marketing outcome.
 - Do not state a goal without a delivery period.
 - Do not use company revenue as a substitute for the marketing outcome.
 - Do not add client values to this schema file.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Brand tracking](../frameworks/brand-tracking.md) (Framework)
+- [Long-term brand building and short-term activation](../frameworks/long-term-brand-building-and-short-term-activation.md) (Framework)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)

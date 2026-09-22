@@ -39,3 +39,12 @@ Research informs the pricing decision; it does not remove managerial judgement. 
 - Do not treat a stated willingness-to-pay answer as complete behavioural proof.
 - Do not apply a research method without checking its suitability.
 - Do not present research as eliminating uncertainty or judgement.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Principles](README.md) (Knowledge Base Folder)
+- [Research informs understanding, not strategy](../frameworks/research-informs-understanding-not-strategy.md) (Framework)
+- [Seven-Step Route Out of Discounting](../playbooks/seven-step-route-out-of-discounting.md) (Playbook)
+- [Value and profitability](../frameworks/value-and-profitability.md) (Framework)

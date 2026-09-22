@@ -39,3 +39,11 @@ Similarity is relative rather than absolute. Members need not be identical, but 
 - Do not treat every observable category as a segment.
 - Do not create one-person segments merely to maximise similarity.
 - Do not combine materially different customers solely to reduce the number of groups.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Meaningful Actionable Grid (10-stage segmentation-construction playbook)](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) (Playbook)
+- [Principles](README.md) (Knowledge Base Folder)
+- [Standard Criteria for Segmentation (9-question validation checklist)](../playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md) (Playbook)

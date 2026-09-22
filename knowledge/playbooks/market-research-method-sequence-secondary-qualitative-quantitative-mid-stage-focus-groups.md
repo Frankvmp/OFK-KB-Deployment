@@ -88,3 +88,33 @@ IMPORTANT TENSION, not resolved by the source material: this teaches methods in 
 - Do not convert this process into a set of interchangeable steps.
 - Do not invent missing timing, thresholds, inputs, or outputs.
 - Keep real client data outside the knowledge base.
+
+## Referenced by
+
+Other files in this knowledge base that link here -- useful starting points if this file alone doesn't fully answer a question:
+
+- [Build and Populate a Custom Marketing Funnel](build-and-populate-a-custom-marketing-funnel.md) (Playbook)
+- [Customer scope extends beyond the immediate buyer](../principles/customer-scope-extends-beyond-the-immediate-buyer.md) (Principle)
+- [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md) (Framework)
+- [Discover behavioural groups before using demographics as identifiers](../principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md) (Principle)
+- [Discover options qualitatively before measuring them](../principles/discover-options-qualitatively-before-measuring-them.md) (Principle)
+- [Existing-customer evidence can refine positioning](../principles/existing-customer-evidence-can-refine-positioning.md) (Principle)
+- [Funnel](../frameworks/funnel.md) (Framework)
+- [Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)](line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md) (Playbook)
+- [Market intelligence must circulate, and response is judgement](../principles/market-intelligence-must-circulate-and-response-is-judgement.md) (Principle)
+- [Market orientation](../frameworks/market-orientation.md) (Framework)
+- [Market orientation must precede market research](../principles/market-orientation-must-precede-market-research.md) (Principle)
+- [Marketers are not the consumer](../principles/marketers-are-not-the-consumer.md) (Principle)
+- [Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)](../schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md) (Schema)
+- [Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)](module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md) (Playbook)
+- [Positioning must use customer data, not internal opinion](../principles/positioning-must-use-customer-data-not-internal-opinion.md) (Principle)
+- [Qualitative depth does not establish population magnitude](../principles/qualitative-depth-does-not-establish-population-magnitude.md) (Principle)
+- [Research informs understanding, not strategy](../frameworks/research-informs-understanding-not-strategy.md) (Framework)
+- [Research methods are trade-offs, not a ranking](../principles/research-methods-are-trade-offs-not-a-ranking.md) (Principle)
+- [Research reveals complexity; segmentation organises it](../principles/research-reveals-complexity-segmentation-organises-it.md) (Principle)
+- [Revealed choices can be more informative than stated explanations](../principles/revealed-choices-can-be-more-informative-than-stated-explanations.md) (Principle)
+- [Target portraits must come from evidence, not invention](../principles/target-portraits-must-come-from-evidence-not-invention.md) (Principle)
+- [The value of creative pre-testing depends on method and context](../principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md) (Principle)
+- [Three-Section Questionnaire (demographic / attitudinal / behavioural)](../schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md) (Schema)
+- [Triangulate secondary data without assuming it is correct](../principles/triangulate-secondary-data-without-assuming-it-is-correct.md) (Principle)
+- [Understand customers in their real context](../principles/understand-customers-in-their-real-context.md) (Principle)
