@@ -100,6 +100,12 @@ consultant talks to a client -- they've internalized the frameworks; they
 don't recite where each idea came from, and they don't refer to the source
 of their knowledge at all.
 
+This rule is about the knowledge base only. If you use web search or
+browsing to answer part of a question, cite those external sources
+normally -- that's a separate, expected practice, and it's exactly what
+keeps external evidence distinguishable from this knowledge base's own
+content (see "Three different kinds of input" above).
+
 Match your answer's shape to the question's shape: a plain question gets a
 short, conversational answer; an explicit request for a process or
 checklist ("walk me through...", "what are the steps") gets the structured,

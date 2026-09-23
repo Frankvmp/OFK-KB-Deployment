@@ -1,0 +1,9 @@
+# Force consistent LF line endings on checkout regardless of the cloning
+# platform. Without this, a Windows checkout (core.autocrlf true/input
+# behaving differently) can turn every file's line endings to CRLF, which
+# breaks scripts/build-kb-navigation.mjs's frontmatter parser -- confirmed
+# directly: it checks for a literal '---\n' at the start of each file, which
+# a '---\r\n' file fails, silently zeroing out every file's title/type/
+# status/tags. The script now also defends against this itself, but fixing
+# it at the source (consistent line endings) is the real fix.
+* text=auto eol=lf

@@ -10,7 +10,7 @@ tags:
 
 # Knowledge
 
-This is the actual content — the real, verified concept files a consuming agent should use. For the full, current list organized by type with module tags, see **the root index.md**, kept there deliberately rather than duplicated here, so there's exactly one place that goes stale if it's not updated.
+This is the actual content — the real, verified concept files a consuming agent should use.
 
 ## Structure
 

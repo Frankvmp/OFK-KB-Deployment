@@ -43,7 +43,7 @@ Also not independently sourced, since this isn't an extracted concept — but th
 
 ## Consumers
 
-No consuming skill or agent implementation exists yet. Full design record — including the update-trigger decision (a section regenerates on schema completion, not phase completion) and this schema's own place in that design — lives at project-context/marketing-plan-artifact-design.md.
+No consuming skill or agent implementation exists yet.
 
 ## Boundaries
 

@@ -104,7 +104,7 @@ This ordered process is embedded here because it is self-contained within the or
 4. **Bring back insights from a soft launch.** Bring back those insights, gain insight from a soft launch.
    **Step type:** Data-gathering — real soft-launch results, not invented.
 5. **Repeat -- turn the wheel regardless of where the process started.** Turn the wheel between producer and consumer, wherever it may start.
-   **Step type:** none of the four defined types fits cleanly — this is a loop-back instruction (return to step 1), not a gathering, decision, or judgement act. Flagged rather than force-labelled; a genuine gap in the Step-type vocabulary (see CONTEXT.md), not a silent omission.
+   **Step type:** none of the four defined types fits cleanly — this is a loop-back instruction (return to step 1), not a gathering, decision, or judgement act. Flagged rather than force-labelled; a genuine gap in the Step-type vocabulary, not a silent omission.
 
 **Output:** Continuously market-validated product/market fit, contrasted with product orientation's 'begin with a product and hope, pray, the market is there' (negative case: 3M Post-it Note; positive case: Nike consumer-led innovation).
 

@@ -1,9 +1,9 @@
 # Knowledge Base Validation Report
 
-Generated: 2026-09-22T12:15:49.622Z
+Generated: 2026-09-23T12:06:56.486Z
 
 - Markdown files scanned: 138
-- Graph edges: 1197
+- Graph edges: 614
 - Broken internal links: 0
 - Missing required frontmatter fields: 0
 - Duplicate title/type pairs: 0

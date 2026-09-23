@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T12:15:49.622Z",
+  "generated_at": "2026-09-23T12:06:56.486Z",
   "file_count": 138,
   "files": [
     {
@@ -80,12 +80,9 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
         "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
         "knowledge/principles/effective-campaign-platforms-should-be-renewed-not-routinely-replaced.md",
         "knowledge/principles/long-term-brand-building-and-short-term-activation-require-different-measures.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
         "knowledge/schemas/stated-objective-structure.md"
       ],
       "source_count": 0
@@ -121,23 +118,19 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/funnel.md",
         "knowledge/frameworks/target-position-objective.md",
-        "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
         "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
         "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
-        "knowledge/principles/marketing-is-broader-than-advertising-and-sales.md",
         "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
         "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
         "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
         "knowledge/principles/settle-strategy-before-selecting-tactics.md",
         "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
         "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
-        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md"
       ],
       "source_count": 0
     },
@@ -188,9 +181,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/market-orientation.md",
-        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
         "knowledge/frameworks/target-position-objective.md",
         "knowledge/principles/co-branding-works-through-complementary-association-transfer.md",
         "knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md",
@@ -209,8 +200,7 @@
         "knowledge/principles/product-expansion-must-be-balanced-with-rationalisation.md",
         "knowledge/principles/product-success-requires-quality-and-market-preparation.md",
         "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
-        "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/principles/strategy-should-be-disciplined-while-tactics-remain-agile.md"
       ],
       "source_count": 0
     },
@@ -244,9 +234,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
-        "knowledge/frameworks/touchpoints.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
         "knowledge/principles/funnel-base-must-match-the-selected-target.md",
         "knowledge/principles/funnel-performance-needs-conversion-and-competitive-context.md",
         "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
@@ -254,7 +242,6 @@
         "knowledge/principles/objective-targets-must-balance-ambition-and-realism.md",
         "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
         "knowledge/principles/strategy-requires-choice-and-sacrifice.md",
-        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md",
         "knowledge/principles/touchpoints-and-funnels-answer-different-questions.md"
       ],
       "source_count": 0
@@ -340,17 +327,13 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/four-ps.md",
-        "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
         "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
         "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
         "knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md",
         "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
         "knowledge/principles/market-orientation-must-precede-market-research.md",
         "knowledge/principles/marketers-are-not-the-consumer.md",
-        "knowledge/principles/marketing-is-broader-than-advertising-and-sales.md",
         "knowledge/principles/marketing-prime-directive-represent-the-customer.md",
         "knowledge/principles/product-success-requires-quality-and-market-preparation.md"
       ],
@@ -389,9 +372,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
         "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
-        "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md",
         "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
         "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
         "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
@@ -440,9 +421,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
         "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
         "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
         "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
@@ -532,9 +511,6 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/diagnosis-strategy-tactics.md",
-        "knowledge/frameworks/four-ps.md",
-        "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
         "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
         "knowledge/principles/communications-should-be-measured-at-campaign-level-and-used-to-improve.md",
         "knowledge/principles/emotional-communication-can-outperform-rational-persuasion.md",
@@ -576,7 +552,6 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
         "knowledge/principles/existing-products-should-be-continuously-improved.md",
         "knowledge/principles/nps-is-a-contextual-learning-measure-not-a-growth-predictor.md",
         "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
@@ -617,7 +592,6 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
         "knowledge/principles/channel-management-depends-on-interdependent-partners.md",
         "knowledge/principles/communications-investment-and-expected-return-must-move-together.md",
         "knowledge/principles/consolidated-retail-power-must-be-managed-not-assumed-controllable.md",
@@ -634,8 +608,7 @@
         "knowledge/principles/pricing-power-combines-value-perception-with-the-ability-to-hold-price.md",
         "knowledge/principles/profit-not-revenue-is-the-primary-commercial-test.md",
         "knowledge/principles/resellers-must-retain-independent-price-setting.md",
-        "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md"
       ],
       "source_count": 0
     },
@@ -690,7 +663,6 @@
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
         "knowledge/principles/funnel-base-must-match-the-selected-target.md",
         "knowledge/principles/funnels-must-fit-the-market-and-buying-process.md",
-        "knowledge/principles/objectives-should-follow-funnel-diagnosis.md",
         "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
       ],
       "source_count": 0
@@ -728,8 +700,7 @@
       "outgoing_links": [
         "knowledge/frameworks/target-position-objective.md",
         "knowledge/principles/early-distribution-should-establish-the-brand-before-maximising-availability.md",
-        "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/principles/grey-market-leakage-can-become-self-reinforcing.md"
       ],
       "source_count": 0
     },
@@ -801,20 +772,12 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/diagnosis-strategy-tactics.md",
-        "knowledge/frameworks/funnel.md",
-        "knowledge/frameworks/market-orientation.md",
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
-        "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
         "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
         "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
         "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
-        "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md",
         "knowledge/principles/market-orientation-must-precede-market-research.md",
-        "knowledge/principles/marketers-are-not-the-consumer.md",
         "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
         "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
         "knowledge/principles/quantitative-extrapolation-requires-a-representative-sample.md",
@@ -825,7 +788,6 @@
         "knowledge/principles/the-value-of-creative-pre-testing-depends-on-method-and-context.md",
         "knowledge/principles/triangulate-secondary-data-without-assuming-it-is-correct.md",
         "knowledge/principles/understand-customers-in-their-real-context.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
         "knowledge/schemas/target-customer-portrait.md",
         "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md"
       ],
@@ -867,7 +829,6 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
         "knowledge/principles/a-segmentation-is-a-map-not-the-market.md",
         "knowledge/principles/record-cross-segment-influence-only-when-the-relationship-is-specific.md",
         "knowledge/principles/segment-boundaries-must-preserve-meaningful-differences.md",
@@ -910,7 +871,6 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
         "knowledge/principles/align-marketing-and-sales-targeting-choices.md",
@@ -962,12 +922,9 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/principles/choose-positioning-associations-by-fit-not-hierarchy.md",
         "knowledge/principles/positioning-is-internal-strategy-expressed-through-touchpoints.md",
         "knowledge/principles/positioning-works-backwards-from-intended-customer-associations.md",
-        "knowledge/principles/targeting-positioning-and-objectives-must-cohere.md",
-        "knowledge/schemas/positioning-statement-to-what-versus-is.md",
         "knowledge/schemas/target-customer-portrait.md"
       ],
       "source_count": 0
@@ -1002,15 +959,11 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/diagnosis-strategy-tactics.md",
-        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/principles/customer-alternatives-define-segment-relative-competition.md",
         "knowledge/principles/customer-scope-extends-beyond-the-immediate-buyer.md",
         "knowledge/principles/discover-behavioural-groups-before-using-demographics-as-identifiers.md",
         "knowledge/principles/do-not-combine-markets-when-aggregation-erases-differences.md",
-        "knowledge/principles/funnel-base-must-match-the-selected-target.md",
         "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
         "knowledge/principles/research-reveals-complexity-segmentation-organises-it.md",
         "knowledge/principles/segment-b2b-markets-at-the-account-level.md",
@@ -1106,8 +1059,7 @@
         "knowledge/principles/pricing-decisions-require-customer-evidence-not-internal-intuition.md",
         "knowledge/principles/profit-not-revenue-is-the-primary-commercial-test.md",
         "knowledge/principles/repeated-discounting-can-become-a-self-reinforcing-strategic-trap.md",
-        "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/principles/underpricing-can-be-harder-to-correct-than-overpricing.md"
       ],
       "source_count": 0
     },
@@ -1150,7 +1102,6 @@
         "knowledge/principles/do-not-combine-markets-when-aggregation-erases-differences.md",
         "knowledge/principles/map-the-whole-market-before-choosing-targets.md",
         "knowledge/principles/segment-boundaries-must-preserve-meaningful-differences.md",
-        "knowledge/principles/segmentation-is-an-option-not-a-default.md",
         "knowledge/principles/segments-must-be-coherent-and-large-enough-to-serve.md",
         "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md"
       ],
@@ -1185,7 +1136,6 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/market-orientation.md",
-        "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/principles/differentiation-seeks-relative-advantage-not-uniqueness.md",
         "knowledge/principles/existing-customer-evidence-can-refine-positioning.md",
         "knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md",
@@ -1226,8 +1176,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/principles/omnichannel-quality-depends-on-integration-not-channel-count.md"
       ],
       "source_count": 0
     },
@@ -1448,8 +1397,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
       "source_count": 0
     },
@@ -1476,8 +1424,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
       "source_count": 0
     },
@@ -1504,8 +1451,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
       "source_count": 0
     },
@@ -1532,9 +1478,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/principles/README.md",
-        "knowledge/schemas/brand-palette-selected-small-code-set.md"
+        "knowledge/frameworks/positioning-and-brand-codes.md"
       ],
       "source_count": 0
     },
@@ -1561,9 +1505,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/principles/README.md",
-        "knowledge/schemas/brand-palette-selected-small-code-set.md"
+        "knowledge/frameworks/positioning-and-brand-codes.md"
       ],
       "source_count": 0
     },
@@ -1591,8 +1533,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
       "source_count": 0
     },
@@ -1620,9 +1561,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -1649,9 +1588,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md"
       ],
       "source_count": 0
     },
@@ -1679,8 +1616,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/playbooks/settle-the-strategy-before-execution.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
       "source_count": 0
     },
@@ -1707,8 +1643,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/four-ps.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/four-ps.md"
       ],
       "source_count": 0
     },
@@ -1736,8 +1671,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md"
       ],
       "source_count": 0
     },
@@ -1766,8 +1700,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/target-position-objective.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -1795,8 +1728,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
-        "knowledge/frameworks/target-position-objective.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/target-position-objective.md"
       ],
       "source_count": 0
     },
@@ -1825,8 +1757,7 @@
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
         "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
       "source_count": 0
     },
@@ -1854,8 +1785,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md"
       ],
       "source_count": 0
     },
@@ -1884,8 +1814,7 @@
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/playbooks/settle-the-strategy-before-execution.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
       "source_count": 0
     },
@@ -1913,8 +1842,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -1946,8 +1874,7 @@
         "knowledge/frameworks/market-orientation.md",
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
       "source_count": 0
     },
@@ -1976,8 +1903,7 @@
       "outgoing_links": [
         "knowledge/frameworks/market-orientation.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
       "source_count": 0
     },
@@ -2006,8 +1932,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/market-orientation.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/market-orientation.md"
       ],
       "source_count": 0
     },
@@ -2035,8 +1960,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
       "source_count": 0
     },
@@ -2065,8 +1989,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -2095,8 +2018,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
       "source_count": 0
     },
@@ -2124,8 +2046,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
       "source_count": 0
     },
@@ -2152,11 +2073,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md",
-        "knowledge/principles/README.md",
-        "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md",
-        "knowledge/principles/revealed-choices-can-be-more-informative-than-stated-explanations.md"
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
       "source_count": 0
     },
@@ -2184,9 +2101,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/principles/README.md",
-        "knowledge/schemas/brand-palette-selected-small-code-set.md"
+        "knowledge/frameworks/positioning-and-brand-codes.md"
       ],
       "source_count": 0
     },
@@ -2214,8 +2129,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
       "source_count": 0
     },
@@ -2244,8 +2158,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md"
       ],
       "source_count": 0
     },
@@ -2273,8 +2186,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
-        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
       "source_count": 0
     },
@@ -2302,8 +2214,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/frameworks/target-position-objective.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/target-position-objective.md"
       ],
       "source_count": 0
     },
@@ -2332,8 +2243,7 @@
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
       "source_count": 0
     },
@@ -2361,10 +2271,8 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
       "source_count": 0
     },
@@ -2393,8 +2301,7 @@
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/touchpoints.md",
-        "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md"
       ],
       "source_count": 0
     },
@@ -2421,8 +2328,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
       "source_count": 0
     },
@@ -2452,8 +2358,7 @@
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
         "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
       "source_count": 0
     },
@@ -2481,8 +2386,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/funnel.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/funnel.md"
       ],
       "source_count": 0
     },
@@ -2510,8 +2414,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
-        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md"
       ],
       "source_count": 0
     },
@@ -2539,9 +2442,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
-        "knowledge/principles/README.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md"
       ],
       "source_count": 0
     },
@@ -2568,8 +2469,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
       "source_count": 0
     },
@@ -2597,8 +2497,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/brand-tracking.md",
-        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md"
       ],
       "source_count": 0
     },
@@ -2627,9 +2526,7 @@
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
       "source_count": 0
     },
@@ -2660,9 +2557,7 @@
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/market-orientation.md",
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md",
-        "knowledge/principles/marketing-prime-directive-represent-the-customer.md"
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
       "source_count": 0
     },
@@ -2693,7 +2588,6 @@
         "knowledge/frameworks/market-orientation.md",
         "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md",
         "knowledge/principles/marketers-are-not-the-consumer.md"
       ],
       "source_count": 0
@@ -2723,10 +2617,7 @@
       "outgoing_links": [
         "knowledge/frameworks/market-orientation.md",
         "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md",
-        "knowledge/principles/market-orientation-must-precede-market-research.md",
-        "knowledge/principles/understand-customers-in-their-real-context.md"
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
       "source_count": 0
     },
@@ -2753,8 +2644,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/four-ps.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/four-ps.md"
       ],
       "source_count": 0
     },
@@ -2783,8 +2673,7 @@
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/market-orientation.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/market-orientation.md"
       ],
       "source_count": 0
     },
@@ -2813,8 +2702,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -2843,7 +2731,6 @@
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/market-orientation.md",
-        "knowledge/principles/README.md",
         "knowledge/principles/market-intelligence-must-circulate-and-response-is-judgement.md"
       ],
       "source_count": 0
@@ -2872,8 +2759,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md"
       ],
       "source_count": 0
     },
@@ -2902,8 +2788,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/strategy-directs-each-tactical-p.md"
       ],
       "source_count": 0
     },
@@ -2931,8 +2816,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
       "source_count": 0
     },
@@ -2959,8 +2843,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/touchpoints.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/touchpoints.md"
       ],
       "source_count": 0
     },
@@ -2988,8 +2871,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/target-position-objective.md",
-        "knowledge/playbooks/settle-the-strategy-before-execution.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
       "source_count": 0
     },
@@ -3016,10 +2898,8 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/funnel.md",
         "knowledge/frameworks/target-position-objective.md",
-        "knowledge/playbooks/settle-the-strategy-before-execution.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
       "source_count": 0
     },
@@ -3048,8 +2928,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
-        "knowledge/frameworks/target-position-objective.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/target-position-objective.md"
       ],
       "source_count": 0
     },
@@ -3079,9 +2958,7 @@
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/funnel.md",
-        "knowledge/frameworks/target-position-objective.md",
-        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md"
       ],
       "source_count": 0
     },
@@ -3109,8 +2986,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/playbooks/three-phases-to-omnichannel.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/three-phases-to-omnichannel.md"
       ],
       "source_count": 0
     },
@@ -3139,11 +3015,8 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
-        "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/frameworks/touchpoints.md",
-        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/touchpoints.md"
       ],
       "source_count": 0
     },
@@ -3171,10 +3044,8 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
       "source_count": 0
     },
@@ -3201,9 +3072,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
-        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
       "source_count": 0
     },
@@ -3231,10 +3100,8 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
-        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md"
       ],
       "source_count": 0
     },
@@ -3262,8 +3129,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -3291,9 +3157,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -3322,9 +3186,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -3353,9 +3215,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
       "source_count": 0
     },
@@ -3383,8 +3243,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -3412,8 +3271,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -3440,8 +3298,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/four-ps.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/four-ps.md"
       ],
       "source_count": 0
     },
@@ -3469,8 +3326,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/frameworks/market-orientation.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/market-orientation.md"
       ],
       "source_count": 0
     },
@@ -3498,8 +3354,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
       "source_count": 0
     },
@@ -3528,9 +3383,7 @@
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md",
-        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md",
-        "knowledge/principles/understand-customers-in-their-real-context.md"
+        "knowledge/principles/discover-options-qualitatively-before-measuring-them.md"
       ],
       "source_count": 0
     },
@@ -3558,9 +3411,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md"
       ],
       "source_count": 0
     },
@@ -3588,8 +3439,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
       "source_count": 0
     },
@@ -3617,8 +3467,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/four-ps.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
       "source_count": 0
     },
@@ -3645,9 +3494,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
       "source_count": 0
     },
@@ -3676,8 +3523,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
       "source_count": 0
     },
@@ -3705,8 +3551,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/value-and-profitability.md"
       ],
       "source_count": 0
     },
@@ -3734,7 +3579,6 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md",
         "knowledge/principles/discover-options-qualitatively-before-measuring-them.md"
       ],
       "source_count": 0
@@ -3763,8 +3607,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md"
       ],
       "source_count": 0
     },
@@ -3792,8 +3635,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
       "source_count": 0
     },
@@ -3820,8 +3662,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
       ],
       "source_count": 0
     },
@@ -3849,8 +3690,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
       "source_count": 0
     },
@@ -3878,8 +3718,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
       ],
       "source_count": 0
     },
@@ -3908,9 +3747,7 @@
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/playbooks/settle-the-strategy-before-execution.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
       "source_count": 0
     },
@@ -3938,8 +3775,7 @@
       ],
       "outgoing_links": [
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/playbooks/settle-the-strategy-before-execution.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
       "source_count": 0
     },
@@ -3968,9 +3804,7 @@
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
         "knowledge/frameworks/funnel.md",
-        "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
       "source_count": 0
     },
@@ -3998,10 +3832,8 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/diagnosis-strategy-tactics.md",
-        "knowledge/frameworks/four-ps.md",
         "knowledge/frameworks/strategy-directs-each-tactical-p.md",
-        "knowledge/frameworks/target-position-objective.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/target-position-objective.md"
       ],
       "source_count": 0
     },
@@ -4030,7 +3862,6 @@
       "outgoing_links": [
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md",
         "knowledge/schemas/target-customer-portrait.md"
       ],
       "source_count": 0
@@ -4058,8 +3889,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
       "source_count": 0
     },
@@ -4093,8 +3923,7 @@
         "knowledge/frameworks/target-position-objective.md",
         "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
         "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
-        "knowledge/playbooks/settle-the-strategy-before-execution.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/settle-the-strategy-before-execution.md"
       ],
       "source_count": 0
     },
@@ -4121,8 +3950,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md"
       ],
       "source_count": 0
     },
@@ -4150,8 +3978,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
       "source_count": 0
     },
@@ -4179,8 +4006,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/touchpoints.md",
-        "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md"
       ],
       "source_count": 0
     },
@@ -4209,8 +4035,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/funnel.md",
-        "knowledge/frameworks/touchpoints.md",
-        "knowledge/principles/README.md"
+        "knowledge/frameworks/touchpoints.md"
       ],
       "source_count": 0
     },
@@ -4237,8 +4062,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md"
       ],
       "source_count": 0
     },
@@ -4266,8 +4090,7 @@
       ],
       "outgoing_links": [
         "knowledge/frameworks/value-and-profitability.md",
-        "knowledge/playbooks/seven-step-route-out-of-discounting.md",
-        "knowledge/principles/README.md"
+        "knowledge/playbooks/seven-step-route-out-of-discounting.md"
       ],
       "source_count": 0
     },
@@ -4297,7 +4120,6 @@
         "knowledge/frameworks/research-informs-understanding-not-strategy.md",
         "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/principles/README.md",
         "knowledge/principles/marketers-are-not-the-consumer.md",
         "knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md"
       ],
@@ -4344,10 +4166,7 @@
         "Boundaries",
         "Referenced by"
       ],
-      "outgoing_links": [
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
-      ],
+      "outgoing_links": [],
       "source_count": 0
     },
     {
@@ -4375,12 +4194,10 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
         "knowledge/frameworks/positioning-and-brand-codes.md",
         "knowledge/principles/brand-codes-should-be-few-stable-and-consistently-applied.md",
         "knowledge/principles/brand-specific-code-evidence-can-override-category-averages.md",
-        "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/principles/distinctiveness-is-recognition-not-competitive-superiority.md"
       ],
       "source_count": 0
     },
@@ -4452,8 +4269,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md"
       ],
       "source_count": 0
     },
@@ -4482,9 +4298,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
       ],
       "source_count": 0
     },
@@ -4513,9 +4327,7 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
-        "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md"
+        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md"
       ],
       "source_count": 0
     },
@@ -4542,11 +4354,7 @@
         "Boundaries",
         "Referenced by"
       ],
-      "outgoing_links": [
-        "knowledge/frameworks/brand-tracking.md",
-        "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
-      ],
+      "outgoing_links": [],
       "source_count": 0
     },
     {
@@ -4572,14 +4380,7 @@
         "Boundaries",
         "Referenced by"
       ],
-      "outgoing_links": [
-        "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
-        "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
-        "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
-        "knowledge/principles/target-portraits-must-come-from-evidence-not-invention.md",
-        "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md"
-      ],
+      "outgoing_links": [],
       "source_count": 0
     },
     {
@@ -4607,11 +4408,8 @@
         "Referenced by"
       ],
       "outgoing_links": [
-        "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
         "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
-        "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
-        "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md",
-        "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md"
+        "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md"
       ],
       "source_count": 0
     }

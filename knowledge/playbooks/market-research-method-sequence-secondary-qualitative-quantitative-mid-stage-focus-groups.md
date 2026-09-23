@@ -12,7 +12,7 @@ tags:
 
 ## When to use this
 
-This is the Playbook other concepts invoke whenever they need the agent to gather real evidence rather than assert a claim without support — see the `Data-gathering` step type in CONTEXT.md. Run it whenever a diagnosis, a funnel population, or a strategic decision needs grounding in real research and no research has been gathered yet.
+This is the Playbook other concepts invoke whenever they need the agent to gather real evidence rather than assert a claim without support. Run it whenever a diagnosis, a funnel population, or a strategic decision needs grounding in real research and no research has been gathered yet.
 
 ## Purpose
 
