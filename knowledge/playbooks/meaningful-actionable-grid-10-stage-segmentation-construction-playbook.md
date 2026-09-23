@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Meaningful Actionable Grid (10-stage segmentation-construction playbook)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - segmentation

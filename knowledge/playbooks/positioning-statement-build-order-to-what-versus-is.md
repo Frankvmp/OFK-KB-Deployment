@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Positioning Statement Build Order (to -> what -> versus -> is)"
-status: draft
+status: stable
 tags:
   - strategy
   - positioning

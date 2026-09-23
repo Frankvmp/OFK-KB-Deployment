@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Three Phases to Omnichannel"
-status: draft
+status: stable
 tags:
   - tactics
   - distribution

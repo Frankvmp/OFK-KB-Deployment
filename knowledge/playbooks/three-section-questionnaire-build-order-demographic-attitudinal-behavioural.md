@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - research

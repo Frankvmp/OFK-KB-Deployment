@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Settle the Strategy Before Execution"
-status: draft
+status: stable
 tags:
   - strategy
   - targeting

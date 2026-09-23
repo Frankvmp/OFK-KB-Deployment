@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Seven-Step Route Out of Discounting"
-status: draft
+status: stable
 tags:
   - tactics
   - pricing

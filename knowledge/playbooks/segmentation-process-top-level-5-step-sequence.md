@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Segmentation Process (top-level 5-step sequence)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - segmentation

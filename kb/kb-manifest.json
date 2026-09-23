@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T17:25:44.965Z",
+  "generated_at": "2026-09-23T19:16:26.227Z",
   "file_count": 138,
   "files": [
     {
@@ -635,7 +635,7 @@
       "path": "knowledge/playbooks/build-and-populate-a-custom-marketing-funnel.md",
       "title": "Build and Populate a Custom Marketing Funnel",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -672,7 +672,7 @@
       "path": "knowledge/playbooks/distribution-cadence-brand-first-phased-channel-rollout.md",
       "title": "Distribution Cadence (brand-first, phased channel rollout)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "tactics",
@@ -709,7 +709,7 @@
       "path": "knowledge/playbooks/line-of-sight-to-the-customer-humility-vacuum-recognize-barriers-remove-barriers.md",
       "title": "Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -747,7 +747,7 @@
       "path": "knowledge/playbooks/market-research-method-sequence-secondary-qualitative-quantitative-mid-stage-focus-groups.md",
       "title": "Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -798,7 +798,7 @@
       "path": "knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md",
       "title": "Meaningful Actionable Grid (10-stage segmentation-construction playbook)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -845,7 +845,7 @@
       "path": "knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md",
       "title": "Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "strategy",
@@ -898,7 +898,7 @@
       "path": "knowledge/playbooks/positioning-statement-build-order-to-what-versus-is.md",
       "title": "Positioning Statement Build Order (to -> what -> versus -> is)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "strategy",
@@ -934,7 +934,7 @@
       "path": "knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md",
       "title": "Segmentation Process (top-level 5-step sequence)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -979,7 +979,7 @@
       "path": "knowledge/playbooks/settle-the-strategy-before-execution.md",
       "title": "Settle the Strategy Before Execution",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "strategy",
@@ -1021,7 +1021,7 @@
       "path": "knowledge/playbooks/seven-step-route-out-of-discounting.md",
       "title": "Seven-Step Route Out of Discounting",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "tactics",
@@ -1068,7 +1068,7 @@
       "path": "knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md",
       "title": "Standard Criteria for Segmentation (9-question validation checklist)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -1112,7 +1112,7 @@
       "path": "knowledge/playbooks/three-cs-positioning-test-consumer-competitor-company.md",
       "title": "Three Cs (positioning test: Consumer -> Competitor -> Company)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "strategy",
@@ -1150,7 +1150,7 @@
       "path": "knowledge/playbooks/three-phases-to-omnichannel.md",
       "title": "Three Phases to Omnichannel",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "tactics",
@@ -1185,7 +1185,7 @@
       "path": "knowledge/playbooks/three-section-questionnaire-build-order-demographic-attitudinal-behavioural.md",
       "title": "Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -1220,7 +1220,7 @@
       "path": "knowledge/playbooks/touch-point-measurement-and-prioritisation-process.md",
       "title": "Touch-Point Measurement and Prioritisation Process",
       "type": "Playbook",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",

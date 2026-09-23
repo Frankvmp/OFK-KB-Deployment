@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Touch-Point Measurement and Prioritisation Process"
-status: draft
+status: stable
 tags:
   - diagnosis
   - touchpoints

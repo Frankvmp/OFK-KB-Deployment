@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)"
-status: draft
+status: stable
 tags:
   - strategy
   - targeting

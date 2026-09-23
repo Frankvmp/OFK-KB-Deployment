@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Distribution Cadence (brand-first, phased channel rollout)"
-status: draft
+status: stable
 tags:
   - tactics
   - distribution

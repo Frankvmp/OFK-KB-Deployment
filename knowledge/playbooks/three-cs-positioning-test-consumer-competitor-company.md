@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Three Cs (positioning test: Consumer -> Competitor -> Company)"
-status: draft
+status: stable
 tags:
   - strategy
   - positioning

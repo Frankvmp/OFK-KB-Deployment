@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - research

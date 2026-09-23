@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Standard Criteria for Segmentation (9-question validation checklist)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - segmentation

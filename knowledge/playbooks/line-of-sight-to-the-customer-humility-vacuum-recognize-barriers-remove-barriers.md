@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - customer-understanding

@@ -1,6 +1,6 @@
 # Knowledge Base Validation Report
 
-Generated: 2026-09-23T17:25:44.965Z
+Generated: 2026-09-23T19:16:26.227Z
 
 - Markdown files scanned: 138
 - Graph edges: 614
@@ -23,8 +23,8 @@ Generated: 2026-09-23T17:25:44.965Z
 
 | Status | Count |
 | --- | ---: |
-| draft | 36 |
-| stable | 102 |
+| draft | 21 |
+| stable | 117 |
 
 ## Tags
 

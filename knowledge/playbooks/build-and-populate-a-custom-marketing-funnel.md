@@ -1,7 +1,7 @@
 ---
 type: Playbook
 title: "Build and Populate a Custom Marketing Funnel"
-status: draft
+status: stable
 tags:
   - diagnosis
   - funnel
