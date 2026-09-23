@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "Target Customer Portrait"
-status: draft
+status: stable
 tags:
   - strategy
   - targeting

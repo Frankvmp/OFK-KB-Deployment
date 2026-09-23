@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)"
-status: draft
+status: stable
 tags:
   - cross-cutting
   - market-orientation

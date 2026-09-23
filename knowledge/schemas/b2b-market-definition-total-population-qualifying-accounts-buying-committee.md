@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "B2B Market Definition (total population → qualifying accounts → buying committee)"
-status: draft
+status: stable
 tags:
   - cross-cutting
   - market-orientation

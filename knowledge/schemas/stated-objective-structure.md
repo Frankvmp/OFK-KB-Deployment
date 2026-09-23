@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "Stated Objective Structure"
-status: draft
+status: stable
 tags:
   - strategy
   - objectives

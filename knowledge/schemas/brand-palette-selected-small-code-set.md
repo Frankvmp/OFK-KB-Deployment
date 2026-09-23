@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "Brand Palette (selected small code set)"
-status: draft
+status: stable
 tags:
   - tactics
   - brand

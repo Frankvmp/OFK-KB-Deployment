@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "Segment Spillover Record (segment A influences segment B)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - segmentation

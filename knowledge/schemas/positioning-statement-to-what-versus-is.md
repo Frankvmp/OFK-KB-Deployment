@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "Positioning Statement (to / what / versus / is)"
-status: draft
+status: stable
 tags:
   - strategy
   - positioning

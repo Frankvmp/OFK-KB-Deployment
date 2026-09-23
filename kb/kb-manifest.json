@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:22:20.516Z",
+  "generated_at": "2026-09-23T20:44:47.527Z",
   "file_count": 138,
   "files": [
     {
@@ -4148,7 +4148,7 @@
       "path": "knowledge/schemas/b2b-market-definition-total-population-qualifying-accounts-buying-committee.md",
       "title": "B2B Market Definition (total population → qualifying accounts → buying committee)",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "cross-cutting",
@@ -4174,7 +4174,7 @@
       "path": "knowledge/schemas/brand-palette-selected-small-code-set.md",
       "title": "Brand Palette (selected small code set)",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "tactics",
@@ -4206,7 +4206,7 @@
       "path": "knowledge/schemas/marketing-plan-structure-diagnosis-strategy-tactics-assembly.md",
       "title": "Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "cross-cutting",
@@ -4250,7 +4250,7 @@
       "path": "knowledge/schemas/positioning-statement-to-what-versus-is.md",
       "title": "Positioning Statement (to / what / versus / is)",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "strategy",
@@ -4278,7 +4278,7 @@
       "path": "knowledge/schemas/segment-profile-name-population-value-market-share.md",
       "title": "Segment Profile (name / population / value / market share)",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -4307,7 +4307,7 @@
       "path": "knowledge/schemas/segment-spillover-record-segment-a-influences-segment-b.md",
       "title": "Segment Spillover Record (segment A influences segment B)",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",
@@ -4336,7 +4336,7 @@
       "path": "knowledge/schemas/stated-objective-structure.md",
       "title": "Stated Objective Structure",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "strategy",
@@ -4362,7 +4362,7 @@
       "path": "knowledge/schemas/target-customer-portrait.md",
       "title": "Target Customer Portrait",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "strategy",
@@ -4388,7 +4388,7 @@
       "path": "knowledge/schemas/three-section-questionnaire-demographic-attitudinal-behavioural.md",
       "title": "Three-Section Questionnaire (demographic / attitudinal / behavioural)",
       "type": "Schema",
-      "status": "draft",
+      "status": "stable",
       "description": null,
       "tags": [
         "diagnosis",

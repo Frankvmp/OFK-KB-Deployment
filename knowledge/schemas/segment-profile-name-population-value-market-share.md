@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "Segment Profile (name / population / value / market share)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - segmentation

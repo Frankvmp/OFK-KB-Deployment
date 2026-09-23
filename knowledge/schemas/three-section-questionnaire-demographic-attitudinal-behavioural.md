@@ -1,7 +1,7 @@
 ---
 type: Schema
 title: "Three-Section Questionnaire (demographic / attitudinal / behavioural)"
-status: draft
+status: stable
 tags:
   - diagnosis
   - research
