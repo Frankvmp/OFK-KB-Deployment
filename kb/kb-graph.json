@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T19:16:26.227Z",
+  "generated_at": "2026-09-23T19:22:20.516Z",
   "nodes": [
     {
       "id": "knowledge/README.md",
@@ -25,7 +25,7 @@
       "id": "knowledge/frameworks/brand-tracking.md",
       "title": "Brand tracking",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "diagnosis",
         "brand",
@@ -36,7 +36,7 @@
       "id": "knowledge/frameworks/diagnosis-strategy-tactics.md",
       "title": "Diagnosis → Strategy → Tactics",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "cross-cutting",
         "market-orientation"
@@ -46,7 +46,7 @@
       "id": "knowledge/frameworks/four-ps.md",
       "title": "Four Ps",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "tactics",
         "product",
@@ -59,7 +59,7 @@
       "id": "knowledge/frameworks/funnel.md",
       "title": "Funnel",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "diagnosis",
         "funnel"
@@ -69,7 +69,7 @@
       "id": "knowledge/frameworks/long-term-brand-building-and-short-term-activation.md",
       "title": "Long-term brand building and short-term activation",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "tactics",
         "brand",
@@ -80,7 +80,7 @@
       "id": "knowledge/frameworks/market-orientation.md",
       "title": "Market orientation",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "diagnosis",
         "market-orientation"
@@ -90,7 +90,7 @@
       "id": "knowledge/frameworks/positioning-and-brand-codes.md",
       "title": "Positioning and brand codes",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "strategy",
         "positioning",
@@ -101,7 +101,7 @@
       "id": "knowledge/frameworks/research-informs-understanding-not-strategy.md",
       "title": "Research informs understanding, not strategy",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "diagnosis",
         "research"
@@ -111,7 +111,7 @@
       "id": "knowledge/frameworks/strategy-directs-each-tactical-p.md",
       "title": "Strategy directs each tactical P",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "strategy",
         "product",
@@ -124,7 +124,7 @@
       "id": "knowledge/frameworks/target-position-objective.md",
       "title": "Target → position → objective",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "strategy",
         "targeting",
@@ -136,7 +136,7 @@
       "id": "knowledge/frameworks/touchpoints.md",
       "title": "Touchpoints",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "tactics",
         "touchpoints"
@@ -146,7 +146,7 @@
       "id": "knowledge/frameworks/value-and-profitability.md",
       "title": "Value and profitability",
       "type": "Framework",
-      "status": "draft",
+      "status": "stable",
       "tags": [
         "tactics",
         "profitability",

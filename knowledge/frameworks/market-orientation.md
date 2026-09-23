@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Market orientation"
-status: draft
+status: stable
 tags:
   - diagnosis
   - market-orientation

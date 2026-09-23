@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Four Ps"
-status: draft
+status: stable
 tags:
   - tactics
   - product

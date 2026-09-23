@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Strategy directs each tactical P"
-status: draft
+status: stable
 tags:
   - strategy
   - product

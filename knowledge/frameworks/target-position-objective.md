@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Target → position → objective"
-status: draft
+status: stable
 tags:
   - strategy
   - targeting

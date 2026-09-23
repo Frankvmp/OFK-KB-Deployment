@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Funnel"
-status: draft
+status: stable
 tags:
   - diagnosis
   - funnel

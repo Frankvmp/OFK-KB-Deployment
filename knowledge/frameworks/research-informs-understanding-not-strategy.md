@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Research informs understanding, not strategy"
-status: draft
+status: stable
 tags:
   - diagnosis
   - research

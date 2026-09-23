@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Positioning and brand codes"
-status: draft
+status: stable
 tags:
   - strategy
   - positioning

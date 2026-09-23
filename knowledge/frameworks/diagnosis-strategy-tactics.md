@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Diagnosis → Strategy → Tactics"
-status: draft
+status: stable
 tags:
   - cross-cutting
   - market-orientation

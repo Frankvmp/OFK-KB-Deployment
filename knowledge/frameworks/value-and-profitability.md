@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Value and profitability"
-status: draft
+status: stable
 tags:
   - tactics
   - profitability

@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Brand tracking"
-status: draft
+status: stable
 tags:
   - diagnosis
   - brand

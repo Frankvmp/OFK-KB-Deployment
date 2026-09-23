@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Touchpoints"
-status: draft
+status: stable
 tags:
   - tactics
   - touchpoints

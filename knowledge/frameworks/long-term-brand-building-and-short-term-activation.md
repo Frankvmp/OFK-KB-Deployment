@@ -1,7 +1,7 @@
 ---
 type: Framework
 title: "Long-term brand building and short-term activation"
-status: draft
+status: stable
 tags:
   - tactics
   - brand
