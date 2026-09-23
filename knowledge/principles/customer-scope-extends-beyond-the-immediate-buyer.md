@@ -10,6 +10,8 @@ tags:
 
 # Customer scope extends beyond the immediate buyer
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a business defines “the customer” as only the organisation that buys directly from it, or when research is planned around one intermediary without checking the end user and other relevant parties.

@@ -10,6 +10,8 @@ tags:
 
 # Three Phases to Omnichannel
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this when assessing or planning a retailer's or brand's channel maturity — diagnosing which phase it's actually in, rather than assuming full integration exists just because multiple channels are live.

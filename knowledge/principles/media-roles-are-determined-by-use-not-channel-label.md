@@ -10,6 +10,8 @@ tags:
 ---
 # Media roles are determined by use, not channel label
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a channel is being classified as inherently suited only to brand building or only to activation.

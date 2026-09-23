@@ -9,6 +9,8 @@ tags:
 ---
 # Brand building and activation should work together without forcing both into one execution
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a communications plan treats brand building and activation as alternatives, or asks one advertisement to perform both jobs without evidence that it can.

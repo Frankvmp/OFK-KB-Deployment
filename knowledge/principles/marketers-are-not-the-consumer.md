@@ -10,6 +10,8 @@ tags:
 
 # Marketers are not the consumer
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when someone evaluates a product, price, advertisement, website, or customer response mainly from their own taste or internal experience. It is also relevant when a team is trying to imagine one generic customer instead of gathering evidence from the market.

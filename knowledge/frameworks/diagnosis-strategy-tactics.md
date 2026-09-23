@@ -9,6 +9,8 @@ tags:
 
 # Diagnosis → Strategy → Tactics
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this first, at the start of any engagement — it's the top-level lens for deciding whether the open question is a **Diagnosis** question (evidence-gathering), a **Strategy** question (who to target, what position, what objective), or a **Tactics** question (product/pricing/comms/distribution choices), and for keeping later work honest about which phase it belongs to.

@@ -9,6 +9,8 @@ tags:
 ---
 # Brand-specific code evidence can override category averages
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when general research suggests a type of brand code is weak but the focal brand may possess an unusually strong example.

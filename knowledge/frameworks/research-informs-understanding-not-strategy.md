@@ -9,6 +9,8 @@ tags:
 
 # Research informs understanding, not strategy
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever a research finding (a survey result, a focus-group quote, an ethnographic observation) is about to be treated as if it were itself the strategic answer — who to target, what to charge, what to say. Use it to keep the boundary clear: research is an input to a strategic choice, never a substitute for making one.

@@ -9,6 +9,8 @@ tags:
 ---
 # Record cross-segment influence only when the relationship is specific
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when adding influence, referral, learning, or movement arrows between segments.

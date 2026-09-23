@@ -12,6 +12,8 @@ tags:
 
 # Customer alternatives define segment-relative competition
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a business defines competitors only by industry category, assumes the same competitors matter to every customer, or makes a positioning decision without checking the alternatives customers actually consider.

@@ -10,6 +10,8 @@ tags:
 ---
 # Touchpoints and funnels answer different questions
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a customer-experience map and a market funnel are being treated as interchangeable.

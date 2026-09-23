@@ -9,6 +9,8 @@ tags:
 
 # Stated Objective Structure
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once a funnel stage or measure has been chosen as the focus — whenever a marketing objective needs to be recorded as something checkable, not a vague aspiration or a revenue number.

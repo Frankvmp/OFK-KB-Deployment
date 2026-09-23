@@ -9,6 +9,8 @@ tags:
 ---
 # Communications should be measured at campaign level and used to improve
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when communications is judged only by overall company sales or profit, or when measurement is used only to defend past activity.

@@ -9,6 +9,8 @@ tags:
 ---
 # Long-term brand building and short-term activation require different measures
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when one return-on-investment measure is being applied to both future-demand activity and immediate-response activity.

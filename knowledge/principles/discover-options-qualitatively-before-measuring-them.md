@@ -9,6 +9,8 @@ tags:
 ---
 # Discover options qualitatively before measuring them
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle before designing a survey, conjoint study, scoring model, or other quantitative instrument. It is especially important when a team already has a neat list of attributes, messages, features, or alternatives but cannot show that the list reflects the market.

@@ -9,6 +9,8 @@ tags:
 ---
 # Pricing is the revenue-producing element of the marketing mix
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when pricing is being treated as a minor administrative choice or as interchangeable with the other tactical Ps.

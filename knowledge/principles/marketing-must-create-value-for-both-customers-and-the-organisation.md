@@ -10,6 +10,8 @@ tags:
 ---
 # Marketing must create value for both customers and the organisation
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a marketing choice benefits customers but weakens the organisation's return, or extracts value while making the customer offer unsustainable.

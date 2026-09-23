@@ -9,6 +9,8 @@ tags:
 ---
 # Settle strategy before selecting tactics
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when product, price, communications, or distribution ideas are being chosen before the strategic choices are complete.

@@ -10,6 +10,8 @@ tags:
 
 # Brand tracking
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever a communications investment needs to be evaluated — first to check whether it's long-term brand-building (use this) or short-term activation (use return-on-investment measures instead), then to actually run the measurement.

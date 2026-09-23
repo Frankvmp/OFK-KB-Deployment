@@ -9,6 +9,8 @@ tags:
 ---
 # Brand codes should be few, stable, and consistently applied
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a brand has too many identifiers, changes them because internal teams are bored, or applies them only in selected communications.

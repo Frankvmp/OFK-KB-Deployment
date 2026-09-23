@@ -9,6 +9,8 @@ tags:
 ---
 # Long-and-short budget allocation must fit the context
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a communications budget adopts a 60/40 brand-building and activation split as a universal default.

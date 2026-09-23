@@ -9,6 +9,8 @@ tags:
 ---
 # Research methods are trade-offs, not a ranking
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when choosing a research method, comparing proposals, or interpreting evidence from one method as if it were complete. It helps an agent ask what each method can and cannot establish before recommending it.

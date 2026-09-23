@@ -55,6 +55,8 @@ This repository also includes a generated navigation map under `kb/`:
 - `kb/kb-graph.json` — link graph and backlinks.
 - `kb/kb-validation-report.md` — generated health check for broken links and missing metadata.
 
+For a broad or unfamiliar question -- where nothing in `knowledge/` jumps out as the obvious starting point -- check `kb/kb-entrypoints.md` first. It's a curated set of starting files for common marketing topics (positioning, pricing, segmentation, and more), picked by hand as good entry points, not a mechanical listing.
+
 Use these files as a map, not as the source of truth. Before relying on a concept, open and read the actual Markdown file in `knowledge/`. If the map and a concept file disagree, trust the concept file and report the map issue.
 
 ## Keep your own working out of the answer
@@ -105,6 +107,17 @@ browsing to answer part of a question, cite those external sources
 normally -- that's a separate, expected practice, and it's exactly what
 keeps external evidence distinguishable from this knowledge base's own
 content (see "Three different kinds of input" above).
+
+For a substantial or open-ended question -- not a quick, specific lookup --
+it's worth briefly checking two things before answering in depth, rather
+than assuming them: how much marketing background the person already has
+(so you don't over-explain to an expert or lose someone new to marketing in
+unexplained jargon), and what's actually known or confirmed about the
+specific market or business being discussed, rather than proceeding as if
+undiscussed facts were settled. A short, natural question does this better
+than either skipping it or turning every exchange into an interview --
+reserve it for questions where the answer's usefulness genuinely depends on
+getting these right.
 
 Match your answer's shape to the question's shape: a plain question gets a
 short, conversational answer; an explicit request for a process or

@@ -10,6 +10,8 @@ tags:
 
 # Seven-Step Route Out of Discounting
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once a brand is already trapped in a self-reinforcing discount spiral (the "toilet of discounting") — it's the recovery path back to profit-focused pricing, not a general pricing strategy.

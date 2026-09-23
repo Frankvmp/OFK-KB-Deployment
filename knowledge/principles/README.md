@@ -10,6 +10,8 @@ tags:
 
 # Principles
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 This folder contains the smallest useful, independently retrievable Principle concepts extracted from the Module 1, Module 2, Module 3, Module 4, Module 5, Module 6, Module 7, Module 8, Module 9, and Module 10 transcripts. A Principle states a foundational proposition that guides interpretation, reasoning, or action; it is not merely a topic, named model, ordered method, or data shape.
 
 The current contents are evidence-gated Module 1, Module 2, Module 3, Module 4, Module 5, Module 6, Module 7, Module 8, Module 9, and Module 10 concepts. Inventory labels remain discovery leads, and each concept must pass citation-integrity and independent semantic-support review before reaching `stable` status.

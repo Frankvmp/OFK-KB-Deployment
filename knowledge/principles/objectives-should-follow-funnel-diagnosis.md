@@ -10,6 +10,8 @@ tags:
 ---
 # Objectives should follow funnel diagnosis
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when objectives are being set from a sales target, revenue trend, or isolated outcome measure without a diagnostic view of the customer journey.

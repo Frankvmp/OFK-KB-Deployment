@@ -10,6 +10,8 @@ tags:
 ---
 # Market orientation must precede market research
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle before commissioning research, interpreting findings, or deciding whether inconvenient evidence should influence a decision. It is especially relevant when research exists but the organisation ignores, discounts, or fails to act on it.

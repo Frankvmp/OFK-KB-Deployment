@@ -9,6 +9,8 @@ tags:
 ---
 # Objective count is a team-level limit
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when objectives are being allocated separately to every product, segment, or workstream without checking the total load on the responsible team.

@@ -9,6 +9,8 @@ tags:
 ---
 # Profit, not revenue, is the primary commercial test
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when sales, turnover, volume, or growth are being used as proof of commercial success without examining margin and profit.

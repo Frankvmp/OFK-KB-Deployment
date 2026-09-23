@@ -9,6 +9,8 @@ tags:
 
 # Funnel
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever demand needs to be made visible as a sequence — before setting an objective, before diagnosing where a business is losing customers, or before choosing where to focus effort. It's the diagnostic layer between [Diagnosis → Strategy → Tactics](diagnosis-strategy-tactics.md)'s evidence-gathering and a stated objective.

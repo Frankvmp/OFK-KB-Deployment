@@ -9,6 +9,8 @@ tags:
 ---
 # Revealed choices can be more informative than stated explanations
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when customers are being asked to explain which attributes drive their decisions, especially when the product is unfamiliar, the choice is complex, or respondents may not be able to articulate the cause of their behaviour.

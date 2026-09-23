@@ -10,6 +10,8 @@ tags:
 ---
 # Positioning is internal strategy expressed through touchpoints
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when positioning is being treated as customer-facing copy, a strapline, or a document disconnected from tactical decisions.

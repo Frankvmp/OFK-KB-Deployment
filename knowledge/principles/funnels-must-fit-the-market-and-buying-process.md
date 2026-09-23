@@ -9,6 +9,8 @@ tags:
 ---
 # Funnels must fit the market and buying process
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a standard funnel is being copied into a plan without checking how customers actually move through the category.

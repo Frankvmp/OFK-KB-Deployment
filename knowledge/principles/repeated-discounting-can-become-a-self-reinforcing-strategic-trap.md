@@ -9,6 +9,8 @@ tags:
 ---
 # Repeated discounting can become a self-reinforcing strategic trap
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when promotions are repeatedly used to restore declining sales or when discounting has become a normal industry response.

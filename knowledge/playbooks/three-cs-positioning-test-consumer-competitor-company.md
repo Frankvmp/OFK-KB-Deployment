@@ -9,6 +9,8 @@ tags:
 
 # Three Cs (positioning test: Consumer -> Competitor -> Company)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this both as a build order (constructing a new position, Consumer → Competitor → Company) and as a diagnostic test (checking whether an existing position actually holds up) — use it before finalising any positioning statement.

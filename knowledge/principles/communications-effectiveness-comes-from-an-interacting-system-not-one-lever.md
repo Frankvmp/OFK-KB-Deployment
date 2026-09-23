@@ -9,6 +9,8 @@ tags:
 ---
 # Communications effectiveness comes from an interacting system, not one lever
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a communications problem is reduced to one preferred answer, such as more budget, a new channel, stronger creative, or a different metric.

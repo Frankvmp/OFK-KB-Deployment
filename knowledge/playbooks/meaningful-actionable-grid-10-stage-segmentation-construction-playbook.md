@@ -9,6 +9,8 @@ tags:
 
 # Meaningful Actionable Grid (10-stage segmentation-construction playbook)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 This is the concrete method [Segmentation Process](segmentation-process-top-level-5-step-sequence.md) step 3 invokes to actually carve the mass market into segments — reach for it once the mass market is defined and a segmentation method needs to be chosen and executed, not merely named.

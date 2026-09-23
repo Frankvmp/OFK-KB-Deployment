@@ -9,6 +9,8 @@ tags:
 ---
 # Understand customers in their real context
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when research depends mainly on customers recalling behaviour in an interview room, or when a team is trying to understand product use, service interaction, or a B2B decision without observing the setting in which it occurs.

@@ -10,6 +10,8 @@ tags:
 ---
 # Customers buy solutions to jobs, not products as defined internally
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when improving a product, defining its competition, or communicating it from the organisation's category and feature language.

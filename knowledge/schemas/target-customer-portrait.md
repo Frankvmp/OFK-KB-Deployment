@@ -10,6 +10,8 @@ tags:
 
 # Target Customer Portrait
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## Purpose
 
 This schema turns researched target-segment data into an overall picture of the

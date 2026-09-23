@@ -61,3 +61,40 @@ Start with:
 2. `knowledge/principles/positioning-must-use-customer-data-not-internal-opinion.md`
 3. `knowledge/principles/discover-options-qualitatively-before-measuring-them.md`
 4. `knowledge/principles/qualitative-depth-does-not-establish-population-magnitude.md`
+
+## Segmentation
+
+Start with:
+
+1. `knowledge/playbooks/segmentation-process-top-level-5-step-sequence.md`
+2. `knowledge/playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md`
+3. `knowledge/playbooks/standard-criteria-for-segmentation-9-question-validation-checklist.md`
+4. `knowledge/principles/a-segmentation-is-a-map-not-the-market.md`
+
+## Targeting
+
+Start with:
+
+1. `knowledge/frameworks/target-position-objective.md`
+2. `knowledge/playbooks/module-4-targeting-sequence-strategic-framing-philosophy-choice-apply-criteria-build-portrait-ensure-clarity.md`
+3. `knowledge/principles/map-the-whole-market-before-choosing-targets.md`
+4. `knowledge/principles/non-targeting-is-temporary-non-investment-not-exclusion.md`
+
+## Product
+
+Start with:
+
+1. `knowledge/frameworks/four-ps.md`
+2. `knowledge/principles/customers-buy-solutions-to-jobs-not-products-as-defined-internally.md`
+3. `knowledge/principles/product-success-requires-quality-and-market-preparation.md`
+4. `knowledge/principles/product-expansion-must-be-balanced-with-rationalisation.md`
+
+## Objectives
+
+Start with:
+
+1. `knowledge/frameworks/target-position-objective.md`
+2. `knowledge/schemas/stated-objective-structure.md`
+3. `knowledge/principles/objectives-should-follow-funnel-diagnosis.md`
+4. `knowledge/principles/objective-targets-must-balance-ambition-and-realism.md`
+5. `knowledge/principles/targeting-positioning-and-objectives-must-cohere.md`

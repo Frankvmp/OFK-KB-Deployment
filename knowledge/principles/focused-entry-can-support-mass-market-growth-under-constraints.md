@@ -9,6 +9,8 @@ tags:
 ---
 # Focused entry can support mass-market growth under constraints
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when the desired market is broader than the organisation can afford or operationally serve at the outset.

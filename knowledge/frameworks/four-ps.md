@@ -12,6 +12,8 @@ tags:
 
 # Four Ps
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once target, position, and objective are settled — it's the checklist for translating strategy into coordinated product, pricing, communications, and distribution choices, and for catching when one of those areas contradicts the others.

@@ -10,6 +10,8 @@ tags:
 ---
 # Funnel performance needs conversion and competitive context
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a funnel stage appears weak or strong based only on its percentage of the total market.

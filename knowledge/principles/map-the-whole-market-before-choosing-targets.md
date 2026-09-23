@@ -9,6 +9,8 @@ tags:
 ---
 # Map the whole market before choosing targets
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a segmentation is being shaped around preferred customers, or when targeting choices are entering the diagnostic stage too early.

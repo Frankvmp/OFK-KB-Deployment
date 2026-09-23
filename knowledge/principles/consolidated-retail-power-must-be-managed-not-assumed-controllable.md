@@ -9,6 +9,8 @@ tags:
 ---
 # Consolidated retail power must be managed, not assumed controllable
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a brand is searching for a decisive tactic to make a large retailer change its independently chosen price or presentation.

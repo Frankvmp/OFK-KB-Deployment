@@ -9,6 +9,8 @@ tags:
 
 # Touchpoints
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever the question is about the ongoing experience a person has with a brand — not the sequential path to purchase (that's the [Funnel](funnel.md)) — and especially when deciding where limited improvement effort should go.

@@ -9,6 +9,8 @@ tags:
 ---
 # Strategy requires choice and sacrifice
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a proposed strategy contains too many priorities or avoids stating what will not receive resources.

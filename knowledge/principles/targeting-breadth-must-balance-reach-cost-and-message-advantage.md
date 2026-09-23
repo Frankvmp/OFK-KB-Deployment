@@ -9,6 +9,8 @@ tags:
 ---
 # Targeting breadth must balance reach, cost, and message advantage
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when choosing between broad market reach and concentrating investment on one or more segments.

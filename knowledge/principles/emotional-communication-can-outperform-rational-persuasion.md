@@ -9,6 +9,8 @@ tags:
 ---
 # Emotional communication can outperform rational persuasion
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a campaign assumes that more product information or rational argument will necessarily produce the strongest response.

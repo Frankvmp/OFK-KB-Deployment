@@ -9,6 +9,8 @@ tags:
 
 # Standard Criteria for Segmentation (9-question validation checklist)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Run this once a segmentation is fully populated and triangulated, before treating it as final — it's the gate between the diagnosis phase and targeting, and every question must pass before moving on.

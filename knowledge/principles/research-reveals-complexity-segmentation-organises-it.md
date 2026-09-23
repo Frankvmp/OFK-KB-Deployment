@@ -10,6 +10,8 @@ tags:
 ---
 # Research reveals complexity; segmentation organises it
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when moving from research findings to a market structure, or when a team treats varied customer evidence as noise.

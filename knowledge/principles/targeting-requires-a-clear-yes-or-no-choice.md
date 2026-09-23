@@ -9,6 +9,8 @@ tags:
 ---
 # Targeting requires a clear yes-or-no choice
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when every segment appears on a numbered priority list and no segment is clearly outside active investment.

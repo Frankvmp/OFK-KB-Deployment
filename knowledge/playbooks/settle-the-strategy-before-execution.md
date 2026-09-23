@@ -11,6 +11,8 @@ tags:
 
 # Settle the Strategy Before Execution
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once targeting, positioning, and objectives are all drafted, right before tactical execution begins — it's the last checkpoint while the strategy can still change cheaply.

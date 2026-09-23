@@ -9,6 +9,8 @@ tags:
 
 # Market orientation
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this before accepting any strategic or tactical input at face value — whenever a claim about "what the customer wants" or "what will work" is grounded only in internal opinion, a founder's instinct, or an untested assumption, rather than real customer or competitor evidence. It is also the diagnostic lens for explaining why a business's marketing isn't landing: a market-orientation gap is a common root cause.

@@ -9,6 +9,8 @@ tags:
 ---
 # Pricing power combines value perception with the ability to hold price
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when assessing the commercial strength of a brand, evaluating whether a higher price is supportable, or distinguishing brand equity from pricing execution.

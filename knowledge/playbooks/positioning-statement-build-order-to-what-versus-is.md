@@ -9,6 +9,8 @@ tags:
 
 # Positioning Statement Build Order (to -> what -> versus -> is)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once a target segment and its portrait exist and the Three Cs test has identified what to position on — it's the build order that turns that analysis into a filled-in positioning statement.

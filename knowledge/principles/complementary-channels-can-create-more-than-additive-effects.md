@@ -9,6 +9,8 @@ tags:
 ---
 # Complementary channels can create more-than-additive effects
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a media decision is framed as choosing one winning channel or concentrating all investment in a single medium.

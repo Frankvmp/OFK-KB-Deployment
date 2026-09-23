@@ -9,6 +9,8 @@ tags:
 ---
 # Segmentation is an option, not a default
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle before assuming that every market must be divided into target segments.

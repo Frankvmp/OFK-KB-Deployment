@@ -9,6 +9,8 @@ tags:
 ---
 # Price increases should be communicated candidly and with value context
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when preparing or reviewing customer communication about a price increase.

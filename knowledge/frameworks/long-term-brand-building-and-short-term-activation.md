@@ -10,6 +10,8 @@ tags:
 
 # Long-term brand building and short-term activation
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever a communications plan or budget is being built — to check that both future-demand and immediate-response work are represented and coordinated, rather than one crowding out the other or the two being merged into a single execution that does neither well.

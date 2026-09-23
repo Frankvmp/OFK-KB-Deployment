@@ -9,6 +9,8 @@ tags:
 
 # Positioning Statement (to / what / versus / is)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this to record the output of the [Positioning Statement Build Order](../playbooks/positioning-statement-build-order-to-what-versus-is.md) — whenever a position needs to be expressed as a concrete, checkable record rather than a vague statement or slogan.

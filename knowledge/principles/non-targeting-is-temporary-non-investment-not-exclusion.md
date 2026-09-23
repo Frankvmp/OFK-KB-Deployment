@@ -10,6 +10,8 @@ tags:
 ---
 # Non-targeting is temporary non-investment, not exclusion
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when stakeholders interpret a non-target decision as closing the business to those customers forever.

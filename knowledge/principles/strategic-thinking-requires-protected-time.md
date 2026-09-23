@@ -9,6 +9,8 @@ tags:
 ---
 # Strategic thinking requires protected time
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when strategic work is being squeezed between immediate execution tasks or expected to complete itself in one meeting.

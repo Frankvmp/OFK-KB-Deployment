@@ -10,6 +10,8 @@ tags:
 ---
 # Early distribution should establish the brand before maximising availability
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a new brand is choosing between an early channel that expresses its positioning and a high-volume channel that offers immediate reach.

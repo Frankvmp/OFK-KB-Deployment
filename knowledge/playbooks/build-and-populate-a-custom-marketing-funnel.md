@@ -9,6 +9,8 @@ tags:
 
 # Build and Populate a Custom Marketing Funnel
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once the total market or target segment is known and a generic imported funnel isn't good enough — building a category-specific funnel is what makes objective-setting meaningful for this business, not a borrowed one.

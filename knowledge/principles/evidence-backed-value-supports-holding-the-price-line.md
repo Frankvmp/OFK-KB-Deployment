@@ -9,6 +9,8 @@ tags:
 ---
 # Evidence-backed value supports holding the price line
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when retailers, managers, or customers are pressing for a discount despite evidence that the offer and strategy support the current price.

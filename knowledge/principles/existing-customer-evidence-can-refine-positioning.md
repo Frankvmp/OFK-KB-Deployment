@@ -10,6 +10,8 @@ tags:
 ---
 # Existing-customer evidence can refine positioning
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when positioning an existing offer with customers and sales history, rather than creating a position for an unlaunched product.

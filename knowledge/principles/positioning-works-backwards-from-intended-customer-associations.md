@@ -10,6 +10,8 @@ tags:
 ---
 # Positioning works backwards from intended customer associations
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when positioning activity is centred on completing a brand document, choosing fashionable terminology, or accumulating statements.

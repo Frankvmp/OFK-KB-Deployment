@@ -11,6 +11,8 @@ tags:
 
 # Market intelligence must circulate, and response is judgement
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when customer or competitor research stays inside marketing, when another function cannot access the intelligence, or when a team treats listening to customers as a promise to deliver every requested feature.

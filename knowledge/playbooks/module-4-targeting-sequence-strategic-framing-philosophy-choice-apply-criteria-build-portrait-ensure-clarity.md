@@ -10,6 +10,8 @@ tags:
 
 # Module 4 Targeting Sequence (strategic framing -> philosophy choice -> apply criteria -> build portrait -> ensure clarity)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once [Segmentation Process](segmentation-process-top-level-5-step-sequence.md) has produced a validated market map and one or more candidate segments need to be chosen and described — before writing a positioning statement.

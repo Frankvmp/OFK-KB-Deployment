@@ -10,6 +10,8 @@ tags:
 ---
 # Objective targets must balance ambition and realism
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when selecting the future value in a measurable objective, especially when the proposed target is arbitrary or based on aspiration alone.

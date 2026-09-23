@@ -10,6 +10,8 @@ tags:
 ---
 # Positioning must use customer data, not internal opinion
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when positioning attributes, competitors, or perceptual maps are being chosen from an internal workshop without customer evidence.

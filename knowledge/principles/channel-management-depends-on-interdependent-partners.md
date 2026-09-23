@@ -9,6 +9,8 @@ tags:
 ---
 # Channel management depends on interdependent partners
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a distribution decision is being treated as a one-company optimisation despite its effects on wholesalers, retailers, affiliates, or other channel partners.

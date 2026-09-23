@@ -12,6 +12,8 @@ tags:
 
 # Strategy directs each tactical P
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever a tactical choice (which campaign, which distributor, which flavour) is being made and the temptation is to judge it on its own creative or commercial merits — use it to force the question back to target, position, and objective instead.

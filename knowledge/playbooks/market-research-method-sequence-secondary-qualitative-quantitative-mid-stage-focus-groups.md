@@ -10,6 +10,8 @@ tags:
 
 # Market Research Method Sequence (secondary -> qualitative -> quantitative -> mid-stage focus groups)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 This is the Playbook other concepts invoke whenever they need the agent to gather real evidence rather than assert a claim without support. Run it whenever a diagnosis, a funnel population, or a strategic decision needs grounding in real research and no research has been gathered yet.

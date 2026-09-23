@@ -9,6 +9,8 @@ tags:
 ---
 # Choose positioning associations by fit, not hierarchy
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a team assumes emotional or purpose-led positioning is automatically superior to a category entry point, feature, or customer benefit.

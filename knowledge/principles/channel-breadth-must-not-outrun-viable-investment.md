@@ -10,6 +10,8 @@ tags:
 ---
 # Channel breadth must not outrun viable investment
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a media plan adds channels to increase reach or effectiveness without checking whether each channel can receive enough investment to work.

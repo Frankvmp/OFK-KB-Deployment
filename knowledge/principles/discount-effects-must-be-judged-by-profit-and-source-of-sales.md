@@ -10,6 +10,8 @@ tags:
 ---
 # Discount effects must be judged by profit and source of sales
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when evaluating a price promotion, interpreting a promotional sales spike, or estimating whether a discount created genuinely additional demand.

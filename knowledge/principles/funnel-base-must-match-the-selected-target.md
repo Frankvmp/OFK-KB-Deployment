@@ -10,6 +10,8 @@ tags:
 ---
 # The funnel base must match the selected target
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when defining the population at the top of a funnel or comparing funnels for different segments.

@@ -9,6 +9,8 @@ tags:
 ---
 # Clients should provide strategy and preserve agency creative autonomy
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a client brief mixes strategic direction with proposed advertisements, creative concepts, or agency tactics.

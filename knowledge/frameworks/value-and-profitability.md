@@ -11,6 +11,8 @@ tags:
 
 # Value and profitability
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever a pricing or tactical decision risks favouring one side of the value exchange over the other — giving too much value away, or extracting too much — and before treating revenue growth as proof of a good decision.

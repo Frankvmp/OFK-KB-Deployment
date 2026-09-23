@@ -9,6 +9,8 @@ tags:
 ---
 # The value of creative pre-testing depends on method and context
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when creative pre-testing is treated as either automatically necessary or inherently destructive to strong advertising.

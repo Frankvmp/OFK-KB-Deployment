@@ -10,6 +10,8 @@ tags:
 
 # Knowledge
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 This is the actual content — the real, verified concept files a consuming agent should use.
 
 ## Structure

@@ -10,6 +10,8 @@ tags:
 ---
 # Pricing decisions require customer evidence, not internal intuition
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a price is being justified by inherited rules, competitor prices, a standard markup, or untested managerial judgement.

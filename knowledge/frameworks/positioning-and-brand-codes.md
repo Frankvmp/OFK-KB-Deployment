@@ -10,6 +10,8 @@ tags:
 
 # Positioning and brand codes
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once a position exists and needs to be made recognisable and consistent — selecting and applying the visual/sensory codes that carry that position across every touchpoint, or checking a proposed position with the Three Cs test before it directs execution.

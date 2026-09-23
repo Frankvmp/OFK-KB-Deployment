@@ -11,6 +11,8 @@ tags:
 ---
 # Targeting, positioning, and objectives must cohere
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when targeting, positioning, and objectives are being developed as isolated documents or treated as a rigid one-way sequence.

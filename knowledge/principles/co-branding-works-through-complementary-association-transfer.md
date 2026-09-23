@@ -9,6 +9,8 @@ tags:
 ---
 # Co-branding works through complementary association transfer
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when selecting a co-brand partner or assessing why a proposed partnership should create value for customers and both brands.

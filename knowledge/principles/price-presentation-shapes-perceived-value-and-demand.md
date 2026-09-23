@@ -9,6 +9,8 @@ tags:
 ---
 # Price presentation shapes perceived value and demand
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when designing a price display, offer comparison, anchor, package, or choice set.

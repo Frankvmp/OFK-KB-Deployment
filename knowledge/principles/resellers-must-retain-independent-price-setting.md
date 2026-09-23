@@ -9,6 +9,8 @@ tags:
 ---
 # Resellers must retain independent price-setting
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a supplier wants a retailer or distributor to maintain a recommended resale price, reverse a discount, or avoid undercutting another channel.

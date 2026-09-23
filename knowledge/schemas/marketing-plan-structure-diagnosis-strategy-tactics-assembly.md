@@ -9,6 +9,8 @@ tags:
 
 # Marketing Plan Structure (Diagnosis → Strategy → Tactics assembly)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once a Diagnosis → Strategy → Tactics engagement has actually produced real work in at least one phase, and that work needs to be assembled into a single, presentable document a client can share within their own organisation — not while any individual piece (a segmentation, a positioning statement) is still being worked out on its own.

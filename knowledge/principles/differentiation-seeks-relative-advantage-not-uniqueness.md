@@ -9,6 +9,8 @@ tags:
 ---
 # Differentiation seeks relative advantage, not uniqueness
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when positioning work is stalled by a search for an attribute no competitor can claim.

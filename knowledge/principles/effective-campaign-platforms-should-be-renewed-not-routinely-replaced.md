@@ -9,6 +9,8 @@ tags:
 ---
 # Effective campaign platforms should be renewed, not routinely replaced
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when an effective campaign is being replaced mainly because it is old, familiar to the internal team, or assumed to have worn out.

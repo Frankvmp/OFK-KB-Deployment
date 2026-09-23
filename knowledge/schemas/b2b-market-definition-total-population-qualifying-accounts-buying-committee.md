@@ -9,6 +9,8 @@ tags:
 
 # B2B Market Definition (total population → qualifying accounts → buying committee)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever the market being segmented or targeted is B2B — it's the variant of mass-market definition that adds the qualifying-account filter and buying-committee breakdown a B2C market doesn't need.

@@ -9,6 +9,8 @@ tags:
 ---
 # Qualitative depth does not establish population magnitude
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a vivid interview, focus-group majority, or ethnographic observation is being converted into a claim about how many customers think or behave that way.

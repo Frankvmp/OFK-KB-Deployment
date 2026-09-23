@@ -10,4 +10,6 @@ tags:
 
 # Schemas
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 Data shapes only — the *structure* a Framework or Playbook needs to be applied to a real business (field names, ordering), never a real client's actual data. See each file's own "Shape" section for how much precision the source material (or, for the one assembly schema below, the knowledge base's own already-cited structure) actually supports.

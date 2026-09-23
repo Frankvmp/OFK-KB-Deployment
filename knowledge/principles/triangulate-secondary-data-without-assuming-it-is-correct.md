@@ -9,6 +9,8 @@ tags:
 ---
 # Triangulate secondary data without assuming it is correct
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle at the start of a research task, when existing reports, internal archives, search results, or AI-organised secondary material are available. Use it to balance efficient reuse with explicit source checks.

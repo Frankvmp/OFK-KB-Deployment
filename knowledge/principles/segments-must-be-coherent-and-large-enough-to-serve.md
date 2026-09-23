@@ -9,6 +9,8 @@ tags:
 ---
 # Segments must be coherent and large enough to serve
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when deciding whether a proposed group is a real market segment or merely a convenient label.

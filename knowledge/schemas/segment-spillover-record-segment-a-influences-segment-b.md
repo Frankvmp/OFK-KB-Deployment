@@ -10,6 +10,8 @@ tags:
 
 # Segment Spillover Record (segment A influences segment B)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this during [Meaningful Actionable Grid](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) step 9, or when a targeting decision needs to weigh a segment's influence on other segments — never assert a spillover relationship without a real, specific rationale.

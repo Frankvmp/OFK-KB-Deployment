@@ -9,6 +9,8 @@ tags:
 ---
 # Quantitative extrapolation requires a representative sample
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle before generalising survey results to a market, comparing segments, estimating market size, or presenting a percentage as population evidence.

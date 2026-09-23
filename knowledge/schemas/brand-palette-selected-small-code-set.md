@@ -9,6 +9,8 @@ tags:
 
 # Brand Palette (selected small code set)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once the [Distinctive asset assessment](../frameworks/positioning-and-brand-codes.md#distinctive-asset-assessment) has scored candidate codes — it's the record of which small set was actually selected, consumed downstream by communications execution.

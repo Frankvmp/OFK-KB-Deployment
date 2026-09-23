@@ -9,6 +9,8 @@ tags:
 ---
 # Strategy should be disciplined while tactics remain agile
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when responding to executional change or when “agility” is being used to justify frequent changes to the strategy itself.

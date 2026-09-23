@@ -9,6 +9,8 @@ tags:
 ---
 # A segmentation is a map, not the market
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when estimating segment size or value, interpreting calculated outputs, or deciding whether to rebuild an established segmentation.

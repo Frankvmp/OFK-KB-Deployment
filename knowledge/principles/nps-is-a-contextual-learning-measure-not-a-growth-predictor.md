@@ -9,6 +9,8 @@ tags:
 ---
 # NPS is a contextual learning measure, not a growth predictor
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when interpreting Net Promoter Score, comparing scores, or deciding what the measure can legitimately support.

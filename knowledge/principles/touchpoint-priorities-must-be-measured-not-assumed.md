@@ -9,6 +9,8 @@ tags:
 ---
 # Touchpoint priorities must be measured, not assumed
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when an organisation is prioritising customer-experience improvements from internal opinion or focusing only on the interactions it controls most visibly.

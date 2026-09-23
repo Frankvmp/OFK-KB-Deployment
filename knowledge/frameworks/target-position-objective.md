@@ -11,6 +11,8 @@ tags:
 
 # Target → position → objective
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## Purpose
 
 Target, position, and objective are the three strategic reference points used

@@ -9,6 +9,8 @@ tags:
 ---
 # Segment B2B markets at the account level
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when designing B2B segmentation and deciding whether firms and individual buying-committee members belong on the same map.

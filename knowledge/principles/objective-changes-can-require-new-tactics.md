@@ -9,6 +9,8 @@ tags:
 ---
 # Objective changes can require new tactics
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a market has changed, an earlier objective has been achieved, or tactics are being retained without checking whether the strategic objective still fits.

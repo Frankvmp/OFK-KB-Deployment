@@ -9,6 +9,8 @@ tags:
 
 # Segmentation Process (top-level 5-step sequence)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this once the mass market is understood and a business needs to move from raw market understanding to a validated set of describable, valuable segments — the bridge between diagnosis and the targeting decision that follows it.

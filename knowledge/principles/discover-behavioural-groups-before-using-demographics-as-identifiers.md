@@ -9,6 +9,8 @@ tags:
 ---
 # Discover behavioural groups before using demographics as identifiers
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a segmentation begins with age, gender, income, or another easy identifier and then assumes what those people need.

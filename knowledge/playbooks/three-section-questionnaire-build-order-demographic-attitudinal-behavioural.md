@@ -10,6 +10,8 @@ tags:
 
 # Three-Section Questionnaire Build Order (demographic -> attitudinal -> behavioural)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this when designing the online quantitative survey referenced across the Market Research Method Sequence — it's the standard three-part shape that survey should take, not a one-off design decision per project.

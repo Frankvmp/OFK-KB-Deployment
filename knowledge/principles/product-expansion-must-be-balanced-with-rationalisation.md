@@ -9,6 +9,8 @@ tags:
 ---
 # Product expansion must be balanced with rationalisation
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a portfolio is expanding through new products, extensions, acquisitions, channel variants, or co-brands without an equivalent review of what should be removed.

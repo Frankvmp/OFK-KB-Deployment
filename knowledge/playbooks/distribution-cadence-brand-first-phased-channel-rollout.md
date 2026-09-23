@@ -10,6 +10,8 @@ tags:
 
 # Distribution Cadence (brand-first, phased channel rollout)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this when launching or growing distribution for a brand — to sequence channels brand-first (protecting positioning early) rather than defaulting to whichever channel offers the fastest volume.

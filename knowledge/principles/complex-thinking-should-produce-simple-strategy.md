@@ -9,6 +9,8 @@ tags:
 ---
 # Complex thinking should produce simple strategy
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when strategy is either presented as an unexplained slogan or left as a complex analysis that teams cannot apply.

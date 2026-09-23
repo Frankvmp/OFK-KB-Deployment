@@ -9,6 +9,8 @@ tags:
 ---
 # Positioning promises must be deliverable
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a proposed position describes a future aspiration that the organisation cannot yet deliver reliably.

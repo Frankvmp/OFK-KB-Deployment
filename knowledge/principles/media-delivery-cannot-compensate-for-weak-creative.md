@@ -9,6 +9,8 @@ tags:
 ---
 # Media delivery cannot compensate for weak creative
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when a communications plan focuses on delivery technology, reach, targeting, or channel optimisation while treating the advertisement itself as secondary.

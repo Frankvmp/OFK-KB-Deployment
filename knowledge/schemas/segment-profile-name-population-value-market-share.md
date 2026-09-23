@@ -10,6 +10,8 @@ tags:
 
 # Segment Profile (name / population / value / market share)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever a segment produced by the [Meaningful Actionable Grid](../playbooks/meaningful-actionable-grid-10-stage-segmentation-construction-playbook.md) needs to be recorded as a discrete, comparable record — or when a downstream step (targeting, funnel population, objective-setting) needs a segment's real name, size, value, or share.

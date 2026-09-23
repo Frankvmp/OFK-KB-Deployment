@@ -10,6 +10,8 @@ tags:
 
 # Marketing's prime directive is to represent the customer
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when an organisation has many functions with legitimate internal priorities but no clear role responsible for bringing the customer's perspective into decisions and keeping the wider organisation connected to the market.

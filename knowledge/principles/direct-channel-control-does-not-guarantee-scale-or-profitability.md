@@ -10,6 +10,8 @@ tags:
 ---
 # Direct-channel control does not guarantee scale or profitability
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when control, first-party data, subscription, or lower intermediary costs are being used as sufficient proof that a direct-only distribution model will scale profitably.

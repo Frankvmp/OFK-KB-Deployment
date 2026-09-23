@@ -9,6 +9,8 @@ tags:
 
 # Line of Sight to the Customer (humility -> vacuum -> recognize barriers -> remove barriers)
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Run this before any diagnosis or strategy work starts — it's the individual-level precondition for [Market orientation](../frameworks/market-orientation.md) and for [Diagnosis → Strategy → Tactics](../frameworks/diagnosis-strategy-tactics.md)'s first phase. If the agent (or the human it's working with) is about to substitute personal opinion, an untested assumption, or a fictional persona for real customer evidence, this is the checkpoint that catches it before diagnosis begins.

@@ -10,6 +10,8 @@ tags:
 
 # Touch-Point Measurement and Prioritisation Process
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this whenever touchpoints need to be measured rather than assumed — identifying the weakest one to fix, and checking that positioning is actually being expressed consistently across all of them.

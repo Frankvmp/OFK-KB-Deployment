@@ -9,6 +9,8 @@ tags:
 ---
 # Marketing influence does not require control of every P
 
+*(New here? See AGENTS.md at this repository's root for how to use it.)*
+
 ## When to use this
 
 Reach for this Principle when marketing responsibility is being limited to communications because other functions formally own product, pricing, or distribution.
